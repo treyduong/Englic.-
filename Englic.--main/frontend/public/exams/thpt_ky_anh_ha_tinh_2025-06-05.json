@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_ky_anh_ha_tinh_2025-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Kỳ Anh - Hà Tĩnh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Ky_Anh_Ha_Tinh_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HàTĩnh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement about a new travel platform and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "DISCOVER NEW TRAVEL BUDDIES WITH TRAVELMATE",
+      "passage": "\"Who will you explore your next destination with? Will they share the same (1)_______ for adventure, or will they prefer a more relaxing trip?\" If you often wonder (2)_______ your travel companions before your next vacation, we have exciting news for you! TravelMate, a (3)_______, allows you to select your future travel buddies before your trip. This service is designed to give you a more enjoyable and personalized experience. All you need to do is share your travel preferences with the platform, and you'll be matched with others (4)_______ similar tastes. Whether you're looking to (5)_______ new friends or reconnect with previous ones, TravelMate makes it easy. If you're seeking adventure or simply want (6)_______ a relaxing getaway, there's a perfect match waiting for you!\n\n(Adapted from Global Travel)",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "enthusiastically",
+            "B": "enthusiast",
+            "C": "enthusiasm",
+            "D": "enthusiastic"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại: sau mạo từ 'the same' cần danh từ.\nA. enthusiastically (adv): một cách nhiệt tình\nB. enthusiast (n): người đam mê\nC. enthusiasm (n): sự hăng hái, niềm đam mê\nD. enthusiastic (adj): nhiệt tình\nTa cần danh từ đứng sau 'the same', hợp nghĩa → chọn C.\nTạm dịch: \"Will they share the same enthusiasm for adventure, or will they prefer a more relaxing trip?\""
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "about",
+            "B": "for",
+            "C": "over",
+            "D": "with"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức giới từ: cụm cố định 'wonder about' = băn khoăn, thắc mắc về ai/điều gì.\nTạm dịch: If you often wonder about your travel companions before your next vacation, we have exciting news for you!"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "travel platform new",
+            "B": "new travel platform",
+            "C": "travel new platform",
+            "D": "new platform travel"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức trật tự từ: cấu trúc adj + N/cụm N. 'new' (adj) đứng trước 'travel platform' (cụm danh từ).\nTạm dịch: TravelMate, a new travel platform, allows you to select your future travel buddies before your trip."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "who has",
+            "B": "had",
+            "C": "to have",
+            "D": "having"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức rút gọn mệnh đề quan hệ: mệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển sang V-ing. (who have → having).\nTạm dịch: you'll be matched with others having similar tastes."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take",
+            "B": "make",
+            "C": "give",
+            "D": "do"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm từ cố định: 'make friends' = kết bạn.\nTạm dịch: Whether you're looking to make new friends or reconnect with previous ones, TravelMate makes it easy."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "have",
+            "B": "to having",
+            "C": "to have",
+            "D": "having"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức cấu trúc: 'want to do something' = muốn làm gì. Sau 'want' dùng to + V nguyên mẫu.\nTạm dịch: If you're seeking adventure or simply want to have a relaxing getaway, there's a perfect match waiting for you!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Sustainable Living: Every Action Matters!",
+      "passage": "Adopting sustainable practices in our daily lives can have a significant impact on the environment. Here are (7)_______ insights to help you make a difference!\n\nStatistics to Consider:\nEach year, billions of plastic items are discarded, a large portion of our waste. This not only fills landfills but also (8)_______ aquatic ecosystems, harming marine wildlife.\n\nAction Steps You Can Take:\nStart by minimizing your consumption. For example, (9)_______ reusable cutlery and plates instead of disposable ones.\nIf you have items that are still functional but no longer needed, repurpose them through local swap events or community programs (10)_______ discarding them.\nWhen shopping, (11)_______ brands that use sustainable materials, helping reduce your carbon footprint.\nLastly, (12)_______ waste properly by separating recyclables from general waste, aiding the recycling process.\n\n(Adapted from Green Living Initiatives)",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "others",
+            "C": "each",
+            "D": "some"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức lượng từ:\n- another + N (đếm được số ít): một cái khác\n- others: những cái khác\n- each + N (đếm được số ít): mỗi\n- some + N (đếm được số nhiều/không đếm được): một số\n'insights' là danh từ số nhiều, dùng 'some' là phù hợp nhất.\nTạm dịch: Here are some insights to help you make a difference!"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "devastates",
+            "B": "nourishes",
+            "C": "conserves",
+            "D": "enhances"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. devastates: tàn phá\nB. nourishes: nuôi dưỡng\nC. conserves: bảo tồn\nD. enhances: nâng cao\nNgữ cảnh nói về tác hại của rác thải nhựa đến hệ sinh thái → 'devastates' (tàn phá) phù hợp nhất.\nTạm dịch: This not only fills landfills but also devastates aquatic ecosystems, harming marine wildlife."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "turn up",
+            "B": "opt for",
+            "C": "rely on",
+            "D": "throw away"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm động từ:\nA. turn up: xuất hiện\nB. opt for: lựa chọn\nC. rely on: dựa vào\nD. throw away: vứt bỏ\nNgữ cảnh khuyến khích chọn dụng cụ tái sử dụng → 'opt for' phù hợp nhất.\nTạm dịch: opt for reusable cutlery and plates instead of disposable ones."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "because of",
+            "B": "thanks to",
+            "C": "according to",
+            "D": "instead of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức giới từ/cụm từ:\nA. because of: bởi vì\nB. thanks to: nhờ vào, nhờ có\nC. according to: theo như\nD. instead of: thay vì\nNgữ cảnh: tái sử dụng THAY VÌ vứt bỏ → 'instead of' phù hợp.\nTạm dịch: repurpose them through local swap events or community programs instead of discarding them."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "inquire",
+            "B": "seek",
+            "C": "verify",
+            "D": "demand"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. inquire (v): hỏi, thăm dò\nB. seek (v): tìm kiếm\nC. verify (v): xác minh, kiểm chứng\nD. demand (v): yêu cầu, đòi hỏi\nNgữ cảnh khuyến khích tìm kiếm thương hiệu bền vững → 'seek' phù hợp.\nTạm dịch: seek brands that use sustainable materials, helping reduce your carbon footprint."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "manage",
+            "B": "accumulate",
+            "C": "distribute",
+            "D": "utilize"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. manage (v): quản lý\nB. accumulate (v): tích lũy, gom góp\nC. distribute (v): phân phối\nD. utilize (v): tận dụng\nNgữ cảnh: quản lý rác thải đúng cách → 'manage' phù hợp nhất.\nTạm dịch: manage waste properly by separating recyclables from general waste, aiding the recycling process."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following Questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Nam: Oh, I'm sorry, but I can't. I have to visit my grandparents today.\nb. Lan: Never mind. Another time, perhaps.\nc. Lan: Nam, there's an art exhibition near my school. Let's go to see it this afternoon.\n(Adapted from Global Success)",
+          "options": {
+            "A": "c-a-b",
+            "B": "b-c-a",
+            "C": "c-b-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hội thoại: (c) Lan mời Nam đi xem triển lãm → (a) Nam từ chối vì phải thăm ông bà → (b) Lan đồng ý hẹn lần khác.\nTạm dịch: Lan: Nam này, có một triển lãm nghệ thuật gần trường mình. Đi xem với mình vào chiều nay nhé. / Nam: Ôi, xin lỗi, nhưng mình không thể đi được. Mình phải đi thăm ông bà hôm nay. / Lan: Không sao. Vậy lần khác nhé."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Mark: Working night shifts must be really hard. When does he sleep?\nb. Lan: That's right. My dad is a factory worker, so he works in shifts. Today he's on the night shift.\nc. Lan: Come in, Mark. Did you find my place easily?\nd. Mark: Yes, I actually met your dad in the street and he showed me the way. He said he was on his way to work.\ne. Lan: He goes to bed right after he comes home in the morning when there's no one at home. My mum's usually at work then. She teaches at a primary school.\n(Adapted from Global Success)",
+          "options": {
+            "A": "c-d-b-a-e",
+            "B": "c-e-d-b-a",
+            "C": "d-b-a-e-c",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hội thoại: (c) Lan mời Mark vào và hỏi tìm được nhà không → (d) Mark nói gặp cha Lan ngoài đường → (b) Lan giải thích cha làm ca → (a) Mark hỏi về giờ ngủ → (e) Lan giải thích cha ngủ sau khi về nhà.\nTạm dịch: Lan: Mời vào, Mark. Cậu có tìm thấy nhà mình dễ không? / Mark: Ừ, mình gặp cha của cậu ngoài đường và ông chỉ mình đường. / Lan: Đúng vậy. Cha mình là công nhân nhà máy... / Mark: Làm ca đêm chắc hẳn rất vất vả. Ông ấy ngủ lúc nào? / Lan: Ông ấy đi ngủ ngay sau khi về nhà..."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Hi Lucy,\na. Thank you so much for the travel guidebook you sent me. It's been so helpful in planning my trip to Italy next summer.\nb. Also, I really appreciate your tips on local restaurants. I'll definitely try the ones near the Colosseum.\nc. I've already booked the flights, so everything is falling into place!\nd. I'm looking forward to seeing all the art galleries you mentioned in Florence. I've always wanted to visit the Uffizi.\ne. I'm hoping we can catch up before I leave. Would you be free for a coffee sometime soon? Best wishes, James\n(Adapted from THINK)",
+          "options": {
+            "A": "b-e-a-d-c",
+            "B": "c-b-d-e-a",
+            "C": "a-d-c-b-e",
+            "D": "e-c-b-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc thư cá nhân: (a) Cảm ơn về cuốn sách hướng dẫn du lịch → (d) Nói về các phòng trưng bày nghệ thuật ở Florence → (c) Đã đặt vé máy bay, mọi thứ đang đúng hướng → (b) Cảm ơn về mẹo nhà hàng → (e) Hy vọng gặp nhau trước khi đi.\nTạm dịch: Chào Lucy, Cảm ơn rất nhiều vì cuốn sách hướng dẫn du lịch bạn gửi cho mình... Mình rất mong được tham quan tất cả các phòng trưng bày nghệ thuật bạn đề cập ở Florence... Mình đã đặt vé máy bay rồi... Mình cũng cảm ơn bạn rất nhiều về những mẹo về các nhà hàng địa phương... Mình hy vọng chúng ta có thể gặp nhau trước khi mình đi."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Additionally, choosing eco-friendly products and supporting renewable energy sources, such as solar or wind power, contributes to a greener planet.\nb. Planting trees helps reduce carbon dioxide levels and improves air quality.\nc. Simple actions like reducing plastic use, recycling, and conserving water can make a significant difference.\nd. It's important for individuals, businesses, and governments to work together to preserve natural resources, reduce pollution, and combat climate change for future generations.\ne. Protecting the environment is crucial for ensuring a healthy and sustainable future.\n(Adapted from World Wildlife Fund and United Nations Environment Programme materials)",
+          "options": {
+            "A": "e-c-b-a-d",
+            "B": "e-a-c-d-b",
+            "C": "e-c-a-b-d",
+            "D": "d-e-a-c-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự logic: (e) Câu chủ đề: bảo vệ môi trường là quan trọng → (c) Hành động đơn giản → (b) Trồng cây giúp giảm CO2 → (a) Ngoài ra, chọn sản phẩm thân thiện với môi trường → (d) Kêu gọi cá nhân, doanh nghiệp, chính phủ hợp tác.\nTạm dịch: Bảo vệ môi trường là rất quan trọng để đảm bảo một tương lai khỏe mạnh và bền vững. Những hành động đơn giản... Trồng cây giúp giảm lượng carbon dioxide... Bên cạnh đó, việc lựa chọn sản phẩm thân thiện với môi trường... Điều quan trọng là các cá nhân, doanh nghiệp và chính phủ cần hợp tác..."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Urbanisation is a process that cannot be stopped, and the best way to minimise the problems caused by it is to plan for the growth and all the resources needed, and make sure the infrastructure can support the increasing population.\nb. Big cities attract a lot of people as they usually offer more employment opportunities as well as a better life.\nc. Urbanisation occurs in many parts of the world, both in developed and developing nations.\nd. However, when too many people move to a big city, without good planning and investment, its infrastructure can become ineffective.\ne. It refers to the process in which urban areas grow as people leave the countryside or more factories and towns are built in rural areas.\n(Adapted from Global Success)",
+          "options": {
+            "A": "c-b-d-e-a",
+            "B": "c-e-b-d-a",
+            "C": "c-e-d-b-a",
+            "D": "c-d-e-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự logic: (c) Giới thiệu: đô thị hóa diễn ra khắp nơi → (e) Định nghĩa: quá trình đô thị phát triển khi người dân rời nông thôn → (b) Thành phố lớn thu hút người vì cơ hội việc làm → (d) Tuy nhiên, khi quá đông mà thiếu kế hoạch, cơ sở hạ tầng trở nên kém hiệu quả → (a) Kết luận: đô thị hóa không thể dừng, giải pháp là lên kế hoạch tốt.\nTạm dịch: Đô thị hóa diễn ra ở nhiều nơi trên thế giới... Đó là quá trình các khu vực đô thị phát triển... Các thành phố lớn thu hút rất nhiều người... Tuy nhiên, khi quá nhiều người di cư vào... Đô thị hóa là một quá trình không thể dừng lại..."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about a football player and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Cristiano Ronaldo (Cloze)",
+      "passage": "Cristiano Ronaldo, one of the greatest football players of all time, (18)_________.\nBorn on February 5, 1985, in Funchal, Madeira, Portugal, he showed exceptional talent from a young age. His journey began at Sporting Lisbon, where he honed his skills before moving to Manchester United in 2003. There, he developed into a formidable player, winning multiple Premier League titles and the coveted UEFA Champions League.\n\nDuring his time at Manchester United, Ronaldo developed into a world-class player, winning three Premier League titles and the UEFA Champions League. He became well known for his incredible speed and powerful shots (19)_______. In 2009, he transferred to Real Madrid, where he broke numerous records, including becoming the club's all-time leading scorer. (20)_______.\n\nPossessing remarkable athleticism and a keen sense of strategy, (21)_______. His training regimen, which includes intense workouts and a strict diet, ensures that he remains at peak performance. This dedication has allowed him to adapt his playing style over the years, maintaining his relevance in an ever-evolving sport. Additionally, Ronaldo's ability to lead his teammates has earned him respect both on and off the field.\n\nBeyond his football career, Ronaldo is a philanthropist who uses his platform to give back to the community. (22)_________. His influence extends far beyond the pitch, making him a global icon and a role model for aspiring athletes. Ultimately, Cristiano Ronaldo's legacy is defined not only by his records but also by his commitment to making a positive impact in the world.\n\n(Adapted from https://www.sport.org)",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "has made a significant impact on the sport",
+            "B": "impacting significantly on the sport",
+            "C": "whose significant impact on the sport",
+            "D": "have a significant impact on the sport recognized"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức cú pháp: câu đã có chủ ngữ 'Cristiano Ronaldo' và thiếu vị ngữ.\nB sai: 'impacting' là V-ing, không làm vị ngữ chính.\nC sai: mệnh đề quan hệ 'whose' luôn đầy đủ thành phần chủ ngữ và vị ngữ riêng.\nD đúng ngữ pháp nhưng không hợp nghĩa trong ngữ cảnh.\nA đúng: 'has made' là vị ngữ chính của câu.\nTạm dịch: Cristiano Ronaldo, một trong những cầu thủ bóng đá vĩ đại nhất mọi thời đại, đã tạo nên tác động đáng kể đối với môn thể thao này."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "gave a lot of fear to his opponent on the pitch",
+            "B": "which made him a formidable opponent on the pitch",
+            "C": "allowed him to become a formidable opponent on the pitch",
+            "D": "of which the success in passing opponents and scoring"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cú pháp: câu đã có chủ ngữ và động từ chính 'became', nên không thể thêm động từ chia theo thì nữa → loại A và C. Loại D vì cấu trúc không hoàn chỉnh. B đúng: dùng mệnh đề quan hệ không xác định 'which' bổ nghĩa cho 'his incredible speed and powerful shots'.\nTạm dịch: Anh nổi tiếng với tốc độ đáng kinh ngạc và những cú sút mạnh mẽ, khiến anh trở thành đối thủ đáng gờm trên sân cỏ."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Young athletes have inspired Ronaldo to strengthen his relentless drive and work ethic",
+            "B": "The relentless drive and work ethic of Ronaldo have forced many young fans to become footballers",
+            "C": "Ronaldo's relentless drive and work ethic have inspired many young athletes who aspire to follow his footsteps",
+            "D": "Aiming to encourage young athletes to become footballers, Ronaldo trained hard and shared his experiences with them"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức nội dung và ngữ pháp: câu đứng ngay sau thông tin Ronaldo phá nhiều kỷ lục ở Real Madrid. Cần câu nối ý về tầm ảnh hưởng của anh.\nA sai ý: vận động viên trẻ truyền cảm hứng cho Ronaldo (ngược lại).\nB sai ý: không phù hợp ngữ cảnh.\nD không phù hợp về nghĩa.\nC đúng: sự quyết tâm của Ronaldo truyền cảm hứng cho nhiều vận động viên trẻ. Mệnh đề phân từ phía trước (possessing) cho thấy chủ ngữ phải là Ronaldo.\nTạm dịch: Sự quyết tâm không ngừng nghỉ và đạo đức làm việc của Ronaldo đã truyền cảm hứng cho nhiều vận động viên trẻ mong muốn noi theo bước chân của anh."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The label of one of the all-time best players is attributed to Ronaldo",
+            "B": "Experts consistently regard Ronaldo as one of the greatest players of all time",
+            "C": "Achieving the title of the best player of all time is a simple feat for Ronaldo",
+            "D": "Ronaldo consistently demonstrates why he is considered one of the best players of all time"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức cú pháp: mệnh đề phân từ 'Possessing remarkable athleticism and a keen sense of strategy' ở đầu câu → chủ ngữ của mệnh đề chính phải là Ronaldo (người sở hữu thể lực và chiến lược đó).\nA: chủ ngữ 'The label' không hợp lý.\nB: chủ ngữ 'Experts' không hợp lý.\nC: chủ ngữ 'Achieving...' không hợp lý.\nD đúng: chủ ngữ 'Ronaldo' phù hợp với mệnh đề phân từ.\nTạm dịch: Sở hữu thể lực phi thường và sự nhạy bén về chiến lược, Ronaldo liên tục chứng minh lý do anh được coi là một trong những cầu thủ xuất sắc nhất mọi thời đại."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Various charities would definitely struggle to support causes like children's hospitals and disaster relief efforts without Ronaldo's contributions",
+            "B": "His millions of dollars serve as an aid to causes like children's hospitals and disaster relief efforts",
+            "C": "Spending millions of dollars, various charities can support causes such as children's hospitals and disaster relief efforts on behalf of Ronaldo",
+            "D": "He has donated millions of dollars to various charities, supporting causes such as children's hospitals and disaster relief efforts"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức nội dung: câu trước nói Ronaldo là nhà từ thiện dùng nền tảng của mình để đóng góp cho cộng đồng. Cần câu cụ thể hóa hoạt động từ thiện của anh.\nA: suy đoán quá mức, không nằm trong bài.\nB: chủ ngữ mơ hồ, không nêu rõ Ronaldo quyên góp.\nC: sai ý, 'various charities' là chủ ngữ thay vì Ronaldo.\nD đúng: Ronaldo quyên góp hàng triệu đô la cho các tổ chức từ thiện.\nTạm dịch: Anh đã quyên góp hàng triệu đô la cho nhiều tổ chức từ thiện, hỗ trợ các mục tiêu như bệnh viện nhi và các nỗ lực cứu trợ thảm họa."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Vietnamese cultural identity and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following Questions from 23 to 30.",
+      "passageTitle": "Vietnamese Cultural Identity",
+      "passage": "Vietnamese cultural identity is a rich and intricate tapestry that reflects the nation's long and storied history. Rooted in over a thousand years of civilization, Vietnam's cultural identity is a fusion of indigenous traditions and external influences, shaped by its geographical location and historical interactions.\n\nFirst and foremost, at the heart of Vietnamese culture is a deep reverence for family and community. Confucian values emphasizing respect for elders, filial piety, and social harmony have played a pivotal role in shaping Vietnamese society. These values are reflected in the close-knit family structures, hierarchical relationships, and communal rituals that are integral to daily life.\n\nSecondly, Vietnamese cuisine is celebrated worldwide for its exquisite flavors and diversity. With its emphasis on fresh ingredients, fragrant herbs, and balanced flavors, Vietnamese food tells a story of the country's agricultural heritage and regional variations. Iconic dishes like pho, banh mi, and spring rolls have become global favorites, representing the culinary artistry deeply ingrained in Vietnamese culture. Also, Vietnam's artistic expressions are equally captivating. Traditional art forms like water puppetry, silk painting, and folk music continue to thrive alongside contemporary artistic movements. Ao dai, a graceful traditional dress, exemplifies the fusion of elegance and modesty in Vietnamese fashion, symbolizing cultural pride and identity.\n\nToday, in the face of modernization and globalization, Vietnamese cultural identity remains resilient. While adapting to the challenges of the 21st century, the Vietnamese people continue to honor their traditions, celebrate their unique cultural expressions, and pass on their heritage to future generations, ensuring that their cultural identity remains vibrant and enduring.\n\n(Adapted from Saigoneer)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"indigenous\" in paragraph 1 is OPPOSITE in meaning to________",
+          "context": "",
+          "options": {
+            "A": "local",
+            "B": "foreign",
+            "C": "native",
+            "D": "traditional"
+          },
+          "correctAnswer": "B",
+          "explanation": "'Indigenous' (adj): bản địa, bản xứ.\nA. local (adj): địa phương (gần nghĩa)\nB. foreign (adj): nước ngoài, ngoại lai → TRÁI NGHĨA với indigenous\nC. native (adj): bản địa, gốc → ĐỒNG NGHĨA\nD. traditional (adj): truyền thống\nforeign >< indigenous (adj): bản địa → Chọn B."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following is NOT mentioned as Confucian values emphasizing respect for?",
+          "context": "",
+          "options": {
+            "A": "filial piety",
+            "B": "social harmony",
+            "C": "individualism",
+            "D": "elders"
+          },
+          "correctAnswer": "C",
+          "explanation": "Bài đọc ghi: 'Confucian values emphasizing respect for elders, filial piety, and social harmony'.\nA (filial piety = hiếu thảo): được đề cập ✓\nB (social harmony = hòa hợp xã hội): được đề cập ✓\nD (elders = người lớn tuổi): được đề cập ✓\nC (individualism = chủ nghĩa cá nhân): KHÔNG được đề cập → Chọn C."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"reverence\" in paragraph 2 could be best replaced by________",
+          "context": "",
+          "options": {
+            "A": "disrespect",
+            "B": "admiration",
+            "C": "indifference",
+            "D": "criticism"
+          },
+          "correctAnswer": "B",
+          "explanation": "'Reverence' (n): sự tôn kính, sự kính trọng.\nA. disrespect (n): sự thiếu tôn trọng → TRÁI NGHĨA\nB. admiration (n): sự ngưỡng mộ → gần nghĩa nhất với 'reverence'\nC. indifference (n): sự thờ ơ → TRÁI NGHĨA\nD. criticism (n): sự chỉ trích → TRÁI NGHĨA\nadmiration ≈ reverence (n): sự tôn kính → Chọn B."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The ao dai, known for its elegance and modesty, represents a blend of Vietnamese fashion that embodies cultural identity and pride.",
+            "B": "As a traditional dress, the ao dai reflects the combination of sophistication and simplicity in Vietnamese fashion, representing the nation's cultural values.",
+            "C": "The graceful ao dai, a traditional Vietnamese attire, signifies the blend of elegance and restraint, illustrating the pride and identity of Vietnamese culture",
+            "D": "Known as a traditional dress, the ao dai beautifully combines elegance with symbol of Vietnam's cultural identity and pride."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: 'Ao dai, a graceful traditional dress, exemplifies the fusion of elegance and modesty in Vietnamese fashion, symbolizing cultural pride and identity.'\nA đúng: diễn đạt lại đầy đủ ý - áo dài đẹp, kết hợp thanh lịch và giản dị, thể hiện niềm tự hào và bản sắc văn hóa.\nB sai: thêm 'sophistication and simplicity' thay vì 'elegance and modesty' - sai nghĩa.\nC sai: dùng 'restraint' thay 'modesty' - không chính xác.\nD sai: 'beautifully combines elegance with symbol' - sai ngữ pháp.\nTạm dịch: Áo dài, trang phục truyền thống duyên dáng, là sự kết hợp của sự thanh lịch và giản dị trong thời trang Việt Nam, biểu trưng cho niềm tự hào và bản sắc văn hóa."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "The word \"their\" in paragraph 4 refers to________",
+          "context": "",
+          "options": {
+            "A": "Vietnamese cuisine",
+            "B": "Vietnamese people",
+            "C": "Traditional art forms",
+            "D": "Agricultural heritage"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu trong đoạn 4: 'the Vietnamese people continue to honor their traditions, celebrate their unique cultural expressions, and pass on their heritage to future generations'.\n'their' thay thế cho danh từ gần nhất phù hợp ngữ nghĩa → 'the Vietnamese people' (người Việt Nam).\nTạm dịch: người Việt Nam tiếp tục giữ gìn truyền thống của họ..."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Vietnamese cultural identity is static and unchanging",
+            "B": "Modernization has completely erased Vietnamese traditions.",
+            "C": "Vietnamese cuisine has gained international recognition.",
+            "D": "Water puppetry is no longer practiced in Vietnam."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai: bài nói văn hóa Việt Nam 'remains resilient' (kiên cường, thích nghi) chứ không phải tĩnh.\nB sai: 'the Vietnamese people continue to honor their traditions' - hiện đại hóa chưa xóa bỏ truyền thống.\nC đúng: 'Vietnamese cuisine is celebrated worldwide' = ẩm thực Việt được thế giới công nhận.\nD sai: 'Traditional art forms like water puppetry... continue to thrive' - múa rối nước vẫn còn được thực hành.\n→ Chọn C."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention a present concession relationship?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Mối quan hệ nhượng bộ (concession) diễn tả nghịch lý 'mặc dù... nhưng vẫn...'.\nĐoạn 4: 'While adapting to the challenges of the 21st century, the Vietnamese people continue to honor their traditions...' → cấu trúc 'While + V-ing... still' thể hiện nhượng bộ: mặc dù đang thích nghi với thách thức thế kỷ 21, nhưng người Việt vẫn giữ gìn truyền thống.\n→ Chọn D (Paragraph 4)."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer state that Vietnamese cultural identity is influenced by both internal and external factors?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn 1: 'Vietnam's cultural identity is a fusion of indigenous traditions and external influences, shaped by its geographical location and historical interactions.'\n→ Đề cập cả yếu tố bên trong (indigenous traditions = truyền thống bản địa) và bên ngoài (external influences = ảnh hưởng bên ngoài).\n→ Chọn A (Paragraph 1)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about news and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "News and Its Impact",
+      "passage": "Keeping up with what is happening in the world is generally seen as an essential part of being a well-informed and educated citizen. Watching, listening to or reading the news can satisfy our curiosity, make us think, help us make choices and even avoid danger. However, people are increasingly wondering if staying up to date with what is going on is good for us.\n\nThe frequency, speed and way we access news has completely changed over the past few decades. Whereas previously most newspapers were published daily and TV and radio news broadcasts were limited, now we are constantly bombarded with news from all sides, we have 24-hour news channels.\n\nThe content of news reports is almost always negative. [I] Throughout history, our survival has depended on noticing threats and avoiding danger, so the human brain is hard-wired to seek out information that is frightening or alarming. [II] It is about humans paying more attention to negative things because that kept us alive in the past and this is reflected in the news we consume. [III] In addition, because people now use smartphones to record events live, the news we see has become far more graphic and shocking. [IV]\n\nRecent studies have shown that our news habits have disadvantages for our physical and emotional health. In one survey, over 50 percent of Americans reported that the news caused them stress and anxiety, often causing tiredness or poor sleep. Research by psychology expert Graham Davey has also proved that watching terrible or sad news on TV can worsen people's moods and make them worry more about their own lives. Exposure to this ever-increasing bad news can take a toll on our positivity and affect our health.\n\nWhile it is true that staying aware and informed is not a bad thing, we should not forget that we have a choice, not only about how much news we consume, but equally importantly about the kind of news we want to see.\n\n(Adapted from English Workbook12-English Discovery)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word \"limited\" in paragraph 2 is OPPOSITE in meaning to________",
+          "context": "",
+          "options": {
+            "A": "infinite",
+            "B": "restricted",
+            "C": "reliable",
+            "D": "harmonious"
+          },
+          "correctAnswer": "A",
+          "explanation": "'Limited' (adj): giới hạn, hạn chế.\nA. infinite (adj): vô hạn → TRÁI NGHĨA với limited\nB. restricted (adj): bị hạn chế → ĐỒNG NGHĨA\nC. reliable (adj): đáng tin cậy → không liên quan\nD. harmonious (adj): hài hòa → không liên quan\ninfinite >< limited (adj): giới hạn → Chọn A."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Where in paragraph 3 does the following sentence best fit? \"There is a concept known as 'negativity bias'.\"",
+          "context": "",
+          "options": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu cần điền giới thiệu khái niệm 'negativity bias'. Câu ngay sau vị trí II: 'It is about humans paying more attention to negative things because that kept us alive in the past...' giải thích về negativity bias bằng 'It is about...' → cần đặt câu giới thiệu khái niệm trước câu giải thích đó.\nVị trí II phù hợp nhất vì câu sau nói 'It is about...' như thể đang giải thích cho khái niệm vừa được đề cập.\n→ Chọn B (II)."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The news focuses mostly on positive events, which helps people feel better.",
+            "B": "Humans tend to pay more attention to negative news because it has helped us survive in the past.",
+            "C": "News reports today are less shocking and more focused on personal stories.",
+            "D": "The news today is about entertaining content rather than alarming or frightening events."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 3 nói: tin tức hầu như luôn tiêu cực; bộ não con người được lập trình tìm kiếm thông tin đáng sợ (để sinh tồn); khái niệm 'negativity bias' - con người chú ý nhiều hơn đến điều tiêu cực vì điều đó giúp sống sót trong quá khứ; tin tức ngày nay còn sinh động và gây sốc hơn vì điện thoại thông minh.\nB tóm tắt đúng ý chính nhất.\nA sai: tin tức hầu như luôn tiêu cực, không phải tích cực.\nC, D sai ý hoàn toàn.\n→ Chọn B."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"them\" in paragraph 4 refers to________.",
+          "context": "",
+          "options": {
+            "A": "people",
+            "B": "moods",
+            "C": "news",
+            "D": "lives"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu trong đoạn 4: 'watching terrible or sad news on TV can worsen people's moods and make them worry more about their own lives.'\n'them' đứng sau 'make' và trước 'worry' → 'them' = chủ thể lo lắng = 'people' (con người).\nTạm dịch: ...khiến họ lo lắng hơn về cuộc sống của chính mình.\n→ Chọn A."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The phrase \"take a toll on\" in paragraph 4 could be best replaced by________",
+          "context": "",
+          "options": {
+            "A": "pay attention to",
+            "B": "cause harm to",
+            "C": "bring benefits to",
+            "D": "lend support to"
+          },
+          "correctAnswer": "B",
+          "explanation": "'Take a toll on' = gây hại cho, làm suy yếu.\nA. pay attention to: chú ý tới\nB. cause harm to: gây hại cho → ĐỒNG NGHĨA với 'take a toll on'\nC. bring benefits to: đem lại lợi ích cho → TRÁI NGHĨA\nD. lend support to: hỗ trợ cho → TRÁI NGHĨA\ncause harm to = take a toll on → Chọn B."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following is NOT mentioned as one of the effects that news can have on humans according to recent studies?",
+          "context": "",
+          "options": {
+            "A": "worry",
+            "B": "tiredness",
+            "C": "sadness",
+            "D": "poor sleep"
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 4 đề cập tác động của tin tức: 'the news caused them stress and anxiety' (A - worry/lo lắng), 'often causing tiredness' (B - mệt mỏi), 'or poor sleep' (D - mất ngủ).\nC (sadness = buồn bã) KHÔNG được đề cập trực tiếp là tác động của tin tức trong các nghiên cứu gần đây.\n→ Chọn C."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Watching negative news regularly has no real impact on people's mental or physical health.",
+            "B": "We can control both the amount and type of news we consume, which helps reduce its harmful effects.",
+            "C": "The news today focuses mainly on positive stories that make people feel less stressed and more relaxed.",
+            "D": "News consumption has decreased because many people no longer find it relevant or interesting to keep up with."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai: 'Recent studies have shown that our news habits have disadvantages for our physical and emotional health.'\nB đúng: câu kết bài 'we should not forget that we have a choice, not only about how much news we consume, but equally importantly about the kind of news we want to see.' → có thể kiểm soát cả số lượng và loại tin tức.\nC sai: 'The content of news reports is almost always negative.'\nD sai: bài không đề cập giảm tiêu thụ tin tức.\n→ Chọn B."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "We should stop watching the news entirely to avoid its harmful effects.",
+            "B": "The news should be controlled by the government to limit negative impacts.",
+            "C": "It is important to be mindful of both how much and what kind of news we consume.",
+            "D": "It doesn't matter what kind of news we watch as long as we stay informed."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu gốc (đoạn 5): 'we should not forget that we have a choice, not only about how much news we consume, but equally importantly about the kind of news we want to see.'\nC diễn giải đúng nhất: quan trọng là phải chú ý cả lượng và loại tin tức tiêu thụ.\nA quá cực đoan: bài không khuyên ngừng xem tin hoàn toàn.\nB sai ý: bài không đề cập chính phủ kiểm soát.\nD sai ý: bài nhấn mạnh loại tin tức CÓ quan trọng.\n→ Chọn C."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The rise of 24-hour news channels has led to a significant increase in news consumption.",
+            "B": "People are generally more interested in positive news stories than negative ones.",
+            "C": "Exposure to bad news has no noticeable impact on people's mental or physical health.",
+            "D": "Modern technology has made it more difficult for people to avoid news altogether."
+          },
+          "correctAnswer": "A",
+          "explanation": "Bài đọc: 'now we are constantly bombarded with news from all sides, we have 24-hour news channels' → có thể suy ra sự xuất hiện của kênh tin tức 24 giờ đã dẫn đến tăng đáng kể lượng tin tức tiêu thụ.\nA đúng: có thể suy ra từ thông tin trên.\nB sai: bài nói người ta chú ý nhiều hơn đến tin TIÊU CỰC.\nC sai: bài nêu rõ tác hại của tin xấu đến sức khỏe.\nD không được đề cập trực tiếp trong bài.\n→ Chọn A."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "People are generally unaffected by the news, and it has no significant impact on their emotional or physical well-being.",
+            "B": "Watching the news can harm our well-being, and it's better to stop watching it altogether to protect our health.",
+            "C": "Negative news contributes to stress and anxiety, but the problem lies in how it's presented, not the news itself.",
+            "D": "Staying informed is important, but excessive negative news can harm our health, so we must choose carefully."
+          },
+          "correctAnswer": "D",
+          "explanation": "Bài đọc trình bày: cập nhật tin tức là quan trọng → nhưng tin tức có nhiều tác động tiêu cực đến sức khỏe → chúng ta cần lựa chọn cả lượng và loại tin tiêu thụ.\nD tóm tắt đúng và đầy đủ nhất.\nA sai: bài nói rõ tin tức CÓ tác động tiêu cực.\nB quá cực đoan: bài không khuyên ngừng xem tin hoàn toàn.\nC sai: bài không nói vấn đề nằm ở cách trình bày tin tức.\n→ Chọn D."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.581063+00:00",
+  "updatedAt": "2026-06-08T10:41:58.581063+00:00",
+  "originalFileName": "THPT_Ky_Anh_Ha_Tinh_2025.json"
+}

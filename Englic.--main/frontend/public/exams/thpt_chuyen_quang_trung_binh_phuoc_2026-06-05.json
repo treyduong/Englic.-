@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_quang_trung_binh_phuoc_2026-06-05",
+  "title": "Đề Thi Thử Tốt Nghiệp THPT Năm 2025 Lần 1 – THPT Chuyên Quang Trung, Bình Phước – Môn: Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file thpt_chuyen_quang_trung_binh_phuoc.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BìnhPhước",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "DISCOVER HEALTHY EATING",
+      "passage": "Want to eat better but don't know where to start? (1)________ guides you with recipes, meal plans, and shopping lists that are easy to follow. (2)________ you're hoping to lose weight, gain muscle, or just improve your overall well-being, we've got you covered. You can (3)________ your meals based on your dietary preferences, and all our recipes (4)________ natural, whole foods.\nStart today and see how easy a few small changes can make a big difference.\nSign up for (5)________ and gain access to hundreds of healthy recipes.\nEating well has never been (6)________.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Our healthy eating app",
+            "B": "Eating our healthy app",
+            "C": "Our healthy app eating",
+            "D": "Our eating healthy app"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự từ: Tính từ sở hữu (our) + tính từ (healthy) + cụm danh từ (eating app).\nTạm dịch: Ứng dụng ăn uống lành mạnh của chúng tôi sẽ hướng dẫn bạn với các công thức nấu ăn, kế hoạch bữa ăn và danh sách mua sắm dễ thực hiện."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "While",
+            "B": "Whereas",
+            "C": "Should",
+            "D": "Whether"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. While: Trong khi\nB. Whereas: Trong khi (đối lập)\nC. Should: Nếu\nD. Whether: Liệu\nCâu mang nghĩa điều kiện bao quát mọi trường hợp → dùng 'Whether' (dù bạn hy vọng giảm cân, tăng cơ hay chỉ đơn giản là cải thiện sức khỏe tổng thể...).\nTạm dịch: Dù bạn hy vọng giảm cân, tăng cơ, hay chỉ đơn giản là cải thiện sức khỏe tổng thể, chúng tôi đều sẵn sàng hỗ trợ bạn."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "visualize",
+            "B": "allocate",
+            "C": "customize",
+            "D": "designate"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. visualize /ˈvɪʒ.u.əl.aɪz/ (v): hình dung\nB. allocate /ˈæl.ə.keɪt/ (v): phân bổ\nC. customize /ˈkʌs.tə.maɪz/ (v): tùy chỉnh\nD. designate /ˈdez.ɪɡ.neɪt/ (v): chỉ định\nTạm dịch: Bạn có thể tùy chỉnh bữa ăn của mình dựa trên sở thích ăn uống cá nhân."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which uses",
+            "B": "using",
+            "C": "use",
+            "D": "used"
+          },
+          "correctAnswer": "C",
+          "explanation": "Phân tích cấu trúc câu: Câu có 2 mệnh đề được liên kết bằng liên từ 'and'. Mệnh đề sau 'and' thiếu động từ chính và đang đưa thông tin thực tế → dùng 'use' (thì hiện tại đơn).\nTạm dịch: Bạn có thể tùy chỉnh bữa ăn của mình dựa trên sở thích cá nhân, và tất cả các công thức của chúng tôi đều sử dụng thực phẩm tự nhiên, nguyên chất."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "freeing",
+            "B": "freedom",
+            "C": "free",
+            "D": "freely"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\n- freedom /ˈfriː.dəm/ (n): sự tự do\n- free /friː/ (adj): tự do, miễn phí → for free: miễn phí\n- freely /ˈfriː.li/ (adv): một cách tự do\nCụm 'sign up for free' = đăng ký miễn phí là cụm cố định.\nTạm dịch: Đăng ký miễn phí và truy cập hàng trăm công thức ăn uống lành mạnh."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the simpler",
+            "B": "the simplest",
+            "C": "simpler",
+            "D": "more simply"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu so sánh nhấn mạnh việc ăn uống lành mạnh chưa bao giờ dễ dàng hơn, nên dùng tính từ ngắn so sánh hơn 'simpler'. Cấu trúc: have never been + so sánh hơn.\nTạm dịch: Ăn uống lành mạnh chưa bao giờ đơn giản hơn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Boosting Your Confidence",
+      "passage": "Looking to improve your self-esteem and feel more confident in your daily life? Here's how you can make positive changes!\n\nConfidence Facts: Studies show that only 35% of people report feeling confident in their abilities, while (7)________ struggle with self-doubt. Building confidence can help improve your performance at work and in social situations.\n\nTips to Boost Your Confidence:\nSet realistic goals! Start small and (8)________ yourself when you reach milestones.\nSurround yourself with positivity! Seek (9)________ supportive friends and colleagues to boost your self-esteem.\nFocus on your strengths! (10)________ dwelling on mistakes, concentrate on what you do well.\nPractice self-care! Taking time for yourself can (11)________ your mood and confidence levels.\nKeep learning! Gaining new skills helps (12)________ a sense of accomplishment.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "another",
+            "C": "other",
+            "D": "the other"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. others: những người khác / những cái khác (đại từ, dùng độc lập)\nB. another + N (số ít): một người khác / một cái khác\nC. other + N (số nhiều): những người khác / những cái khác (tính từ)\nD. the other: người còn lại / cái còn lại\nĐây dùng 'others' làm đại từ chủ ngữ thay cho 'other people'.\nTạm dịch: Các nghiên cứu cho thấy chỉ 35% người cảm thấy tự tin vào khả năng của mình, trong khi những người khác gặp khó khăn với sự tự nghi ngờ bản thân."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "dedicate",
+            "B": "reward",
+            "C": "apply",
+            "D": "remind"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. dedicate /ˈded.ɪ.keɪt/ (v): cống hiến\nB. reward /rɪˈwɔːd/ (v): khen thưởng\nC. apply /əˈplaɪ/ (v): áp dụng\nD. remind /rɪˈmaɪnd/ (v): nhắc nhở\nTạm dịch: Bắt đầu từ những việc nhỏ và tự thưởng cho bản thân khi bạn đạt được các cột mốc."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "up",
+            "B": "out",
+            "C": "in",
+            "D": "about"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs): seek something out = tìm kiếm cái gì (chủ động đi tìm).\nTạm dịch: Tìm kiếm những người bạn và đồng nghiệp tích cực để tăng sự tự tin của bạn."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "In case of",
+            "B": "On account of",
+            "C": "Instead of",
+            "D": "Because of"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. In case of: trong trường hợp\nB. On account of: vì lý do\nC. Instead of: thay vì\nD. Because of: bởi vì\nTạm dịch: Thay vì suy nghĩ nhiều về những sai lầm, hãy tập trung vào những gì bạn làm tốt."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "treat",
+            "B": "lift",
+            "C": "split",
+            "D": "ease"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. treat /triːt/ (v): đối xử\nB. lift /lɪft/ (v): nâng lên, cải thiện tâm trạng\nC. split /splɪt/ (v): chia ra\nD. ease /iːz/ (v): làm dịu\n'lift your mood' = cải thiện tâm trạng là cụm thông dụng.\nTạm dịch: Dành thời gian cho bản thân có thể cải thiện tâm trạng và sự tự tin của bạn."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "creates",
+            "B": "to have created",
+            "C": "creating",
+            "D": "create"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ: Cấu trúc 'help somebody do something' = giúp ai làm gì (không cần 'to').\nTạm dịch: Đạt được kỹ năng mới giúp tạo cảm giác thành tựu."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Kate: I'm starting with landscapes, but I want to try portraits eventually.\nb. Kate: I've decided to take up painting as a hobby.\nc. Anna: That sounds like a lot of fun!\nd. Kate: Yeah, it helps me relax after work.\ne. Anna: What kind of painting are you doing?",
+          "options": {
+            "A": "a-c-e-b-d",
+            "B": "b-c-d-e-a",
+            "C": "a-d-c-e-b",
+            "D": "a-b-d-c-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tạm dịch:\nb. Kate: Mình đã quyết định chọn vẽ tranh làm sở thích.\nc. Anna: Nghe có vẻ rất thú vị đó!\nd. Kate: Ừ, nó giúp mình thư giãn sau giờ làm việc.\ne. Anna: Bạn đang vẽ loại tranh nào?\na. Kate: Mình bắt đầu với tranh phong cảnh, nhưng sau này mình muốn thử vẽ chân dung.\nThứ tự logic: Kate giới thiệu sở thích → Anna phản ứng tích cực → Kate giải thích lý do → Anna hỏi thêm → Kate trả lời chi tiết."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "Hi Karen,\na. I feel much more confident about it now.\nb. Let's grab coffee soon so I can catch you up on everything!\nc. I really appreciate your support.\nd. I wanted to say thanks for your help with my project last week.\ne. Your insights made a huge difference in my presentation.\nBest, Nina",
+          "options": {
+            "A": "d-e-a-c-b",
+            "B": "a-d-b-c-e",
+            "C": "d-c-a-b-e",
+            "D": "a-c-b-d-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch:\nd. Mình muốn cảm ơn bạn vì đã giúp đỡ mình với dự án tuần trước.\ne. Những ý kiến của bạn đã tạo ra sự khác biệt lớn cho bài thuyết trình của mình.\na. Bây giờ mình cảm thấy tự tin hơn nhiều rồi.\nc. Mình rất trân trọng sự hỗ trợ của bạn.\nb. Hẹn sớm cùng đi uống cà phê nhé để mình kể bạn nghe mọi chuyện!\nThứ tự logic của thư cảm ơn: nêu lý do cảm ơn → nêu tác động cụ thể → cảm xúc hiện tại → bày tỏ lòng biết ơn → lời mời gặp gỡ."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. As a result, globalization has made the world of music more diverse and inclusive, bringing people together through the universal language of music.\nb. With the internet and digital technology, musicians can easily distribute their music to fans in different countries.\nc. On the whole, the ability to share music globally is a significant benefit of globalization that has enriched the music industry and brought joy to people everywhere.\nd. Globalization has many benefits for music, one of which is the ability to share music with people all around the world.\ne. For example, a musician from Africa can now share their music with fans in Europe or Asia with just a few clicks.",
+          "options": {
+            "A": "b-d-a-e-c",
+            "B": "d-b-e-a-c",
+            "C": "d-b-a-e-c",
+            "D": "b-a-e-c-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự logic: d (chủ đề chính: toàn cầu hóa có nhiều lợi ích) → b (công nghệ internet giúp chia sẻ nhạc) → e (ví dụ cụ thể) → a (kết quả) → c (kết luận tổng quát).\nTạm dịch: Toàn cầu hóa mang lại nhiều lợi ích cho âm nhạc, trong đó có khả năng chia sẻ âm nhạc với mọi người trên khắp thế giới."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. The quick and easy nature of platforms like TikTok and Instagram often leads to decreased attention spans, as viewers become accustomed to rapid changes and instant gratification.\nb. In conclusion, while short-form content can be entertaining and engaging, it is essential to be aware of its potential harms and to practice moderation in consumption to maintain a healthy balance in our lives.\nc. This type of media can also contribute to feelings of anxiety and inadequacy, as individuals may find themselves comparing their lives to the highlights showcased by others.\nd. In recent years, the rise of short-form content has become a significant trend, but its negative effects on viewers cannot be overlooked.\ne. Furthermore, the addictive nature of short-form content can lead to excessive screen time, negatively impacting physical health and social interactions.",
+          "options": {
+            "A": "d-a-c-b-e",
+            "B": "d-c-a-e-b",
+            "C": "d-a-c-e-b",
+            "D": "a-d-c-e-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự logic: d (chủ đề: nội dung ngắn đang nổi lên với tác hại không thể bỏ qua) → a (tác hại 1: giảm khả năng tập trung) → c (tác hại 2: lo âu và tự ti) → e (tác hại 3: nghiện, ảnh hưởng sức khỏe thể chất) → b (kết luận).\nTạm dịch: Trong những năm gần đây, sự gia tăng của nội dung ngắn đã trở thành một xu hướng quan trọng, nhưng những tác động tiêu cực của nó đối với người xem không thể bị bỏ qua."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. According to recent statistics, Vietnam ranks second in the world for coffee production, just behind Brazil, with an impressive output of over 1.5 million tons annually.\nb. Furthermore, the diverse climate and geography of Vietnam allow for the cultivation of various coffee varieties, including the renowned Arabica and Robusta beans, which are in high demand internationally.\nc. In conclusion, as Vietnam continues to thrive in the coffee market, it is crucial to support sustainable practices that ensure the industry's long-term viability and the well-being of those involved in it.\nd. This remarkable achievement not only highlights the country's agricultural capabilities but also underscores the importance of coffee as a key export product for the Vietnamese economy.\ne. Vietnam's coffee industry is a significant contributor to the global market, with the country being recognized as one of the top producers worldwide.",
+          "options": {
+            "A": "a-b-d-e-c",
+            "B": "e-a-d-b-c",
+            "C": "e-d-a-b-c",
+            "D": "e-b-d-a-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự logic: e (giới thiệu chủ đề: Việt Nam là nhà sản xuất cà phê hàng đầu) → a (thống kê cụ thể: đứng thứ 2 thế giới) → d (ý nghĩa của thành tựu này) → b (lý do: khí hậu và địa lý đa dạng) → c (kết luận).\nTạm dịch: Ngành cà phê của Việt Nam là một đóng góp quan trọng cho thị trường toàn cầu."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Humanoid Robots and Apollo",
+      "passage": "The development of humanoid robots has captured the imagination of many people. (18)________ which was created to bridge the gap between humans and machines. Apollo made her first public appearance in 2020, showcasing her ability to converse and express emotions. Since then, she has participated in numerous tech conferences across the globe.\n\nApollo was developed by a team of engineers and psychologists (19)________. This collaboration aimed to create a robot that could effectively understand and respond to human emotions, making her a unique presence in the field of artificial intelligence. Apollo's design is sleek and modern, which makes it visually appealing while functional. (20)________. This enhances her ability to connect with people on a deeper level.\n\nEquipped with advanced speech recognition technology, (21)________. This allows her to engage in meaningful conversations and adapt her responses based on the emotional tone of the discussion. As humanoid robots like Apollo become more integrated into society, (22)__________. They hold the potential to transform the way we interact with technology and each other.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Choose the option that best fits blank (18).",
+          "context": "",
+          "options": {
+            "A": "Such one highly advanced robot is Apollo creation",
+            "B": "Such is Apollo created as a highly advanced robot",
+            "C": "One such creation is Apollo, a highly advanced robot",
+            "D": "A highly advanced creation is such as Apollo"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Sai ngữ pháp\nB. Sai ngữ pháp\nC. Một sáng tạo như vậy là Apollo, một robot tiên tiến → Phù hợp để bổ nghĩa cho câu giới thiệu về robot hình người ở trước\nD. Một sáng tạo tiên tiến là giống như Apollo. → Sai vì ngữ nghĩa không rõ ràng.\nTạm dịch: Sự phát triển của các robot hình người đã thu hút trí tưởng tượng của nhiều người. Một sáng tạo như vậy là Apollo, một robot tiên tiến."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "Choose the option that best fits blank (19).",
+          "context": "",
+          "options": {
+            "A": "whose goal was to merge technology with emotional intelligence",
+            "B": "combining expertise in robotics and behavioral science",
+            "C": "that collaborated to bring a human touch to robotics",
+            "D": "which members specialized in AI and human interaction"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. những người có mục tiêu kết hợp công nghệ với trí tuệ cảm xúc → Phù hợp, dùng đại từ quan hệ 'whose' cho hình thức sở hữu của danh từ chỉ người\nB. kết hợp chuyên môn trong robot học và khoa học hành vi → Thiếu chủ ngữ mệnh đề quan hệ\nC. người đã hợp tác để mang lại yếu tố con người trong robot học → Sai ngữ nghĩa\nD. nơi có các thành viên chuyên về AI và tương tác với con người → Sai ngữ pháp\nTạm dịch: Apollo được phát triển bởi một nhóm kỹ sư và nhà tâm lý học với mục tiêu kết hợp công nghệ với trí tuệ cảm xúc."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Choose the option that best fits blank (20).",
+          "context": "",
+          "options": {
+            "A": "Her facial expressions and gestures are designed to resemble that of a human",
+            "B": "Her facial expressions and gestures crafted to look like those of a human",
+            "C": "Her facial expressions and gestures are crafted to resemble those of a human",
+            "D": "Her facial expressions and gestures are similar to those crafted human"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Sai vì 'that' không thay thế cho danh từ số nhiều (facial expressions and gestures)\nB. Sai vì thiếu động từ 'to be' (are)\nC. Các biểu cảm khuôn mặt và cử chỉ của cô được tạo ra giống với những biểu cảm của con người → Đúng vì đúng ngữ pháp và ý nghĩa\nD. Sai ngữ nghĩa\nTạm dịch: Thiết kế của Apollo thon gọn và hiện đại. Các biểu cảm trên khuôn mặt và cử chỉ của cô được tạo ra để giống với của con người, nâng cao khả năng kết nối với mọi người ở mức độ sâu sắc hơn."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Choose the option that best fits blank (21).",
+          "context": "",
+          "options": {
+            "A": "People can comprehend and respond to what Apollo says",
+            "B": "Apollo uses sophisticated algorithms to interact with his peers",
+            "C": "Apollo understands context and nuance in human conversations",
+            "D": "Social interactions are covered with various topics"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mệnh đề phía trước dùng quá khứ phân từ 'Equipped' dạng bị động → 2 mệnh đề phải chỉ cùng đối tượng\nA. Mọi người có thể hiểu và phản hồi những gì mà Apollo nói → Sai vì 'people' không phù hợp làm chủ ngữ ở mệnh đề trước\nB. Apollo sử dụng các thuật toán phức tạp để tương tác với bạn bè → Không phù hợp về ngữ nghĩa\nC. Apollo hiểu ngữ cảnh và sắc thái trong các cuộc trò chuyện của con người → Đúng\nD. Các tương tác xã hội đầy những chủ đề khác nhau → Sai vì 'Social interactions' không phù hợp làm chủ ngữ mệnh đề trước\nTạm dịch: Được trang bị công nghệ nhận diện giọng nói tiên tiến, Apollo hiểu ngữ cảnh và sắc thái trong các cuộc trò chuyện của con người."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Choose the option that best fits blank (22).",
+          "context": "",
+          "options": {
+            "A": "they may lead to more misleading user perceptions",
+            "B": "they can enhance daily life for many people",
+            "C": "their development raises questions about ethics and empathy",
+            "D": "they may restrain the prospect of communication in the future"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Chúng có thể dẫn đến nhận thức sai lệch của người dùng. → Sai vì không phù hợp với ý tích cực trong đoạn văn\nB. Chúng có thể nâng cao cuộc sống hàng ngày của nhiều người. → Đúng vì phù hợp với tiềm năng của robot hình người\nC. Sự phát triển của chúng đặt ra câu hỏi về đạo đức và sự đồng cảm. → Sai vì không đúng ngữ cảnh\nD. Chúng có thể kìm hãm triển vọng giao tiếp trong tương lai. → Sai vì trái ngược với ý tích cực\nTạm dịch: Khi robot hình người như Apollo ngày càng hòa nhập vào xã hội, chúng có thể nâng cao cuộc sống hàng ngày của nhiều người. Chúng có tiềm năng thay đổi cách chúng ta tương tác với công nghệ và với nhau."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Social Media and Mental Health",
+      "passage": "In recent years, social media platforms have become a central part of daily life, offering users countless ways to connect, share, and communicate. While these platforms offer many advantages, experts have noted rising concerns about their effects on mental health, particularly among young people (Smith & Anderson, 2018). Studies reveal that excessive social media use can contribute to feelings of anxiety, depression, and loneliness, despite its intention to promote connection and social interaction (Twenge & Campbell, 2019).\n\nA primary reason for these mental health concerns is the tendency for social media users to compare themselves to others. Platforms like Instagram and Facebook often highlight idealized lifestyles, leading users to feel inadequate about their own lives. Additionally, the constant notifications and messages contribute to a \"fear of missing out\" or FOMO, which keeps individuals in a cycle of checking their phones, often reducing the quality of sleep and overall well-being.\n\nThere is also a growing body of research suggesting a link between social media use and decreased attention spans. When users frequently switch between apps and notifications, their ability to focus for extended periods may diminish (Rosen, 2019). This shift in attention can interfere with productivity, especially in academic and professional settings, where sustained focus is essential.\n\nAddressing these challenges requires a multi-faceted approach. Some mental health professionals suggest limiting screen time and setting boundaries, such as \"device-free\" hours before bedtime. Others recommend engaging in offline activities, like reading or exercising, to reduce dependence on social media and build healthier habits. According to psychologists, such strategies can enhance mental resilience and allow for more meaningful, balanced relationships (Robinson & Smith, 2020).\n\n(Adapted from Social Media and Mental Health Research by Twenge, Rosen, and colleagues)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The phrase \"fear of missing out\" in paragraph 2 could be best replaced by________.",
+          "context": "",
+          "options": {
+            "A": "longing for reunion",
+            "B": "fear of getting lost",
+            "C": "worry of exclusion",
+            "D": "feeling of dissatisfaction"
+          },
+          "correctAnswer": "C",
+          "explanation": "fear of missing out (FOMO): cảm giác sợ bỏ lỡ = worry of exclusion (nỗi lo lắng bị loại trừ).\nTạm dịch: Ngoài ra, những thông báo và tin nhắn liên tục xuất hiện góp phần tạo ra 'nỗi sợ bỏ lỡ' (FOMO), khiến người dùng không ngừng kiểm tra điện thoại, làm giảm chất lượng giấc ngủ và ảnh hưởng xấu đến sức khỏe tổng thể."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "According to the passage, which of the following is NOT mentioned as an effect of social media on mental health?",
+          "context": "",
+          "options": {
+            "A": "improved self-esteem",
+            "B": "increased anxiety",
+            "C": "fear of missing out",
+            "D": "sleep disruption"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin:\n+ Studies reveal that excessive social media use can contribute to feelings of anxiety (→ B được đề cập)\n+ Additionally, the constant notifications and messages contribute to a 'fear of missing out' or FOMO, often reducing the quality of sleep (→ C, D được đề cập)\n→ 'improved self-esteem' (tăng cường lòng tự trọng) KHÔNG được đề cập; thực ra bài đề cập điều ngược lại (cảm thấy tự ti về cuộc sống của mình)."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Social media contributes to concentration issues that facilitate users' academic achievements.",
+            "B": "Notifications and app-switching harm the focus needed in professional environments.",
+            "C": "Frequent notifications on social media can decrease users' attention spans and productivity.",
+            "D": "Distractions from social media only affect students' performance negatively."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 3 nói về tác hại của việc sử dụng mạng xã hội đến khả năng tập trung và năng suất.\nDựa vào câu đầu tiên và câu kết của đoạn văn:\n+ There is also a growing body of research suggesting a link between social media use and decreased attention spans.\n+ This shift in attention can interfere with productivity, especially in academic and professional settings.\n→ Sử dụng mạng xã hội làm giảm khả năng tập trung và năng suất."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"enhance\" in paragraph 4 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "diminish",
+            "B": "reinforce",
+            "C": "intensify",
+            "D": "appreciate"
+          },
+          "correctAnswer": "A",
+          "explanation": "enhance /ɪnˈhɑːns/ (v): nâng cao, cải thiện >< diminish /dɪˈmɪn.ɪʃ/ (v): giảm bớt.\nTạm dịch: Theo các nhà tâm lý học, những chiến lược này có thể tăng cường khả năng phục hồi tâm lý và cho phép xây dựng các mối quan hệ có ý nghĩa và cân bằng hơn."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Notifications have a mild impact on users' attention spans.",
+            "B": "Offline activities can help improve mental health by limiting social media use.",
+            "C": "Social media's primary effect is fostering productivity and interaction.",
+            "D": "Screen time restrictions are not necessary for mental health."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai: When users frequently switch between apps and notifications, their ability to focus for extended periods may diminish. (Thông báo có tác động đáng kể, không phải nhẹ)\nC sai: This shift in attention can interfere with productivity. (Tác động chính của mạng xã hội không phải là thúc đẩy năng suất)\nD sai: Some mental health professionals suggest limiting screen time... (Việc hạn chế thời gian sử dụng màn hình là cần thiết)\nB đúng: Others recommend engaging in offline activities, like reading or exercising, to reduce dependence on social media and build healthier habits."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "A balanced approach is required to mitigate the harmful impacts of social media.",
+            "B": "Mental health professionals are solely responsible for regulating social media use.",
+            "C": "With consistent screen time, individuals can build healthier online habits.",
+            "D": "Dependence on social media requires a combination of therapeutic techniques."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Addressing these challenges requires a multi-faceted approach. (Việc giải quyết những thách thức này đòi hỏi một cách tiếp cận đa chiều.)\n→ Cần có cách tiếp cận cân bằng để giảm thiểu các tác động tiêu cực của mạng xã hội."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention a concessive relationship?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: While these platforms offer many advantages, experts have noted rising concerns about their effects on mental health. (Mặc dù các nền tảng này mang lại nhiều lợi ích, các chuyên gia đã ghi nhận những lo ngại ngày càng tăng về tác động của chúng đối với sức khỏe tinh thần.)\n→ 'While' là liên từ nhượng bộ → Đoạn 1."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer suggest solutions to mitigating negative effects of social media?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Addressing these challenges requires a multi-faceted approach. Some mental health professionals suggest limiting screen time... Others recommend engaging in offline activities...\n→ Đoạn 4 đưa ra các giải pháp như hạn chế thời gian sử dụng thiết bị, tham gia hoạt động ngoại tuyến."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Visualizing Mathematics With Penrose",
+      "passage": "Some people look at an equation and see a bunch of complicated numbers and symbols while others see beauty. [I] Now, thanks to a new tool created at Carnegie Mellon University, anyone can now translate the abstractions of mathematics into beautiful and instructive illustrations. [II] This exciting new tool is named Penrose after the mathematician Roger Penrose, who is famous for using diagrams and other drawings to communicate complicated mathematical ideas. [III] Penrose enables users to create diagrams simply by typing mathematical expressions and letting the software do the drawing. [IV]\n\nUnlike a graphing calculator, these aren't restricted to basic functions, but can be complex relationships from any area of mathematics. \"Some mathematicians have a talent for drawing beautiful diagrams by hand, but they vanish as soon as the chalkboard is erased,\" said Keenan Crane, an assistant professor of computer science and robotics. \"We want to make this expressive power available to anyone.\"\n\nDiagrams are often underused in mathematical communication, since producing high-quality illustrations is beyond the skill of many researchers and requires a great deal of time and effort. Penrose addresses these challenges by letting diagram-drawing experts turn their knowledge about creating diagrams into computer codes so that other users can access this capability using familiar mathematical language and a computer. \"We started off by asking: 'How do people translate mathematical ideas into pictures in their head?' said Katherine Ye, a Ph.D student in the Computer Science Department who is involved in the development of Penrose. \"The secret sauce of our system is to empower people to easily 'explain' this translation process to the computer, so the computer can do all the hard work of actually making the picture.\"\n\nOnce the computer learns how the user wants to see a mathematical object visualized - a vector represented by a little arrow, for instance, or a point represented as a dot - it uses these rules to draw several candidate diagrams. Users can then select and edit the diagrams they want from a gallery of possibilities. A special, simple-to-learn programming language was also developed so that they can easily convey the ideas in their minds to the Penrose system, Crane said. \"Mathematicians can get very picky about notations,\" he explained. \"We let them define whatever notation they want, so they can express themselves naturally.\"\n\nThe researchers will present Penrose at the SIGGRAPH 2020 Conference on Computer Graphics and Interactive Techniques, which will be held this July. \"Our vision is to be able to dust off an old math textbook from the library, drop it into the computer and get a beautifully illustrated book - that way more people understand,\" Crane said, noting that Penrose is a first step toward this goal.\n\n(Adapted from sciencedaily.com)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which best serves as the title for the passage?",
+          "context": "",
+          "options": {
+            "A": "Penrose: The Tool Making All Textbooks Outdated",
+            "B": "Visualizing Mathematics With Penrose",
+            "C": "Why Mathematicians Cannot Draw Diagrams",
+            "D": "The Age of Computer Mathematicians"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn văn nói về công cụ Penrose giúp chuyển đổi sự trừu tượng của toán học thành những hình minh họa dễ hiểu.\nDựa vào câu kết đoạn 1: Penrose enables users to create diagrams simply by typing mathematical expressions and letting the software do the drawing.\n→ Tiêu đề phù hợp nhất: Trực quan hóa toán học với Penrose."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"For many, the elegance of mathematical concepts often goes unnoticed amidst the complexity.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Some people look at an equation and see a bunch of complicated numbers and symbols while others see beauty. For many, the elegance of mathematical concepts often goes unnoticed amidst the complexity.\n→ Phù hợp để bổ sung ý nghĩa cho cái đẹp - sự phức tạp của toán học được đề cập ở câu trước → Vị trí (I)."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"restricted\" in paragraph 2 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "contained",
+            "B": "expanded",
+            "C": "confined",
+            "D": "discard"
+          },
+          "correctAnswer": "B",
+          "explanation": "restrict /rɪˈstrɪkt/ (v): giới hạn >< expand /ɪkˈspænd/ (v): mở rộng.\nTạm dịch: Không giống như máy tính đồ thị, công cụ này không bị giới hạn ở các hàm cơ bản mà có thể mô phỏng các mối quan hệ phức tạp từ bất kỳ lĩnh vực nào của toán học."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The phrase \"secret sauce\" in paragraph 3 could be best replaced by________.",
+          "context": "",
+          "options": {
+            "A": "unexpected benefit",
+            "B": "mysterious figure",
+            "C": "unnatural ability",
+            "D": "special element"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'The secret sauce of our system is to empower people to easily explain this translation process to the computer...' ('Điểm đặc biệt của hệ thống chúng tôi là giúp mọi người dễ dàng giải thích quy trình chuyển đổi này cho máy tính...')\n→ 'secret sauce' = yếu tố đặc biệt / special element."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "According to the passage, which of the following is NOT mentioned as a feature of benefit of the Penrose tool?",
+          "context": "",
+          "options": {
+            "A": "It allows users to create diagrams from mathematical expressions.",
+            "B": "It can produce high-quality illustrations without requiring advanced drawing skills.",
+            "C": "It enables users to communicate mathematical ideas using a programming language.",
+            "D": "It can automatically generate solutions to complex mathematical problems."
+          },
+          "correctAnswer": "D",
+          "explanation": "A được đề cập: Penrose enables users to create diagrams simply by typing mathematical expressions.\nB được đề cập: Diagrams are often underused... Penrose addresses these challenges by letting diagram-drawing experts turn their knowledge into computer codes.\nC được đề cập: A special, simple-to-learn programming language was also developed so that they can easily convey the ideas in their minds to the Penrose system.\nD KHÔNG được đề cập: Bài không nói Penrose tự động tạo ra giải pháp cho các vấn đề toán học phức tạp."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"they\" in paragraph 4 refers to________.",
+          "context": "",
+          "options": {
+            "A": "users",
+            "B": "diagrams",
+            "C": "possibilities",
+            "D": "ideas"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Users can then select and edit the diagrams they want from a gallery of possibilities.\n→ 'they' đề cập đến 'users' (người dùng).\nTạm dịch: Người dùng sau đó có thể chọn và chỉnh sửa các biểu đồ họ muốn từ bộ sưu tập các lựa chọn."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Penrose allows users to create high-quality diagrams quickly without needing artistic skills.",
+            "B": "Diagrams in mathematics are often underused due to the time required to create them.",
+            "C": "Penrose enables users to translate mathematical ideas into diagrams using expert knowledge and computer codes.",
+            "D": "Katherine Ye discusses the challenges mathematicians face when trying to visualize complex ideas."
+          },
+          "correctAnswer": "C",
+          "explanation": "Dựa vào 2 câu đầu đoạn văn:\nDiagrams are often underused in mathematical communication, since producing high-quality illustrations is beyond the skill of many researchers and requires a great deal of time and effort. Penrose addresses these challenges by letting diagram-drawing experts turn their knowledge about creating diagrams into computer codes so that other users can access this capability using familiar mathematical language and a computer.\n→ Penrose giúp người dùng chuyển đổi ý tưởng toán học thành sơ đồ bằng cách sử dụng kiến thức chuyên gia và mã máy tính."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Users can browse and alter the diagrams they like from a variety of choices.",
+            "B": "Users can create and adjust the diagrams they desire from a selection of examples.",
+            "C": "Users can choose and modify the diagrams they prefer from a collection of options.",
+            "D": "Users can view and customize the diagrams they wish to use from an assortment of images."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Users can then select and edit the diagrams they want from a gallery of possibilities. (Người dùng sau đó có thể chọn và chỉnh sửa các biểu đồ họ muốn từ bộ sưu tập các tùy chọn.)\n→ C: Người dùng có thể chọn và chỉnh sửa các sơ đồ họ ưa thích từ một tập hợp các tùy chọn."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Hand-drawn diagrams are not as beautiful and easy to understand as digital diagrams.",
+            "B": "In general, mathematicians are not very good at remembering and defining notations.",
+            "C": "How a mathematical object should be visualized varies from person to person.",
+            "D": "Almost all people consider traditional math textbooks to be extremely boring."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: We let them define whatever notation they want, so they can express themselves naturally. (Chúng tôi cho phép họ định nghĩa bất kỳ ký hiệu nào họ muốn, để họ có thể diễn đạt tự nhiên nhất.)\n→ Cách một đối tượng toán học được hình dung có thể khác nhau giữa các cá nhân."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summaries the passage?",
+          "context": "",
+          "options": {
+            "A": "The development of Penrose by Carnegie Mellon University aims to replace traditional graphing calculators with a tool that can only produce basic mathematical functions.",
+            "B": "Penrose enables mathematicians to draw by hand and provides them with a programming language to express their ideas naturally.",
+            "C": "Penrose is a new tool that allows users to create complex mathematical diagrams easily, enhancing mathematical communication and understanding.",
+            "D": "The researchers at Carnegie Mellon University are focusing on the history of mathematical diagrams and their importance in education."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Penrose enables users to create diagrams simply by typing mathematical expressions and letting the software do the drawing. (Penrose cho phép người dùng tạo sơ đồ chỉ bằng cách nhập các biểu thức toán học và để phần mềm thực hiện việc vẽ.)\n→ Penrose là một công cụ mới cho phép người dùng dễ dàng tạo các sơ đồ toán học phức tạp, nâng cao sự giao tiếp và hiểu biết toán học."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.654608+00:00",
+  "updatedAt": "2026-06-08T10:41:58.654608+00:00",
+  "originalFileName": "thpt_chuyen_quang_trung_binh_phuoc.json"
+}

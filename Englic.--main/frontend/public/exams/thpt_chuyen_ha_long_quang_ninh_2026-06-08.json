@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_ha_long_quang_ninh_2026-06-08",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Chuyên Hạ Long, Quảng Ninh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Chuyen_Ha_Long_Quang_Ninh_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#QuảngNinh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "SUSTAINABLE LIVING: EVERY ACTION MATTERS!",
+      "passage": "Adopting sustainable practices in our daily lives can have a significant impact on the environment. Here are (1)_______ insights to help you make a difference!\n\nStatistics to Consider: Each year, billions of plastic items are discarded, a large portion of our waste. This not only fills landfills but also (2)_______ aquatic ecosystems, harming marine wildlife.\n\nAction Steps You Can Take:\n- Start by minimizing your consumption. For example, (3)_______ reusable cutlery and plates instead of disposable ones.\n- When shopping, seek brands that use sustainable materials, helping reduce your carbon footprint.\n- (4)_______ waste properly by separating recyclables from general-waste, aiding the recycling-process.\n- Choose fresh (5)_______ from local farmers' markets to support sustainable agriculture and reduce packaging waste.\n- Encourage (6)_______ to adopt eco-friendly practices by sharing your journey and tips for living more sustainably.\n\n(Adapted from Green Living Initiatives)",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "any",
+            "B": "other",
+            "C": "each",
+            "D": "some"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về lượng từ:\nA. any + N (đếm được/không đếm được): bất kì\nB. other + N (đếm được số nhiều/không đếm được): những cái/người khác\nC. each + N (đếm được số ít): mỗi\nD. some + N (đếm được số nhiều): nhiều\nTa thấy 'insights' là danh từ đếm được số nhiều và dựa vào ngữ nghĩa ta chọn 'some'.\nTạm dịch: Here are some insights to help you make a difference! (Dưới đây là một vài cái nhìn sâu sắc giúp bạn tạo ra sự khác biệt!)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "devastates",
+            "B": "nourishes",
+            "C": "conserves",
+            "D": "enhances"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. devastate /ˈdevəsteɪt/ (v): tàn phá\nB. nourish /ˈnʌrɪʃ/ (v): nuôi dưỡng, chăm sóc\nC. conserve /kənˈsɜːv/ (v): bảo tồn\nD. enhance /ɪnˈhɑːns/ (v): nâng cao, cải thiện\nCấu trúc: not only … but also …: không những … mà còn\nTạm dịch: This not only fills landfills but also devastates aquatic ecosystems, harming marine wildlife. (Điều này không chỉ làm đầy các bãi rác mà còn tàn phá hệ sinh thái dưới nước, gây hại cho động vật hoang dã dưới biển.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "turn up",
+            "B": "opt for",
+            "C": "rely on",
+            "D": "throw away"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. turn up: xuất hiện\nB. opt for: chọn lựa\nC. rely on: dựa vào\nD. throw away: vứt bỏ\nTạm dịch: For example, opt for reusable cutlery and plates instead of disposable ones. (Ví dụ, chọn dao kéo và đĩa có thể tái sử dụng thay vì những loại dùng một lần.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Manage",
+            "B": "Accumulate",
+            "C": "Distribute",
+            "D": "Utilize"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. Manage /ˈmænɪdʒ/ (v): quản lý, xử lý\nB. Accumulate /əˈkjuːmjʊleɪt/ (v): tích lũy\nC. Distribute /dɪˈstrɪbjuːt/ (v): phân phối\nD. Utilize /ˈjuːtəlaɪz/ (v): sử dụng, tận dụng\nTạm dịch: Manage waste properly by separating recyclables from general-waste, aiding the recycling-process. (Xử lý chất thải hợp lý bằng cách tách rác tái chế khỏi rác thải thông thường, hỗ trợ quá trình tái chế.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "product",
+            "B": "item",
+            "C": "produce",
+            "D": "outcome"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. product /ˈprɒdʌkt/ (n): sản phẩm\nB. item /ˈaɪtəm/ (n): đồ vật\nC. produce /ˈprəʊdjuːs/ (n): nông sản\nD. outcome /ˈaʊtkʌm/ (n): kết quả\nTa thấy phía trước là tính từ 'fresh' (tươi) nên đáp án phù hợp là 'produce'.\nTạm dịch: Choose fresh produce from local farmers' markets to support sustainable agriculture and reduce packaging waste. (Chọn các sản phẩm nông sản tươi từ các chợ nông sản địa phương để hỗ trợ nông nghiệp bền vững và giảm thiểu rác thải bao bì.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "another",
+            "C": "the other",
+            "D": "other"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về đại từ:\nA. others: những người/cái khác\nB. another: một người khác/cái khác\nC. the other: một người/cái còn lại\nD. other + N (đếm được số nhiều/không đếm được): những người/cái khác\nTa cần đại từ (không có danh từ theo sau) chỉ 'những người khác' nên chọn 'others'.\nTạm dịch: Encourage others to adopt eco-friendly practices by sharing your journey and tips for living more sustainably. (Khuyến khích những người khác áp dụng các biện pháp thân thiện với môi trường bằng cách chia sẻ hành trình và các mẹo sống bền vững của bạn.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "",
+      "passage": "Experts estimate that over 50% of the global population currently lives in cities, and by 2050, this percentage is expected to reach 70%. Megacities, (7)_______, are becoming more common, and the concept of mega-regions, interconnected clusters of megacities, is also gaining prominence. These megacities often face challenges in accurately (8)_______. Examples of megacities include Sao Paulo, New York, and Tokyo, which is the largest megacity in the world.\n\nChina boasts the largest mega-region, consisting of megacities like Hong Kong, Shenzhen, and Guangzhou. (9)_______, as seen in West Africa, where Nigeria, Benin, Togo, and Ghana form a mega-region. These mega-regions hold significant economic power, with 66% of global economic activity and 85% of new technological and scientific advancements occurring within the 40 largest mega-regions. (10)_______.\n\nIn summary, urbanization continues to rise globally, with a majority of people living in cities. Megacities and mega-regions are becoming more prevalent, (11)_____\n\n(Adapted from Reading Advantage)",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "defined like cities with over 10 millions people",
+            "B": "defined as over 10 million people cities",
+            "C": "defined as cities with over 10 million people",
+            "D": "defining cities with more than 10 million people"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc: to be defined as: được định nghĩa là\nRút gọn mệnh đề quan hệ dạng bị động: ta lược bỏ đại từ quan hệ và 'to be' (nếu có), giữ nguyên quá khứ phân từ (V3/ed) (which are defined as → defined as).\nLoại B vì trật tự của cụm danh từ sau 'defined as' sai.\nTạm dịch: Megacities, defined as cities with over 10 million people, are becoming more common. (Các siêu đô thị, được định nghĩa là các thành phố có hơn 10 triệu dân, đang ngày càng trở nên phổ biến.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "determining their population due to unclear boundaries and the inclusion of surrounding areas",
+            "B": "determine their population due to the unclear boundaries and including surrounding areas",
+            "C": "determined their population unclear due to boundaries and surrounding inclusion areas",
+            "D": "determining their population because unclear boundaries and the including of surrounding areas"
+          },
+          "correctAnswer": "A",
+          "explanation": "Sau giới từ 'in' ta dùng V-ing.\nCấu trúc: because + S + V = due to + N: bởi vì\nTạm dịch: These megacities often face challenges in accurately determining their population due to unclear boundaries and the inclusion of surrounding areas. (Những siêu đô thị này thường đối mặt với thách thức trong việc xác định dân số của chúng một cách chính xác do ranh giới không rõ ràng và việc bao gồm các khu vực xung quanh.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Therefore, mega-regions can span multiple countries",
+            "B": "However, mega-regions can span multiple countries",
+            "C": "Moreover, can mega-regions span countries multiple",
+            "D": "In addition, mega-regions spans multiple countries"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một mệnh đề độc lập phù hợp về ngữ nghĩa.\nA. Do đó, các khu siêu đô thị có thể mở rộng ra nhiều quốc gia. → Sai vì không phù hợp về ngữ nghĩa (về trước đang đề cập Trung Quốc tự hào khi sở hữu khu siêu đô thị lớn nhất).\nB. Tuy nhiên, các khu siêu đô thị có thể mở rộng ra nhiều quốc gia. → Đúng vì phù hợp về ngữ nghĩa.\nC. Loại C vì trật tự từ sai.\nD. Loại D vì động từ 'span' phải chia số ít để phù hợp với chủ ngữ số nhiều 'mega-regions'.\nTạm dịch: However, mega-regions can span multiple countries, as seen in West Africa, where Nigeria, Benin, Togo, and Ghana form a mega-region."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Despite this, less than 20% of the global population reside in these mega-regions",
+            "B": "Despite this, less than 20% of the global populations resides in these mega-regions",
+            "C": "Despite this, less than 20% of the global population resides in these mega-regions",
+            "D": "Despite this, less than 20% resides the global population in these mega-regions"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\npopulation /ˌpɒp.jəˈleɪ.ʃən/ (n) (không đếm được): dân số (nói chung). Loại B.\nHòa hợp giữa chủ ngữ và động từ: Ta có chủ ngữ là 'less than 20% of the global population' (ít hơn 20% dân số toàn cầu) là chủ ngữ số ít → động từ chia số ít 'resides in'.\nTạm dịch: Despite this, less than 20% of the global population resides in these mega-regions. (Mặc dù vậy, ít hơn 20% dân số toàn cầu sinh sống trong các khu siêu đô thị này.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "driving economic growth and technological advancements on a large scale",
+            "B": "drives economic growth and advancements technological on a large scale",
+            "C": "driving economic grows and technological advancements on a large scale",
+            "D": "driving economic growth and advancement technological at a large scale"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'megacities and mega-regions' và động từ chính 'are becoming'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại B vì sử dụng động từ có chia thì 'drives'.\nLoại C vì đứng sau tính từ 'economic' phải là danh từ 'growth'.\nLoại D vì trật tự từ sai 'advancement technological'.\nTạm dịch: Megacities and mega-regions are becoming more prevalent, driving economic growth and technological advancements on a large scale."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about nomophobia and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Nomophobia",
+      "passage": "Nomophobia, short for \"no-mobile-phone phobia,\" is a modern phenomenon that affects many people in today's digital age.\n\nWhat is nomophobia? It is the irrational fear of being without one's mobile phone or being unable to use it. This condition can cause anxiety and distress, and it highlights the profound impact mobile devices have on our lives. The fear of losing or being separated from one's phone is a growing concern. Some common situations that trigger nomophobia include misplacing one's phone, running out of battery, or losing network signal. The fear intensifies when people imagine not having their phones to contact friends and family, access the internet, or use GPS for navigation.\n\nWho easily suffers from nomophobia? Nomophobia is not limited to any age group and can affect individuals of all backgrounds. It often becomes evident when people experience panic or anxiety when they forget their phones at home or are unable to use them temporarily. Symptoms may include restlessness, rapid heartbeat, sweating, and a sense of insecurity.\n\nThe roots of nomophobia lie in the convenience and connectedness that mobile phones provide. These devices have become integral to our daily lives, serving as not just communication tools but also cameras, entertainment hubs, personal organizers, and more. This dependence on mobile phones can lead to a feeling of vulnerability when separated from them.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "The word \"distress\" in paragraph 2 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "relief",
+            "B": "anxiety",
+            "C": "confusion",
+            "D": "sadness"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. relief /rɪˈliːf/ (n): sự nhẹ nhõm\nB. anxiety /æŋˈzaɪəti/ (n): sự lo lắng\nC. confusion /kənˈfjuːʒən/ (n): sự bối rối\nD. sadness /ˈsædnɪs/ (n): sự buồn bã\ndistress /dɪˈstrɛs/ (n): sự căng thẳng >< relief (n)\nThông tin: This condition can cause anxiety and distress, and it highlights the profound impact mobile devices have on our lives."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following is NOT considered a common trigger of nomophobia?",
+          "context": "",
+          "options": {
+            "A": "Misplacing one's phone",
+            "B": "Running out of battery",
+            "C": "Losing network signal",
+            "D": "Forgetting to update phone applications"
+          },
+          "correctAnswer": "D",
+          "explanation": "Điều nào sau đây KHÔNG được xem là một yếu tố gây ra nomophobia?\nThông tin: Some common situations that trigger nomophobia include misplacing one's phone, running out of battery, or losing network signal.\nĐáp án A, B, C được nhắc tới. D (Quên cập nhật ứng dụng trên điện thoại) không được đề cập."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The pronoun \"them\" in paragraph 3 refers to",
+          "context": "",
+          "options": {
+            "A": "people",
+            "B": "mobile phones",
+            "C": "symptoms",
+            "D": "triggers"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: It often becomes evident when people experience panic or anxiety when they forget their phones at home or are unable to use them temporarily. (Nó thường trở nên rõ rệt khi mọi người cảm thấy hoảng loạn hoặc lo âu khi quên điện thoại ở nhà hoặc không thể sử dụng chúng trong một thời gian ngắn.)\n'them' thay thế cho 'phones' (mobile phones)."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Nomophobia is an issue that can affect anyone regardless of their background.",
+            "B": "Only younger individuals are prone to experiencing nomophobia.",
+            "C": "People who suffer from nomophobia tend to be from specific social groups.",
+            "D": "Nomophobia affects people in similar ways regardless of age."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu được gạch chân: Nomophobia is not limited to any age group and can affect individuals of all backgrounds.\nA. Nomophobia là một vấn đề có thể ảnh hưởng đến bất kỳ ai bất kể lai lịch của họ. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nB. Chỉ những người trẻ tuổi mới dễ gặp phải nomophobia. → Sai chỗ 'only' vì tất cả mọi người đều có thể mắc phải nomophobia.\nC. Những người mắc phải nomophobia thường thuộc về các nhóm xã hội cụ thể. → Sai vì tất cả mọi người đều có thể mắc phải nomophobia.\nD. Nomophobia ảnh hưởng đến mọi người theo cách tương tự bất kể độ tuổi. → Sai vì câu gốc không đề cập đến việc ảnh hưởng đến mọi người theo cách tương tự nhau."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "The word \"integral\" in paragraph 4 is CLOSEST in meaning to",
+          "context": "",
+          "options": {
+            "A": "fundamental",
+            "B": "temporary",
+            "C": "irrelevant",
+            "D": "unnecessary"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. fundamental /ˌfʌndəˈmentl/ (adj): cơ bản, thiết yếu\nB. temporary /ˈtempərəri/ (adj): tạm thời\nC. irrelevant /ɪˈrɛləvənt/ (adj): không liên quan\nD. unnecessary /ʌnˈnesəsəri/ (adj): không cần thiết\nintegral /ˈɪntɪgrəl/ (adj): quan trọng, thiết yếu = fundamental (adj)\nThông tin: These devices have become integral to our daily lives, serving as not just communication tools but also cameras, entertainment hubs, personal organizers, and more."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "In which paragraph does the author describe the symptoms of nomophobia?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả mô tả các triệu chứng của nomophobia trong đoạn 3.\nThông tin: Symptoms may include restlessness, rapid heartbeat, sweating, and a sense of insecurity. (Các triệu chứng có thể bao gồm cảm giác bồn chồn, tim đập nhanh, đổ mồ hôi và cảm giác thiếu an toàn.)"
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "According to the passage, which of the following is TRUE?",
+          "context": "",
+          "options": {
+            "A": "Nomophobia is a recent condition caused by mobile phone overuse.",
+            "B": "The symptoms of nomophobia include improved focus and attention.",
+            "C": "Everyone experiences the same level of anxiety related to nomophobia.",
+            "D": "Nomophobia is only present in high-tech, urban societies."
+          },
+          "correctAnswer": "A",
+          "explanation": "B sai về logic nghĩa (triệu chứng không bao gồm cải thiện sự tập trung).\nC sai vì bài đọc đề cập đến việc mọi người có thể cảm thấy lo âu liên quan đến nomophobia nhưng không đề cập đến việc mọi người trải qua mức độ lo âu giống nhau.\nD sai vì bài đọc đề cập hiện tượng nomophobia ảnh hưởng đến nhiều người trong thời đại kỹ thuật số ngày nay, không đề cập đến việc nó chỉ xuất hiện ở các xã hội đô thị hiện đại, công nghệ cao.\nA đúng: What is nomophobia? It is the irrational fear of being without one's mobile phone or being unable to use it. (Nomophobia là gì? Đây là nỗi sợ vô lý về việc không có điện thoại di động hoặc không thể sử dụng nó.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "In which paragraph does the author discuss the daily roles of mobile phones in people's lives?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả bàn về vai trò hàng ngày của điện thoại di động trong cuộc sống của con người trong đoạn 4.\nThông tin: These devices have become integral to our daily lives, serving as not just communication tools but also cameras, entertainment hubs, personal organizers, and more. (Những thiết bị này đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta, không chỉ là công cụ liên lạc mà còn là máy ảnh, trung tâm giải trí, người tổ chức cá nhân và nhiều hơn thế.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about climate change and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Climate Change",
+      "passage": "(I) Climate change is one of the most pressing challenges of our time, affecting ecosystems, biodiversity, and human communities across the globe. (II) Scientists warn that unless greenhouse gas emissions are significantly reduced, the Earth's climate may experience irreversible damage. (III) The consequences of climate change are widespread, impacting weather patterns, agricultural productivity, and health conditions worldwide. (IV)\n\nOne of the primary causes of climate change is the burning of fossil fuels, such as coal, oil, and gas, which releases large amounts of carbon dioxide (CO2) into the atmosphere. This gas traps heat, leading to a rise in global temperatures, a phenomenon known as global warming. Another major contributor is deforestation as trees play a critical role in absorbing CO2. When forests are destroyed, that CO2 is released, adding to the atmosphere's greenhouse effect.\n\nThe impacts of climate change are already evident in various forms. Rising sea levels are causing coastal erosion and increasing the frequency of flooding, which endangers millions living in low-lying areas. Additionally, extreme weather events like hurricanes, droughts, and heatwaves are becoming more common and severe. These events not only damage infrastructure but also pose serious risks to human health and food security.\n\nAddressing climate change requires a collaborative global response. Many governments have joined international agreements, like the Paris Agreement, aiming to limit global temperature rise and reduce emissions. However, it is crucial for individuals and businesses to also play a part by reducing their carbon footprint through actions such as conserving energy, reducing waste, and supporting renewable energy sources.\n\n(Adapted from Climate and Human Impact)",
+      "questions": [
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"Rapid industrial-development and population growth have accelerated the accumulation of greenhouse gases.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu này đề cập đến việc phát triển công nghiệp nhanh chóng và sự gia tăng dân số đã làm tăng tốc sự tích tụ của các khí nhà kính, phù hợp với nội dung ở vị trí (II) vì câu liền sau đang nói về các khí nhà kính cần phải được giảm thiểu để ngăn chặn tổn thương không thể phục hồi cho khí hậu trái đất.\nThông tin: Climate change is one of the most pressing challenges of our time, affecting ecosystems, biodiversity, and human communities across the globe. Rapid industrial-development and population growth have accelerated the accumulation of greenhouse gases. Scientists warn that unless greenhouse gas emissions are significantly reduced, the Earth's climate may experience irreversible damage."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "The phrase \"traps heat\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "absorbs energy",
+            "B": "lets out warmth",
+            "C": "reduces temperature",
+            "D": "blocks sunlight"
+          },
+          "correctAnswer": "A",
+          "explanation": "trap heat: giữ nhiệt, làm cho nhiệt không thoát ra ngoài = absorb energy\nThông tin: This gas traps heat, leading to a rise in global temperatures, a phenomenon known as global warming. (Khí này giữ nhiệt, dẫn đến sự gia tăng nhiệt độ toàn cầu, hiện tượng này được gọi là nóng lên toàn cầu.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word \"their\" in paragraph 4 refers to",
+          "context": "",
+          "options": {
+            "A": "deforestation's",
+            "B": "individuals and businesses'",
+            "C": "fossil fuel combustion's",
+            "D": "greenhouse gases'"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: However, it is crucial for individuals and businesses to also play a part by reducing their carbon footprint through actions such as conserving energy, reducing waste, and supporting renewable energy sources. (Tuy nhiên, điều quan trọng là các cá nhân và doanh nghiệp cũng phải tham gia bằng cách giảm dấu chân carbon của họ thông qua các hành động như tiết kiệm năng lượng, giảm thiểu rác thải và hỗ trợ các nguồn năng lượng tái tạo.)\n'their' thay thế cho 'individuals and businesses'."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "According to paragraph 2, which of the following is NOT a cause of climate change?",
+          "context": "",
+          "options": {
+            "A": "burning fossil fuels",
+            "B": "rising sea levels",
+            "C": "deforestation",
+            "D": "increased CO2 levels"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: One of the primary causes of climate change is the burning of fossil fuels. Another major contributor is deforestation. This gas traps heat, leading to a rise in global temperatures.\nĐáp án A, C, D được nhắc tới là nguyên nhân. B (mực nước biển dâng) là hậu quả, không phải nguyên nhân."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The rising sea levels threaten coastlines and biodiversity.",
+            "B": "Climate change is creating both environmental and human health challenges.",
+            "C": "Increased CO2 levels lead to more frequent weather disasters.",
+            "D": "Global warming affects agriculture, health, and living conditions."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn văn đề cập đến những tác động của biến đổi khí hậu đến môi trường, ví dụ gây ra xói mòn, lũ lụt và tác động đến con người như sức khỏe và sự đảm bảo lương thực.\nA. Mực nước biển dâng đe dọa các vùng bờ biển và đa dạng sinh học. → Sai vì đoạn văn không đề cập đến thông tin mực nước biển đe dọa đa dạng sinh học.\nB. Biến đổi khí hậu đang tạo ra cả những thách thức về môi trường và sức khỏe con người. → Đúng vì tóm tắt đầy đủ ý của đoạn văn.\nC. Mức CO2 tăng lên dẫn đến các thảm họa thời tiết thường xuyên hơn. → Sai vì biến đổi khí hậu mới gây ra các thảm họa thời tiết thường xuyên hơn.\nD. Sự nóng lên toàn cầu ảnh hưởng đến nông nghiệp, sức khỏe và điều kiện sống. → Sai vì đoạn văn đang nói về những tác động của biến đổi khí hậu, không phải sự nóng lên toàn cầu."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"evident\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "obscure",
+            "B": "obvious",
+            "C": "noticeable",
+            "D": "clear"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. obscure /əbˈskjʊə(r)/ (adj): không rõ ràng, mờ mịt\nB. obvious /ˈɒb.vi.əs/ (adj): rõ ràng\nC. noticeable /ˈnəʊ.tɪ.sə.bəl/ (adj): có thể nhận thấy, đáng chú ý\nD. clear /klɪə(r)/ (adj): rõ ràng\nevident /ˈevɪdənt/ (adj): rõ ràng, dễ nhận thấy >< obscure (adj)\nThông tin: The impacts of climate change are already evident in various forms. (Những tác động của biến đổi khí hậu đã xuất hiện rõ rệt dưới nhiều hình thức.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Industrialization has decreased the rate of greenhouse gas emissions.",
+            "B": "Only governments can effectively reduce climate change effects.",
+            "C": "Extreme weather events are becoming more frequent due to climate change.",
+            "D": "Climate change impacts are limited to environmental issues."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai về logic nghĩa.\nB sai: Addressing climate change requires a collaborative global response. Bên cạnh chính phủ, các cá nhân và doanh nghiệp cũng cần phải chung tay để giảm tác động của biến đổi khí hậu.\nC đúng: Additionally, extreme weather events like hurricanes, droughts, and heatwaves are becoming more common and severe. (Ngoài ra, các hiện tượng thời tiết cực đoan như bão, hạn hán và sóng nhiệt đang ngày càng trở nên phổ biến và nghiêm trọng hơn.)\nD sai: biến đổi khí hậu ảnh hưởng đến cả môi trường và con người."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "An effective solution to climate change must involve collective efforts.",
+            "B": "Limiting global warming will require individuals to take immediate action.",
+            "C": "All people should participate in international climate agreements.",
+            "D": "Each country must independently work on climate change solutions."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu được gạch chân: Addressing climate change requires a collaborative global response.\nA. Một giải pháp hiệu quả cho biến đổi khí hậu phải bao gồm nỗ lực chung. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nB. Việc giới hạn sự nóng lên toàn cầu sẽ đòi hỏi các cá nhân phải hành động ngay lập tức. → Sai vì câu gốc nhấn mạnh sự đòi hỏi một sự hưởng ứng hợp tác toàn cầu để giải quyết vấn đề biến đổi khí hậu, không phải chỉ các cá nhân.\nC. Tất cả mọi người nên tham gia vào các thỏa thuận khí hậu quốc tế. → Sai vì câu gốc không đề cập.\nD. Mỗi quốc gia phải độc lập tìm cách giải quyết vấn đề biến đổi khí hậu. → Sai vì câu gốc nhấn mạnh sự đòi hỏi một sự hưởng ứng hợp tác toàn cầu để giải quyết vấn đề biến đổi khí hậu, không phải riêng lẻ mỗi quốc gia."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Deforestation may be more impactful than fossil fuels in causing climate change.",
+            "B": "Without significant reductions in emissions, climate change consequences could become irreversible.",
+            "C": "Coastal erosion primarily affects rural areas rather than urban areas.",
+            "D": "Fossil fuel use is the sole reason for the current global warming trend."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Sai vì bài đọc đề cập phá rừng là một yếu tố trong việc gây ra biến đổi khí hậu, không nói rằng nó ảnh hưởng mạnh mẽ hơn nhiên liệu hóa thạch.\nB. Đúng — có thể suy ra từ: Scientists warn that unless greenhouse gas emissions are significantly reduced, the Earth's climate may experience irreversible damage.\nC. Sai vì thông tin không được đề cập.\nD. Sai vì sử dụng nhiên liệu hóa thạch không phải là nguyên nhân duy nhất mà bên cạnh đó còn là nạn phá rừng."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "The increase in greenhouse gases, driven by industrial growth, is causing significant environmental challenges, calling for a cooperative global response.",
+            "B": "Fossil fuels and deforestation are key causes of climate change, which governments can only address through international agreements.",
+            "C": "The Paris Agreement aims to limit global warming by encouraging businesses to switch to renewable energy sources.",
+            "D": "Climate change impacts are mostly related to the natural environment, with minimal effects on human communities and health."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tóm tắt:\nĐoạn 1: Biến đổi khí hậu là một thách thức toàn cầu, ảnh hưởng đến hệ sinh thái, đa dạng sinh học và sức khỏe con người, và nếu không giảm khí thải nhà kính thì Trái đất sẽ chịu thiệt hại không thể phục hồi.\nĐoạn 2: Biến đổi khí hậu chủ yếu do đốt nhiên liệu hóa thạch và phá rừng, giải phóng CO2 vào khí quyển, gây nóng lên toàn cầu và gia tăng hiệu ứng nhà kính.\nĐoạn 3: Biến đổi khí hậu gây ra mực nước biển dâng cao làm xói mòn bờ biển và gây lũ lụt. Ngoài ra, các hiện tượng thời tiết cực đoan như bão, hạn hán, sóng nhiệt, đe dọa cơ sở hạ tầng, sức khỏe con người và sự đảm bảo lương thực.\nĐoạn 4: Giải quyết biến đổi khí hậu cần sự hợp tác toàn cầu. Các chính phủ đã tham gia các hiệp định như Hiệp định Paris, nhưng các cá nhân và doanh nghiệp cũng phải giảm dấu chân carbon qua tiết kiệm năng lượng, giảm rác thải và hỗ trợ năng lượng tái tạo.\nA đúng vì tóm tắt đầy đủ nội dung bài đọc."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "SOARING HIGH WITH SPACE TOURISM",
+      "passage": "Have you ever dreamed of (30)_______ the stars and exploring the mysteries of outer space? Now, with CosmoVentures, your dream can become a reality. Our innovative space tourism program offers an unforgettable journey, combining adventure, luxury, and cutting-edge technology.\n\nWhy Choose Cosmo Ventures?\n\nAdvanced Spacecrafts: (31)_______ with the latest technology, our spacecrafts ensure safety and comfort for all passengers.\n\nEco-Conscious: Enjoy your unforgettable journey, confidently knowing we've carefully (32)_______ significant steps to drastically minimize our substantial carbon footprint with our (33)_______ systems.\n\nExpert Training: All participants receive (34)_______ training to prepare for an unforgettable experience in zero gravity.\n\nStart Your Cosmic Adventure Today\n\nVisit CosmoVentures.com to learn more and book your ticket to the stars. Discover how we bridge the gap between dreams and reality.\n\nAs you gear up for this extraordinary adventure, our team will make sure you are fully prepared to take (35)_______ the challenges of space exploration. Let's shape the future of travel, one journey at a time.",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "reach",
+            "B": "reaching",
+            "C": "to reach",
+            "D": "reached"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc: dream of doing something: mơ ước làm việc gì\nTạm dịch: Have you ever dreamed of reaching the stars and exploring the mysteries of outer space? (Bạn đã bao giờ mơ ước được chạm tới các vì sao và khám phá những bí ẩn của vũ trụ chưa?)"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Being equipped",
+            "B": "Equipped",
+            "C": "To equip",
+            "D": "Have equipped"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động: ta lược bỏ đại từ quan hệ và 'to be' (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: Equipped with the latest technology, our spacecrafts ensure safety and comfort for all passengers. (Được trang bị công nghệ mới nhất, những tàu vũ trụ của chúng tôi đảm bảo sự an toàn và sự thoải mái cho tất cả hành khách.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "taken",
+            "B": "made",
+            "C": "done",
+            "D": "gone"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ: take steps to do something: thực hiện các bước để làm gì\nTạm dịch: Enjoy your unforgettable journey, confidently knowing we've carefully taken significant steps to drastically minimize our substantial carbon footprint with our highly innovative propulsion systems. (Tận hưởng chuyến đi không thể nào quên của bạn mà biết một cách tự tin rằng chúng tôi đã thực hiện những bước quan trọng để giảm thiểu đáng kể lượng khí thải carbon với hệ thống đẩy cực kỳ sáng tạo của chúng tôi.)"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "highly innovative propulsion",
+            "B": "innovative highly propulsion",
+            "C": "propulsion of innovative highly",
+            "D": "highly propulsion innovative"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự từ: trạng từ + tính từ + danh từ\nhighly (trạng từ) bổ nghĩa cho tính từ 'innovative'\ntính từ 'innovative' bổ nghĩa cho danh từ 'propulsion'\nTạm dịch: …with our highly innovative propulsion systems. (…với hệ thống đẩy cực kỳ sáng tạo của chúng tôi.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "comprehensible",
+            "B": "comprehensive",
+            "C": "comprehend",
+            "D": "comprehension"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. comprehensible /ˌkɒm.prɪˈhen.sə.bəl/ (adj): dễ hiểu\nB. comprehensive /ˌkɒm.prɪˈhen.sɪv/ (adj): toàn diện, bao quát\nC. comprehend /ˌkɒm.prɪˈhend/ (v): hiểu, lĩnh hội\nD. comprehension /ˌkɒm.prɪˈhen.ʃən/ (n): sự hiểu, khả năng hiểu\nTrước danh từ 'training' (khóa đào tạo) ta dùng tính từ để bổ nghĩa và dựa vào ngữ cảnh ta chọn 'comprehensive'.\nTạm dịch: All participants receive comprehensive training to prepare for an unforgettable experience in zero gravity."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "up",
+            "C": "to",
+            "D": "after"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về giới từ:\ntake on (phrasal verb): chấp nhận thử thách\nTạm dịch: As you gear up for this extraordinary adventure, our team will make sure you are fully prepared to take on the challenges of space exploration. (Khi bạn chuẩn bị cho cuộc hành trình phi thường này, đội ngũ của chúng tôi sẽ đảm bảo rằng bạn được chuẩn bị đầy đủ để chấp nhận những thử thách của việc khám phá không gian.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangements of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "a. Jane: Yes, it feels very warm, but I must warn you that burning coal produces soot.\nb. Nga: Hi. Yes, my dad bought it last week. It heats up our home very quickly. Let me put in some more coal.\nc. Jane: Watch out! You're too close and will burn yourself!\nd. Nga: Oh no, I don't know that. Thanks so much.\ne. Jane: Hi, Nga. Is that a coal-burning stove?\nf. Nga: Don't worry! I'm very careful.",
+          "options": {
+            "A": "e-b-c-f-a-d",
+            "B": "b-e-f-c-d-a",
+            "C": "c-b-a-f-c-d",
+            "D": "a-b-c-d-e-f"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đúng: e-b-c-f-a-d\nJane hỏi về bếp than (e) → Nga xác nhận và định thêm than (b) → Jane cảnh báo nguy hiểm (c) → Nga trả lời không lo (f) → Jane cảnh báo về bồ hóng (a) → Nga cảm ơn (d)."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "a. I am also proud to speak a language that has a long history. Although my country used to be invaded by other countries, the language has always been kept alive and the most powerful unifying force.\nb. Among these features, language is what makes me Vietnamese. There are several reasons for this.\nc. For most people, expressing one's cultural identity is often a way to show who they are and how they relate to others. It can be demonstrated through their language, food, clothing, beliefs, music and festivals.\nd. Vietnamese is the language that can unite the people of my country in the face of any danger. Although there are over fifty ethnic groups, we all use Vietnamese as the official language.\ne. It is the means of communication at school and in my community. It allows me to experience and share my culture.",
+          "options": {
+            "A": "e-b-d-c-a",
+            "B": "c-b-d-a-e",
+            "C": "d-c-a-b-e",
+            "D": "e-a-b-c-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: c-b-d-a-e\nc (giới thiệu chủ đề bản sắc văn hóa) → b (ngôn ngữ là điều làm tôi là người Việt Nam) → d (tiếng Việt đoàn kết người Việt) → a (tự hào về ngôn ngữ có bề dày lịch sử) → e (phương tiện giao tiếp và chia sẻ văn hóa)."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "Dear Tom,\na. I recently discovered the fascinating music album \"Bao Tang Cua Nuoi Tiec,\" and I think it would be such a unique experience to listen to it together!\nb. I've always wanted to dive into the rich themes and melodies in the album and discuss what we think about the music.\nc. It would be a wonderful opportunity for us to catch up while enjoying some great tunes!\nd. Let me know if you're available, and we can plan the details for our listening session. I'm really looking forward to it!\ne. Would you be interested in having a listening session this weekend? I think it could be really fun.\nWrite back soon.\nChris",
+          "options": {
+            "A": "e-a-c-b-d",
+            "B": "b-a-d-c-e",
+            "C": "e-a-b-c-d",
+            "D": "c-b-e-a-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: b-a-d-c-e\nb (giới thiệu mong muốn thảo luận về album) → a (khám phá album thú vị) → d (hỏi xem có rảnh không để lên kế hoạch) → c (cơ hội tuyệt vời để gặp gỡ) → e (đề xuất buổi nghe nhạc cuối tuần này)."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "a. Jane: Good point. Being informed and aware of bias is key to understanding the world better.\nb. Peter: Absolutely. It keeps us informed about what's happening around the world.\nc. Jane: Do you think mass media still plays an important role in our lives?\nd. Peter: That's true, but it's up to us to verify information and consume news critically.\ne. Jane: But don't you think it can be biased sometimes?",
+          "options": {
+            "A": "c-b-e-d-a",
+            "B": "c-b-a-d-e",
+            "C": "c-d-e-b-a",
+            "D": "e-b-c-d-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đúng: c-b-e-d-a\nc (Jane hỏi về vai trò của truyền thông) → b (Peter đồng ý) → e (Jane đặt vấn đề thiên vị) → d (Peter thừa nhận nhưng nói cần tiếp nhận tin tức có chọn lọc) → a (Jane đồng ý và tổng kết)."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "a. Despite these efforts, challenges such as the gender pay gap, underrepresentation of women in leadership roles, and gender-based violence remain widespread.\nb. In recent decades, significant progress has been made toward achieving gender equality, with advancements in women's education, political participation, and workplace inclusion.\nc. This shift has been fueled by a growing recognition that gender equality is not only a matter of social justice but also a key driver of economic growth and social stability.\nd. International organizations, governments, and grassroots movements have increasingly advocated for the empowerment of women and the dismantling of patriarchal norms.\ne. Nevertheless, achieving true gender parity requires continuous efforts, including policy reforms, societal changes, and increased accountability across all sectors.",
+          "options": {
+            "A": "b-a-d-c-e",
+            "B": "b-a-d-e-c",
+            "C": "b-d-a-e-c",
+            "D": "b-c-d-a-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: b-c-d-a-e\nb (tiến bộ đáng kể trong bình đẳng giới) → c (sự thay đổi được thúc đẩy bởi nhận thức ngày càng tăng) → d (các tổ chức quốc tế và phong trào ủng hộ) → a (mặc dù những nỗ lực này, thách thức vẫn còn) → e (để đạt được bình đẳng giới thực sự cần nỗ lực liên tục)."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.547414+00:00",
+  "updatedAt": "2026-06-08T10:41:58.547414+00:00",
+  "originalFileName": "THPT_Chuyen_Ha_Long_Quang_Ninh_2025.json"
+}

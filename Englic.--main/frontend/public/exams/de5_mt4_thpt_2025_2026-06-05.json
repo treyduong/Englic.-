@@ -1,0 +1,626 @@
+{
+  "examId": "de5_mt4_thpt_2025_2026-06-05",
+  "title": "Đề Tham Khảo Theo Đề Minh Họa BGD Năm 2024 – Đề 5 MT4 – Kỳ Thi Tốt Nghiệp THPT 2025 – Môn Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file De5_MT4_THPT_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ĐềMinhHọa",
+    "#MT4"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "",
+      "passage": "During the 1960s and '70s, industrialised countries suffered a(n) ______(1), and violent crimes such as muggings increased at an alarming rate. What is more, it was expected to ______(2) worse. Only it didn't. Instead, it got much, much better. In the 1990s, crime started to fall dramatically, and today it is down by almost 50% across the industrialised world and continues to fall. Triumphant politicians will assert that their policies have cut crime. Actually, ______(3) of the country's policies, the trend does coincide ______(4) the use and subsequent prohibition of tetraethyl lead in petrol, ______(5) for years as a cause of aggressive behaviour. Therefore, countries that still use leaded petrol are being urged to stop ______(6) it to help improve health and crime prevention.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "incredible wave crime",
+            "B": "incredible crime wave",
+            "C": "wave incredible crime",
+            "D": "crime incredible wave"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm danh từ: Cụm danh từ trong trường hợp này là Adj + N + N.\nincredible crime wave: làn sóng tội phạm đáng kinh ngạc\nTạm dịch: Trong những năm 1960 và 1970, các nước công nghiệp hóa đã phải gánh chịu một làn sóng tội phạm đáng kinh ngạc."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "get",
+            "C": "make",
+            "D": "put"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm từ cố định: get + adj = \"trở nên\".\nget worse: trở nên tồi tệ hơn.\nTạm dịch: Hơn nữa, người ta dự đoán rằng tình hình sẽ trở nên tồi tệ hơn."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "regardless",
+            "B": "regarding",
+            "C": "regarded",
+            "D": "regard"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại: ở đây cần một trạng từ/giới từ.\nregardless of: bất kể\nTạm dịch: Trên thực tế, bất kể chính sách của quốc gia nào, xu hướng này trùng khớp với..."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "in",
+            "C": "by",
+            "D": "with"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm từ cố định: V + giới từ + tân ngữ.\ncoincide with something: trùng hợp với cái gì.\nTạm dịch: ...xu hướng này trùng khớp với việc sử dụng và sau đó là lệnh cấm tetraethyl chì trong xăng..."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which has known",
+            "B": "knowing",
+            "C": "to know",
+            "D": "known"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức: dạng rút gọn mệnh đề quan hệ dạng bị động.\nknown as: được biết như là… trong nhiều năm (= which has been known as)\nTạm dịch: ...vốn được biết đến trong nhiều năm là nguyên nhân gây ra hành vi hung hăng."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to use",
+            "B": "used",
+            "C": "use",
+            "D": "using"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức: động từ đi với V-ing.\nstop + V-ing: ngừng làm gì (stop using = ngừng sử dụng).\nTạm dịch: Do đó, các quốc gia vẫn sử dụng xăng pha chì đang được khuyến khích ngừng sử dụng để giúp cải thiện sức khỏe và phòng ngừa tội phạm."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Small Steps, Big Impact: Sustainable Living Tips",
+      "passage": "Making small changes in our daily routines can have a significant effect on our planet. Let's see what you can do to make a difference every day.\n\n♻ Eye-Opening Facts\nWorldwide, over 300 million tons of plastic are produced each year, and (7)_______ single-use plastic items are among the most harmful to our oceans. We (7)_______ billions of plastic bottles and bags annually, most of which end up in _______(8) landfills or the sea, threatening wildlife.\n\n♻ How You Can Help\n• Buy fresh, unpackaged fruits and vegetables instead of those wrapped in plastic. Supporting local farmers decreases transport (9)_______ and promotes sustainable farming.\n• Make homemade meals whenever possible. (10)_______ buying pre-packaged snacks, prepare your own to reduce waste.\n• Use a cloth shopping bag. This decreases the (11)_______ of disposable bags in circulation.\n• Recycle as much as you can. Sort your waste into (12)_______ like paper, metal, and plastic, and drop them off at local recycling facilities.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "many",
+            "C": "every",
+            "D": "another"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ chỉ lượng:\n- many + danh từ số nhiều (items): nhiều\n- others: không cần danh từ sau nó\n- every và another + danh từ số ít\nĐáp án B: many single-use plastic items = nhiều đồ nhựa dùng một lần\nTạm dịch: ...và nhiều sản phẩm nhựa dùng một lần nằm trong số những thứ gây hại nhất cho đại dương của chúng ta."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "go through",
+            "B": "throw off",
+            "C": "set up",
+            "D": "give away"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ:\n- Throw off: cởi bỏ\n- Set up: thành lập\n- Give away: cho đi\n- go through: dùng hết\ngo through billions of plastic bottles: dùng hết hàng tỷ chai nhựa\nTạm dịch: Chúng ta dùng hàng tỷ chai nhựa và túi nhựa hàng năm, hầu hết chúng đều kết thúc ở bãi rác hoặc biển."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "provisions",
+            "B": "emissions",
+            "C": "appreciation",
+            "D": "management"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ cùng trường nghĩa:\n- Provision (n): sự cung cấp\n- Emissions (n): lượng khí thải\n- Appreciation (n): sự đánh giá\n- Management (n): sự quản lí\ndecrease transport emissions: giảm lượng khí thải từ xe cộ\nTạm dịch: Hỗ trợ nông dân địa phương làm giảm lượng khí thải vận chuyển và thúc đẩy nông nghiệp bền vững."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Rather than",
+            "B": "In order to",
+            "C": "Such as",
+            "D": "Illustrated by"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về liên từ:\n- Rather than: thay vì\n- In order to: nhằm để\n- Such as: như là\n- Illustrated by: được minh họa bởi\nRather than buying pre-packaged snacks, prepare your own to reduce waste: Thay vì mua đồ ăn nhẹ đóng gói sẵn, tự chuẩn bị để giảm thiểu chất thải."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amount",
+            "B": "weight",
+            "C": "quantity",
+            "D": "deal"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ chỉ lượng:\n- Sau từ cần điền là danh từ số nhiều (bags), nên không điền được amount (A)\n- Không có đơn vị đo khối lượng nên không chọn B. weight\n- Không chọn D vì deal phải đi với a deal of\n- Quantity of + danh từ đếm được số nhiều hoặc danh từ không đếm được: \"lượng…\"\nTạm dịch: Dùng túi vải để mua sắm. Điều này làm giảm một lượng túi dùng một lần đang lưu hành."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "bundles",
+            "B": "loads",
+            "C": "batches",
+            "D": "categories"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ cùng trường nghĩa:\n- A: bó\n- B: tải\n- C: lô\n- D: danh mục\nsort something into categories: phân loại cái gì\nTạm dịch: Tái chế càng nhiều càng tốt. Phân loại rác thải của bạn thành các danh mục như giấy, kim loại và nhựa."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Mai: I've been really busy with work lately, but I'm managing. How about you?\nb. Minh: Hey, it's been a while! How have you been?\nc. Minh: Pretty much the same here. Work has been crazy too.",
+          "options": {
+            "A": "b-c-a",
+            "B": "a-b-c",
+            "C": "b-a-c",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: b (Minh chào và hỏi thăm) → a (Mai trả lời và hỏi lại) → c (Minh trả lời câu hỏi của Mai).\nb: Cách tự nhiên để bắt đầu cuộc trò chuyện (\"Chào, lâu rồi không gặp! Bạn dạo này thế nào?\").\na: Câu trả lời cho câu hỏi trong b (\"Dạo này tôi rất bận rộn với công việc, nhưng tôi vẫn xoay xở được. Còn bạn thì sao?\").\nc: Câu này tiếp theo hợp lý sau a (\"Tôi cũng giống vậy thôi. Công việc cũng rất bận rộn.\")."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Sally: What about you? Have you been working on any new projects?\nb. Sally: Hi! Long time no see. How's everything going?\nc. Janna: Not really. I've been focusing on improving my skills before starting something new.\nd. Janna: Hey! I'm doing well, thanks. Just been really busy with work.\ne. Sally: That sounds like a good plan. It's important to be prepared.",
+          "options": {
+            "A": "b-d-a-c-e",
+            "B": "a-b-c-e-d",
+            "C": "b-a-d-c-e",
+            "D": "d-b-a-e-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: b (Sally chào hỏi) → d (Janna trả lời) → a (Sally hỏi thêm) → c (Janna trả lời câu hỏi của Sally) → e (Sally đưa ra ý kiến khích lệ).\nb: Bắt đầu cuộc trò chuyện với lời chào.\nd: Trả lời câu hỏi trong b.\na: Đặt câu hỏi tiếp theo để tiếp tục cuộc trò chuyện.\nc: Trả lời câu hỏi trong a.\ne: Đưa ra ý kiến khích lệ."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Dear Mary,\na. I really love it and can't wait to use it!\nb. Thank you so much for the wonderful birthday gift you sent me.\nc. Hope we can catch up soon!\nd. It was such a nice surprise, and it means a lot to me that you thought of me on my special day.\ne. Take care and talk soon!\nSee you",
+          "options": {
+            "A": "b-d-a-e-c",
+            "B": "b-a-d-c-e",
+            "C": "a-b-d-c-e",
+            "D": "d-b-a-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: b (cảm ơn vì món quà) → d (bổ sung cảm xúc và sự biết ơn) → a (thể hiện sự thích thú với món quà) → e (kết thúc nhẹ nhàng) → c (kết lại bằng lời hứa hẹn gặp gỡ).\nb: Mở đầu bằng cách thể hiện sự cảm ơn.\nd: Bổ sung thêm cảm xúc và sự biết ơn.\na: Thể hiện sự thích thú với món quà.\ne: Kết thúc cuộc trò chuyện một cách nhẹ nhàng.\nc: Kết lại bằng lời hứa hẹn gặp gỡ."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. First of all, recycling plastic reduces the amount of waste in landfills, which helps to decrease pollution.\nb. In conclusion, recycling plastic is essential for protecting our environment and preserving natural resources for future generations.\nc. Additionally, by reusing plastic materials, we conserve energy that would otherwise be used to produce new plastic products.\nd. Recycling plastic has numerous benefits for the environment.\ne. This not only reduces the demand for raw materials but also lowers greenhouse gas emissions.",
+          "options": {
+            "A": "d-a-e-c-b",
+            "B": "d-a-c-e-b",
+            "C": "a-d-e-c-b",
+            "D": "d-e-a-c-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: d (giới thiệu chủ đề) → a (lợi ích đầu tiên) → c (lợi ích thứ hai) → e (giải thích thêm về c) → b (kết luận).\nd: Giới thiệu chủ đề về lợi ích của việc tái chế nhựa.\na: Nêu lợi ích đầu tiên (\"Trước hết, tái chế nhựa giúp giảm lượng rác thải...\").\nc: Bổ sung thêm một lợi ích khác (\"Ngoài ra, bằng cách tái sử dụng vật liệu nhựa...\").\ne: Giải thích thêm về tác động của việc tiết kiệm nguyên liệu.\nb: Kết luận vấn đề."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. While exercise is important, a healthy lifestyle also requires a balanced diet that provides all the necessary nutrients.\nb. However, for those who want to lead a truly healthy life, it's not just about physical activity or eating right—mental well-being plays an equally crucial role.\nc. To maintain a healthy lifestyle, one of the first steps is to incorporate regular physical activity, which not only keeps your body fit but also improves your mental health.\nd. In conclusion, achieving a healthy lifestyle involves balancing physical, mental, and dietary aspects, all of which work together to improve overall well-being.\ne. Without managing stress and maintaining a positive outlook, even the best exercise routine and diet may not be enough to ensure long-term health.",
+          "options": {
+            "A": "c-a-e-b-d",
+            "B": "c-e-b-a-d",
+            "C": "a-c-b-e-d",
+            "D": "c-a-b-e-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: c (giới thiệu tầm quan trọng của hoạt động thể chất) → a (tầm quan trọng của chế độ ăn uống) → b (vai trò của sức khỏe tinh thần) → e (tầm quan trọng của việc quản lý căng thẳng) → d (kết luận).\nc: Bắt đầu bằng việc giới thiệu về tầm quan trọng của hoạt động thể chất.\na: Nêu thêm về tầm quan trọng của chế độ ăn uống cân bằng.\nb: Đề cập đến vai trò của sức khỏe tinh thần.\ne: Giải thích thêm về tầm quan trọng của việc quản lý căng thẳng.\nd: Kết luận vấn đề."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about humanoid robots and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Gary Hall Jr.",
+      "passage": "Gary Hall Jr. _______(18), was an excellent swimmer from a young age. People were amazed at his incredible speed, and he competed at a very high level. However, life didn't make things easy for him and he had to overcome major challenges to achieve his success.\n\nBy the age of 22, Gary had already competed at the 1996 Summer Olympics in Atlanta, Georgia, USA,_______(19). Gary was so happy and excited about his career. Then, when he was 24 years old, his doctor told him that he had a health condition called type 1 diabetes, and that he might not be able to continue swimming. Gary was devastated, but after a short break, he decided he wouldn't give up and continued to train with all his strength. ______(20)\n\nA year later, at the 2000 Olympics in Sydney, Australia, Gary gave an amazing performance and won four more medals: two golds, a silver and a bronze. He continued his career and competed at the 2004 Olympics in Athens, Greece, where he won another gold and a bronze medal.\n\nAccording to Gary, being too young in 1996 and having a health condition in 2000, _______(21). In 2004, people doubted him because they thought he was too old. However, he proved that they were wrong.\n\n_______(22). I admire him because he didn't give up, even when he was exhausted struggling to train and compete. With his determination, he achieved great success. From his story, we can all learn an important life lesson: \"To be successful, you must try your best and believe in what you can do\".",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "of which birthplace was in Cincinnati, Ohio, USA",
+            "B": "born and grew up in Cincinnati, Ohio, USA,",
+            "C": "that was born and grew up in Cincinnati, Ohio, USA,",
+            "D": "having been born and grown up in Cincinnati, Ohio, USA"
+          },
+          "correctAnswer": "B",
+          "explanation": "Giải thích từng đáp án:\nA. of which birthplace was in Cincinnati, Ohio, USA: sai vì of which chỉ dùng cho danh từ chỉ vật\nB. born and grew up in Cincinnati, Ohio, USA: đúng – dạng rút gọn của mệnh đề quan hệ (who was born and grew up)\nC. that was born and grew up in Cincinnati, Ohio, USA: sai vì 'that' không đi sau dấu phẩy\nD. having been born and grown up in Cincinnati, Ohio, USA: sai dạng rút gọn – having been\nTạm dịch: Gary Hall Jr., sinh ra và lớn lên tại Cincinnati, Ohio, Hoa Kỳ, là một vận động viên bơi lội xuất sắc từ khi còn nhỏ."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "where he won four medals - two silvers and two golds - and set an Olympic record",
+            "B": "missing two silvers and two golds and breaking an Olympic record",
+            "C": "setting an Olympic record but winning 4 medals",
+            "D": "on which his four medals were taken and his Olympic record was set"
+          },
+          "correctAnswer": "A",
+          "explanation": "Giải thích từng đáp án:\nA. Đúng – mệnh đề quan hệ chỉ nơi chốn dùng 'where', nội dung logic: giành 4 huy chương và lập kỷ lục\nB. Sai – 'missing' (bỏ lỡ) và 'breaking' (phá vỡ) không có nghĩa logic\nC. Sai – dùng liên từ 'but' không đúng, phải dùng 'and' (lập kỷ lục và dành được 4 huy chương)\nD. Sai – 'on which' dùng sai, phải dùng 'in which'\nTạm dịch: Đến năm 22 tuổi, Gary đã tham gia Thế vận hội Mùa hè năm 1996 tại Atlanta, Georgia, Hoa Kỳ, nơi anh giành được bốn huy chương - hai huy chương bạc và hai huy chương vàng - và lập kỷ lục Olympic."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The fight against his Diabetes Type 1 was tireless but all to no avail from then on",
+            "B": "He tried his best but nothing can compensate for the effort he had put in",
+            "C": "Often feeling frustrated because the training was tough, he couldn't achieve any medals in the next two successive Olympics events",
+            "D": "It was difficult and he often felt frustrated, but he made great progress."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Sai – 'all to no avail' (vô ích) trái với nội dung tiếp theo (Gary đã thành công ở 2000 và 2004)\nB. Sai – 'nothing can compensate for the effort' (nỗ lực không được đền đáp) trái với kết quả thực tế\nC. Sai – 'couldn't achieve any medals' (không đạt được huy chương nào) trái sự thật\nD. Đúng – 'It was difficult and he often felt frustrated, but he made great progress' phù hợp với mạch văn\nTạm dịch: Thật khó khăn và anh thường cảm thấy thất vọng, nhưng anh đã tiến bộ rất nhiều."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "people doubted his chances of success in",
+            "B": "he was doubted about his chances of success",
+            "C": "his chances of success was doubted by many people",
+            "D": "that proved that people doubted his chances of success"
+          },
+          "correctAnswer": "B",
+          "explanation": "Chỗ cần điền cần một mệnh đề S + V sao cho S là chủ ngữ của cả cụm vị ngữ 'being too young in 1996 and having a health condition in 2000'. Chủ ngữ phải là 'he' (Gary).\nĐáp án B: 'he was doubted about his chances of success' – 'he' làm chủ ngữ cho toàn bộ cụm.\nTạm dịch: Theo Gary, anh bị nghi ngờ về cơ hội thành công vì còn quá trẻ năm 1996 và có vấn đề về sức khỏe năm 2000."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Had it not been for a special person, Gary Hall Jr. wouldn't have overcome the obstacles to glory",
+            "B": "Gary Hall Jr. is a special person in regard to all of the obstacles he overcame on his path to glory",
+            "C": "Gary Hall Jr. overcame lots of obstacles so that he was exhausted and gave up.",
+            "D": "Being a special person, Gary Hall Jr. refused to exert himself to train and compete."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu 22 phải bổ sung ý cho câu trước nó 'However, he proved that they were wrong.'\nA. Sai – ý không logic với mạch văn (không có 'special person' được đề cập trước đó)\nC. Sai – 'gave up' trái với nội dung câu trước ('he proved that they were wrong')\nD. Sai – 'refused to exert himself' (từ chối nỗ lực) trái hoàn toàn với tinh thần của bài\nB. Đúng – Gary Hall Jr. là người đặc biệt khi xét đến tất cả những trở ngại mà anh đã vượt qua\nTạm dịch: Gary Hall Jr. là một người đặc biệt khi xét đến tất cả những trở ngại mà anh đã vượt qua trên con đường đến với vinh quang."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Huawei company and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "HALLYU – THE KOREAN WAVE",
+      "passage": "Over the past few decades, the term 'Hallyu', which translates to \"Korean Wave\", has made its way to the global stage. The rapid growth of the Hallyu market owes its success to meticulously crafted domestic cultural strategies and unwavering government support. Following the Asian financial crisis in 1997, President Kim Dae-jung envisioned a national cultural strategy to revive the economy. Since then, South Korea's cultural industry has been on an upward tendency.\n\nAmongst the latest ranking of most-subscribed-to YouTube accounts, BLACKPINK secures the global top spot of artists, followed by BTS in second place and Justin Bieber in third place. The exportation of cultural industries vividly showcases the escalating influence of Hallyu, now a trump card for South Korea in improving its soft power.\n\nBLACKPINK's recent presence at Buckingham Palace is not the first time South Korean idol groups have stepped onto the diplomatic stage. Thanks to the huge fan base and influence of these groups, they have become a common sight before foreign affairs visits and leader summits. Back in May 2022, BTS held an audience with US President Joe Biden at the White House, discussing matters concerning anti-Asian hate and racial discrimination.\n\nAccording to the '2021 National Image Survey' by the South Korean Ministry of Culture, Sports, and Tourism, a striking 80.5% of foreigners positively evaluated South Korea's national image. Undoubtedly, the Hallyu wave molds South Korea's national image on their political and cultural fronts.\n\n(Adapted from https://uclpimedia.com)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a reason for the popularity of Hallyu?",
+          "context": "",
+          "options": {
+            "A": "The influence of South Korean idol groups worldwide",
+            "B": "The increase in foreign investment in South Korea",
+            "C": "The support from the South Korean government",
+            "D": "The cultural strategies implemented in South Korea"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đáp án B đúng vì đầu tư nước ngoài không được nhắc đến như một lý do góp phần vào sự nổi tiếng của Hallyu.\nA: Sai – bài đọc đề cập BLACKPINK và BTS có ảnh hưởng lớn trên toàn cầu\nC: Sai – bài đọc nói sự hỗ trợ không ngừng của chính phủ là yếu tố quan trọng\nD: Sai – bài viết đề cập các chiến lược văn hóa của Hàn Quốc là lý do chính"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"unwavering\" in paragraph 1 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "inconsistent",
+            "B": "strong",
+            "C": "persistent",
+            "D": "durable"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng: unwavering (adj) = kiên định, không dao động.\nĐáp án A (inconsistent = không nhất quán) là từ trái nghĩa hoàn toàn với unwavering.\nB. strong: gần nghĩa với unwavering, không phải trái nghĩa\nC. persistent: cũng mang nghĩa kiên trì, không phải trái nghĩa\nD. durable: bền bỉ, gần nghĩa với unwavering"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "What does the word \"they\" in paragraph 3 refer to?",
+          "context": "",
+          "options": {
+            "A": "foreign leaders",
+            "B": "Korean idol groups",
+            "C": "Korean diplomats",
+            "D": "South Korean citizens"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Thanks to the huge fan base and influence of these groups, they have become a common sight before foreign affairs visits and leader summits.' 'They' trong ngữ cảnh này nói về các nhóm thần tượng Hàn Quốc như BLACKPINK và BTS.\nA: Sai – 'they' không ám chỉ các nhà lãnh đạo nước ngoài\nC: Sai – 'they' không ám chỉ các nhà ngoại giao Hàn Quốc\nD: Sai – 'they' không chỉ đến công dân Hàn Quốc nói chung"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The phrase \"soft power\" in paragraph 2 could be best replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "economic strength",
+            "B": "cultural impact",
+            "C": "military capability",
+            "D": "political pressure"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng: 'soft power' (sức mạnh mềm) thường được hiểu là sức mạnh văn hóa hoặc ảnh hưởng văn hóa, khác với hard power (sức mạnh cứng = quân sự, kinh tế).\nA: Sai – soft power không liên quan đến sức mạnh kinh tế\nC: Sai – soft power không ám chỉ sức mạnh quân sự\nD: Sai – soft power không mang nghĩa áp lực chính trị"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1?",
+          "context": "",
+          "options": {
+            "A": "The success of the Hallyu market comes from careful planning and consistent backing from the South Korean government.",
+            "B": "The Hallyu market grew quickly due to international strategies and the influence of Korean celebrities.",
+            "C": "The Hallyu market expanded because of increased interest from the global community and government partnerships.",
+            "D": "The rise of Hallyu is mainly due to government support without any domestic cultural planning."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: 'The rapid growth of the Hallyu market owes its success to meticulously crafted domestic cultural strategies and unwavering government support.'\nĐáp án A diễn đạt đúng nhất: careful planning = meticulously crafted domestic cultural strategies; consistent backing from the government = unwavering government support.\nB: Sai – nói về chiến lược quốc tế và người nổi tiếng, không phải chiến lược văn hóa trong nước\nC: Sai – nói về sự quan tâm từ cộng đồng quốc tế, không đúng với câu gốc\nD: Sai – hoàn toàn trái ngược (không có chiến lược văn hóa trong nước)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "BLACKPINK was the first South Korean idol group to attend an event at Buckingham Palace.",
+            "B": "BTS discussed anti-Asian hate and racial discrimination with Joe Biden at the White House.",
+            "C": "The South Korean Ministry of Culture, Sports, and Tourism conducted a survey in 2022 about the country's national image.",
+            "D": "Only 20% of foreigners have a positive view of South Korea's national image."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin đoạn 3: 'Back in May 2022, BTS held an audience with US President Joe Biden at the White House, discussing matters concerning anti-Asian hate and racial discrimination.' → Đáp án B đúng.\nA: Sai – bài chỉ ra đây không phải lần đầu tiên các nhóm nhạc Hàn Quốc xuất hiện trên sân khấu ngoại giao\nC: Sai – cuộc khảo sát là vào năm 2021, không phải 2022\nD: Sai – có đến 80.5% người nước ngoài đánh giá tích cực, không phải chỉ 20%"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph is the impact of Hallyu on diplomatic relations discussed?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác động của Hallyu đối với quan hệ ngoại giao được thảo luận trong Paragraph 3, vì nó nêu bật sự hiện diện của các nhóm thần tượng trong các sự kiện ngoại giao: BLACKPINK tại Buckingham Palace, BTS gặp Tổng thống Biden.\nĐoạn 1: Giới thiệu Hallyu và sự phát triển của thị trường\nĐoạn 2: Sức mạnh mềm của Hallyu\nĐoạn 4: Khảo sát về hình ảnh quốc gia"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph is Hallyu mentioned as a factor in enhancing South Korea's soft power?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 2 nêu rõ: 'The exportation of cultural industries vividly showcases the escalating influence of Hallyu, now a trump card for South Korea in improving its soft power.'\nĐoạn 1: Không đề cập đến khái niệm sức mạnh mềm\nĐoạn 3: Tập trung vào quan hệ ngoại giao, không đề cập soft power\nĐoạn 4: Khảo sát hình ảnh quốc gia, không nói đến soft power"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about studying abroad and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "STUDY SKILLS",
+      "passage": "Successful students often do the followings while studying. First, they have an overview before reading. Next, they look for important information and pay greater attention to it (which often needs jumping forward or backward to process information). They also relate important points to one another. Also, they activate and use their prior knowledge. When they realize that their understanding is not good, they do not wait to change strategies. Last, they can monitor understanding and take action to correct or \"fix up\" mistakes in comprehension.\n\nConversely, students with low academic achievement often demonstrate ineffective study skills. [I] They tend to assume a passive role in learning and rely on others (e.g., teachers, parents) to monitor their studying. [II] For example, low-achieving students often do not monitor their understanding of content; they may not be aware of the purpose of studying; and they show little evidence of looking back or employing \"fix-up\" strategies to fix understanding problems. [III] Students who struggle with learning new information seem to be unaware that they must extend effort beyond simply reading the content to understand and remember it. [IV]\n\nChildren with learning disabilities do not plan and judge the quality of their studying. Their studying may be disorganized. Students with learning problems face challenges with personal organization as well. They often have difficulty keeping track of materials and assignments, following directions, and completing work on time. Unlike good studiers who employ a variety of study skills in a flexible yet purposeful manner, low-achieving students use a restricted range of study skills. They cannot explain why good study strategies are important for learning; and they tend to use the same, often ineffective study approach for all learning tasks, ignoring task content, structure or difficulty.\n\n(Source: Adapted from Study Skills: Managing Your Learning — NUI Galway)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 2 does the following sentence best fit?\n\"This lack of initiative often leads to poor comprehension and retention of information.\"",
+          "context": "",
+          "options": {
+            "A": "[I]",
+            "B": "[II]",
+            "C": "[III]",
+            "D": "[IV]"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu cần chèn: 'This lack of initiative often leads to poor comprehension and retention of information' (Việc thiếu sáng kiến này thường dẫn đến việc hiểu và ghi nhớ thông tin kém).\nVị trí [II] phù hợp nhất vì: câu trước đó [I] → [II] nói về việc học sinh thụ động, dựa vào người khác. Thêm câu này vào [II] sẽ làm rõ rằng chính việc thiếu chủ động là nguyên nhân dẫn đến khả năng hiểu và ghi nhớ kém."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase \"fix-up\" in paragraph 2 could be best replaced by _________.",
+          "context": "",
+          "options": {
+            "A": "problem-solving",
+            "B": "learning disabilities",
+            "C": "studying challenges",
+            "D": "content understanding"
+          },
+          "correctAnswer": "A",
+          "explanation": "'Fix-up strategies' có nghĩa là các phương pháp để sửa chữa, khắc phục hiểu biết khi gặp khó khăn, gần giống với 'problem-solving methods' (phương pháp giải quyết vấn đề).\nB. learning disabilities: nghĩa là các khó khăn về học tập, không phải là chiến lược sửa chữa\nC. studying challenges: những thách thức trong học tập, không phải chiến lược để sửa chữa\nD. content understanding: sự hiểu biết nội dung, không có nghĩa gần với 'fix-up strategies'"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word 'They' in the 1st paragraph refers to ______.",
+          "context": "",
+          "options": {
+            "A": "Teachers",
+            "B": "Low-achieving students",
+            "C": "High-achieving students",
+            "D": "Children with learning disabilities"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong ngữ cảnh đoạn văn thứ nhất, 'They' chỉ những học sinh có thành tích cao (successful students), những người thường liên kết các điểm quan trọng với nhau để hiểu tốt hơn.\nA. Teachers: Đoạn văn không nhắc đến giáo viên\nB. Low-achieving students: Học sinh có thành tích thấp không thực hiện việc liên kết các điểm quan trọng\nD. Children with learning disabilities: Những học sinh có khó khăn về học tập cũng không có kỹ năng này"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 3, which of the following is NOT MENTIONED about children with learning disabilities?",
+          "context": "",
+          "options": {
+            "A": "They lack the ability to organize their study materials.",
+            "B": "They often fail to follow directions and complete work on time.",
+            "C": "They do not know how to manage stress effectively.",
+            "D": "They use the same study approach for different types of tasks."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 3 đề cập đến:\nA: Đúng – 'face challenges with personal organization' và 'difficulty keeping track of materials'\nB: Đúng – 'difficulty following directions, and completing work on time'\nD: Đúng – 'tend to use the same, often ineffective study approach for all learning tasks'\nC: Không được đề cập – đoạn văn không nói về kỹ năng quản lý căng thẳng"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarizes paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Difficulties in remembering information",
+            "B": "Some common habits among low-achieving students",
+            "C": "How high-achieving students use prior knowledge",
+            "D": "Study methods used in the classroom"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn văn thứ hai mô tả chi tiết về thói quen học tập không hiệu quả của học sinh có thành tích thấp: thụ động, dựa vào người khác, không tự kiểm soát, không áp dụng fix-up strategies.\nA: Sai – đoạn văn không tập trung vào vấn đề ghi nhớ\nC: Sai – đoạn 2 không nói về học sinh có thành tích cao\nD: Sai – không có thông tin về phương pháp học tập trong lớp học"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which word below is opposite in meaning to \"ineffective\"?",
+          "context": "",
+          "options": {
+            "A": "purposeful",
+            "B": "organized",
+            "C": "efficient",
+            "D": "flexible"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng: ineffective = không hiệu quả, không đạt được kết quả mong muốn.\nTừ đối nghĩa là 'efficient' (hiệu quả).\nA. purposeful: có mục đích – không phải trái nghĩa trực tiếp\nB. organized: có tổ chức – không phải trái nghĩa trực tiếp\nD. flexible: linh hoạt – không phải trái nghĩa trực tiếp"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE about students with low academic achievement, according to the passage?",
+          "context": "",
+          "options": {
+            "A": "They have a variety of effective study skills for different learning tasks.",
+            "B": "They frequently check their understanding while studying.",
+            "C": "They rely on others to help them monitor their studying.",
+            "D": "They understand the purpose of employing good study strategies."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin đoạn 2: 'They tend to assume a passive role in learning and rely on others (e.g., teachers, parents) to monitor their studying.' → Đáp án C đúng.\nA: Sai – 'low-achieving students use a restricted range of study skills'\nB: Sai – 'they do not monitor their understanding of content'\nD: Sai – 'They cannot explain why good study strategies are important for learning'"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Students with learning difficulties find it hard to focus on their studies.",
+            "B": "Students who have trouble learning new material don't realize that understanding and remembering it requires more than just reading.",
+            "C": "Struggling students often spend a lot of time re-reading the content.",
+            "D": "Understanding complex content is difficult for students with low achievement."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: 'Students who struggle with learning new information seem to be unaware that they must extend effort beyond simply reading the content to understand and remember it.'\nĐáp án B diễn đạt chính xác nhất: 'don't realize' = 'unaware'; 'understanding and remembering requires more than just reading' = 'must extend effort beyond simply reading'.\nA: Không nói về yêu cầu nỗ lực để hiểu và ghi nhớ\nC: Không có thông tin về việc đọc lại nhiều lần\nD: Không bao gồm việc cần phải nỗ lực thêm để hiểu"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "All low-achieving students struggle with personal organization",
+            "B": "High-achieving students do not need others to supervise their studying",
+            "C": "Students with learning disabilities can easily remember information compared to others",
+            "D": "High-achieving students often ask teachers for help to study better"
+          },
+          "correctAnswer": "B",
+          "explanation": "Có thể suy ra: Vì học sinh có thành tích thấp 'rely on others to monitor their studying', suy ra học sinh có thành tích cao tự học hiệu quả hơn và không cần người khác giám sát. → Đáp án B là suy luận hợp lý nhất.\nA: Quá khái quát – đoạn văn chỉ đề cập 'một số' học sinh có thành tích thấp, chứ không phải tất cả\nC: Mâu thuẫn – học sinh có khó khăn trong học tập thường gặp vấn đề trong việc hiểu và tổ chức thông tin\nD: Không được hỗ trợ – đoạn văn không đề cập điều này"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Successful students use flexible and purposeful study skills to enhance understanding, while students with low academic achievement struggle with ineffective study strategies and organization.",
+            "B": "Students with low academic achievement often receive the support they need from teachers and parents to develop effective study skills.",
+            "C": "Only children with learning disabilities face challenges with organization and effective study habits.",
+            "D": "High-achieving students are more focused on completing assignments on time, while low-achieving students prefer reading content repeatedly."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đáp án A tóm tắt nội dung chính của đoạn văn một cách chính xác: học sinh thành công áp dụng kỹ năng học tập linh hoạt và có mục đích, trong khi học sinh có thành tích thấp gặp khó khăn với các chiến lược học tập không hiệu quả và vấn đề tổ chức.\nB: Sai – đoạn văn không nói học sinh thành tích thấp nhận được sự hỗ trợ cần thiết\nC: Sai – đoạn văn đề cập cả học sinh thành tích thấp nói chung, không chỉ trẻ có khuyết tật\nD: Sai – đoạn văn không đề cập đến việc học sinh thành tích cao chỉ tập trung hoàn thành bài tập đúng hạn"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.516738+00:00",
+  "updatedAt": "2026-06-08T10:41:58.516738+00:00",
+  "originalFileName": "De5_MT4_THPT_2025.json"
+}

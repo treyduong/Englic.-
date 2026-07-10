@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_nguyen_quang_dieu_dong_thap_2026-06-05",
+  "title": "Đề Thi Thử Tốt Nghiệp THPT Năm 2025 Lần 1 – THPT Nguyễn Quang Diệu, Đồng Tháp – Môn: Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Nguyen_Quang_Dieu_DongThap_2025_L1.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#DongThap",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 1 to 5.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "Dear Sir/Madam,\na. I am writing to ask for information about the upcoming field trip to General Vo Nguyen Giap's Tomb.\nb. Additionally, could you please provide me with specific requirements or guidelines that we need to follow during the visit?\nc. Sincerely\nd. Thank you for your time and consideration. I look forward to hearing back from you soon.\ne. I am interested in learning more about the details of the trip such as the date, time, and transportation arrangements.",
+          "options": {
+            "A": "e-d-b-a-c",
+            "B": "a-b-e-c-d",
+            "C": "b-e-d-c-a",
+            "D": "a-e-b-d-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Đây là dạng sắp xếp thư trang trọng (formal letter).\nThứ tự hợp lý: a (lý do viết thư) → e (nêu chi tiết muốn biết) → b (thêm yêu cầu cụ thể) → d (lời cảm ơn và kết thúc) → c (lời chào cuối thư).\nTạm dịch: Kính gửi Quý ông/bà, Tôi viết thư này để yêu cầu thông tin về chuyến đi thực tế sắp tới đến khu mộ Đại tướng Võ Nguyên Giáp. Tôi quan tâm đến việc tìm hiểu thêm về chi tiết của chuyến đi, chẳng hạn như ngày, giờ và các sắp xếp vận chuyển. Thêm vào đó, quý vị có thể vui lòng cung cấp cho tôi những yêu cầu hoặc hướng dẫn cụ thể mà chúng tôi cần tuân theo trong suốt chuyến thăm không? Cảm ơn quý vị đã dành thời gian và sự quan tâm. Tôi mong được nhận phản hồi từ quý vị sớm. Trân trọng,"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "a. To solve this, we can reduce plastic use and recycle more.\nb. If everyone works together, we can keep our water clean and protect the environment.\nc. Another cause is people throwing garbage into the water, especially plastic, which doesn't break down easily.\nd. Factories often dump harmful substances into rivers and oceans, making the water unsafe.\ne. Water pollution is caused by many things, like industrial waste, chemicals, and plastic.\nf. Governments can also create laws to stop factories from polluting, and people can help by cleaning up local beaches and rivers.",
+          "options": {
+            "A": "e-d-a-c-f-b",
+            "B": "e-c-d-a-b-f",
+            "C": "e-d-c-a-f-b",
+            "D": "e-a-f-b-d-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý của đoạn văn về ô nhiễm nước: e (câu chủ đề: ô nhiễm nước do nhiều nguyên nhân) → d (nguyên nhân 1: nhà máy xả thải) → c (nguyên nhân 2: rác nhựa) → a (giải pháp 1: giảm nhựa, tái chế) → f (giải pháp 2: luật pháp và dọn dẹp bãi biển) → b (kết luận lạc quan).\nTạm dịch: Ô nhiễm nước được gây ra bởi nhiều yếu tố, như chất thải công nghiệp, hóa chất và nhựa. Các nhà máy thường xả chất độc hại vào sông và đại dương, làm cho nước không an toàn. Một nguyên nhân khác là mọi người vứt rác xuống nước, đặc biệt là nhựa, mà không phân hủy dễ dàng. Để giải quyết vấn đề này, chúng ta có thể giảm sử dụng nhựa và tái chế nhiều hơn. Chính phủ cũng có thể tạo ra các luật để ngừng các nhà máy gây ô nhiễm, và mọi người có thể giúp đỡ bằng cách làm sạch các bãi biển và sông ngòi địa phương. Nếu mọi người cùng chung tay, chúng ta có thể giữ cho nước sạch và bảo vệ môi trường."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "a. Bill: That sounds interesting! What do you do during it?\nb. Mateo: I'm from Mexico. We have big celebrations like Día de los Muertos.\nc. Mateo: We honor our ancestors with food, flowers, and music. It's very colorful!",
+          "options": {
+            "A": "c-a-b",
+            "B": "c-b-a",
+            "C": "b-c-a",
+            "D": "b-a-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hội thoại hợp lý: b (Mateo giới thiệu về Mexico và lễ hội) → a (Bill hỏi thêm về hoạt động trong lễ hội) → c (Mateo mô tả cách tổ chức).\nTạm dịch: Mateo: Tôi đến từ Mexico. Chúng tôi có những lễ hội lớn như Día de los Muertos. / Bill: Nghe thú vị quá! Bạn làm gì trong lễ hội đó? / Mateo: Chúng tôi tôn vinh tổ tiên bằng thức ăn, hoa và âm nhạc. Nó rất rực rỡ!"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "a. Disney began his career as a cartoonist and worked for several animation studios before starting his own company in 1923.\nb. After several successes in cartoons, he opened the first Disney theme park, Disneyland, in California in 1955 and Walt Disney World in Florida in 1971.\nc. Walt Disney was a famous American animator, film producer, and entrepreneur. He was born in 1901 in Chicago, Illinois.\nd. His first successful cartoon was Steamboat Willie, which featured Mickey Mouse and was the first global cartoon to use synchronized sound.\ne. Unfortunately, in 1966, Walt Disney passed away due to a lethal lung cancer.",
+          "options": {
+            "A": "a-b-d-e-c",
+            "B": "c-a-d-b-e",
+            "C": "c-e-b-d-a",
+            "D": "a-d-b-c-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự sắp xếp theo trình tự tiểu sử (chronological order): c (giới thiệu Walt Disney) → a (bắt đầu sự nghiệp 1923) → d (bộ phim thành công đầu tiên: Steamboat Willie) → b (mở công viên chủ đề Disneyland 1955, Walt Disney World 1971) → e (qua đời 1966).\nTạm dịch: Walt Disney là một nhà làm phim hoạt hình, nhà sản xuất phim và doanh nhân nổi tiếng người Mỹ. Ông sinh năm 1901 tại Chicago, Illinois. Disney bắt đầu sự nghiệp của mình với tư cách là một họa sĩ hoạt hình và đã làm việc cho một số studio hoạt hình trước khi thành lập công ty riêng vào năm 1923. Bộ phim hoạt hình thành công đầu tiên của ông là Steamboat Willie, có sự xuất hiện của Mickey Mouse và là bộ phim hoạt hình toàn cầu đầu tiên sử dụng âm thanh đồng bộ. Sau nhiều thành công trong lĩnh vực hoạt hình, ông đã mở công viên chủ đề Disney đầu tiên, Disneyland, tại California vào năm 1955 và Walt Disney World ở Florida vào năm 1971. Thật không may, vào năm 1966, Walt Disney đã qua đời vì bệnh ung thư phổi nguy hiểm."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "a. Michael: That's true, and I think practicing with a native speaker could really help!\nb. Kim: I know it can be challenging, but I heard that once you get the hang of the tones, it becomes easier.\nc. Michael: I've been thinking about learning Chinese, but it seems so difficult with all the\nd. Michael: That sounds perfect! I'll join you, and we can practice together.\ne. Kim: Absolutely! I found some great online resources and language exchange partners.",
+          "options": {
+            "A": "c-b-a-e-d",
+            "B": "c-e-d-b-a",
+            "C": "d-b-a-c-e",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hội thoại hợp lý: c (Michael đang nghĩ đến việc học tiếng Trung nhưng thấy khó) → b (Kim động viên và chia sẻ điều đã nghe) → a (Michael đồng ý và đề xuất luyện tập với người bản ngữ) → e (Kim cho biết đã tìm được tài nguyên và đối tác trao đổi) → d (Michael đồng ý tham gia cùng Kim).\nTạm dịch: Michael: Tôi đã nghĩ về việc học tiếng Trung, nhưng có vẻ rất khó với tất cả các âm điệu. / Kim: Tôi biết nó có thể khó, nhưng tôi nghe nói rằng một khi bạn làm quen được với các âm điệu, nó sẽ dễ dàng hơn. / Michael: Đúng vậy, và tôi nghĩ việc luyện tập với người bản ngữ thực sự có thể giúp ích! / Kim: Chắc chắn rồi! Tôi đã tìm thấy một số tài nguyên trực tuyến tuyệt vời và các đối tác trao đổi ngôn ngữ. / Michael: Nghe tuyệt vời đấy! Tôi sẽ tham gia cùng bạn, và chúng ta có thể luyện tập cùng nhau."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 6 to 11.",
+      "passageTitle": "A NEW PLACE TO LIVE",
+      "passage": "Welcome to Green View Residences, the perfect place for modern urban living! This brand-new residential area, which (6)_______ last month, offers everything you need.\n\nLocated in (7)_______ heart of the city, it combines convenience with natural beauty. (8)_______ you explore the surroundings, the more you'll fall in love with the (9)_______ parks and nearby cafes. Every apartment (10)_______ spacious rooms and large windows, creating a bright and cozy atmosphere.\n\nGreen View Residences has become the talk of the town, (11)_______ shows how much people appreciate its design. Visit today to experience a lifestyle where comfort meets style!",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was completed",
+            "B": "was completing",
+            "C": "completed",
+            "D": "had completed"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu bị động: Ta xét thấy khu dân cư phải 'được' hoàn thành việc xây dựng chứ không thể tự nó hoàn thành được, nên chỗ trống cần chia động từ ở thể bị động.\nCấu trúc câu bị động: S + be + V-pII\nTạm dịch: This brand-new residential area, which was completed last month, offers everything you need. (Khu dân cư hoàn toàn mới này, vừa được hoàn thành vào tháng trước, cung cấp mọi thứ bạn cần.)"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "a",
+            "B": "the",
+            "C": "an",
+            "D": "X"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ: the heart of the city = trung tâm thành phố (danh từ xác định, dùng mạo từ xác định 'the').\nTạm dịch: Located in the heart of the city, it combines convenience with natural beauty. (Tọa lạc ngay trung tâm thành phố, nơi đây kết hợp giữa sự tiện nghi và vẻ đẹp tự nhiên.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Most",
+            "B": "The most",
+            "C": "more",
+            "D": "The more"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc so sánh lũy tiến: the more + S + V, the more + S + V: càng ..., càng ...\nTạm dịch: The more you explore the surroundings, the more you'll fall in love with the peaceful parks and nearby cafes. (Càng khám phá xung quanh, bạn sẽ càng yêu thích những công viên yên bình và các quán cà phê gần đó.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "peace",
+            "B": "peacefully",
+            "C": "peaceful",
+            "D": "peacefulness"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. peace /piːs/ (n): hòa bình\nB. peacefully /ˈpiːs.fəl.i/ (adv): một cách yên bình\nC. peaceful /ˈpiːs.fəl/ (adj): yên bình\nD. peacefulness /ˈpiːs.fəl.nəs/ (n): tính yên bình\nChỗ trống đứng trước danh từ (parks) → cần tính từ.\nTạm dịch: The more you explore the surroundings, the more you'll fall in love with the peaceful parks and nearby cafes. (Càng khám phá xung quanh, bạn sẽ càng yêu thích những công viên yên bình và các quán cà phê gần đó.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "includes",
+            "B": "contains",
+            "C": "comprises",
+            "D": "consists"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\n- include /ɪnˈkluːd/ (v): bao gồm (liệt kê một vài phần trong một tổng thể)\n- contain /kənˈteɪn/ (v): chứa đựng\n- comprise /kəmˈpraɪz/ (v): bao gồm (liệt kê các thành phần cấu tạo nên tổng thể)\n- consist /kənˈsɪst/ (v): bao gồm → consist of something: bao gồm cái gì (cần giới từ 'of')\nTạm dịch: Every apartment comprises spacious rooms and large windows, creating a bright and cozy atmosphere. (Mỗi căn hộ đều có các phòng rộng rãi và cửa sổ lớn, tạo nên một không gian sáng sủa và ấm cúng.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which",
+            "B": "that",
+            "C": "where",
+            "D": "who"
+          },
+          "correctAnswer": "A",
+          "explanation": "Mệnh đề quan hệ: Dùng đại từ quan hệ 'which' làm chủ ngữ thay thế cho mệnh đề đứng trước (Green View Residences has become the talk of the town). 'that' không dùng được sau dấu phẩy. 'where' thay thế cho nơi chốn. 'who' thay thế cho người.\nTạm dịch: Green View Residences has become the talk of the town, which shows how much people appreciate its design. (Green View Residences đã trở thành chủ đề được mọi người bàn tán, cho thấy sự đánh giá cao về thiết kế của nơi đây.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 12 to 17.",
+      "passageTitle": "GO GREEN, ACT NOW",
+      "passage": "Our planet needs us, and the time to act is now! The \"Go Green, Act Now\" campaign encourages everyone to adopt eco-friendly habits to protect the environment. Over the past few months, we (12)_______ many people to recycle, save energy, and reduce waste. Together, we can make a difference!\n\nSmall actions (13)_______ to big changes. Start by using reusable bags, switching off lights when not needed, and walking or (14)_______ instead of driving. The more people join us, the stronger our impact will be, and our communities will become cleaner and greener.\n\nThe environment is facing serious challenges; (15)_______, it's essential to act quickly. By making sustainable choices every day, we can (16)_______ climate changed and our life quality.\n\nNature is getting (17)_______ and weaker as pollution grows, but we have the power to reverse this trend. Join us today and help build a future where the air is fresher, the water is cleaner, and the planet thrives again. Together, we can make it happen!",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "have inspire",
+            "B": "inspired",
+            "C": "inspire",
+            "D": "was inspiring"
+          },
+          "correctAnswer": "A",
+          "explanation": "Chia thì: 'Over the past few months' → dấu hiệu nhận biết thì Hiện tại hoàn thành (diễn tả hành động đã xảy ra và còn ảnh hưởng đến hiện tại). Cấu trúc: S + have/has + V-pII.\nTạm dịch: Over the past few months, we have inspired many people to recycle, save energy, and reduce waste. (Trong vài tháng qua, chúng tôi đã truyền cảm hứng cho nhiều người trong việc tái chế, tiết kiệm năng lượng và giảm thiểu rác thải.)"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "bring",
+            "B": "lead",
+            "C": "result",
+            "D": "cause"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. bring /brɪŋ/ (v): mang\nB. lead /liːd/ (v): dẫn đến → lead to something: dẫn đến cái gì\nC. result /rɪˈzʌlt/ (n): kết quả\nD. cause /kɔːz/ (v): gây ra\nCụm từ đúng: lead to big changes.\nTạm dịch: Small actions lead to big changes. (Những hành động nhỏ dẫn đến những thay đổi lớn.)"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "cycle",
+            "B": "cycling",
+            "C": "to cycle",
+            "D": "cycled"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc song song: Chỗ trống đứng sau liên từ 'or' nối với V-ing (walking) → cần V-ing.\nTạm dịch: Start by using reusable bags, switching off lights when not needed, and walking or cycling instead of driving. (Hãy bắt đầu bằng cách sử dụng túi tái sử dụng, tắt đèn khi không cần thiết, và đi bộ hoặc đạp xe thay vì lái xe.)"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "therefore",
+            "B": "moreover",
+            "C": "besides",
+            "D": "however"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức liên từ/trạng từ liên kết:\nA. therefore: vì thế (chỉ kết quả)\nB. moreover: hơn thế nữa (bổ sung)\nC. besides: bên cạnh đó (bổ sung)\nD. however: tuy nhiên (tương phản)\nCâu trước nêu thách thức → câu sau nêu kết luận hành động cần thiết → dùng 'therefore'.\nTạm dịch: The environment is facing serious challenges; therefore, it's essential to act quickly. (Môi trường đang phải đối mặt với những thách thức nghiêm trọng; vì vậy, việc hành động nhanh chóng là rất quan trọng.)"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "speed up",
+            "B": "fall off",
+            "C": "slow down",
+            "D": "put off"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\n- speed up: tăng tốc\n- fall off: giảm xuống\n- slow down: làm chậm lại\n- put off something: trì hoãn cái gì\nNgữ cảnh: bằng cách đưa ra các lựa chọn bền vững → có thể làm chậm sự thay đổi khí hậu.\nTạm dịch: By making sustainable choices every day, we can slow down climate changed and our life quality. (Bằng cách đưa ra các lựa chọn bền vững mỗi ngày, chúng ta có thể làm chậm sự thay đổi khí hậu và cải thiện chất lượng cuộc sống của chúng ta.)"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "weakness",
+            "B": "weaker",
+            "C": "weak",
+            "D": "weaken"
+          },
+          "correctAnswer": "B",
+          "explanation": "So sánh kép: adj-er + and + adj-er = càng ngày càng...\nCấu trúc: getting weaker and weaker = ngày càng yếu đi.\nTạm dịch: Nature is getting weaker and weaker as pollution grows, but we have the power to reverse this trend. (Thiên nhiên đang ngày càng yếu đi khi ô nhiễm gia tăng, nhưng chúng ta có quyền thay đổi xu hướng này.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 18 to 25.",
+      "passageTitle": "JAMES WATT",
+      "passage": "James Watt was a Scottish inventor who played an important role in the Industrial Revolution. He was born in 1736 and is famous for improving the steam engine, which changed industries and transportation.\n\nWatt loved mechanics from a young age. Even though he faced health problems and had little money, he stayed curious and hardworking. In 1763, while fixing a steam engine, he had an important idea. He realized that adding a separate part called a condenser could make the steam engine work better. This breakthrough was the start of his great inventions.\n\nWith the help of Matthew Boulton, a businessman, Watt developed his improved steam engine. In 1769, he got permission to make and sell it. His steam engine was very useful in industries like mining, textile making, and transportation. It helped factories, mills, and ships work faster and cheaper, making it an important part of the Industrial Revolution.\n\nWatt didn't stop improving his steam engine. He made it safer, stronger, and cheaper to use. Because of his steam engine, production in factories became faster, and goods became cheaper. Many people moved from villages to cities to work in factories powered by steam. Steam-powered trains and ships also made travel and transporting goods easier.\n\nJames Watt's work is still remembered today. The unit of power, the watt, was named in his honour, recognising his pioneering contributions to science and engineering. He overcame many problems to make important inventions and inspire future generations.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "What is the passage mainly about?",
+          "context": "",
+          "options": {
+            "A": "James Watt's inventions and why they are important",
+            "B": "How steam-powered machines changed may",
+            "C": "How the Industrial Revolution changed society",
+            "D": "James Watt's interest in steam engines"
+          },
+          "correctAnswer": "A",
+          "explanation": "Bài đọc tập trung vào các phát minh của James Watt, đặc biệt là động cơ hơi nước cải tiến, và tầm quan trọng của chúng đối với sự phát triển của cuộc Cách mạng Công nghiệp. Bài viết nhấn mạnh việc động cơ của Watt giúp các ngành công nghiệp như khai thác mỏ, sản xuất vải và giao thông trở nên hiệu quả hơn."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word 'breakthrough' in paragraph 2 is CLOSEST in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "improvement",
+            "B": "discovery",
+            "C": "motivation",
+            "D": "result"
+          },
+          "correctAnswer": "B",
+          "explanation": "breakthrough /ˈbreɪk.θruː/ (n): cú đột phá, khám phá = discovery\nA. improvement /ɪmˈpruːv.mənt/ (n): sự cải tiến\nB. discovery /dɪˈskʌv.ər.i/ (n): sự phát hiện\nC. motivation /ˌməʊ.tɪˈveɪ.ʃən/ (n): động lực\nD. result /rɪˈzʌlt/ (n): kết quả"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "How did James Watt get permission to make and sell his improved steam engine?",
+          "context": "",
+          "options": {
+            "A": "By creating new ideas and methods",
+            "B": "By making better inventions",
+            "C": "By working with a businessman",
+            "D": "By fixing old steam engines"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'With the help of Matthew Boulton, a businessman, Watt developed his improved steam engine. In 1769, he got permission to make and sell it.' (Với sự giúp đỡ của Matthew Boulton, một doanh nhân, Watt đã phát triển động cơ hơi nước cải tiến của mình. Năm 1769, ông nhận được phép chế tạo và bán nó.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which industries did James Watt's steam engine change?",
+          "context": "",
+          "options": {
+            "A": "Farming and agriculture",
+            "B": "Building and design",
+            "C": "Mining and making clothes",
+            "D": "Transport and communication"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'His steam engine was very useful in industries like mining, textile making, and transportation.' (Động cơ hơi nước của ông rất hữu ích trong các ngành công nghiệp như khai thác mỏ, sản xuất vải, và giao thông vận tải.) → C. Mining and making clothes (khai thác mỏ và sản xuất quần áo) là đúng nhất với 'mining' và 'textile making'."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word 'pioneering' in paragraph 5 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "established",
+            "B": "progressive",
+            "C": "advanced",
+            "D": "alternative"
+          },
+          "correctAnswer": "A",
+          "explanation": "pioneering /ˌpaɪəˈnɪər.ɪŋ/ (adj): mang tính tiên phong >< established /ɪˈstæb.lɪʃt/ (adj): đã có trước, đã được thiết lập\nA. established /ɪˈstæb.lɪʃt/ (adj): đã có trước\nB. progressive /prəˈgres.ɪv/ (adj): tiến bộ\nC. advanced /ɒlˈtɜː.nə.tɪv/ (adj): tiên tiến\nD. alternative /ədˈvɑːnst/ (adj): có tính thay thế"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which statement about James Watt is NOT true?",
+          "context": "",
+          "options": {
+            "A": "He had many good opportunities to study machines.",
+            "B": "He was interested in mechanics when he was young.",
+            "C": "A unit of power is named after him to honor his work.",
+            "D": "His work is still important today and in the future."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin trong bài:\n+ Watt loved mechanics from a young age. (Watt yêu thích cơ khí từ khi còn nhỏ.) → B đúng\n+ The unit of power, the watt, was named in his honour, recognising his pioneering contributions to science and engineering. → C đúng\n+ James Watt's work is still remembered today. → D đúng\n+ Even though he faced health problems and had little money, he stayed curious and hardworking. (Mặc dù gặp phải vấn đề về sức khỏe và có ít tiền, ông vẫn luôn tò mò và chăm chỉ.) → A sai vì ông không có nhiều cơ hội tốt"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "In which paragraph does the writer describe how James Watt improved the steam engine to make it more efficient?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'Watt didn't stop improving his steam engine. He made it safer, stronger, and cheaper to use.' (Watt không ngừng cải tiến động cơ hơi nước của mình. Ông làm cho nó an toàn hơn, mạnh mẽ hơn và rẻ hơn khi sử dụng.) → Đây là đoạn 4."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "In which paragraph does the writer mention how James Watt's work helped people travel around faster?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 5"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: 'Steam-powered trains and ships also made travel and transporting goods easier.' (Các chuyến tàu và tàu thuyền chạy bằng hơi nước cũng làm cho việc di chuyển và vận chuyển hàng hóa trở nên dễ dàng hơn.) → Đây là đoạn 4."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 26 to 35.",
+      "passageTitle": "GLOBAL WARMING",
+      "passage": "Global warming is one of the most pressing issues of our time, caused by a rapid increase in greenhouse gases in the Earth's atmosphere. (I) Human activities, particularly the burning of fossil fuels like coal, oil, and gas, release large amounts of carbon dioxide (CO2) into the air. (II) These gases trap heat from the sun, creating a \"greenhouse effect\" that warms the planet. (III) While the Earth's climate has changed throughout history, the current rate of warming is unprecedented and poses serious challenges. (IV)\n\nThe impacts of global warming are far-reaching. Rising temperatures are causing polar ice caps and glaciers to melt, leading to higher sea levels. This puts coastal cities and low-lying areas at risk of flooding. Additionally, warmer oceans can intensify hurricanes and other extreme weather events. Changes in temperature and rainfall patterns disrupt ecosystems, threatening wildlife and leading to biodiversity loss. Global warming also affects agriculture, with heatwaves and droughts making it harder to grow crops in some regions.\n\nAddressing global warming requires urgent action. Reducing greenhouse gas emissions is key to decelerating climate change. Governments, industries, and individuals all have roles to play. Transitioning to renewable energy sources like solar and wind power can significantly cut emissions. Protecting forests, which absorb CO2, and investing in energy-efficient technologies are also critical. By working together and adopting sustainable practices, we can mitigate the effects of global warming and secure a healthier future for our planet.",
+      "questions": [
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Scientists have long warned about the dangers of increasing greenhouse gas concentrations.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'These gases' ngay sau vị trí (II) trực tiếp đề cập đến 'gas concentrations' ở câu in đậm trên. Nên đặt câu trên ở vị trí (II) là hợp lý nhất.\nSau khi chèn: '...Scientists have long warned about the dangers of increasing greenhouse gas concentrations. These gases trap heat from the sun, creating a \"greenhouse effect\" that warms the planet.' (Các nhà khoa học từ lâu đã cảnh báo về những nguy hiểm của việc gia tăng nồng độ khí nhà kính. Những khí này giữ nhiệt từ mặt trời, tạo ra 'hiệu ứng nhà kính' làm ấm hành tinh.)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "The phrase 'far-reaching' in paragraph 2 is CLOSEST in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "detailed",
+            "B": "serious",
+            "C": "limited",
+            "D": "specific"
+          },
+          "correctAnswer": "B",
+          "explanation": "far-reaching /ˌfɑːˈriː.tʃɪŋ/ (adj): có ảnh hưởng sâu rộng = serious\nA. detailed /ˈdiː.teɪld/ (adj): chi tiết\nB. serious /ˈsɪə.ri.əs/ (adj): nghiêm trọng\nC. limited /ˈlɪm.ɪ.tɪd/ (adj): hạn chế\nD. specific /spəˈsɪf.ɪk/ (adj): cụ thể"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word 'This' in paragraph 2 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "flooding",
+            "B": "melting glaciers",
+            "C": "siding sea level",
+            "D": "global warming"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'The impacts of global warming are far-reaching. Rising temperatures are causing polar ice caps and glaciers to melt, leading to higher sea levels. This puts coastal cities and low-lying areas at risk of flooding.' (Tác động của nóng lên toàn cầu là rộng lớn. Nhiệt độ tăng cao đang làm tan chảy các chỏm băng và các tảng băng, dẫn đến mực nước biển dâng cao. Điều này đe dọa các thành phố ven biển và các khu vực thấp trũng bị ngập lụt.)\n'This' thay thế cho toàn bộ mệnh đề trước đó = nóng lên toàn cầu gây ra mực nước biển dâng."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "According to paragraph 2, which of the following is NOT an impact of global warming?",
+          "context": "",
+          "options": {
+            "A": "Rising sea levels",
+            "B": "Stronger hurricanes",
+            "C": "Flooding ecosystems",
+            "D": "Agricultural transformation"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin trong đoạn 2:\n+ Rising temperatures are causing polar ice caps and glaciers to melt, leading to higher sea levels. → A đúng (mực nước biển dâng)\n+ Additionally, warmer oceans can intensify hurricanes and other extreme weather events. → B đúng (bão mạnh hơn)\n+ Changes in temperature and rainfall patterns disrupt ecosystems, threatening wildlife and leading to biodiversity loss. → C sai (không phải 'ngập lụt hệ sinh thái' mà là 'gián đoạn hệ sinh thái')\nD. Agricultural transformation = biến đổi nông nghiệp: không được đề cập trong bài, bài chỉ nói 'affects agriculture' chứ không phải 'transformation'."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following best summarises paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "The effects of global warming include flooding, stronger storms, and changes in ecosystems.",
+            "B": "Global warming threatens wildlife and agriculture while causing extreme weather.",
+            "C": "The rising temperatures caused by global warming are a threat to human survival.",
+            "D": "Climate change leads to environmental and agricultural challenges for all regions."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn 2 chủ yếu nói về các tác động của biến đổi khí hậu, bao gồm ngập lụt do mực nước biển dâng, bão mạnh hơn do đại dương ấm lên, và thay đổi trong hệ sinh thái do nhiệt độ và lượng mưa thay đổi. Đáp án A tóm tắt đầy đủ và chính xác nhất các ý chính."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word 'mitigate' in paragraph 3 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "diminished",
+            "B": "worsen",
+            "C": "alleviate",
+            "D": "improve"
+          },
+          "correctAnswer": "B",
+          "explanation": "mitigate /ˈmɪt.ɪ.geɪt/ (v): làm nhẹ đi, giảm bớt >< worsen /ˈwɜː.sən/ (v): làm tồi tệ hơn\nA. diminish /dɪˈmɪn.ɪʃ/ (v): giảm bớt\nB. worsen /ˈwɜː.sən/ (v): làm tồi tệ hơn\nC. alleviate /əˈliː.vi.eɪt/ (v): làm giảm\nD. improve /ɪmˈpruːv/ (v): cải thiện"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "According to the passage, which of the following is TRUE?",
+          "context": "",
+          "options": {
+            "A": "Human activities are the main cause of the increase in greenhouse gases.",
+            "B": "Renewable energy hasn't reduced greenhouse gas emissions much yet.",
+            "C": "Some regions have more biodiversity because of warmer climates.",
+            "D": "Sea-level rise is mostly caused by changes in rainfall and heatwaves."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin:\n+ 'Human activities, particularly the burning of fossil fuels like coal, oil, and gas, release large amounts of carbon dioxide (CO2) into the air.' → A đúng\n+ 'Transitioning to renewable energy sources like solar and wind power can significantly cut emissions.' → B sai\n+ 'Changes in temperature and rainfall patterns disrupt ecosystems, threatening wildlife and leading to biodiversity loss.' → C sai\n+ 'Rising temperatures are causing polar ice caps and glaciers to melt, leading to higher sea levels.' → D sai"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph: \"Reducing greenhouse gas emissions is key to decelerating climate change.\"",
+          "context": "",
+          "options": {
+            "A": "We need to understand greenhouse gas emissions to stop global warming.",
+            "B": "Cutting emissions is the most important step to fight climate change.",
+            "C": "Climate change can be stopped only by controlling greenhouse gases.",
+            "D": "Slowing climate change partially depends on reducing greenhouse gases."
+          },
+          "correctAnswer": "B",
+          "explanation": "'Reducing greenhouse gas emissions is key to decelerating climate change.' = Giảm khí thải nhà kính là chìa khóa để làm chậm biến đổi khí hậu.\nB đúng nhất: Cắt giảm khí thải là bước quan trọng nhất để chống lại biến đổi khí hậu.\nC sai vì 'only' quá tuyệt đối.\nD sai vì 'partially' (một phần) không phù hợp với 'is key to' (là chìa khóa)."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Renewable energy is the only solution to global warming.",
+            "B": "If we don't act quickly, global warming will cause permanent damage.",
+            "C": "Governments have already done enough to stop global warming.",
+            "D": "Deforestation doesn't have much effect on global warming."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Addressing global warming requires urgent action.' (Giải quyết nóng lên toàn cầu đòi hỏi hành động khẩn cấp.) → Suy ra nếu không hành động nhanh chóng, nóng lên toàn cầu sẽ gây ra thiệt hại vĩnh viễn.\nA sai vì không khẳng định năng lượng tái tạo là giải pháp duy nhất.\nC sai vì đoạn văn kêu gọi các chính phủ, ngành công nghiệp và cá nhân cần hành động nhiều hơn.\nD sai vì trái với thông tin trong bài (bảo vệ rừng hấp thụ CO2 rất quan trọng)."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Global warming creates environmental and agricultural problems that require governments and individuals to reduce greenhouse gases.",
+            "B": "Global warming, caused by greenhouse gases, affects ecosystems and agriculture but can be fixed with renewable energy and sustainable practices.",
+            "C": "The increase in global temperatures causes rising sea levels and extreme weather, needing worldwide cooperation.",
+            "D": "Climate change, caused by human activity, risks biodiversity and agriculture, but solutions include forest protection and renewable energy."
+          },
+          "correctAnswer": "B",
+          "explanation": "Tóm tắt: Bài viết nói về biến đổi khí hậu gây ra bởi khí nhà kính và tác động của nó đến hệ sinh thái và nông nghiệp, đồng thời cung cấp các giải pháp như sử dụng năng lượng tái tạo và thực hành bền vững để khắc phục vấn đề.\nB đúng và bao quát đầy đủ 3 đoạn: nguyên nhân (khí nhà kính) → tác động (hệ sinh thái, nông nghiệp) → giải pháp (năng lượng tái tạo, thực hành bền vững)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 36 to 40.",
+      "passageTitle": "THE EDINBURGH FRINGE FESTIVAL",
+      "passage": "The Edinburgh Fringe Festival is a cultural event that takes place annually in Edinburgh, Scotland. (36)_______ it transforms the city into a vibrant hub of artistic expression. The festival was inspired by a group of theatre companies who performed on the fringe of the Edinburgh International Festival in 1947. Since then, it has become a popular festival with a wide range of performances, including theater, comedy, music, dance, and spoken word, attracting artists and visitors worldwide. During the festival, (37)_______. From well-known theaters to temporary spaces, cafes, and even street corners, there are performances happening all around. Attending the Edinburgh Fringe Festival provides a chance to experience (38)_______. It's a celebration of the arts, promoting cultural exchange and leaving a lasting impression (39)_______. Whether it's watching an engaging play, laughing at a comedy show, or enjoying a musical performance, (40)_______ for everyone. Therefore, people won't regret going there to enjoy that joyfully festive atmosphere.",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Having hold over three weeks every August",
+            "B": "Held over three weeks every August",
+            "C": "Over three weeks held every August",
+            "D": "Every August holding over three weeks"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mệnh đề phân từ quá khứ: Dùng bổ sung thêm thông tin cho đối tượng trong mệnh đề chính. Cấu trúc: (Liên từ) + V3/-ed..., S + V.\nMệnh đề chính và phụ cần phải chỉ chung một đối tượng (The Edinburgh Fringe Festival).\nTạm dịch: Held over three weeks every August, it transforms the city into a vibrant hub of artistic expression. (Diễn ra trong ba tuần vào mỗi tháng Tám, lễ hội biến thành phố thành một trung tâm sôi động của sự thể hiện nghệ thuật.)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "numerous venues throughout the city serve as stages for the shows",
+            "B": "numerous venues throughout the city serving as stages for the shows",
+            "C": "that serves numerous venues throughout the city as stages for the shows",
+            "D": "which numerous venues throughout the city serve as stages for the shows"
+          },
+          "correctAnswer": "A",
+          "explanation": "Chỗ trống cần điền một mệnh đề hoàn chỉnh gồm chủ ngữ và động từ được chia.\nĐáp án B không chia động từ.\nĐáp án C và D là mệnh đề quan hệ, không phải mệnh đề chính.\nTạm dịch: During the festival, numerous venues throughout the city serve as stages for the shows. (Trong suốt lễ hội, nhiều địa điểm trong thành phố được sử dụng làm sân khấu cho các buổi biểu diễn.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "creative lively an atmosphere",
+            "B": "a lively and creative atmosphere",
+            "C": "atmosphere a creative lively",
+            "D": "a creative lively"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự từ: mạo từ (a) + tính từ (lively and creative) + danh từ (atmosphere)\nTạm dịch: Attending the Edinburgh Fringe Festival provides a chance to experience a lively and creative atmosphere. (Tham gia Lễ hội Fringe Edinburgh mang đến cơ hội trải nghiệm một bầu không khí sôi động và sáng tạo.)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to those who participate",
+            "B": "to those which participate",
+            "C": "on those who participate",
+            "D": "on those which participate"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ (Collocations): leave impression on someone = để lại ấn tượng cho ai.\nMệnh đề quan hệ: 'Those' ở đây chỉ người tham gia nên ta không dùng đại từ quan hệ which (chỉ vật) mà dùng who (chỉ người).\nTạm dịch: It's a celebration of the arts, promoting cultural exchange and leaving a lasting impression on those who participate. (Đây là một lễ hội tôn vinh nghệ thuật, thúc đẩy sự giao lưu văn hóa và để lại ấn tượng sâu sắc đối với những người tham gia.)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the festival offers something",
+            "B": "something the festival offering",
+            "C": "offers the festival something",
+            "D": "the festival offering something"
+          },
+          "correctAnswer": "A",
+          "explanation": "Chỗ trống cần điền một mệnh đề hoàn chỉnh gồm chủ ngữ và động từ được chia.\nA. the festival offers something → có chủ ngữ (the festival) và động từ chia (offers) → đúng\nTạm dịch: Whether it's watching an engaging play, laughing at a comedy show, or enjoying a musical performance, the festival offers something for everyone. (Dù là xem một vở kịch hấp dẫn, cười với một buổi diễn hài hay thưởng thức một buổi biểu diễn âm nhạc, lễ hội mang đến điều gì đó thú vị cho mọi người.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.605614+00:00",
+  "updatedAt": "2026-06-08T10:41:58.605614+00:00",
+  "originalFileName": "THPT_Nguyen_Quang_Dieu_DongThap_2025_L1.json"
+}

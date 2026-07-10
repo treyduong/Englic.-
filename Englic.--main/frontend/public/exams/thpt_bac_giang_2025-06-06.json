@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_bac_giang_2025-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục Và Đào Tạo Bắc Giang",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Bac_Giang_2025_TiengAnh.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BắcGiang",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "Prioritize Your Well-Being!",
+      "passage": "Make self-care a daily habit for a healthier and happier life.\n\nKey Insights\nMany individuals spend most of their time taking care of (1)________ but forget about their own well-being. This can lead to burnout and stress. Remember, for the sake of your own well-being, taking care of yourself is not selfish but essential for maintaining overall balance in life.\n\nPractical Tips\n• Dedicate time to activities that (2)________ your mind and body, such as yoga or meditation.\n• Focus on building positive routines like getting enough sleep and maintaining good nutrition. These can enhance emotional (3)__________.\n• (4)________ feeling overwhelmed, talk to a professional to prioritize your mental health.\n• Track your habits to see measurable (5)________.\n• Use self-care journals and online (6)________ to stay consistent.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the others"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về đại từ:\nA. another + N đếm được số ít: cái/người khác\nB. other + N đếm được số nhiều/không đếm được: những cái/người khác\nC. others: những cái/người khác (đại từ, không có danh từ theo sau)\nD. the others: những cái/người còn lại trong một nhóm\nSau vị trí trống không có danh từ và dựa vào nghĩa, ta chọn 'others'.\nTạm dịch: Nhiều người dành phần lớn thời gian để chăm sóc người khác nhưng lại quên đi sức khỏe của chính mình."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take after",
+            "B": "break down",
+            "C": "get through",
+            "D": "boost up"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. take after: giống (ai đó trong gia đình)\nB. break down: hỏng, suy sụp\nC. get through: vượt qua\nD. boost up: thúc đẩy, nâng cao\nTạm dịch: Dành thời gian cho các hoạt động giúp tăng cường tinh thần và thể chất, chẳng hạn như yoga hoặc thiền."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "confidence",
+            "B": "resilience",
+            "C": "organisation",
+            "D": "disorder"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. confidence /ˈkɒnfɪdəns/ (n): sự tự tin\nB. resilience /rɪˈzɪlɪəns/ (n): khả năng phục hồi, sự kiên cường\nC. organisation /ˌɔːɡənəˈzeɪʃn/ (n): tổ chức\nD. disorder /dɪsˈɔːdə(r)/ (n): sự rối loạn, lộn xộn\nTạm dịch: Tập trung xây dựng thói quen tích cực như ngủ đủ giấc và duy trì chế độ dinh dưỡng tốt. Những điều này có thể tăng cường khả năng phục hồi cảm xúc."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "In case of",
+            "B": "By virtue of",
+            "C": "In need of",
+            "D": "With a view to"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm giới từ:\nA. In case of: trong trường hợp\nB. By virtue of: nhờ vào, bởi vì\nC. In need of: đang cần\nD. With a view to: với mục đích\nTạm dịch: Trong trường hợp cảm thấy quá tải, hãy nói chuyện với chuyên gia để ưu tiên sức khỏe tinh thần của bạn."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "breakthrough",
+            "B": "evolution",
+            "C": "recovery",
+            "D": "progress"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. breakthrough /ˈbreɪkθruː/ (n): bước đột phá\nB. evolution /ˌevəˈluːʃn/ (n): sự tiến hóa, sự phát triển\nC. recovery /rɪˈkʌvəri/ (n): sự phục hồi\nD. progress /ˈprəʊɡres/ (n): sự tiến bộ\nTạm dịch: Theo dõi thói quen của bạn để thấy được tiến bộ rõ rệt."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "blogs",
+            "B": "transactions",
+            "C": "commercials",
+            "D": "resources"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. blog /blɒɡ/ (n): blog, nhật ký trực tuyến\nB. transaction /trænˈzækʃn/ (n): giao dịch\nC. commercial /kəˈmɜːʃl/ (n): quảng cáo (trên TV, radio, internet)\nD. resource /rɪˈsɔːs/, /ˈriːsɔːs/ (n): tài nguyên, nguồn hỗ trợ\nTạm dịch: Sử dụng nhật ký chăm sóc bản thân và các nguồn hỗ trợ trực tuyến để duy trì sự nhất quán."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "FAMILY TIME SERVICES",
+      "passage": "At Family Time Services, we understand how challenging it can be to balance work, life, and family. That's why we've created a series of programs to make family life more (7)________. Our services include activities such as a family dinner evening or a/an (8)________.\n\nOne of our most popular features is the Family Together app (9)________ as a digital planner to help members schedule events and manage time more efficiently. You can also explore local activities (10)________ your family, ensuring you never miss out on the best options.\n\nWith Family Time Services, parents can (11)________ time with their children, building memories that will last a lifetime. Whether you're organizing weekly game nights or a big celebration, our services allow (12)________ and creating meaningful connections.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "excitingly",
+            "B": "excited",
+            "C": "exciting",
+            "D": "excitement"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại:\nA. excitingly /ɪkˈsaɪtɪŋli/ (adv): một cách hào hứng\nB. excited /ɪkˈsaɪtɪd/ (adj): hào hứng\nC. exciting /ɪkˈsaɪtɪŋ/ (adj): gây ra, đem đến sự thú vị, hào hứng\nD. excitement /ɪkˈsaɪtmənt/ (n): sự phấn khích\nCấu trúc: make something ADJ = làm cho cái gì đó sao. Ta cần một tính từ mang nghĩa 'đem đến sự hào hứng' nên chọn 'exciting'.\nTạm dịch: Đó là lý do chúng tôi đã tạo ra một loạt chương trình để làm cho cuộc sống gia đình trở nên thú vị hơn."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "camping adventurous trip",
+            "B": "trip adventurous camping",
+            "C": "adventurous camping trip",
+            "D": "adventurous trip camping"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự từ:\nTa có cụm danh từ 'camping trip' (chuyến đi cắm trại) nên tính từ 'adventurous' (phiêu lưu) cần đứng trước cụm danh từ này để bổ sung ý nghĩa.\nTạm dịch: Dịch vụ của chúng tôi bao gồm các hoạt động như bữa tối gia đình hoặc chuyến cắm trại đầy phiêu lưu."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "describing",
+            "B": "is described",
+            "C": "which describes",
+            "D": "described"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ:\nCâu đã có chủ ngữ chính và động từ chính. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nĐể rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và to be (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: Một trong những tính năng phổ biến nhất của chúng tôi là ứng dụng Family Together, được mô tả như một công cụ lập kế hoạch kỹ thuật số giúp các thành viên lên kế hoạch cho sự kiện và quản lý thời gian hiệu quả hơn."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "off",
+            "C": "on",
+            "D": "up"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về giới từ:\nfor somebody: dành cho ai\nTạm dịch: Bạn cũng có thể khám phá các hoạt động địa phương dành cho gia đình mình, đảm bảo rằng bạn không bao giờ bỏ lỡ những lựa chọn tốt nhất."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "send",
+            "B": "make",
+            "C": "do",
+            "D": "put"
+          },
+          "correctAnswer": "B",
+          "explanation": "Idioms:\nmake time: dành thời gian\nTạm dịch: Với Family Time Services, các bậc cha mẹ có thể dành thời gian cho con cái, tạo ra những kỷ niệm sẽ tồn tại suốt đời."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to bond",
+            "B": "bonding",
+            "C": "bond",
+            "D": "to bonding"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc song song (Parallel structure):\nallow something: cho phép cái gì đó\nTa thấy liên từ 'and' nên ta cần V-ing để song hành với 'creating'.\nTạm dịch: Cho dù bạn đang tổ chức những đêm trò chơi hàng tuần hay một lễ kỷ niệm lớn, dịch vụ của chúng tôi cho phép gắn kết và tạo ra những kết nối ý nghĩa."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Sarah: Yes, reading helps kids expand their vocabulary, improve their imagination, and develop critical thinking skills.\nb. Sarah: I'm going to set aside time each day for my kids to read and discover new books.\nc. Tom: Do you encourage your kids to read more books?\nd. Tom: How can you make reading fun for your kids?\ne. Tom: Well, I don't know whether this works for my sons or not. They seem to have been addicted to social media and online games. Thanks, anyway.",
+          "options": {
+            "A": "c-b-d-a-e",
+            "B": "c-a-d-b-e",
+            "C": "d-a-c-b-e",
+            "D": "c-e-d-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý của đoạn hội thoại:\nc. Tom hỏi Sarah có khuyến khích con đọc sách không?\na. Sarah trả lời có, đọc sách giúp trẻ mở rộng vốn từ vựng...\nd. Tom hỏi tiếp: Bạn có thể làm gì để việc đọc sách trở nên thú vị hơn?\nb. Sarah: Mình sẽ dành thời gian mỗi ngày để con đọc sách và khám phá những cuốn sách mới.\ne. Tom: Ừm, mình không biết cách này có hiệu quả với các con trai mình không. Chúng dường như nghiện mạng xã hội và trò chơi trực tuyến mất rồi. Dù sao cũng cảm ơn nhé."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Doctor: It sounds uncomfortable. Based on what you've described, I'd recommend taking it easy for a few days and staying hydrated.\nb. Patient: I've been feeling quite tired, and my throat has been sore for the past few days.\nc. Doctor: Could you tell me about your symptoms?",
+          "options": {
+            "A": "c-a-b",
+            "B": "c-b-a",
+            "C": "a-b-c",
+            "D": "b-a-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý của đoạn hội thoại:\nc. Bác sĩ hỏi bệnh nhân về các triệu chứng.\nb. Bệnh nhân mô tả: cảm thấy khá mệt và bị đau họng trong vài ngày qua.\na. Bác sĩ phản hồi và đưa ra lời khuyên."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Hi Emma,\na. I wanted to share some exciting news—I've recently achieved one of my personal goals!\nb. I hope this letter finds you in good spirits.\nc. Have you achieved anything you're proud of lately? Let's celebrate our wins together soon! I'm sure we can inspire each other to keep moving forward.\nd. It wasn't easy, but the hard work paid off. This achievement has made me more confident about setting higher goals.\ne. It's also a reminder that small steps can lead to big success. What about you?\nTake care,\nJohn",
+          "options": {
+            "A": "a-b-d-e-c",
+            "B": "b-e-a-d-c",
+            "C": "a-d-b-c-e",
+            "D": "b-a-d-e-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hợp lý của bức thư:\nb. Mở đầu thư: Mình hy vọng cậu nhận được thư này trong tâm trạng tốt.\na. Chia sẻ tin tức: Mình muốn chia sẻ một tin tức đầy hứng khởi—mình vừa đạt được một trong những mục tiêu cá nhân!\nd. Điều đó không hề dễ dàng, nhưng mọi nỗ lực đã được đền đáp. Thành tựu này khiến mình tự tin hơn trong việc đặt ra những mục tiêu cao hơn.\ne. Nó cũng là lời nhắc nhở rằng những bước tiến nhỏ có thể dẫn đến thành công lớn. Còn cậu thì sao?\nc. Gần đây cậu có đạt được điều gì mà bản thân tự hào không? Hãy cùng nhau ăn mừng những thành công của chúng mình sớm nhé!"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Night shifts can be particularly demanding on employee wellbeing and health.\nb. To combat this, we do not have employees on night shifts for extended periods.\nc. Due to the nature of our business, it's sometimes necessary that our staff work at night.\nd. This can include disruption to the body clock, fatigue, sleeping difficulties, disturbed appetite and digestion, reliance on sedatives or stimulants, social and domestic problems and other symptoms of ill health.\ne. This is because workers' bodies will just have started to adapt to the new pattern.",
+          "options": {
+            "A": "c-a-d-b-e",
+            "B": "b-c-d-a-e",
+            "C": "d-c-b-a-e",
+            "D": "a-b-c-d-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hợp lý của đoạn văn:\nc. Do tính chất công việc, đôi khi nhân viên cần làm việc ca đêm.\na. Ca đêm có thể đặc biệt ảnh hưởng đến sức khỏe và tinh thần của nhân viên.\nd. Điều này có thể bao gồm rối loạn đồng hồ sinh học, mệt mỏi, khó ngủ...\nb. Để khắc phục điều này, chúng tôi không để nhân viên làm việc ca đêm trong thời gian dài.\ne. Điều này là bởi vì cơ thể người lao động sẽ chỉ mới bắt đầu thích nghi với nhịp sinh hoạt mới."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. It has been found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid obesity.\nb. Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better, and the built environment is made more sustainable.\nc. Besides, there is evidence to demonstrate the social value of green roofs.\nd. Ongoing research shows how green roofs in cities can integrate with 'living walls': environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water.\ne. Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression.",
+          "options": {
+            "A": "d-a-e-b-c",
+            "B": "d-e-b-c-a",
+            "C": "d-c-a-b-e",
+            "D": "d-b-c-e-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hợp lý của đoạn văn:\nd. Các nghiên cứu đang được tiến hành cho thấy mái nhà xanh ở các thành phố có thể kết hợp với 'những bức tường sống'.\nb. Nghiên cứu cũng chỉ ra rằng mái nhà xanh có thể được tích hợp với hệ thống thoát nước trên mặt đất.\nc. Bên cạnh đó, có bằng chứng cho thấy giá trị xã hội của mái nhà xanh.\ne. Các bác sĩ ngày càng 'kê đơn' thời gian làm vườn ngoài trời cho bệnh nhân đang phải đối mặt với lo âu và trầm cảm.\na. Người ta phát hiện ra rằng việc tiếp cận ngay cả những không gian xanh cơ bản nhất cũng có thể mang lại chất lượng cuộc sống tốt hơn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Going Green with Plastic",
+      "passage": "Plastic is a material that has become an essential part of modern life. However, the widespread use of plastic has created a serious environmental problem. Many plastic items (18)________. This leads to pollution in our oceans, landfills, and cities, posing a threat to wildlife and human health. Despite these issues, there are several ways we can go green with plastic and reduce its harmful impact.\n\nOne of the most effective ways to go green with plastic is by reducing our consumption of single-use plastic. Instead, we should use reusable alternatives, such as metal straws, cloth bags, and bamboo utensils. (19)__________\n\nRecycling plastic is another key aspect of going green. Plastic materials (20)________. This process helps conserve resources, reduces energy consumption, and keeps plastic out of the environment. Many communities now also have recycling programs where people can drop off their plastic waste for processing.\n\nAnother great way to go green with plastic is by supporting products made from recycled plastic. Companies are increasingly producing goods like clothing, furniture, and even construction materials from recycled plastic. (21)________.\n\nIn conclusion, going green with plastic involves reducing, recycling, and reusing. By making small but meaningful changes in our daily habits, (22)________. Whether it's cutting down on single-use plastic or supporting companies that use recycled materials, every action counts in the fight to protect the planet.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "are discarded after a single use and take hundreds of years to decompose completely",
+            "B": "which are thrown away after being used once and they decompose over a long period",
+            "C": "that is often thrown away in the landfills where it takes a long time to break down",
+            "D": "having been discarded carelessly and often take centuries to decompose thoroughly"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu đã có chủ ngữ chính 'Many plastic items', do vậy, ta cần một động từ chính có chia thì.\nLoại B và C vì sử dụng mệnh đề quan hệ.\nLoại D vì sử dụng phân từ hoàn thành.\nTạm dịch: Nhiều vật dụng bằng nhựa bị vứt bỏ sau một lần sử dụng và mất hàng trăm năm để phân hủy hoàn toàn."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Over time, these small yet consistent actions can lead to substantial environmental improvements, ensuring a healthier and more sustainable planet for generations to come.",
+            "B": "The production of reusable alternatives like metal straws and cloth bags requires more resources than single-use plastics, increasing their environmental impact during manufacturing.",
+            "C": "We can significantly contribute to environmental pollution by throwing away all reusable alternatives, as they take up less space in landfills compared to single-use plastics.",
+            "D": "In some situations, single-use plastics are more hygienic and practical, such as in medical or emergency settings where contamination risks are high."
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Theo thời gian, những hành động nhỏ nhưng nhất quán này có thể dẫn đến những cải thiện môi trường đáng kể, đảm bảo một hành tinh khỏe mạnh và bền vững hơn cho các thế hệ tương lai. → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nB. Sai vì mâu thuẫn với ngữ cảnh khuyến nên sử dụng 'reusable alternatives'.\nC. Sai về ý nghĩa câu luận cứ và không phù hợp với ngữ cảnh.\nD. Sai vì không phù hợp với ngữ cảnh đang ủng hộ việc sử dụng các sản phẩm thay thế."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which the waste can transform into new products minimize the reliance on producing virgin plastic materials",
+            "B": "that are properly recycled can be reprocessed and transformed into a wide variety of new products",
+            "C": "are properly recycled to become new products help to reduce the demand for additional plastic materials",
+            "D": "can be turned into new goods decrease the need for manufacturing fresh plastic materials"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đã có chủ ngữ chính 'Plastic materials', do vậy, ta cần một thành phần vị ngữ có động từ chính.\nLoại A vì sai ngữ pháp ở mệnh đề quan hệ 'which the waste can transform into new products'.\nLoại C và D vì sai ngữ pháp về cấu trúc câu, sử dụng hai động từ chính trong cùng một mệnh đề mà không có sự liên kết phù hợp.\nTạm dịch: Các vật liệu nhựa được tái chế đúng cách có thể được tái xử lý và chuyển đổi thành một loạt các sản phẩm mới."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Plastic production helps reduce the demand for these products so plastic may be the most appealing choice for eco-conscious consumers.",
+            "B": "These products provide an eco-friendly option but do not have a significant impact on new plastic production demand",
+            "C": "These items help reduce the demand for new plastic production and provide an eco-friendly option for consumers.",
+            "D": "These sustainable items help reduce the need for new plastic production, yet their impact may be limited."
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Sai về ý nghĩa câu và không phù hợp với ngữ cảnh đang khuyến khích việc sử dụng vật dụng làm từ nhựa tái chế.\nB. Sai ở 'do not have a significant impact on new plastic production demand'.\nC. Những sản phẩm này giúp giảm nhu cầu sản xuất nhựa mới và mang đến một lựa chọn thân thiện với môi trường cho người tiêu dùng. → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nD. Sai ở 'sustainable' vì các vật dụng này vẫn được làm từ nhựa tái chế và 'their impact may be limited'.\nTạm dịch: Những sản phẩm này giúp giảm nhu cầu sản xuất nhựa mới và mang đến một lựa chọn thân thiện với môi trường cho người tiêu dùng."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "small changes in daily life can contribute to lowering plastic's environmental impact, while helping to reduce its harm to ecosystems and wildlife.",
+            "B": "we can significantly reduce the environmental impact of plastic and help mitigate its harmful effects on ecosystems, wildlife, and natural resources",
+            "C": "the environment can benefit greatly from efforts to reduce plastic use and its effects on ecosystems, wildlife, and natural resources.",
+            "D": "their efforts can be key in reducing plastic's effects on ecosystems, wildlife, and natural resources, while also lowering the environmental footprint."
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy mệnh đề phía trước sử dụng hiện tại phân từ dạng chủ động 'By making'. Ta xét từng đáp án.\nA – chủ ngữ chung 'small changes in daily life' → Sai vì không thể kết hợp với 'By making' ở mệnh đề phía trước.\nB – chủ ngữ chung 'we' (chúng ta) → Đúng vì phù hợp về ngữ nghĩa và ngữ pháp khi kết hợp với 'By making' ở mệnh đề phía trước.\nC – chủ ngữ chung 'the environment' → Sai vì không thể kết hợp với 'By making' ở mệnh đề phía trước.\nD – chủ ngữ chung 'their efforts' → Sai vì không thể kết hợp với 'By making' ở mệnh đề phía trước.\nTạm dịch: Bằng cách thực hiện những thay đổi nhỏ nhưng có ý nghĩa trong thói quen hằng ngày, chúng ta có thể giảm đáng kể tác động môi trường của nhựa và giúp giảm thiểu những tác hại của nó đối với hệ sinh thái, động vật hoang dã và tài nguyên thiên nhiên."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about apologies and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Apologies",
+      "passage": "Apologies have the power to heal and restore relationships, whether personal or professional. Admitting mistakes and showing regret demonstrates humility and respect for the other person's feelings. Apologies are not just about saying the right words-they show a willingness to take responsibility. This can rebuild trust, mend relationships, and strengthen connections. Whether between friends, family, or colleagues, a genuine apology helps to heal and move forward.\n\nA true apology goes beyond words. It involves recognizing the harm caused, expressing sincere regret, and, when needed, offering solutions or compensation. For example, if someone misses an important work deadline, simply saying \"sorry\" might not be enough. Offering a plan to fix the mistake or prevent it from happening again shows accountability and makes the apology more meaningful. Without these steps, apologies may seem empty and fail to resolve the real issue.\n\nIn the workplace, apologies are essential for resolving conflicts. When a manager apologizes for an error, it creates a sense of fairness and respect within the team. Employees who feel heard and appreciated are more likely to trust their leaders and work better together. Apologies can turn mistakes into opportunities to strengthen teamwork and improve workplace culture. They also encourage open communication, helping employees feel safe to express concerns and fostering a healthier work environment.\n\nSome people hesitate to apologize because they think it shows weakness. In reality, it takes courage to admit mistakes and \"swallow one's pride\". Apologizing shows emotional maturity and sets an example for others to take responsibility. In both personal and professional settings, a heartfelt apology can turn conflicts into chances for growth and better understanding.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a result of apologizing?",
+          "context": "",
+          "options": {
+            "A": "Healing relationships",
+            "B": "Preventing future mistakes",
+            "C": "Rebuilding trust",
+            "D": "Strengthening connections"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin trong bài:\n+ Apologies have the power to heal and restore relationships. → A được đề cập.\n+ This can rebuild trust, mend relationships, and strengthen connections. → C và D được đề cập.\n+ Offering a plan to fix the mistake or prevent it from happening again shows accountability and makes the apology more meaningful. → B không được đề cập là kết quả của việc xin lỗi mà là cách để làm cho lời xin lỗi có ý nghĩa hơn."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"empty\" in paragraph 2 is OPPOSITE in meaning to ________.",
+          "context": "",
+          "options": {
+            "A": "meaningful",
+            "B": "incomplete",
+            "C": "smooth",
+            "D": "partial"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. meaningful /ˈmiːnɪŋfl/ (adj): có ý nghĩa\nB. incomplete /ɪnkəmˈpliːt/ (adj): chưa hoàn thành\nC. smooth /smuːð/ (adj): suôn sẻ, mượt mà\nD. partial /ˈpɑːʃl/ (adj): một phần\nempty /ˈempti/ (adj): trống rỗng, sáo rỗng >< meaningful (adj)\nThông tin: Without these steps, apologies may seem empty and fail to resolve the real issue."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"it\" in paragraph 3 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "an error",
+            "B": "a conflict",
+            "C": "fairness",
+            "D": "an apology"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'it' trong đoạn 3 để cập đến 'an apology'.\nThông tin: When a manager apologizes for an error, it creates a sense of fairness and respect within the team. (Khi một quản lý nhận lỗi về sai sót của mình, điều đó tạo ra cảm giác công bằng và sự tôn trọng trong nhóm.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"fostering\" in paragraph 3 could be best replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "managing",
+            "B": "encouraging",
+            "C": "adapting",
+            "D": "rejecting"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ vựng:\nA. manage /ˈmænɪdʒ/ (v): quản lý, xoay sở\nB. encourage /ɪnˈkʌrɪdʒ/ (v): khuyến khích, thúc đẩy\nC. adapt /əˈdæpt/ (v): thích nghi\nD. reject /rɪˈdʒekt/ (v): từ chối\nfoster /ˈfɒstə(r)/ (v): thúc đẩy, bồi dưỡng = encourage (v)\nThông tin: They also encourage open communication, helping employees feel safe to express concerns and fostering a healthier work environment."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Sincere apologies should focus on improving traditional culture and fixing mistakes rather than building teamwork.",
+            "B": "Mistakes, when followed by apologies, can improve teamwork and workplace culture.",
+            "C": "Thoughtful apologies can reduce teamwork mistakes and help create a perfect workplace.",
+            "D": "Workplace culture improves when there are fewer repeated mistakes to apologize for."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn đạt lại tốt nhất câu được gạch chân trong đoạn 3?\nA. Sai về ý nghĩa câu.\nB. Sai lầm, nếu được theo sau bởi lời xin lỗi, có thể cải thiện tinh thần làm việc nhóm và văn hóa nơi làm việc. → Đúng vì diễn đạt lại chính xác nhất nội dung câu gốc.\nC. Sai ở 'can reduce teamwork mistakes' và 'perfect' (vì câu gốc chỉ nói cải thiện).\nD. Sai về ý nghĩa câu.\nThông tin: Apologies can turn mistakes into opportunities to strengthen teamwork and improve workplace culture."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "A simple \"sorry\" is sufficient in workplace conflicts.",
+            "B": "Apologizing shows both courage and emotional maturity.",
+            "C": "Apologies benefit both personal and family relationships.",
+            "D": "Offering solutions can make an apology less effective."
+          },
+          "correctAnswer": "B",
+          "explanation": "Điều nào sau đây ĐÚNG theo bài đọc?\nA. Sai: simply saying 'sorry' might not be enough.\nB. Đúng: it takes courage to admit mistakes. Apologizing shows emotional maturity.\nC. Có thể suy ra từ bài tuy nhiên bài đọc nhấn mạnh vào bối cảnh 'professional' hơn là 'family relationships'.\nD. Sai ở 'less effective' vì việc đưa ra giải pháp làm cho lời xin lỗi có ý nghĩa hơn.\nThông tin: In reality, it takes courage to admit mistakes and 'swallow one's pride'. Apologizing shows emotional maturity."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention how apologies can encourage communication in the workplace?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 4",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trong đoạn nào tác giả nhắc đến việc lời xin lỗi có thể khuyến khích giao tiếp trong môi trường làm việc?\nThông tin: They also encourage open communication, helping employees feel safe to express concerns and fostering a healthier work environment. (Chúng cũng khuyến khích sự giao tiếp cởi mở, giúp nhân viên cảm thấy an toàn khi bày tỏ mối quan tâm và thúc đẩy một môi trường làm việc lành mạnh hơn.) → Đoạn 3."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer explore reasons why people avoid apologizing?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trong đoạn nào tác giả đề cập đến lý do tại sao mọi người tránh xin lỗi?\nThông tin: Some people hesitate to apologize because they think it shows weakness. (Một số người ngần ngại xin lỗi vì họ nghĩ rằng điều đó thể hiện sự yếu đuối.) → Đoạn 4."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Augmented Reality (AR)",
+      "passage": "[I] This technology overlays virtual objects and information onto real-world environments, creating interactive experiences that were once unimaginable. [II] AR is making waves in education, gaming, and even social interactions, promising a future where technology feels more integrated into our daily lives. [III] Very soon, AR could revolutionize every aspect of how we interact, with information and entertainment, making the virtual world seem as real as the one around us. [IV]\n\nIn education, AR is proving to be a powerful tool for engagement and understanding. Students can now explore a 3D model of the solar system in their classrooms or dissect a virtual frog without harming a real one. These experiences bring lessons to life, making complex topics easier to grasp. AR also fosters creativity, encouraging students to think outside the box and engage with their studies in new ways. With AR, learning is no longer confined to textbooks and lectures. It allows students to start strong and immediately apply what they learn, helping them dive into real-world scenarios with ease.\n\nThe entertainment industry is another area which AR has a significant impact on. Games like Pokémon Go have shown how AR can create immersive, real-world experiences that capture the imagination of millions. In the future, AR could revolutionize how we watch movies, attend concerts, or even try on clothes while shopping online. Imagine sitting in your living room and having a holographic performance appear right before your eyes. AR can also break the mold, introducing groundbreaking ways to entertain audiences and keep them engaged like never before. The possibilities are endless.\n\nAR is truly a golden opportunity to reshape our interaction with the world. However, like any new technology, it comes with challenges. Developers and educators must ensure that AR is accessible, user-friendly, and free from misuse. With thoughtful innovation, AR has the potential to become a game-changer in both education and entertainment, bridging the gap between imagination and reality.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Augmented reality (AR) is transforming the way we learn, work, and play by blending digital content with the physical world.\"",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (I) vì giới thiệu tên đầy đủ 'Augmented reality' để những phần sau dùng AR thay thế, và 'This technology' ở câu sau đại diện cho công nghệ AR là hợp lý. Câu cần điền đóng vai trò làm câu giới thiệu và liên kết với các câu phía sau.\nThông tin: Augmented reality (AR) is transforming the way we learn, work, and play by blending digital content with the physical world. This technology overlays virtual objects and information onto real-world environments..."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following could best replace the phrase \"break the mold\" in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "show up",
+            "B": "take up",
+            "C": "shake up",
+            "D": "put up"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ vựng:\nA. show up: xuất hiện, đến\nB. take up: bắt đầu (một hoạt động, sở thích), chiếm (không gian, thời gian)\nC. shake up: cải tổ, làm xáo trộn\nD. put up: dựng lên, cho ở nhờ, tăng (giá)\nbreak the mold: phá vỡ khuôn mẫu, làm điều khác biệt = shake up\nThông tin: AR can also break the mold, introducing groundbreaking ways to entertain audiences and keep them engaged like never before."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"It\" in paragraph 2 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "classroom learning",
+            "B": "trading application",
+            "C": "AR technology",
+            "D": "student creativity"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'It' trong đoạn 2 dùng để chỉ 'AR technology'.\nThông tin: With AR, learning is no longer confined to textbooks and lectures. It allows students to start strong and immediately apply what they learn, helping them dive into real-world scenarios with ease."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 2, which of the following is NOT mentioned as a benefit of AR in education?",
+          "context": "",
+          "options": {
+            "A": "Allowing students to explore complex ideas",
+            "B": "Encouraging creativity and critical thinking",
+            "C": "Offering engaging learning experiences",
+            "D": "Increasing students' academic stability"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn 2, điều nào sau đây KHÔNG được đề cập như một lợi ích của AR trong giáo dục?\nA, B và C được đề cập.\nD không được đề cập.\nThông tin: These experiences bring lessons to life, making complex topics easier to grasp. AR also fosters creativity, encouraging students to think outside the box and engage with their studies in new ways."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The word \"dissect\" in paragraph 2 is OPPOSITE in meaning to ________.",
+          "context": "",
+          "options": {
+            "A": "assemble",
+            "B": "analyze",
+            "C": "cut open",
+            "D": "catch"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. assemble /əˈsembl/ (v): tập hợp, lắp ráp\nB. analyze /ˈænəlaɪz/ (v): phân tích\nC. cut open /kʌt ˈəʊpən/ (phr.v): cắt mở ra\nD. catch /kætʃ/ (v): bắt, nắm lấy\ndissect /daɪˈsekt/, /dɪˈsekt/ (v): mổ xẻ, phân tích chi tiết >< assemble (v)\nThông tin: Students can now explore a 3D model of the solar system in their classrooms or dissect a virtual frog without harming a real one."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Augmented Reality is primarily beneficial for enhancing online shopping rather than entertainment.",
+            "B": "The entertainment industry has nearly reached its peak due to Augmented Reality technologies.",
+            "C": "Augmented Reality is transforming entertainment by offering innovative and immersive experiences.",
+            "D": "The entertainment industry uses Augmented Reality mainly to gradually replace traditional forms of gaming"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây tóm tắt đoạn 3 một cách tốt nhất?\nA. Sai ở 'primarily beneficial for enhancing online shopping' và không có thông tin so sánh này trong đoạn.\nB. Sai ở 'has nearly reached its peak' vì không có thông tin trong đoạn và trái với thông tin về khả năng vô tận 'endless possibility'.\nC. Công nghệ thực tế ảo tăng cường đang chuyển đổi ngành giải trí bằng cách cung cấp những trải nghiệm sáng tạo và chân thực. → Đúng vì tóm tắt chính xác nội dung của đoạn.\nD. Sai ở 'mainly to gradually replace traditional forms of gaming' vì không có thông tin trong đoạn, đồng thời, đoạn văn nhấn mạnh cách AR tác động đến nhiều lĩnh vực giải trí như xem phim, tham gia hòa nhạc, và mua sắm."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "According to paragraph 4, which of the following is TRUE about AR?",
+          "context": "",
+          "options": {
+            "A": "It is ensured that AR technology remains free from misuse.",
+            "B": "Developers need to make AR accessible and user-friendly.",
+            "C": "AR's potential to revolutionize society outweighs its challenges.",
+            "D": "AR requires no further innovation to become a game-changer."
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo đoạn 4, điều nào sau đây ĐÚNG về AR?\nA. Sai vì các nhà phát triển và nhà giáo dục cần phải đảm bảo AR không bị lạm dụng, đây là điều cần làm không phải điều đã đạt được.\nB. Đúng: Developers and educators must ensure that AR is accessible, user-friendly, and free from misuse.\nC. Sai vì không có thông tin so sánh trong bài.\nD. Sai ở 'no'. With thoughtful innovation, AR has the potential to become a game-changer.\nThông tin: Developers and educators must ensure that AR is accessible, user-friendly, and free from misuse."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Reshaping how people perceive the world can be achieved by adopting AR technology.",
+            "B": "AR has the potential to replace traditional ways of interacting with the environment.",
+            "C": "AR provides a valuable chance to transform the way we engage with the world.",
+            "D": "AR is a minor chance to slightly alter how we interact with the world, offering limited benefits."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây diễn đạt lại tốt nhất câu được gạch chân trong đoạn 4?\nA. Sai ở 'perceive' vì câu gốc đề cập tới 'interaction'.\nB. Sai ở 'replace' và về ý nghĩa câu vì câu gốc chỉ nói 'reshape'.\nC. AR mang đến cơ hội quý giá để thay đổi cách chúng ta tương tác với thế giới. → Đúng vì diễn đạt lại tốt nhất câu gốc.\nD. Sai ở 'minor chance', 'slight alter' và 'limited benefits'.\nThông tin: AR is truly a golden opportunity to reshape our interaction with the world."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "AR experiences are likely to replace traditional methods of education and entertainment soon.",
+            "B": "Gaming applications might be the main driving force behind the development of AR technology.",
+            "C": "AR will likely dominate both education and entertainment industries in the near future.",
+            "D": "AR technology presents new opportunities for interactive learning and real-world applications."
+          },
+          "correctAnswer": "D",
+          "explanation": "Điều nào sau đây có thể được suy ra từ bài đọc?\nA. Sai vì bài đọc không đề cập tới việc thay thế phương pháp truyền thống, AR chỉ đang đem lại những thay đổi cho giáo dục và giải trí.\nB. Sai ở 'the main driving force' vì 'gaming applications' chỉ là một trong những lĩnh vực được liệt kê có sự thay đổi nhờ AR và không có thông tin này trong bài đọc.\nC. Sai ở 'dominate' (thống trị) vì AR chỉ có tiềm năng trở thành một bước đột phá.\nD. Công nghệ AR mang đến những cơ hội mới cho việc học tập tương tác và ứng dụng thực tế. → Có thể suy ra từ bài đọc.\nThông tin: Students can now explore a 3D model of the solar system in their classrooms or dissect a virtual frog without harming a real one. It allows students to start strong and immediately apply what they learn, helping them dive into real-world scenarios with ease."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "In education, AR enhances engagement and understanding, allowing students to explore 3D models and virtual dissections, fostering creativity and real-world application, making learning more interactive and effective.",
+            "B": "AR significantly impacts entertainment, with games like Pokémon Go creating immersive experiences, and future applications like holographic performances and virtual shopping, revolutionizing how we consume media and shop.",
+            "C": "AR technology is reshaping how we view the world, but its applications are still limited to gaming, entertainment, niche industries, and certain professions, indicating room for broader adoption.",
+            "D": "AR overlays virtual objects onto real environments, transforming education, gaming, and entertainment, enhancing engagement, creativity, and real-world application despite challenges in accessibility and misuse."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt bài đọc một cách tốt nhất?\nA. Sai vì chỉ tóm tắt được tác động của AR lên giáo dục, thiếu thông tin về các lĩnh vực khác.\nB. Sai vì chỉ tóm tắt được tác động của AR lên ngành công nghiệp giải trí, thiếu thông tin về các lĩnh vực khác.\nC. Sai ở 'limited' vì AR được mô tả có thể cách mạng hóa nhiều lĩnh vực như giáo dục, giải trí và tương tác xã hội.\nD. AR phủ các vật thể ảo lên môi trường thực, biến đổi giáo dục, trò chơi và giải trí, tăng cường sự hứng thú, sáng tạo và ứng dụng thực tế, dù vẫn còn những thách thức về khả năng tiếp cận và việc lạm dụng. → Đúng vì tóm tắt được đầy đủ nội dung chính của bài.\nTóm tắt nội dung các đoạn:\nĐoạn 1: AR đang thay đổi cách con người học tập, làm việc và giải trí.\nĐoạn 2: AR mang lại những trải nghiệm học tập trực quan và sáng tạo.\nĐoạn 3: AR có tác động lớn đến ngành giải trí.\nĐoạn 4: AR là một cơ hội lớn nhưng cần được phát triển theo hướng thân thiện, dễ tiếp cận và tránh bị lạm dụng."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.539314+00:00",
+  "updatedAt": "2026-06-08T10:41:58.539314+00:00",
+  "originalFileName": "THPT_Bac_Giang_2025_TiengAnh.json"
+}

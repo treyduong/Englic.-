@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_go_cong_dong_tien_giang_2026-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Gò Công Đông, Tiền Giang",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Go_Cong_Dong_Tien_Giang_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#TiềnGiang",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about Walt Disney and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Walt Disney",
+      "passage": "Walt Disney was a famous creator who changed the world of entertainment. In 1928, he (1)_______. This was the start of his successful career in animation. His character Mickey Mouse became very popular, and soon he made full-length movies like Snow White and the Seven Dwarfs in 1937. Over time, Disney created a huge company with movies, TV shows, and theme parks.\n\nDisney was not just a creative person; he also knew how to run a business. (2)_______. Disneyland, which opened in 1955, was the first park of its kind. It gave visitors a fun, themed experience that led to more parks opening later. Despite facing many difficulties in his life, (3)_______. He worked hard to make his dreams come true. His passion for creating new things made him one of the most important people in entertainment.\n\nHe left a lasting impact on entertainment, and he changed the way we watch movies and enjoy entertainment. Disney also won many awards and (4)_______.\n\nDisney's works are still loved by many people. (5)_______, and his ideas continue to inspire new generations of filmmakers and artists.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "created Mickey Mouse which became a symbol of animation and entertainment.",
+            "B": "done his first movie about an iconic character which is called Mickey mouse",
+            "C": "having started his career with symbol of animation and entertainment- Mickey Mouse",
+            "D": "becoming a symbol of animation and entertainment created Mickey Mouse"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dấu hiệu nhận biết thì QKĐ: \"In 1928\" → dùng động từ chia ở thì quá khứ đơn.\nA. created Mickey Mouse which became a symbol of animation and entertainment. → Đúng vì cùng chủ ngữ với mệnh đề trạng ngữ rút gọn đứng trước.\nB. done his first movie about an iconic character which is called Mickey mouse → Không phải thì QKĐ.\nC. having started his career with symbol of animation and entertainment- Mickey Mouse → Không cùng chủ ngữ.\nD. becoming a symbol of animation and entertainment created Mickey Mouse → Không là mệnh đề hoàn chỉnh.\nTạm dịch: Vào năm 1928, ông tạo ra Mickey Mouse, nhân vật đã trở thành biểu tượng của hoạt hình và giải trí."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "He worked with others to create great stories",
+            "B": "His theme parks became very successful",
+            "C": "He made movies and TV shows for families",
+            "D": "He created animated films loved by audiences"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đứng sau đề cập đến \"Disneyland\" → cần câu dẫn nhắc đến theme parks.\nB. His theme parks became very successful. → Phù hợp vì câu đứng sau cập đến \"Disneyland\" để làm rõ nghĩa cho \"His theme parks\".\nTạm dịch: Các công viên chủ đề của ông rất thành công. Disneyland, khai trương năm 1955, là công viên đầu tiên thuộc loại hình này."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "turning challenges into opportunities for success is his ways",
+            "B": "he found ways to turn challenges into opportunities for success",
+            "C": "ways to turn challenges into opportunities for success were found",
+            "D": "founding ways to turn challenges into opportunities for success"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mệnh đề rút gọn \"Despite facing many difficulties in his life\" có chủ ngữ là \"he\" → V2 phải cùng chủ ngữ.\nA. turning challenges into opportunities for success is his ways → Không cùng chủ ngữ với mệnh đề trạng ngữ rút gọn đứng trước.\nB. he found ways to turn challenges into opportunities for success → Phù hợp vì có cùng chủ ngữ.\nC. ways to turn challenges into opportunities for success were found → Chủ ngữ khác.\nD. founding ways to turn challenges into opportunities for success → Không là mệnh đề hoàn chỉnh.\nTạm dịch: Dù đối mặt với nhiều khó khăn trong cuộc đời, ông đã tìm cách biến thách thức thành cơ hội để thành công."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "becomes a leader in using new technology in films",
+            "B": "is becoming a leader in using new technology in films",
+            "C": "became a leader in using new technology in films",
+            "D": "has become a leader in using new technology in films"
+          },
+          "correctAnswer": "C",
+          "explanation": "Hòa hợp thì: Cụm V1 được chia ở thì quá khứ đơn (won many awards) → V2 phải ở thì quá khứ.\nC. became a leader in using new technology in films → Đúng, dùng thì quá khứ đơn.\nTạm dịch: Disney cũng giành được nhiều giải thưởng và đã trở thành người dẫn đầu trong việc sử dụng công nghệ mới trong phim ảnh."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "He didn't inspire others after his death, with his work overlooked",
+            "B": "His ideas were ahead of their time and ignored during his life",
+            "C": "Their characters and stories continue to captivate audiences worldwide",
+            "D": "His movies are difficult to understand because of their complexity"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ngữ cảnh: Các tác phẩm của Disney vẫn được nhiều người yêu thích, và ý tưởng của ông tiếp tục truyền cảm hứng.\nA. Trái ngược với ý trong đoạn văn (Disney đã truyền cảm hứng mạnh mẽ và các tác phẩm của ông không hề bị bỏ qua).\nB. Trái ngược với ý trong đoạn văn (Ông rất thành công và được công nhận).\nC. Các nhân vật và câu chuyện của ông tiếp tục thu hút khán giả trên toàn thế giới. → Phù hợp về ngữ cảnh.\nD. Không hề đề cập đến tính phức tạp của phim Disney.\nTạm dịch: Các nhân vật và câu chuyện của ông tiếp tục thu hút khán giả trên toàn thế giới, và những ý tưởng của ông tiếp tục truyền cảm hứng cho các thế hệ nhà làm phim và nghệ sĩ mới."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Join Us for Culture Celebration Day!",
+      "passage": "Let's look at what we can do to celebrate and preserve our diverse cultural heritage.\n\nFacts and Figures: (6)_______ traditional art forms and languages are at risk of disappearing, and cultural knowledge is lost with each generation. Additionally, we often (7)_______ opportunities to appreciate and learn from other cultures in our communities. Let's take positive steps to keep our heritage alive!\n\nPositive Action!\n• Support local artisans and performers by attending cultural events and purchasing (8)_______ products. This helps reduce the disappearance of traditional crafts.\n• (9)_______ buying generic, mass-produced souvenirs, consider unique, locally crafted items. This supports traditional craftsmanship and keeps cultural skills alive. It's also important to (10)_______ cultural developments and trends, ensuring that we don't lose valuable traditions. Help record and share cultural stories. Telling these stories helps preserve the quality of our heritage.\n• Organize and share (11)_______ cultural materials, such as recipes, music, and art. Separate and protect these resources so that they are available for future generations.",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Little",
+            "B": "Much",
+            "C": "Many",
+            "D": "Few"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ hạn định:\nA. little + N (không đếm được): ít\nB. much + N (không đếm được): nhiều\nC. many + N (số nhiều): nhiều\nD. few + N (số nhiều): vài\n\"traditional art forms and languages\" là danh từ số nhiều đếm được → dùng \"many\".\nTạm dịch: Nhiều hình thức nghệ thuật truyền thống và ngôn ngữ đang có nguy cơ biến mất, và kiến thức văn hóa đang dần bị mai một qua mỗi thế hệ."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "miss",
+            "B": "practice",
+            "C": "regard",
+            "D": "consider"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. miss (v): bỏ lỡ → miss an opportunity: bỏ lỡ một cơ hội.\nB. practice (v): luyện tập\nC. regard (v): xem xét, coi cái gì là\nD. consider (v): xem xét\nTạm dịch: Ngoài ra, chúng ta thường bỏ lỡ cơ hội để trân trọng và học hỏi từ các nền văn hóa khác trong cộng đồng của mình."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "precious",
+            "B": "modern",
+            "C": "handmade",
+            "D": "expensive"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. precious (adj): quý giá\nB. modern (adj): hiện đại\nC. handmade (adj): làm thủ công bằng tay\nD. expensive (adj): đắt đỏ\nNgữ cảnh nói về việc ủng hộ nghệ nhân địa phương bằng cách mua sản phẩm thủ công → handmade.\nTạm dịch: Ủng hộ các nghệ nhân và nghệ sĩ biểu diễn địa phương bằng cách tham gia các sự kiện văn hóa và mua các sản phẩm thủ công."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "Because of",
+            "C": "Despite",
+            "D": "Due to"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Instead of: Thay vì\nB. Because of: Bởi vì\nC. Despite: Mặc dù\nD. Due to: Vì, do\nNgữ cảnh: \"___ buying generic souvenirs, consider unique, locally crafted items\" → tương phản, dùng \"Instead of\".\nTạm dịch: Thay vì mua các món quà lưu niệm sản xuất hàng loạt, hãy cân nhắc đến những món đồ được làm thủ công, độc đáo tại địa phương."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "keep away from",
+            "B": "get on with",
+            "C": "keep up with",
+            "D": "put up with"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\n- keep away from something: tránh xa cái gì\n- get on with somebody: hòa hợp với ai\n- keep up with somebody/something: theo kịp ai/cái gì\n- put up with somebody/something: chịu đựng ai/cái gì\nNgữ cảnh: theo kịp các xu hướng và phát triển văn hóa → keep up with.\nTạm dịch: Một điều quan trọng là luôn theo kịp các xu hướng và phát triển văn hóa, đảm bảo rằng chúng ta không đánh mất những giá trị truyền thống quý giá."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "every",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. others: những cái/người khác (đại từ, không đứng trước danh từ)\nB. every + N (số ít): tất cả\nC. other + N (số nhiều): những cái/người khác\nD. another + N (số ít): cái/người khác\n\"Cultural materials\" là cụm danh từ số nhiều nên ta dùng \"other\".\nTạm dịch: Tổ chức và chia sẻ các tài liệu văn hóa của người khác, chẳng hạn như công thức nấu ăn, âm nhạc, và nghệ thuật."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about urbanization and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Urbanization",
+      "passage": "Urbanization is one of the most significant social and economic changes in the modern era. Over half of the world's population now lives in urban areas, and that figure is expected to rise to nearly 70% by 2050. This shift from rural to urban living is driven by the promise of better opportunities, including access to education, healthcare, and employment. However, urbanization also creates challenges such as housing shortages, traffic congestion, and environmental pollution.\n\nOne of the key issues associated with urbanization is the development of slums. In rapidly growing cities, the demand for affordable housing often exceeds supply, forcing many low-income residents to live in substandard conditions. They often face overcrowding and limited access to essential services, as slums are typically overcrowded, lack basic services like clean water and sanitation, and are highly vulnerable to natural disasters.\n\nUrbanization also has significant environmental impacts. The expansion of cities often leads to deforestation, loss of agricultural land, and increased carbon emissions. Moreover, urban areas generate large amounts of waste, which can overwhelm local disposal systems and contaminate water supplies.\n\nMany cities are finding innovative ways to make urbanization more sustainable. Green architecture, such as buildings with solar panels and rooftop gardens, helps reduce energy consumption and improve air quality. Public transportation systems are being expanded to reduce traffic congestion and promote eco-friendly travel. In addition, smart city technologies are being adopted to manage resources more efficiently and improve the quality of urban life.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is NOT mentioned as a benefit of urbanization?",
+          "context": "",
+          "options": {
+            "A": "improved healthcare",
+            "B": "better housing",
+            "C": "access to education",
+            "D": "employment opportunities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: \"This shift from rural to urban living is driven by the promise of better opportunities, including access to education, healthcare, and employment.\"\nBài đọc đề cập đến: access to education (C), healthcare (A), and employment (D) là các lợi ích.\nB. better housing (nhà ở tốt hơn) → KHÔNG được đề cập như một lợi ích; thực tế bài đề cập housing shortages (thiếu hụt nhà ở) như một thách thức."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "The word \"affordable\" in paragraph 2 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "inadequate",
+            "B": "expensive",
+            "C": "temporary",
+            "D": "convenient"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. inadequate (adj): không đủ\nB. expensive (adj): đắt đỏ\nC. temporary (adj): tạm thời\nD. convenient (adj): tiện lợi\naffordable (adj): giá cả phải chăng >< expensive (đắt đỏ)."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The word \"adopted\" in paragraph 4 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "financed",
+            "B": "applied",
+            "C": "adapted",
+            "D": "refused"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. tài trợ\nB. áp dụng\nC. thích nghi\nD. từ chối\nadopt a technology: tiếp nhận/áp dụng một công nghệ = apply a technology.\nTạm dịch: Ngoài ra, các công nghệ thành phố thông minh đang được áp dụng để quản lý tài nguyên hiệu quả hơn."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "The word \"They\" in paragraph 2 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "services",
+            "B": "conditions",
+            "C": "slums",
+            "D": "residents"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: \"...forcing many low-income residents to live in substandard conditions. They often face overcrowding and limited access to essential services...\"\n\"They\" đề cập đến \"many low-income residents\" (những cư dân có thu nhập thấp) → residents."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Many cities are considering more sustainable urbanization despite innovative approaches.",
+            "B": "To achieve more sustainable urbanization, many cities are developing innovative approaches.",
+            "C": "Making urbanization more sustainable depends on the governments of countries.",
+            "D": "Exploring smart technologies in the early stages promises a sustainable future in some countries."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: \"Many cities are finding innovative ways to make urbanization more sustainable.\"\nB. To achieve more sustainable urbanization, many cities are developing innovative approaches. → Diễn đạt lại đúng nhất: mục đích (đô thị hóa bền vững hơn) và hành động (phát triển phương pháp tiếp cận sáng tạo).\nA. sai vì \"despite\" biểu thị sự nhượng bộ, không phù hợp.\nC. sai vì bài không đề cập đến vai trò của chính phủ.\nD. sai vì không đề cập đến \"giai đoạn đầu\" hay \"một số quốc gia\"."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Urbanization has already reached its peak, with no further growth expected.",
+            "B": "Public transportation is being improved to help people travel more quickly.",
+            "C": "Green architecture is effective in increasing energy consumption.",
+            "D": "Slums are a common feature in cities with rapid urban growth."
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai: \"that figure is expected to rise to nearly 70% by 2050\" → đô thị hóa vẫn tăng.\nB sai: \"Public transportation systems are being expanded to reduce traffic congestion and promote eco-friendly travel\" → mục đích là giảm tắc nghẽn, không phải đi lại nhanh hơn.\nC sai: \"Green architecture... helps reduce energy consumption\" → giảm tiêu thụ năng lượng, không phải tăng.\nD đúng: \"One of the key issues associated with urbanization is the development of slums. In rapidly growing cities...\" → Khu ổ chuột là đặc điểm phổ biến ở những thành phố có sự phát triển đô thị nhanh chóng."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "In which paragraph does the writer describe the social issues caused by urbanization?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 4",
+            "C": "Paragraph 3",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn 2 mô tả các vấn đề xã hội: \"One of the key issues associated with urbanization is the development of slums... overcrowding... limited access to essential services... vulnerable to natural disasters.\"\nĐoạn 3 → tác động môi trường. Đoạn 4 → giải pháp. Đoạn 1 → tổng quan."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "In which paragraph does the writer explore modern methods for addressing urbanization challenges?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 4",
+            "C": "Paragraph 1",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Đoạn 4 - \"Many cities are finding innovative ways to make urbanization more sustainable. Green architecture... Public transportation systems... smart city technologies...\"\nĐoạn 4 khám phá các phương pháp hiện đại để giải quyết các thách thức của đô thị hóa."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "a. Sarah: OK! I'll bring some snacks and towels.\nb. Tom: That sounds great! I'd love to join you.\nc. Sarah: I'm thinking of going to the beach this weekend. Would you like to join me?",
+          "options": {
+            "A": "a-c-b",
+            "B": "c-b-a",
+            "C": "a-b-c",
+            "D": "b-a-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: Sarah đề xuất đi biển (c) → Tom đồng ý (b) → Sarah xác nhận và bổ sung chi tiết (a).\nDịch: Sarah: Tôi đang nghĩ đến việc đi biển vào cuối tuần này. Bạn có muốn đi cùng tôi không? / Tom: Nghe có vẻ tuyệt đấy! Tôi rất muốn tham gia cùng bạn. / Sarah: Được rồi! Tôi sẽ mang một ít đồ ăn nhẹ và khăn tắm."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "a. The transformation of Greenfield began with the construction of a major highway, linking it to neighboring cities and boosting accessibility.\nb. However, this expansion has also caused challenges, such as increased pollution and a loss of green spaces.\nc. Over the past two decades, the once quiet and rural Greenfield has undergone dramatic changes.\nd. The highway led to an influx of new residents and businesses, resulting in a 30% population increase and a more bustling local economy.\ne. New residential areas and shopping centers have replaced fields and forests, giving the village a more urban character.",
+          "options": {
+            "A": "c-e-d-a-b",
+            "B": "c-a-b-d-e",
+            "C": "c-a-d-e-b",
+            "D": "c-d-a-e-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: câu dẫn tổng quát (c) → bắt đầu sự chuyển đổi bằng đường cao tốc (a) → hệ quả của đường cao tốc (d) → hệ quả tiếp theo: khu dân cư mới (e) → thách thức (b).\nDịch: Trong suốt hai thập kỷ qua, Greenfield, vốn là một nơi yên tĩnh và nông thôn, đã trải qua những thay đổi lớn. Sự chuyển mình bắt đầu với đường cao tốc lớn → đổ xô cư dân và doanh nghiệp mới, dân số tăng 30% → khu dân cư mới thay thế cánh đồng → gây ra thách thức về ô nhiễm."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "Hi Alex,\na. I've started using one, and it's surprising how much less plastic waste I generate now.\nb. Thanks for sharing your tips on reducing single-use plastic-they were super helpful.\nc. It's such an easy step to take, and it really makes a difference for the environment.\nd. One of the best ideas you suggested was switching to a reusable water bottle.\ne. What other small changes do you recommend to live a more eco-friendly lifestyle?\nWrite back soon.\nJamie",
+          "options": {
+            "A": "d-b-c-a-e",
+            "B": "b-d-a-c-e",
+            "C": "a-d-b-e-c",
+            "D": "b-a-e-d-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý của thư: cảm ơn (b) → đề cập ý tưởng hay nhất (d) → mô tả đã thực hiện (a) → nhận xét thêm (c) → hỏi thêm gợi ý (e).\nDịch: Cảm ơn bạn đã chia sẻ những lời khuyên về việc giảm thiểu rác thải nhựa dùng một lần. Một trong những ý tưởng tuyệt vời nhất mà bạn gợi ý là chuyển sang dùng chai nước tái sử dụng. Mình đã bắt đầu sử dụng nó, và thật bất ngờ là lượng rác thải nhựa mình tạo ra bây giờ ít hơn rất nhiều. Đó là một bước đơn giản, và nó thực sự tạo ra sự khác biệt cho môi trường. Bạn có gợi ý nào khác về những thay đổi nhỏ để sống một lối sống thân thiện với môi trường hơn không?"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "a. It was amazing to see people in traditional costumes, showcasing their culture through dance and music.\nb. Last year, I had the opportunity to attend the Lunar New Year Festival in my hometown.\nc. In conclusion, the festival was an unforgettable experience giving me a deep appreciation for my cultural roots.\nd. Besides the performances, the festival also featured a variety of delicious food stalls offering traditional dishes.\ne. The highlight of the festival for me was the vibrant lion dance, which was both thrilling and mesmerizing.",
+          "options": {
+            "A": "b-a-e-d-c",
+            "B": "c-d-b-a-e",
+            "C": "d-b-a-c-e",
+            "D": "b-d-a-e-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: giới thiệu sự kiện (b) → ấn tượng đầu tiên về trang phục (a) → điểm nhấn: múa lân (e) → các gian hàng ẩm thực (d) → kết luận (c).\nDịch: Năm ngoái, tôi đã có cơ hội tham dự Lễ hội Tết Nguyên Đán tại quê hương mình. Thật tuyệt vời khi được nhìn thấy mọi người trong trang phục truyền thống. Điểm nhấn của lễ hội đối với tôi là điệu múa lân sôi động, vừa hồi hộp vừa mê hoặc. Ngoài các buổi biểu diễn, lễ hội còn có nhiều gian hàng ẩm thực với các món ăn truyền thống. Tóm lại, lễ hội là một trải nghiệm khó quên."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "a. Sarah: You just need to collect food scraps, leaves, and yard waste.\nb. Tom: That sounds interesting, but is it really easy to start a compost pile?\nc. Sarah: Yes. It's a great way to reduce waste and help the environment.\nd. Tom: Are you making a compost pile?\ne. Tom: What kind of things can you compost?",
+          "options": {
+            "A": "a-c-b-d-e",
+            "B": "d-c-e-a-b",
+            "C": "a-b-c-d-e",
+            "D": "d-a-b-e-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: Tom hỏi có đang làm phân compost không (d) → Sarah xác nhận và giải thích lợi ích (c) → Tom hỏi thể loại rác (e) → Sarah trả lời (a) → Tom hỏi có dễ bắt đầu không (b).\nDịch: Tom: Bạn đang làm phân compost à? / Sarah: Đúng vậy. Đây là cách tuyệt vời để giảm chất thải và giúp bảo vệ môi trường. / Tom: Bạn có thể phân loại những thứ gì để làm compost? / Sarah: Bạn chỉ cần thu gom vỏ thức ăn, lá cây và rác vườn. / Tom: Nghe có vẻ thú vị đấy, nhưng liệu có dễ dàng để bắt đầu một đống phân compost không?"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Living Green for a Better Future",
+      "passage": "\"What can I do to make a difference? Will my small actions be really (25)_______ to the planet or are they useless?\" Are these the questions that you often ask yourself before making lifestyle changes? Well, now it's easier than ever to help! A new platform has introduced a system (26)_______ 'Green Steps.' Here, you can share your sustainable actions (27)_______ other eco-conscious people. When you sign up, you can show your green profile to everyone in the community. You will also see others' profiles and their (28)_______. If you want to help (29)_______ awareness about reducing waste, check out people's recycling and upcycling ideas. And if you are interested in saving energy, look at tips for (30)_______ your carbon footprint!",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "helping",
+            "B": "helpless",
+            "C": "helpful",
+            "D": "help"
+          },
+          "correctAnswer": "C",
+          "explanation": "Chỗ trống đứng sau to be \"be\" và sau trạng từ \"really\" → cần tính từ.\n- helping (n/v): phần thức ăn đưa ra / đang giúp\n- helpless (adj): vô ích, bất lực\n- helpful (adj): giúp ích, hữu ích\n- help (v/n): giúp\nDùng tính từ \"helpful\" (hữu ích) → be really helpful to the planet.\nTạm dịch: Liệu những hành động nhỏ của tôi có thực sự hữu ích cho hành tinh hay chúng sẽ vô ích?"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which called",
+            "B": "was calling",
+            "C": "called",
+            "D": "calling"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mệnh đề quan hệ dạng bị động rút gọn bằng cách lược bỏ đại từ quan hệ và to be, giữ nguyên V-pII.\nCâu gốc: A new platform has introduced a system which is called 'Green Steps'.\n→ Rút gọn: a system called 'Green Steps'.\nTạm dịch: Một nền tảng mới đã giới thiệu một hệ thống gọi là \"Green Steps\" (Các bước Xanh)."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "in",
+            "B": "by",
+            "C": "on",
+            "D": "with"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ: share something with someone: chia sẻ cái gì với ai.\nTạm dịch: Tại đây, bạn có thể chia sẻ những hành động bền vững của mình với những người có ý thức về sinh thái."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "useful green tips",
+            "B": "green useful tips",
+            "C": "green tips useful",
+            "D": "tips green useful"
+          },
+          "correctAnswer": "A",
+          "explanation": "\"green tips\" là một cụm danh từ mang nghĩa \"mẹo xanh\" → dùng tính từ \"useful\" đi trước để bổ ngữ cho cụm danh từ: useful green tips.\nTạm dịch: Bạn cũng sẽ thấy hồ sơ của những người khác và các mẹo xanh hữu ích của họ."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "raise",
+            "C": "come",
+            "D": "make"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ (Collocations): raise awareness about something: nâng cao nhận thức về cái gì.\nTạm dịch: Nếu bạn muốn giúp nâng cao nhận thức về việc giảm rác thải, hãy xem các ý tưởng tái chế và tái sử dụng của mọi người."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "reduce",
+            "B": "reducing",
+            "C": "to reduce",
+            "D": "reduced"
+          },
+          "correctAnswer": "B",
+          "explanation": "Sau giới từ \"for\" ta dùng V-ing (gerund).\nTạm dịch: Và nếu bạn quan tâm đến việc tiết kiệm năng lượng, hãy xem các mẹo để giảm dấu chân carbon của mình!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about renewable energy and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Renewable Energy",
+      "passage": "As climate change continues to affect our world, creating a green environment is crucial for the future of society. [I] Among these, solar power and wind power have emerged as key players in the movement towards sustainability. [II] These energy forms are at the forefront of efforts to secure a cleaner and more sustainable future for our planet. [III] [IV]\n\nSolar power is all about harnessing the energy of the sun by using solar panels to convert sunlight into usable electricity. This highly efficient form of energy produces zero emissions, so it can significantly reduce our carbon footprint. Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan. However, the ability to generate solar power depends on the time of day and weather conditions. This means that solar panels are often less useful if they are installed in places where sunny weather is not typical.\n\nWind power, on the other hand, involves converting the energy of the wind into electricity using large turbines. Wind power doesn't produce any greenhouse gases, but it is not ideal for private use since turbines require consistent care. However, wind farms can be installed on a large scale and are able to produce electricity continuously regardless of the time of day. This means that if there were more investments in wind power, it could be a feasible way to provide energy for major cities and even for whole regions.\n\nWind and solar power contribute significantly to a green environment by reducing our reliance on fossil fuels, helping us cut down on pollution and slow climate change. Additionally, using renewable energy sources helps promote spending on sustainable development by creating new career opportunities in the green energy sector.\n\nFor now, the biggest challenge of adopting green energy is the costs associated with installation and infrastructure, but the benefits unquestionably outweigh the downsides. If we want to stop the climate crisis and create a better and more sustainable future, green energy sources will undoubtedly be the key.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"To address this challenge, the global focus is shifting towards the use of renewable energy sources.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(II)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Xét thấy câu đứng sau có cụm \"among these\" thay thế cho \"renewable energy sources\" nên câu này phù hợp ở vị trí II.\nGiải thích: Câu cần chèn kết nối ý \"thách thức biến đổi khí hậu\" → giải pháp năng lượng tái tạo. Sau [II] là \"Among these, solar power and wind power...\" → cụm \"among these\" chỉ về \"renewable energy sources\" trong câu cần chèn."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase \"cut down on\" in paragraph 4 is closest in meaning to:",
+          "context": "",
+          "options": {
+            "A": "reduce",
+            "B": "prioritize",
+            "C": "eliminate",
+            "D": "increase"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. reduce (v): giảm bớt\nB. prioritize (v): ưu tiên\nC. eliminate (v): loại bỏ\nD. increase (v): tăng\ncut down on something: cắt giảm, giảm bớt cái gì = reduce something.\nTạm dịch: giúp chúng ta cắt giảm ô nhiễm và làm chậm sự biến đổi khí hậu."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"they\" in paragraph 2 refers to:",
+          "context": "",
+          "options": {
+            "A": "private homes",
+            "B": "solar panels",
+            "C": "emissions",
+            "D": "small-scale installations"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: \"Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan.\"\n\"they\" đề cập đến \"solar panels\" (các tấm pin mặt trời) vì solar panels yêu cầu ít bảo trì và có tuổi thọ dài."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 2, which of the following is NOT an advantage of solar power?",
+          "context": "",
+          "options": {
+            "A": "long lifespan",
+            "B": "zero emissions",
+            "C": "suitability for large-scale installations",
+            "D": "minimal maintenance requirements"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin đoạn 2:\n+ solar panels require very little maintenance → D đúng (ưu điểm)\n+ have a long lifespan → A đúng (ưu điểm)\n+ This highly efficient form of energy produces zero emissions → B đúng (ưu điểm)\n+ solar panels are perfect for installation on a small scale → C sai vì bài đọc nói phù hợp lắp đặt QUY MÔ NHỎ, không phải quy mô lớn."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Wind turbines are environmentally friendly but not efficient enough for continuous energy supply.",
+            "B": "Investment in wind power is essential to address both climate and urban energy needs.",
+            "C": "Wind power is unsuitable for small-scale use but highly effective for large-scale electricity production.",
+            "D": "Wind power is a reliable renewable energy source due to significant care and investment."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 3 nhấn mạnh vai trò của năng lượng gió trong việc cung cấp điện liên tục, quy mô lớn cho thành phố và khu vực, đồng thời giảm khí thải nhà kính. Câu này nhấn mạnh rằng đầu tư vào năng lượng gió là yếu tố cần thiết để giải quyết nhu cầu năng lượng đô thị lớn và giảm tác động của biến đổi khí hậu.\nA. Sai vì năng lượng gió có thể sản xuất điện liên tục bất kể thời gian trong ngày.\nC. Đúng nhưng chưa đủ bao quát toàn đoạn 3.\nD. Sai vì đoạn văn không đề cập năng lượng gió đáng tin nhờ vào sự chăm sóc và đầu tư."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"feasible\" in paragraph 3 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "reliable",
+            "B": "achievable",
+            "C": "ineffective",
+            "D": "impractical"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. reliable (adj): đáng tin cậy\nB. achievable (adj): có thể đạt được\nC. ineffective (adj): không hiệu quả\nD. impractical (adj): không thực tế, không khả thi\nfeasible (adj): khả thi >< impractical (không thực tế, không khả thi)."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Renewable energy currently has no significant downsides compared to fossil fuels.",
+            "B": "Wind power can consistently produce electricity regardless the time of day.",
+            "C": "Wind power is better suited for residential use than solar power.",
+            "D": "Solar panels are better suited for large-scale installations than private homes."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai: \"the biggest challenge of adopting green energy is the costs associated with installation and infrastructure\" → có nhược điểm đáng kể.\nB đúng: \"wind farms can be installed on a large scale and are able to produce electricity continuously regardless of the time of day.\"\nC sai: \"Wind power doesn't... it is not ideal for private use since turbines require consistent care.\"\nD sai: \"solar panels are perfect for installation on a small scale, such as in private homes.\""
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "High installation and infrastructure costs are obstacles to adopting green energy, but these challenges can be overcome with proper investment.",
+            "B": "The costs of installation and infrastructure make it difficult to adopt green energy, but the advantages are greater.",
+            "C": "The adoption of green energy is not possible due to high installation and infrastructure costs of installation and infrastructure.",
+            "D": "Despite the significant costs involved in installation and infrastructure, the benefits of adopting green energy are far more important."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: \"the biggest challenge of adopting green energy is the costs associated with installation and infrastructure, but the benefits unquestionably outweigh the downsides.\"\nB. Chi phí lắp đặt và cơ sở hạ tầng làm cho việc áp dụng năng lượng xanh trở nên khó khăn, nhưng các lợi ích lớn hơn. → Diễn đạt lại đúng nhất, tập trung vào ý chính: chi phí là thách thức nhưng lợi ích vượt trội.\nA sai: không đề cập việc vượt qua thách thức bằng đầu tư.\nC sai: \"not possible\" quá cực đoan.\nD: gần đúng nhưng \"far more important\" không chính xác bằng \"advantages are greater\"."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "What can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Renewable energy adoption is hindered primarily by cost concerns.",
+            "B": "Solar and wind power have minimal environmental impact compared to fossil fuels.",
+            "C": "Solar power is more reliable than wind power for urban energy needs.",
+            "D": "The green energy sector offers limited career opportunities."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: Có thể suy ra vì bài đọc nêu \"the biggest challenge of adopting green energy is the costs associated with installation and infrastructure\" → việc áp dụng năng lượng tái tạo chủ yếu bị cản trở bởi mối lo ngại về chi phí.\nB sai: Bài đọc không so sánh trực tiếp tác động môi trường của 2 loại năng lượng này.\nC sai: Bài đọc không so sánh độ đáng tin cậy của 2 loại năng lượng này.\nD sai: \"using renewable energy sources helps promote spending on sustainable development by creating new career opportunities\" → Sai vì năng lượng xanh tạo ra nhiều cơ hội việc làm."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Solar and wind power are effective renewable energy sources, but their inefficiency and high costs hinder large-scale adoption.",
+            "B": "Transitioning to renewable energy sources like solar and wind power is one of the solutions to stopping climate change in the future.",
+            "C": "Renewable energy, led by solar and wind power, plays a vital role in combating climate change and requires further investment despite high costs.",
+            "D": "Solar power is the most promising green energy source, while wind power remains less viable for large-scale energy production."
+          },
+          "correctAnswer": "C",
+          "explanation": "Tóm tắt: Bài đọc nói về hai dạng năng lượng tái tạo là năng lượng gió và mặt trời, với những ưu và nhược điểm của từng cái. Mặc dù năng lượng gió và mặt trời đóng vai trò quan trọng trong việc chống lại biến đổi khí hậu, nhưng các khoản đầu tư vào việc lắp đặt và cơ sở hạ tầng là rất lớn. Tuy nhiên, nếu được đầu tư đầy đủ, những lợi ích thu được sẽ lớn hơn những nhược điểm của chúng.\nC đúng: Năng lượng tái tạo, dẫn đầu là năng lượng mặt trời và gió, đóng vai trò quan trọng trong việc chống lại biến đổi khí hậu và cần đầu tư thêm mặc dù chi phí cao.\nA sai: Bài không nói chúng kém hiệu quả.\nB sai: Chưa đủ đầy đủ, chỉ đề cập một góc.\nD sai: Bài không so sánh hai loại và không kết luận mặt trời vượt trội."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.573173+00:00",
+  "updatedAt": "2026-06-08T10:41:58.573173+00:00",
+  "originalFileName": "THPT_Go_Cong_Dong_Tien_Giang_2025.json"
+}

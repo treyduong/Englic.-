@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_nghen_ha_tinh_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – THPT Nghèn, Hà Tĩnh – Môn: Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Nghen_Ha_Tinh_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HàTĩnh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about lifelong learning and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 10.",
+      "passageTitle": "Urbanization and Its Impact",
+      "passage": "(I) Urbanization refers to the increasing population shift from rural to urban areas, resulting in the growth of cities and metropolitan regions (Hall, 2014). (II) This phenomenon is driven by various factors, including economic opportunities, improved living standards, and social amenities available in urban centers. (III) As a result, urbanization significantly impacts both individuals and communities, leading to a range of benefits and challenges (Davis, 2016). (IV)\n\nOne of the primary advantages of urbanization is the economic growth it fosters. Cities often provide a number of job opportunities, attracting individuals seeking better employment and higher incomes. In urban areas, businesses flourish due to increased demand for goods and services, leading to enhanced economic productivity. Moreover, urbanization encourages innovation and technological advancements, as a dense concentration of people often fosters creativity and collaboration (Florida, 2017).\n\nHowever, urbanization also presents significant challenges. Rapid population growth in cities can lead to overcrowding, straining public services such as transportation, healthcare, and education. Many urban areas struggle to provide adequate housing, resulting in the proliferation of informal settlements and slums. According to the United Nations (2018), nearly one billion people live in slums, lacking access to basic services. They also face adverse living conditions. This situation exacerbates social inequality and can lead to increased crime rates and health issues.\n\nTo address the challenges of urbanization, sustainable urban planning is essential. Governments and urban planners must prioritize creating inclusive, well-connected cities that provide access to essential services for all residents. Strategies such as developing affordable housing, enhancing public transport systems, and promoting green spaces can help improve the quality of life in urban areas while mitigating the negative impacts of urbanization (World Bank, 2019).\n\n(Adapted from Urbanization and Its Impact by Hall, Davis, and others)",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "The word \"proliferation\" in paragraph 3 is OPPOSITE in meaning to ____.",
+          "context": "",
+          "options": {
+            "A": "reduction",
+            "B": "increase",
+            "C": "stabilization",
+            "D": "disappearance"
+          },
+          "correctAnswer": "A",
+          "explanation": "proliferation /prəˌlɪfəˈreɪʃən/ (n): sự phát triển mạnh mẽ, sự gia tăng >< reduction (n): sự giảm bớt.\nThông tin: Many urban areas struggle to provide adequate housing, resulting in the proliferation of informal settlements and slums. (Nhiều khu vực đô thị gặp khó khăn trong việc cung cấp nhà ở đầy đủ, dẫn đến sự phát triển của các khu định cư không chính thức và các khu ổ chuột.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "According to paragraph 2, which of the following is NOT a benefit of urbanization?",
+          "context": "",
+          "options": {
+            "A": "Technological advancements",
+            "B": "Increased social inequality",
+            "C": "Economic growth",
+            "D": "Job opportunities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 2 nêu các lợi ích: economic growth (tăng trưởng kinh tế), job opportunities (cơ hội việc làm), technological advancements (tiến bộ công nghệ). 'Increased social inequality' (bất bình đẳng xã hội gia tăng) là thách thức, được đề cập ở đoạn 3, không phải lợi ích.\nThông tin: One of the primary advantages of urbanization is the economic growth it fosters. Cities often provide a number of job opportunities... urbanization encourages innovation and technological advancements."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The growth of cities automatically improves living conditions for all.",
+            "B": "Urban areas have ample housing options for all residents.",
+            "C": "Urbanization creates a range of challenges, including overcrowding and insufficient public services.",
+            "D": "Rapid urbanization has no impact on crime rates or health issues."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 3 nói về những thách thức mà đô thị hóa gây ra.\nDựa vào câu đầu: 'However, urbanization also presents significant challenges.' và các câu nêu luận điểm chính: tình trạng quá tải, thiếu nhà ở, thiếu dịch vụ cơ bản.\nA sai vì không phải nội dung của đoạn. B sai với thông tin trong đoạn. D sai với thông tin trong đoạn (đô thị hóa có thể dẫn đến tăng tỉ lệ tội phạm và các vấn đề sức khỏe)."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "The word \"they\" in paragraph 3 refers to ____.",
+          "context": "",
+          "options": {
+            "A": "basic services",
+            "B": "urban areas",
+            "C": "public services",
+            "D": "people"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: According to the United Nations (2018), nearly one billion people live in slums, lacking access to basic services. They also face adverse living conditions.\n→ 'They' đề cập đến 'people' (những người sống trong các khu ổ chuột)."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "The phrase \"a number of job opportunities\" in paragraph 2 could be best replaced by ____.",
+          "context": "",
+          "options": {
+            "A": "specific job roles",
+            "B": "scarcity of jobs",
+            "C": "abundant job opportunities",
+            "D": "limited job options"
+          },
+          "correctAnswer": "C",
+          "explanation": "a number of job opportunities: nhiều cơ hội nghề nghiệp = abundant job opportunities (cơ hội việc làm dồi dào).\nThông tin: Cities often provide a number of job opportunities, attracting individuals seeking better employment and higher incomes. (Các thành phố thường cung cấp nhiều cơ hội việc làm, thu hút những người tìm kiếm công việc tốt hơn và thu nhập cao hơn.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Economic opportunities in urban areas lead to an equal distribution of wealth.",
+            "B": "Sustainable urban planning can help mitigate some of the negative effects of urbanization.",
+            "C": "Urbanization is a recent phenomenon that has minimal global impact.",
+            "D": "Slums are a direct result of effective urban planning."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì đô thị hóa dẫn đến sự phát triển của các khu ổ chuột, điều này phản ánh sự bất bình đẳng xã hội.\nB đúng: To address the challenges of urbanization, sustainable urban planning is essential. (Để giải quyết các thách thức của đô thị hóa, quy hoạch đô thị bền vững là rất quan trọng.)\nC sai vì đô thị hóa dẫn đến sự phát triển của các thành phố và khu vực đô thị.\nD sai vì khu ổ chuột là hệ quả của việc không thể cung cấp nhà ở đầy đủ."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Where in paragraph I does the following sentence best fit? \"Urban areas offer a wide array of social services that are often unavailable in rural areas.\"",
+          "context": "",
+          "options": {
+            "A": "(IV)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(I)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu trước vị trí (III) nói về 'social amenities' và câu cần điền nói về 'social services'. Hai câu liên kết về ý.\nThông tin: This phenomenon is driven by various factors, including economic opportunities, improved living standards, and social amenities available in urban centers. [III] Urban areas offer a wide array of social services that are often unavailable in rural areas. As a result, urbanization significantly impacts both individuals and communities."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Sustainable urban planning is crucial to addressing the issues arising from urbanization.",
+            "B": "Urbanization exclusively benefits individuals with higher incomes.",
+            "C": "Rapid urbanization has no effect on public services or living conditions.",
+            "D": "All urban areas can easily provide adequate housing for their residents."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: To address the challenges of urbanization, sustainable urban planning is essential.\nB sai: Cities often provide a number of job opportunities, attracting individuals seeking better employment and higher incomes. (Đô thị hóa thu hút mọi người, không chỉ riêng người có thu nhập cao.)\nC sai: Rapid population growth in cities can lead to overcrowding, straining public services.\nD sai: Many urban areas struggle to provide adequate housing."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4? \"Governments and urban planners must prioritize creating inclusive, well-connected cities that provide access to essential services for all residents.\"",
+          "context": "",
+          "options": {
+            "A": "It is essential for governments to implement urban planning strategies to enhance city life.",
+            "B": "Urban planning should prioritize attracting businesses rather than improving living standards.",
+            "C": "Creating well-designed urban areas requires collaboration between governments and city planners.",
+            "D": "The planning of urban areas must not focus on environmental sustainability."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Governments and urban planners must prioritize creating inclusive, well-connected cities that provide access to essential services for all residents. (Chính phủ và nhà quy hoạch đô thị phải ưu tiên tạo ra các thành phố toàn diện, kết nối tốt, cung cấp dịch vụ thiết yếu cho tất cả cư dân.)\n→ A: Điều quan trọng là các chính phủ thực hiện các chiến lược quy hoạch đô thị để cải thiện cuộc sống thành phố. → Phù hợp nhất."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "The shift from rural to urban living has little effect on economic productivity or community growth.",
+            "B": "Urban areas are perfect solutions for all rural problems, including housing and public services.",
+            "C": "Cities provide the best quality of life without the need for any planning or development.",
+            "D": "Urbanization leads to job creation and economic growth, but also results in challenges such as overcrowding and social inequality that require sustainable urban planning to address."
+          },
+          "correctAnswer": "D",
+          "explanation": "Tóm tắt bài:\n+ Đoạn 1: Đô thị hóa là sự dịch chuyển dân số từ nông thôn ra thành thị.\n+ Đoạn 2: Lợi ích chính của đô thị hóa là thúc đẩy tăng trưởng kinh tế, tạo ra cơ hội việc làm.\n+ Đoạn 3: Tuy nhiên, đô thị hóa cũng mang lại thách thức như quá tải dân số, thiếu nhà ở.\n+ Đoạn 4: Cần có quy hoạch đô thị bền vững để giải quyết những thách thức này.\n→ D đúng với nội dung chính của bài."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 11 to 16.",
+      "passageTitle": "Eco-Friendly Transportation – Choose a Greener Way to Travel!",
+      "passage": "Looking to reduce your carbon footprint? By making small adjustments to your daily commute, you can make a positive impact on the environment.\n\n➤ Why It Matters\n\nThe transport sector is responsible for nearly 30% of global carbon emissions. Switching to (11)________ forms of transportation, like biking or public transit, can make a difference. Imagine if everyone (12)________ their car just one day per week—our air would be much cleaner!\n\n➤ How You Can Help\n\nBike or Walk whenever possible, especially for short trips.\n\nUse Public Transit to avoid the emissions of individual cars. Public transit produces far less pollution per (13)________.\n\nConsider Carpooling with friends or coworkers. (14)________ driving alone, sharing a ride reduces emissions and traffic.\n\nTogether, these changes reduce the (15)________ of pollution and help create a healthier planet for all. By choosing more eco-friendly options, we can significantly lower the (16)________ of emissions released into the atmosphere.\n\n(Adapted from WWF, Global Stewards)",
+      "questions": [
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "other",
+            "B": "the others",
+            "C": "others",
+            "D": "another"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. other + N (số nhiều): những cái khác/những người khác (tính từ)\nB. the others: những cái còn lại/những người còn lại\nC. others: những cái khác/những người khác (đại từ, dùng độc lập)\nD. another + N (số ít): một cái khác/một người khác\nTa thấy danh từ 'forms' ở dạng đếm được số nhiều và dựa vào nghĩa ta chọn 'other'.\nTạm dịch: Việc chuyển sang các phương tiện giao thông khác, như đạp xe hoặc sử dụng phương tiện công cộng, có thể tạo ra sự khác biệt."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "puts off",
+            "B": "takes out",
+            "C": "gives up",
+            "D": "cuts down"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. put off something: hoãn cái gì\nB. take something out: mang cái gì ra ngoài\nC. give up something: từ bỏ cái gì\nD. cut down something: cắt giảm cái gì\nTạm dịch: Hãy tưởng tượng nếu mọi người giảm bớt việc sử dụng xe ô tô chỉ một ngày mỗi tuần — không khí của chúng ta sẽ sạch hơn rất nhiều!"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "distance",
+            "B": "passenger",
+            "C": "ticket",
+            "D": "route"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. distance /ˈdɪstəns/ (n): khoảng cách\nB. passenger /ˈpæsɪndʒər/ (n): hành khách\nC. ticket /ˈtɪkɪt/ (n): vé\nD. route /ruːt/ (n): tuyến đường\nTạm dịch: Phương tiện công cộng sản sinh ít ô nhiễm hơn trên mỗi hành khách."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "Due to",
+            "C": "In addition to",
+            "D": "Regarding"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Instead of: thay vì\nB. Due to: do, vì\nC. In addition to: ngoài ra, thêm vào đó\nD. Regarding: liên quan đến\nTạm dịch: Thay vì lái xe một mình, việc chia sẻ chuyến đi giúp giảm khí thải và tắc nghẽn giao thông."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "level",
+            "B": "supply",
+            "C": "amount",
+            "D": "number"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. the level of: mức độ của\nB. the supply of: nguồn cung của\nC. the amount of + N (không đếm được): lượng\nD. the number of + N (số nhiều): số lượng\nTa thấy danh từ 'pollution' là danh từ không đếm được nên ta dùng 'the amount of'.\nTạm dịch: Những thay đổi này sẽ giúp giảm lượng ô nhiễm và tạo ra một hành tinh khỏe mạnh hơn cho tất cả mọi người."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "demand",
+            "B": "rate",
+            "C": "standard",
+            "D": "quantity"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. demand /dɪˈmænd/ (n): nhu cầu\nB. rate /reɪt/ (n): tỷ lệ\nC. standard /ˈstændərd/ (n): tiêu chuẩn\nD. quantity /ˈkwɒntəti/ (n): số lượng\n'lower the rate of emissions' = giảm tỉ lệ khí thải là cụm thông dụng.\nTạm dịch: Bằng cách chọn các phương tiện thân thiện với môi trường, chúng ta có thể giảm đáng kể tỷ lệ khí thải phát tán vào bầu khí quyển."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about plastic pollution and mark the letter A, B, C, or D to indicate the option that best fits each of the numbered blanks from 17 to 21.",
+      "passageTitle": "Plastic Pollution",
+      "passage": "Plastic pollution has emerged as a critical environmental issue worldwide. Each year, millions of tons of plastic waste (17)____. Some of this plastic waste ends up in rivers, lakes, and eventually in the oceans, creating vast \"garbage patches\" that threaten marine ecosystems. Microplastics, tiny particles of plastic less than five millimeters in length, are now found almost everywhere, from the deepest ocean trenches to remote mountain peaks. Scientists, (18)_______, are increasingly concerned about the effects of these particles on both wildlife and human health. Many marine animals mistake plastic for food, which can lead to severe injury or even death when ingested. (19)____. Not only does plastic harm sea life, but it also enters the food chain and reaches human consumers. By breaking down into microplastics, plastic can become even more widespread and challenging to eliminate. (20)____. Accumulating in water bodies, affecting the health of aquatic plants and animals, releasing harmful chemicals while decomposing and further contaminating ecosystems, (21)______.\n\n(Adapted from https://oceanconservancy.org/)",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Choose the option that best fits blank (17).",
+          "context": "",
+          "options": {
+            "A": "is disposed of without proper treatment each year",
+            "B": "is produced and mismanaged by humans annually",
+            "C": "are thoughtlessly thrown into water bodies around the globe",
+            "D": "are discarded irresponsibly into the environment every year"
+          },
+          "correctAnswer": "C",
+          "explanation": "Phân tích thành phần câu:\nChủ ngữ: 'millions of tons of plastic waste' (hàng triệu tấn rác thải nhựa) → Cần vị ngữ với động từ chính có chia thì hòa hợp với chủ ngữ số nhiều.\nA sai vì động từ 'is' không hòa hợp với chủ ngữ số nhiều.\nB sai vì động từ 'is' không hòa hợp với chủ ngữ số nhiều.\nC đúng: 'are thoughtlessly thrown into water bodies around the globe'.\nD sai vì lặp từ 'every year' (đã có 'each year' ở đầu câu).\nTạm dịch: Mỗi năm, hàng triệu tấn rác thải nhựa bị ném một cách thiếu suy nghĩ vào các vùng nước trên toàn cầu."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Choose the option that best fits blank (18).",
+          "context": "",
+          "options": {
+            "A": "whose researches conducted in multiple fields have shown concerning results",
+            "B": "warning the public about the hazards, use plastic reduction as a key solution",
+            "C": "concerned with the safety of ecosystems, study pollution across regions",
+            "D": "who work in environmental science has highlighted pollution dangers"
+          },
+          "correctAnswer": "A",
+          "explanation": "Phân tích thành phần câu:\n+ Chủ ngữ chính: 'scientists' (các nhà khoa học)\n+ Vị ngữ: 'are increasingly concerned about the effects of these particles on both wildlife and human health'\n→ Cần mệnh đề quan hệ.\nA. với các nghiên cứu ở nhiều lĩnh vực khác nhau chỉ ra những kết quả đáng lo ngại → Đúng, dùng 'whose' cho hình thức sở hữu của danh từ chỉ người.\nB, C. Sai ngữ pháp câu (sử dụng động từ có chia thì).\nD sai ngữ pháp câu (động từ 'has' không hòa hợp với 'scientists' số nhiều).\nTạm dịch: Các nhà khoa học, với các nghiên cứu ở nhiều lĩnh vực khác nhau chỉ ra những kết quả đáng lo ngại, ngày càng quan tâm đến tác động của các hạt này đối với cả động vật hoang dã và sức khỏe con người."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "Choose the option that best fits blank (19).",
+          "context": "",
+          "options": {
+            "A": "Plastic in the sea harms not only fish but also other aquatic creatures",
+            "B": "To prevent harm to marine animals, various programs are proposed",
+            "C": "Saving marine life from plastic waste should be a global priority",
+            "D": "Animals in marine ecosystems need plastic-free environments to thrive"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Nhựa trong biển không chỉ gây hại cho cá mà còn ảnh hưởng đến các sinh vật thủy sinh khác. → Đúng vì câu này nối tiếp ý với câu trước (nói về việc nhiều loài động vật biển nhầm lẫn nhựa với thức ăn, dẫn đến thương tổn nghiêm trọng hoặc tử vong).\nB sai vì không phù hợp với ngữ cảnh.\nC sai vì không trực tiếp giải thích tác động của nhựa trong câu trước nên không phù hợp với ngữ cảnh.\nD sai vì không trực tiếp giải thích tác động của nhựa trong câu trước nên không phù hợp với ngữ cảnh."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Choose the option that best fits blank (20).",
+          "context": "",
+          "options": {
+            "A": "However, reducing plastic disposal is a complex task",
+            "B": "Thus, the persistence of plastics in nature poses a severe problem",
+            "C": "Although they remain in the environment for hundreds of years",
+            "D": "While removing plastics from water is a priority for experts"
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì không liên kết ý với các câu xung quanh.\nB đúng vì phù hợp với ý của câu trước (nhựa khi phân hủy thành vi nhựa càng trở nên phổ biến và khó loại bỏ hơn → Do đó, sự tồn tại lâu dài của nhựa trong tự nhiên đặt ra một vấn đề nghiêm trọng).\nC sai vì đây là mệnh đề phụ thuộc, không thể đứng riêng.\nD sai vì đây là mệnh đề phụ thuộc, không thể đứng riêng.\nTạm dịch: Khi phân hủy thành vi nhựa, nhựa càng trở nên phổ biến và khó loại bỏ hơn. Do đó, sự tồn tại lâu dài của nhựa trong tự nhiên đặt ra một vấn đề nghiêm trọng."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Choose the option that best fits blank (21).",
+          "context": "",
+          "options": {
+            "A": "governments worldwide take action on pollution reduction",
+            "B": "reducing plastic use could mitigate these environmental threats",
+            "C": "this is why recent efforts focus on reversing environmental harm",
+            "D": "plastic is widely seen as a danger to marine life and ecosystem as a whole"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu có mệnh đề phân từ dạng bị động 'Accumulating in water bodies, affecting the health of aquatic plants and animals, releasing harmful chemicals while decomposing and further contaminating ecosystems' → mệnh đề phân từ và mệnh đề chính phải chỉ cùng đối tượng.\nA sai vì 'governments worldwide' không phù hợp để làm chủ ngữ ở vế trước.\nB sai vì 'reducing plastic use' không phù hợp để làm chủ ngữ ở vế trước.\nC sai vì 'this' không phù hợp để làm chủ ngữ ở vế trước.\nD đúng: nhựa được coi là mối nguy hiểm đối với sinh vật biển và toàn bộ hệ sinh thái.\nTạm dịch: Tích tụ trong các nguồn nước, ảnh hưởng đến sức khỏe của thực vật và động vật thủy sinh, giải phóng các hóa chất độc hại trong quá trình phân hủy và làm ô nhiễm thêm hệ sinh thái, nhựa được coi là mối nguy hiểm đối với sinh vật biển và toàn bộ hệ sinh thái."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 22 to 27.",
+      "passageTitle": "Udemy: Learn Anything, Anytime",
+      "passage": "Udemy is an online learning platform (22)________ people learn new skills and improve their knowledge. With over 150,000 (23)________, students can (24)________ from a wide range of subjects. Whether you want to learn about topics like business, design, IT, and more. Udemy offers flexible learning (25)________ your own pace, so you can fit courses around your schedule. Whether you're looking (26)________ in your career or learn something new, Udemy has something for everyone. You can access courses on your computer, tablet, or phone, making learning easy and (27)________. Start learning today and unlock your potential with Udemy.\n\n(Adapted from Udemy – Online Courses)",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "helped",
+            "B": "helping",
+            "C": "that help",
+            "D": "which help"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ:\nTa thấy câu đã có chủ ngữ (Udemy) và động từ chính (is an online learning platform...) → Cần mệnh đề quan hệ rút gọn.\nKhi rút gọn mệnh đề quan hệ dạng chủ động, ta lược bỏ đại từ quan hệ và to be (nếu có), chuyển V thành V-ing (helps → helping).\nTạm dịch: Udemy là một nền tảng học trực tuyến giúp mọi người học các kỹ năng mới và nâng cao kiến thức."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "courses online learning",
+            "B": "learning online courses",
+            "C": "courses learning online",
+            "D": "online learning courses"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: Ta có danh từ 'courses' (các khóa học). Do vậy, ta cần cụm tính từ 'online learning' đứng trước danh từ này để bổ sung ý nghĩa.\nTạm dịch: Với hơn 150,000 khóa học trực tuyến, học viên có thể lựa chọn từ một loạt các chủ đề."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "select",
+            "B": "choose",
+            "C": "pick",
+            "D": "find"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. select /sɪˈlekt/ (v): chọn (lựa chọn đòi hỏi phải suy nghĩ kỹ).\nB. choose /tʃuːz/ (v): lựa chọn (phổ biến hơn, dùng khi có sự lựa chọn tự do) → choose from something: lựa chọn từ cái gì.\nC. pick /pɪk/ (v): chọn (chọn nhanh chóng).\nD. find /faɪnd/ (v): tìm thấy.\nTạm dịch: Với hơn 150,000 khóa học trực tuyến, học viên có thể lựa chọn từ một loạt các chủ đề."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "in",
+            "B": "with",
+            "C": "at",
+            "D": "on"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dạng danh từ: at one's own pace = làm việc tùy theo sức/tốc độ của mình.\nTạm dịch: Udemy cung cấp phương pháp học linh hoạt với tốc độ của riêng bạn, giúp bạn có thể học theo lịch trình của mình."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to advance",
+            "B": "advancing",
+            "C": "to be advanced",
+            "D": "advance"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm: be looking to do something = lên kế hoạch làm gì.\nTạm dịch: Dù bạn đang muốn thăng tiến trong sự nghiệp hay học một điều gì mới, Udemy đều có các khóa học phù hợp cho mọi người."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "accessing",
+            "B": "accessibility",
+            "C": "accession",
+            "D": "accessible"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ loại:\nA. accessing /ˈæksesɪŋ/ (v): tiếp cận\nB. accessibility /ˌæk,sesɪˈbɪlɪti/ (n): khả năng tiếp cận\nC. accession /ˌækˈseʃən/ (n): sự gia nhập\nD. accessible /ˌækˈsesəbl/ (adj): có thể tiếp cận\nmake something adj = làm cho cái gì đó ra sao → cần tính từ.\nTạm dịch: Bạn có thể truy cập các khóa học trên máy tính, máy tính bảng hoặc điện thoại, giúp việc học trở nên dễ dàng và dễ tiếp cận."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 28 to 35.",
+      "passageTitle": "Cultural Diversity",
+      "passage": "Cultural diversity refers to the presence of multiple cultural groups and their practices within a society. It encompasses various aspects such as language, traditions, beliefs, and values. Embracing cultural diversity can lead to a more inclusive and harmonious society, where individuals appreciate and respect differences. This diversity enriches communities by introducing new perspectives, fostering creativity, and promoting mutual understanding.\n\nOne significant benefit of cultural diversity is the exchange of ideas and knowledge. When people from different cultural backgrounds interact, they share their unique experiences and insights. This exchange can lead to innovative solutions and improvements in various fields such as science, art, and business. Moreover, cultural diversity can enhance social cohesion by encouraging people to work together and learn from one another.\n\nEducation plays a crucial role in promoting cultural diversity. Schools and universities can create inclusive environments by incorporating diverse perspectives into their curricula and encouraging students to engage with different cultures. By doing so, educational institutions help students develop a global mindset and prepare them for a multicultural world. Additionally, exposure to diverse cultures at a young age can reduce prejudices and promote tolerance.\n\nIn the workplace, cultural diversity can boost productivity and creativity. Diverse teams bring together individuals with different skills, viewpoints, and problem-solving approaches. This variety can enhance decision-making processes and lead to more effective and innovative solutions. Companies that prioritize cultural diversity also tend to have a more positive work environment and higher employee satisfaction.\n\nDespite its benefits, cultural diversity also presents challenges. Misunderstandings and conflicts can arise when people from different cultural backgrounds interact. To address these challenges, it is essential to promote open communication and cultural competence. By fostering an inclusive culture, societies and organizations can maximize the benefits of cultural diversity while minimizing potential conflicts.\n\n(Adapted from sciencedaily.com)",
+      "questions": [
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"encompasses\" in paragraph 1 is opposite in meaning to:",
+          "context": "",
+          "options": {
+            "A": "diminishes",
+            "B": "includes",
+            "C": "separates",
+            "D": "excludes"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. diminish /dɪˈmɪnɪʃ/ (v): giảm bớt\nB. include /ɪnˈkluːd/ (v): bao gồm\nC. separate /ˈsepəreɪt/ (v): tách biệt\nD. exclude /ɪksˈkluːd/ (v): loại trừ\nencompass /ɪnˈkʌmpəs/ (v): bao gồm >< exclude (v).\nThông tin: It encompasses various aspects such as language, traditions, beliefs, and values. (Nó bao gồm nhiều khía cạnh khác nhau như ngôn ngữ, truyền thống, tín ngưỡng và giá trị.)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The word \"enhance\" in paragraph 2 could be best replaced by:",
+          "context": "",
+          "options": {
+            "A": "worsen",
+            "B": "ignore",
+            "C": "enrich",
+            "D": "simplify"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. worsen /ˈwɜːsən/ (v): làm tồi tệ hơn\nB. ignore /ɪɡˈnɔːr/ (v): phớt lờ\nC. enrich /ɪnˈrɪtʃ/ (v): làm phong phú, làm giàu\nD. simplify /ˈsɪmplɪfaɪ/ (v): đơn giản hóa\nenhance /ɪnˈhæns/ (v): nâng cao, tăng cường = enrich (v).\nThông tin: Moreover, cultural diversity can enhance social cohesion by encouraging people to work together and learn from one another. (Hơn nữa, sự đa dạng văn hóa có thể tăng cường sự gắn kết xã hội bằng cách khuyến khích mọi người làm việc cùng nhau và học hỏi từ nhau.)"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following is NOT mentioned as an aspect of cultural diversity?",
+          "context": "",
+          "options": {
+            "A": "Traditions",
+            "B": "Technology",
+            "C": "Language",
+            "D": "Beliefs"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: It encompasses various aspects such as language, traditions, beliefs, and values. (Nó bao gồm nhiều khía cạnh khác nhau như ngôn ngữ, truyền thống, tín ngưỡng và giá trị.)\n→ 'Technology' (Công nghệ) không được đề cập là một khía cạnh của sự đa dạng văn hóa."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word \"its\" in paragraph 5 refers to:",
+          "context": "",
+          "options": {
+            "A": "cultural diversity",
+            "B": "exchange of ideas and knowledge",
+            "C": "unique experiences",
+            "D": "interaction"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Despite its benefits, cultural diversity also presents challenges. (Mặc dù có nhiều lợi ích, sự đa dạng văn hóa cũng đem lại những thách thức.)\n→ 'its' đề cập đến 'cultural diversity' (sự đa dạng văn hóa)."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "In which paragraph does the writer mention the role of cultural diversity in the workplace?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: In the workplace, cultural diversity can boost productivity and creativity... (Tại nơi làm việc, sự đa dạng văn hóa có thể tăng cường năng suất và sự sáng tạo...) → Đoạn 4."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Cultural diversity has no impact on creativity.",
+            "B": "Cultural diversity can reduce prejudices and promote tolerance.",
+            "C": "Cultural diversity is irrelevant in the workplace.",
+            "D": "Cultural diversity always leads to misunderstandings."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai: This diversity enriches communities by introducing new perspectives, fostering creativity. (Sự đa dạng này làm phong phú các cộng đồng bằng cách giới thiệu những góc nhìn mới, thúc đẩy sự sáng tạo.)\nC sai: In the workplace, cultural diversity can boost productivity and creativity.\nD sai: Misunderstandings and conflicts can arise when people from different cultural backgrounds interact. (Có thể nảy sinh, không phải luôn luôn.)\nB đúng: Additionally, exposure to diverse cultures at a young age can reduce prejudices and promote tolerance."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3? \"By doing so, educational institutions help students develop a global mindset and prepare them for a multicultural world.\"",
+          "context": "",
+          "options": {
+            "A": "Schools and universities should incorporate diverse perspectives.",
+            "B": "Education should avoid addressing cultural diversity.",
+            "C": "Education plays no role in promoting cultural diversity.",
+            "D": "Educational institutions should focus solely on local cultures."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: By doing so, educational institutions help students develop a global mindset and prepare them for a multicultural world. (Bằng cách này, các cơ sở giáo dục giúp học sinh phát triển tư duy toàn cầu và chuẩn bị cho một thế giới đa văn hóa.)\n→ A: Các trường học và đại học nên đưa các quan điểm đa dạng vào chương trình giảng dạy. → Phù hợp nhất."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "In which paragraph does the writer discuss the challenges of cultural diversity?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 3",
+            "D": "Paragraph 5"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Despite its benefits, cultural diversity also presents challenges. Misunderstandings and conflicts can arise when people from different cultural backgrounds interact... → Đoạn 5 thảo luận về các thách thức của sự đa dạng văn hóa."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 36 to 40.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "a. Mike: Hi, Lisa! Did you do anything fun this weekend?\nb. Mike: That sounds awesome! Where did you go?\nc. Lisa: Yes! I went hiking with some friends. It was great to be outdoors.",
+          "options": {
+            "A": "a-b-c",
+            "B": "b-a-c",
+            "C": "c-a-b",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tạm dịch:\na. Mike: Chào Lisa! Cuối tuần vừa rồi bạn có làm gì vui không?\nc. Lisa: Có! Mình đi leo núi với vài người bạn. Thật tuyệt khi được ở ngoài trời.\nb. Mike: Nghe thật tuyệt! Bạn đi đâu thế?\nThứ tự logic: Mike hỏi → Lisa trả lời → Mike hỏi thêm chi tiết."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "a. Mia: I love how we turn off the lights for an hour to save energy.\nb. Jake: Exactly! It's a simple way to remind everyone about climate change.\nc. Mia: Let's invite some friends to join us and make it more fun!\nd. Jake: Yes, I am! It's a great way to help the planet.\ne. Mia: Are you going to participate in Earth Hour this year?",
+          "options": {
+            "A": "c-e-a-b-d",
+            "B": "d-b-c-a-e",
+            "C": "e-d-a-b-c",
+            "D": "b-a-e-d-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tạm dịch:\ne. Mia: Năm nay bạn có tham gia Giờ Trái đất không?\nd. Jake: Có, mình sẽ tham gia! Đây là một cách tuyệt vời để giúp hành tinh.\na. Mia: Mình thích cách chúng ta tắt đèn trong một giờ để tiết kiệm năng lượng.\nb. Jake: Chính xác! Đó là một cách đơn giản để nhắc nhở mọi người về biến đổi khí hậu.\nc. Mia: Chúng ta hãy mời vài người bạn tham gia cùng và làm cho nó thêm vui nhé!\nThứ tự logic: Mia hỏi → Jake xác nhận tham gia → Mia chia sẻ điều mình thích → Jake đồng ý → Mia đề xuất thêm."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "Hi John,\na. It's fantastic that you've taken the time to recommend those cultural podcasts to me.\nb. I listened to the first one on ancient civilizations, and it was truly insightful.\nc. You know, maybe we could start a discussion group about these topics, what do you think?\nd. Thanks also for introducing me to those documentaries—they've been an amazing supplement to the podcasts!\ne. While I'm busy at the moment preparing for my exam, I'm eager to dive deeper into the content afterward.\nWrite back soon,\nEmily",
+          "options": {
+            "A": "a-b-d-c-e",
+            "B": "b-e-a-d-c",
+            "C": "a-d-b-e-c",
+            "D": "b-d-a-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch:\na. Thật tuyệt vời khi bạn đã dành thời gian để giới thiệu cho tôi những podcast về văn hóa này.\nb. Tôi đã nghe tập đầu tiên về các nền văn minh cổ đại và thật sự rất sâu sắc.\nd. Cảm ơn bạn cũng đã giới thiệu cho tôi những bộ phim tài liệu đó - chúng là một sự bổ sung tuyệt vời cho các podcast!\nc. Bạn biết không, có lẽ chúng ta có thể bắt đầu một nhóm thảo luận về những chủ đề này, bạn nghĩ sao?\ne. Mặc dù hiện tại tôi đang bận chuẩn bị cho kỳ thi, nhưng tôi rất mong được khám phá sâu hơn vào các nội dung sau đó.\nThứ tự logic của email cảm ơn: cảm ơn về podcast → phản hồi cụ thể về nội dung nghe → cảm ơn thêm về phim tài liệu → đề xuất ý tưởng → nêu hạn chế hiện tại nhưng vẫn hào hứng."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "a. While managing large teams and coordinating multiple tasks can be challenging, the sense of accomplishment when a project is completed successfully is truly rewarding.\nb. I started my journey in project management five years ago, where I quickly developed a passion for overseeing complex projects.\nc. My ability to communicate clearly with clients and colleagues is one of my greatest strengths in this role.\nd. I have honed my skills through various leadership training programs and by handling diverse projects across industries.\ne. In conclusion, my experience in leading teams and delivering results under tight deadlines has shaped me into a well-rounded project manager.",
+          "options": {
+            "A": "b-d-c-a-e",
+            "B": "c-a-d-b-e",
+            "C": "d-b-a-c-e",
+            "D": "b-c-a-d-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch:\nb. Tôi bắt đầu hành trình quản lý dự án cách đây năm năm, và nhanh chóng phát triển niềm đam mê với việc giám sát các dự án phức tạp.\nd. Tôi đã rèn luyện kỹ năng của mình thông qua các chương trình đào tạo lãnh đạo và việc xử lý các dự án đa dạng trong nhiều ngành.\nc. Khả năng giao tiếp rõ ràng với khách hàng và đồng nghiệp là một trong những điểm mạnh lớn nhất của tôi trong vai trò này.\na. Mặc dù việc quản lý các nhóm lớn và phối hợp nhiều nhiệm vụ có thể gặp khó khăn, nhưng cảm giác thành tựu khi một dự án hoàn thành thành công thật sự rất xứng đáng.\ne. Tóm lại, kinh nghiệm của tôi trong việc lãnh đạo các nhóm và đạt được kết quả dưới những thời hạn chặt chẽ đã hình thành tôi thành một quản lý dự án toàn diện.\nThứ tự logic: giới thiệu bản thân → rèn luyện kỹ năng → điểm mạnh → thách thức nhưng vẫn có phần thưởng → kết luận."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "a. However, despite these advancements, the region still struggles with infrastructure challenges, as public transportation remains underdeveloped.\nb. Over the past decade, Greystone has undergone a remarkable transformation, shifting from a quiet suburban town to a vibrant hub of commercial activity.\nc. The influx of new residents has increased demand for housing, resulting in a rapid expansion of residential developments across the city.\nd. This economic growth has attracted businesses from tech startups to retail giants, significantly enhancing employment opportunities and boosting the local economy.\ne. The surge in population, along with the expansion of commercial sectors, has led to a noticeable strain on public services and transportation networks.",
+          "options": {
+            "A": "b-d-c-e-a",
+            "B": "b-e-d-c-a",
+            "C": "b-c-d-a-e",
+            "D": "b-c-e-d-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tạm dịch:\nb. Trong suốt thập kỷ qua, Greystone đã trải qua một sự biến đổi đáng kể, từ một thị trấn ngoại ô yên tĩnh trở thành trung tâm sôi động của hoạt động thương mại.\nc. Sự gia tăng dân số mới đã làm tăng nhu cầu về nhà ở, dẫn đến sự mở rộng nhanh chóng các dự án phát triển nhà ở khắp thành phố.\nd. Sự tăng trưởng kinh tế này đã thu hút các doanh nghiệp từ các công ty khởi nghiệp công nghệ đến các tập đoàn bán lẻ, nâng cao cơ hội việc làm và thúc đẩy nền kinh tế địa phương.\na. Tuy nhiên, bất chấp những tiến bộ này, khu vực vẫn gặp phải những thách thức về cơ sở hạ tầng, khi giao thông công cộng vẫn chưa phát triển.\ne. Sự gia tăng dân số, cùng với sự mở rộng của các ngành thương mại, đã gây áp lực lên các dịch vụ công cộng và mạng lưới giao thông.\nThứ tự logic: giới thiệu sự biến đổi → tăng dân số và nhà ở → tăng trưởng kinh tế → thách thức hạ tầng (nhượng bộ) → hệ quả áp lực dịch vụ công."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.595881+00:00",
+  "updatedAt": "2026-06-08T10:41:58.595881+00:00",
+  "originalFileName": "THPT_Nghen_Ha_Tinh_2025.json"
+}

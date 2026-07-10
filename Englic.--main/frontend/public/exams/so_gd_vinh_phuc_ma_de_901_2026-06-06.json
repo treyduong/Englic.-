@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_vinh_phuc_ma_de_901_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Vĩnh Phúc - Mã đề 901",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Vinh_Phuc_Ma_De_901_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#VinhPhuc",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the questions from 1 to 8.",
+      "passageTitle": "",
+      "passage": "For many years, scientists have been arguing about global warming. While they don't all agree about what this might mean for Planet Earth, many think it is going on - and that we can do something about it. We need a few more years to gather facts before anyone can say for sure. But people need to start now to do things to stop it.\n\nThere are many types of gases in our atmosphere. Some of them absorb the heat from the sun and control our climate. \"Greenhouse gases\" are those that hold the heat around the planet's surface. When we increase the level of these gases, we upset the balance. These extra gases trap even more heat.\n\nSome scientists say global warming has already started to change the environment. The Earth's temperature has risen one degree Fahrenheit this century. Many scientists believe it could rise from two to eight degrees Fahrenheit in the next hundred years. This would be the fastest rise in 10,000 years. Sea levels could rise. Ice sheets could melt and add to the water level. Many places near the coast would be in danger of flooding.\n\nIf the climate changes rapidly and severely, it can cause significant harm to some plants and animals. They could even die out. Weather could become more violent and extreme. In some places there would be more forest fires. But in other areas there would be more rain and snow, storms and floods.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "The word \"it\" in paragraph 1 refers to _________.",
+          "context": "",
+          "options": {
+            "A": "the heat",
+            "B": "Planet Earth",
+            "C": "things",
+            "D": "global warming"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'it' trong đoạn 1 ám chỉ đến 'global warming' (sự nóng lên toàn cầu).\nThông tin: For many years, scientists have been arguing about global warming... But people need to start now to do things to stop it.\nTừ 'it' ở đây thay thế cho 'global warming' đã được đề cập trước đó trong đoạn văn."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word \"absorb\" in paragraph 2 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "release",
+            "B": "consume",
+            "C": "include",
+            "D": "acquire"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'absorb' trong đoạn 2 có nghĩa TRÁI LẠI với 'release'.\nA. release /rɪˈliːs/ (v/n): giải phóng, phát hành\nB. consume /kənˈsjuːm/ (v): tiêu thụ\nC. include /ɪnˈkluːd/ (v): bao gồm\nD. acquire /əˈkwaɪər/ (v): đạt được, thu được\nabsorb (v): hấp thụ >< release (v)\nThông tin: Some of them absorb the heat from the sun and control our climate."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "According to the passage, which of the following is NOT an effect of global warming?",
+          "context": "",
+          "options": {
+            "A": "Sea levels could rise",
+            "B": "Ice sheets could melt",
+            "C": "Weather could become more extreme",
+            "D": "Plants and animals could adapt easily"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn văn, điều nào sau đây KHÔNG phải là tác động của sự nóng lên toàn cầu là 'Plants and animals could adapt easily'.\nA, B được đề cập: Sea levels could rise. Ice sheets could melt and add to the water level.\nC được đề cập: Weather could become more violent and extreme.\nD không phải là tác động: If the climate changes rapidly and severely, it can cause significant harm to some plants and animals. They could even die out. → D không phải là tác động."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "Which of the following sentences best paraphrases the underlined sentence in paragraph 4? \"If the climate changes rapidly and severely, it can cause significant harm to some plants and animals.\"",
+          "context": "",
+          "options": {
+            "A": "A fast and big change in climate might hurt some plants and animals a lot.",
+            "B": "Abrupt and extreme climate changes might enable plants and animals to adapt fast.",
+            "C": "Climate change occurring at a moderate pace could help plants and animals develop.",
+            "D": "If the climate changes too slowly, plants and animals could benefit."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây diễn giải tốt nhất câu được gạch chân trong đoạn 4: 'Nếu khí hậu thay đổi nhanh chóng và nghiêm trọng, nó có thể gây ra tác hại đáng kể cho một số loài thực vật và động vật.'\nA. Một sự thay đổi nhanh chóng và lớn về khí hậu có thể gây tổn hại rất nhiều đến một số loài thực vật và động vật. (Diễn đạt lại đúng, đầy đủ ý nghĩa câu gốc)\nB. Sai ở 'enable plants and animals to adapt fast'\nC. Biến đổi khí hậu xảy ra ở tốc độ vừa phải có thể giúp thực vật và động vật phát triển. (Không liên quan đến nghĩa câu gốc)\nD. Nếu khí hậu thay đổi quá chậm, thực vật và động vật có thể được hưởng lợi. (Không liên quan đến nghĩa câu gốc)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Scientists say that global warming hasn't affected the environment yet.",
+            "B": "Scientists have all agreed about global warming.",
+            "C": "Climate change would cause forest fires everywhere.",
+            "D": "As the levels of these gases grow, they absorb more heat."
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG là 'As the levels of these gases grow, they absorb more heat.'\nA sai: Some scientists say global warming has already started to change the environment.\nB sai: While they don't all agree about what this might mean for Planet Earth.\nC sai ở 'everywhere': In some places there would be more forest fires.\nD đúng: When we increase the level of these gases, we upset the balance. These extra gases trap even more heat. → Khi nồng độ các loại khí này tăng lên, chúng sẽ hấp thụ nhiều nhiệt hơn."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "The word \"extreme\" in paragraph 4 is closest in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "peaceful",
+            "B": "severe",
+            "C": "gentle",
+            "D": "quiet"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'extreme' trong đoạn 4 có nghĩa gần nhất với 'severe'.\nA. peaceful /ˈpiːsfəl/ (adj): yên bình, thanh thản\nB. severe /sɪˈvɪər/ (adj): nghiêm trọng, khắc nghiệt\nC. gentle /ˈdʒen.tl/ (adj): nhẹ nhàng, dịu dàng\nD. quiet /ˈkwaɪ.ət/ (adj): yên tĩnh, im lặng\nextreme (adj): cực đoan, khắc nghiệt = severe (adj)\nThông tin: Weather could become more violent and extreme."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "In which paragraph does the writer mention the potential danger to coastal areas caused by rising sea levels?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 3",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong đoạn văn 3, tác giả đề cập đến mối nguy hiểm tiềm tàng đối với các vùng ven biển do mực nước biển dâng cao.\nThông tin: Sea levels could rise. Ice sheets could melt and add to the water level. Many places near the coast would be in danger of flooding."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "In which paragraph does the writer mention the effect of greenhouse gases on the Earth's climate?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 3",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trong đoạn văn 2, tác giả đề cập đến tác động của khí nhà kính lên khí hậu Trái Đất.\nThông tin: 'Greenhouse gases' are those that hold the heat around the planet's surface. When we increase the level of these gases, we upset the balance."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 9 to 13.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "a. Engaging in housework also enables men to better empathize with their wives, fostering mutual respect and understanding.\nb. Ultimately, sharing parenting and household duties is a cornerstone of a balanced and happy family dynamic.\nc. From my perspective, men should sometimes take on the responsibility of staying home to care for their children and manage household tasks.\nd. This practice not only helps fathers foster deeper connections with their children, strengthening family bonds, but also contributes to the children's emotional and physical development.\ne. Consequently, such actions often lead to fathers being held in higher regard by both their spouses and children.",
+          "options": {
+            "A": "c-d-a-e-b",
+            "B": "c-a-e-b-d",
+            "C": "c-d-e-b-a",
+            "D": "c-a-e-d-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đúng: c-d-a-e-b\nTheo quan điểm của tôi, đôi khi đàn ông nên đảm nhận trách nhiệm ở nhà chăm sóc con cái và quản lý công việc gia đình. Việc này không chỉ giúp các ông bố gắn kết sâu sắc hơn với con cái, củng cố mối quan hệ gia đình, mà còn góp phần vào sự phát triển về mặt cảm xúc và thể chất của trẻ. Tham gia vào công việc nhà cũng giúp đàn ông thấu hiểu vợ mình hơn, từ đó xây dựng sự tôn trọng và thấu hiểu lẫn nhau. Hệ quả là, những hành động như vậy thường khiến các ông bố được vợ con đánh giá cao hơn. Cuối cùng, việc chia sẻ trách nhiệm nuôi dạy con cái và công việc gia đình chính là nền tảng của một gia đình cân bằng và hạnh phúc."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "a. Planting trees is another effective measure, as it lowers carbon dioxide in the atmosphere and enhances air quality.\nb. Small steps like cutting down on plastic use, practicing recycling, and using water wisely can have a meaningful impact.\nc. In conclusion, achieving these objectives requires the joint efforts of individuals, organizations, and governments to conserve resources, minimize pollution, and tackle climate change for the benefit of future generations.\nd. Ensuring a sustainable and healthy future depends on our efforts to protect the environment.\ne. Furthermore, opting for environmentally friendly products and embracing renewable energy sources, such as solar and wind power, plays a vital role in creating a greener planet.",
+          "options": {
+            "A": "b-a-e-c-d",
+            "B": "c-a-e-d-b",
+            "C": "a-d-e-c-b",
+            "D": "d-b-a-e-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: d-b-a-e-c\nĐảm bảo một tương lai bền vững và khỏe mạnh phụ thuộc vào những nỗ lực của chúng ta trong việc bảo vệ môi trường. Những bước nhỏ như giảm sử dụng nhựa, thực hành tái chế, và sử dụng nước một cách khôn ngoan có thể tạo ra những tác động ý nghĩa. Trồng cây cũng là một biện pháp hiệu quả khác, vì nó làm giảm lượng khí CO₂ trong không khí và cải thiện chất lượng không khí. Ngoài ra, việc lựa chọn các sản phẩm thân thiện với môi trường và sử dụng các nguồn năng lượng tái tạo như năng lượng mặt trời và gió đóng vai trò quan trọng trong việc tạo ra một hành tinh xanh hơn. Cuối cùng, để đạt được những mục tiêu này, cần có sự chung tay của cá nhân, tổ chức, và chính phủ."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "Dear Emily,\na. I hope you're doing well! I just got back from an amazing trip to Viet Nam and had to tell you about it.\nb. If you ever get the chance to visit Viet Nam, you should go! I'd love for us to travel together someday.\nc. I loved the food, especially 'Pho' in Ha Noi!\nd. The locals were also very welcoming, and learning a few Vietnamese phrases helped.\ne. The views at Fansipan were breathtaking, and I explored beautiful cities like Da Nang and Nha Trang.\nTake care,\nSarah",
+          "options": {
+            "A": "c-e-a-d-b",
+            "B": "d-a-c-b-e",
+            "C": "a-e-c-d-b",
+            "D": "b-e-d-c-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đúng: a-e-c-d-b\nMình hy vọng cậu vẫn khỏe! Mình vừa trở về sau một chuyến đi tuyệt vời đến Việt Nam và nhất định phải kể cho cậu nghe. Khung cảnh ở Fansipan thật ngoạn mục, và mình đã khám phá những thành phố xinh đẹp như Đà Nẵng và Nha Trang. Mình rất thích đồ ăn ở đây, đặc biệt là món phở ở Hà Nội! Người dân địa phương cũng rất thân thiện, và việc học vài câu tiếng Việt đã giúp mình rất nhiều. Nếu cậu có cơ hội đến Việt Nam, nhất định phải đi nhé! Mình rất mong một ngày nào đó chúng mình có thể cùng đi du lịch với nhau."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "a. Bean: That makes sense, but I don't think AI is suitable for basic tasks.\nb. Nick: Definitely. A doctor's job is such a tedious one that AI will likely take over.\nc. Nick: You're right. Basic jobs may be perfect for AI, but humans may not want to relinquish control of more boring tasks.\nd. Bean: Do you think AI will affect the role of doctors?\ne. Bean: I think it will, but doctors will probably still be needed for making critical decisions.",
+          "options": {
+            "A": "e-c-d-b-a",
+            "B": "d-b-a-c-e",
+            "C": "a-c-e-b-d",
+            "D": "a-b-c-d-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: d-b-a-c-e\nBean: Cậu có nghĩ rằng AI sẽ ảnh hưởng đến vai trò của các bác sĩ không?\nNick: Chắc chắn rồi. Công việc của bác sĩ rất nhàm chán đến mức AI có thể sẽ thay thế.\nBean: Điều đó có lý, nhưng mình không nghĩ AI thực sự phù hợp với các công việc cơ bản.\nNick: Đúng vậy. Những công việc cơ bản có thể phù hợp với AI, nhưng con người có lẽ sẽ không muốn từ bỏ quyền kiểm soát với các nhiệm vụ nhàm chán hơn.\nBean: Mình cũng nghĩ vậy, nhưng có lẽ bác sĩ vẫn sẽ cần thiết để đưa ra các quyết định quan trọng."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Nam: Hi, Jessica. I'm so excited as I've never met a talking robot before. Let's have a photo taken together!\nb. Teacher: Hello, class. Please meet Jessica. She's a human-like robot and will be your guide today.\nc. Jessica: Good morning, everybody. Welcome to the New Tech Centre.",
+          "options": {
+            "A": "b-a-c",
+            "B": "a-b-c",
+            "C": "c-a-b",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: b-c-a\nGiáo viên: Xin chào cả lớp. Hãy làm quen với Jessica nhé. Cô ấy là một robot giống người và sẽ là hướng dẫn viên của các em ngày hôm nay.\nJessica: Chào buổi sáng, tất cả mọi người. Chào mừng đến với Trung tâm Công nghệ Mới.\nNam: Xin chào, Jessica. Mình rất phấn khích vì mình chưa từng gặp một robot biết nói nào trước đây. Chúng ta hãy chụp ảnh cùng nhau nhé!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 14 to 19.",
+      "passageTitle": "Make a Difference with Conservation Volunteers Australia",
+      "passage": "Conservation Volunteers Australia (CVA) is a leading organization (14)________ to preserving and restoring the environment through community-driven volunteer projects. With a focus (15)________ practical conservation efforts, CVA offers a variety of opportunities for individuals (16)________ a positive impact, whether it's through habitat restoration, tree planting, or wildlife conservation. Volunteers can choose from local day projects, residential programs in diverse locations, or youth-focused initiatives like the Green Army, which provides young people with hands-on training in (17)________.\n\nGetting involved with CVA is simple. By visiting their official website, Conservation Volunteers Australia, you can browse current projects and sign up for the one that suits your interests and schedule. Many programs include education or training sessions to (18)________ volunteers are well-prepared. The benefits of participating extend beyond environmental impact - volunteers gain practical skills, connect with like-minded individuals, and contribute to the preservation of Australia's (19)________.",
+      "questions": [
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "dedicate",
+            "B": "that dedicated",
+            "C": "was dedicated",
+            "D": "dedicated"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ: Ta rút gọn 'that is dedicated' bằng cách lược bỏ đại từ quan hệ 'that' và to be 'is' nên đáp án đúng là 'dedicated'. 'Dedicated' ở đây là một tính từ dùng để mô tả 'organization' (một tổ chức tận tâm, cam kết với việc bảo vệ môi trường).\nTạm dịch: Conservation Volunteers Australia (CVA) là một tổ chức hàng đầu cam kết bảo vệ và phục hồi môi trường thông qua các dự án tình nguyện dựa vào cộng đồng."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "up",
+            "B": "on",
+            "C": "from",
+            "D": "in"
+          },
+          "correctAnswer": "B",
+          "explanation": "Giới từ: a focus + on + V-ing: sự tập trung vào việc gì đó\nTạm dịch: With a focus on practical conservation efforts, CVA offers a variety of opportunities for individuals... (Với trọng tâm vào các nỗ lực bảo tồn thực tiễn, CVA mang đến nhiều cơ hội để cá nhân…)"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "making",
+            "C": "to make",
+            "D": "made"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dạng thức của động từ: an opportunity for somebody to do something: cơ hội cho ai đó làm gì\nTạm dịch: With a focus on practical conservation efforts, CVA offers a variety of opportunities for individuals to make a positive impact, whether it's through habitat restoration, tree planting, or wildlife conservation. (Với trọng tâm vào các nỗ lực bảo tồn thực tiễn, CVA mang đến nhiều cơ hội để cá nhân góp phần tạo nên tác động tích cực, dù đó là thông qua phục hồi môi trường sống, trồng cây, hay bảo tồn động vật hoang dã.)"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "conservative",
+            "B": "conservatory",
+            "C": "conservation",
+            "D": "conserve"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại:\nA. conservative /kənˈsɜː.və.tɪv/ (adj): bảo thủ, thận trọng\nB. conservatory /kənˈsɜː.və.tɔːr.i/ (n): nhà kính, nhạc viện\nC. conservation /ˌkɒn.səˈveɪ.ʃən/ (n): sự bảo tồn, sự duy trì\nD. conserve /kənˈsɜːv/ (v): bảo tồn, giữ gìn\nTạm dịch: Volunteers can choose from local day projects, residential programs in diverse locations, or youth-focused initiatives like the Green Army, which provides young people with hands-on training in conservation."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "assure",
+            "B": "secure",
+            "C": "ensure",
+            "D": "guarantee"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. assure /əˈʃʊər/ (v): trấn an\nB. secure /sɪˈkjʊər/ (v): bảo vệ, đảm bảo an toàn\nC. ensure /ɪnˈʃʊər/ (v): đảm bảo (điều gì đó xảy ra)\nD. guarantee /ˌɡær.ənˈtiː/ (v/n): bảo hành, bảo đảm (đưa ra cam kết chính thức)\nTạm dịch: Many programs include education or training sessions to ensure volunteers are well-prepared. (Nhiều chương trình bao gồm các buổi giáo dục hoặc đào tạo để đảm bảo các tình nguyện viên được chuẩn bị tốt.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "natural heritage unique",
+            "B": "natural unique heritage",
+            "C": "unique heritage natural",
+            "D": "unique natural heritage"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: natural heritage (np): di sản thiên nhiên; unique (adj): độc đáo\nTa dùng tính từ 'unique' trước cụm danh từ 'natural heritage' để bổ nghĩa.\nTạm dịch: The benefits of participating extend beyond environmental impact - volunteers gain practical skills, connect with like-minded individuals, and contribute to the preservation of Australia's unique natural heritage. (Lợi ích của việc tham gia không chỉ nằm ở tác động đến môi trường - các tình nguyện viên còn học được kỹ năng thực tế, kết nối với những người có cùng chí hướng, và đóng góp vào việc bảo tồn di sản thiên nhiên độc đáo của Úc.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the questions from 20 to 29.",
+      "passageTitle": "",
+      "passage": "[I] The authors noted that while other forms of pollution are decreasing, noise pollution has been increasing. [II] This conclusion is reinforced by the fact that there has been an increase in the number of people who have been complaining about excessive noise in the WHO region. [III] Populations that are exposed to high noise levels can be afflicted by other symptoms such as: stress reactions, sleep-stage changes, and clinical symptoms like hypertension and cardiovascular diseases. [IV] All these impacts can contribute to premature mortality.\n\nIt is important to note that these adverse health problems impact all age groups including children and adolescents. In fact, it has been reported that children who live and or study in an area afflicted with noise pollution tend to suffer from stress, impairments in memory and attention as well as difficulty reading. \"In Western Europe, the guidelines say, traffic noise results in an annual loss of at least one million healthy years\". Traffic noise is currently ranked second among environmental threats to public health.\n\nThe danger of noise pollution is more present to us when we are asleep. Because the human ear is so sensitive, it never rests, it is always working, picking up and transmitting sounds for our brains to interpret. This always on working process is where the danger lies, though you may be sleeping, sounds are still being picked up and processed.\n\nThe most common side effects of this phenomenon are sleep disturbance and tiredness, impaired memory, judgment, and psychomotor skills. The other more serious outcomes of this can be the triggering of the body's acute stress response, which raises blood pressure and heart rate as the body and brain go into a state of hyperarousal. According to the European Environment Agency, at least 10,000 cases of premature deaths from noise exposure occur each year, although incomplete data mean this number is significantly underestimated.",
+      "questions": [
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Noise pollution is increasingly being recognized as a critical issue for public health.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(II)",
+            "C": "(I)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu trên phù hợp ở vị trí (I) vì phù hợp làm câu mở đoạn và liên kết mạch lạc với câu phía sau để cập về 'noise pollution'.\nThông tin: Noise pollution is increasingly being recognized as a critical issue for public health. The authors noted that while other forms of pollution are decreasing, noise pollution has been increasing."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "The word \"afflicted\" in paragraph 2 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "suffering",
+            "B": "burdened",
+            "C": "relieved",
+            "D": "affected"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'afflicted' trong đoạn 2 TRÁI NGHĨA với 'relieved'.\nA. suffer /ˈsʌf.ər/ (v): chịu đựng, trải qua\nB. burden /ˈbɜː.dən/ (v): đè nặng, làm gánh nặng\nC. relieve /rɪˈliːv/ (v): giải tỏa, giải thoát\nD. affect /əˈfek.t/ (v): ảnh hưởng, tác động\nafflict (v): ảnh hưởng >< relieve (v)\nThông tin: children who live and or study in an area afflicted with noise pollution tend to suffer from stress..."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2? \"Traffic noise is currently ranked second among environmental threats to public health.\"",
+          "context": "",
+          "options": {
+            "A": "Public health is most affected by traffic noise, which ranks second among all environmental issues.",
+            "B": "Traffic noise is considered one of the top environmental factors affecting human health.",
+            "C": "Environmental threats to health are dominated by traffic noise, which is listed as number one.",
+            "D": "Among all environmental risks, traffic noise is regarded as the second most dangerous for public health."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây diễn giải đúng nhất câu được gạch chân trong đoạn 2.\nA. Sai 'most affected by traffic noise'\nB. Sai 'one of the top environmental factors' chưa đề cập rõ về 'ranked second'\nC. Sai 'as number one'\nD. Trong số tất cả các rủi ro về môi trường, tiếng ồn giao thông được coi là nguy hiểm thứ hai đối với sức khỏe cộng đồng. (Câu này diễn giải đúng nhất câu gạch chân.)\nThông tin: Traffic noise is currently ranked second among environmental threats to public health."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Noise can disturb sleep and cause stress, which may lead to serious health problems.",
+            "B": "The human ear remains active even during sleep, leading to significant health risks due to our brains' activities.",
+            "C": "The European Environment Agency estimates that noise pollution causes a lot of premature deaths each year.",
+            "D": "Noise pollution poses a greater threat to public health during the day compared to nighttime."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn 3 là B: Tai người vẫn hoạt động ngay cả khi ngủ, dẫn đến các rủi ro sức khỏe đáng kể do hoạt động của não.\nA. Sai vì đoạn 3 không đề cập đến các vấn đề sức khỏe nghiêm trọng.\nC. Sai vì đoạn 3 không đề cập thông tin này.\nD. Sai vì đoạn 3 không đề cập thông tin này.\nThông tin: The danger of noise pollution is more present to us when we are asleep. Because the human ear is so sensitive, it never rests... though you may be sleeping, sounds are still being picked up and processed."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"it\" in paragraph 3 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "the danger",
+            "B": "sound",
+            "C": "side effect",
+            "D": "human ear"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'it' trong đoạn 3 ám chỉ đến 'human ear' (tai người).\nThông tin: Because the human ear is so sensitive, it never rests, it is always working, picking up and transmitting sounds for our brains to interpret. (Bởi vì tai người rất nhạy cảm, nó không bao giờ nghi ngơi, nó luôn hoạt động, thu nhận và truyền tải âm thanh để não bộ chúng ta diễn giải.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"hyperarousal\" in paragraph 4 could best be replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "happiness",
+            "B": "relaxation",
+            "C": "worry",
+            "D": "relief"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'hyperarousal' trong đoạn 4 có thể được thay thế tốt nhất bằng 'worry'.\nA. happiness /ˈhæp.i.nəs/ (n): hạnh phúc\nB. relaxation /ˌriː.lækˈseɪ.ʃən/ (n): thư giãn\nC. worry /ˈwʌr.i/ (n): lo lắng\nD. relief /rɪˈliːf/ (n): sự nhẹ nhõm, sự khuây khỏa\nhyperarousal (n): kích động quá mức = worry (n)\nThông tin: The other more serious outcomes of this can be the triggering of the body's acute stress response, which raises blood pressure and heart rate as the body and brain go into a state of hyperarousal."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "According to the passage, which of the following is NOT mentioned as a health problem caused by noise pollution?",
+          "context": "",
+          "options": {
+            "A": "Respiratory diseases",
+            "B": "Sleep-stage changes",
+            "C": "Hypertension",
+            "D": "Impairments in memory"
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn văn, cái nào sau đây KHÔNG được đề cập đến như là một vấn đề sức khỏe do ô nhiễm tiếng ồn gây ra là 'Respiratory diseases' (Bệnh về đường hô hấp).\nB được đề cập: sleep-stage changes\nC được đề cập: clinical symptoms like hypertension\nD được đề cập: impairments in memory and attention\nA không được đề cập → Chọn đáp án A"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "What can be inferred from the passage about noise pollution?",
+          "context": "",
+          "options": {
+            "A": "Noise pollution primarily affects older adults.",
+            "B": "Urbanization has completely eliminated other forms of pollution, leaving noise pollution as the only issue.",
+            "C": "The number of premature deaths from noise pollution is likely higher than reported.",
+            "D": "People living in rural areas are unaffected by traffic noise."
+          },
+          "correctAnswer": "C",
+          "explanation": "Có thể suy ra điều gì từ bài viết về ô nhiễm tiếng ồn là C: Số ca tử vong sớm do ô nhiễm tiếng ồn có thể cao hơn so với số liệu báo cáo.\nA sai vì không chỉ ảnh hưởng đến người lớn tuổi mà đến mọi độ tuổi.\nB sai vì các dạng ô nhiễm khác chỉ giảm chứ chưa được loại bỏ hoàn toàn.\nD sai vì không có thông tin nào để ta suy luận rằng người dân sống ở vùng nông thôn không bị ảnh hưởng bởi tiếng ồn giao thông.\nThông tin: According to the European Environment Agency, at least 10,000 cases of premature deaths from noise exposure occur each year, although incomplete data mean this number is significantly underestimated."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Data on noise pollution's health effects are complete and accurate.",
+            "B": "The human ear becomes less sensitive while sleeping.",
+            "C": "Noise pollution is the leading environmental threat to health in Western Europe.",
+            "D": "Noise exposure during sleep can lead to increased blood pressure and heart rate."
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG là D: Tiếp xúc với tiếng ồn trong khi ngủ có thể dẫn đến tăng huyết áp và nhịp tim.\nA sai: incomplete data mean this number is significantly underestimated.\nB sai: Because the human ear is so sensitive, it never rests.\nC sai: Traffic noise is currently ranked second among environmental threats to public health.\nD đúng: The other more serious outcomes of this can be the triggering of the body's acute stress response, which raises blood pressure and heart rate as the body and brain go into a state of hyperarousal."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "What is the main idea of the passage?",
+          "context": "",
+          "options": {
+            "A": "Noise pollution is primarily caused by traffic and is limited to urban areas.",
+            "B": "Noise pollution is only dangerous when people are asleep.",
+            "C": "Noise pollution has serious effects on public health, including stress, cardiovascular diseases, and premature deaths.",
+            "D": "Noise pollution is the least recognized environmental threat but has severe impacts on health."
+          },
+          "correctAnswer": "C",
+          "explanation": "Ý chính của bài đọc là C: Ô nhiễm tiếng ồn có tác động nghiêm trọng đến sức khỏe cộng đồng, bao gồm căng thẳng, bệnh tim mạch và tử vong sớm.\nA sai: Bài viết có đề cập tiếng ồn giao thông nhưng không nói ô nhiễm tiếng ồn chỉ giới hạn ở các khu vực đô thị.\nB sai: Ô nhiễm tiếng ồn được đề cập không chỉ ảnh hưởng mỗi lúc chúng ta ngủ.\nD sai: Bài viết không nói ô nhiễm tiếng ồn là ít được công nhận nhất. Ngược lại, nó được xếp hạng là mối đe dọa môi trường lớn thứ hai ở Tây Âu.\nC là lựa chọn chính xác và đầy đủ nhất."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about technology in healthcare and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 30 to 34.",
+      "passageTitle": "Technology in Healthcare",
+      "passage": "In recent years, technology has rapidly transformed the healthcare industry. Various devices and software systems, such as digital health records and diagnostic tools, (30)________. These advancements have enabled healthcare providers to store, retrieve, and analyze patient information more effectively. For instance, artificial intelligence systems can scan thousands of medical records, (31)________. However, while these innovations bring numerous benefits, there are concerns about data security and patient privacy.\n\nTelemedicine is another significant development, allowing patients to consult doctors remotely. (32)________. This technology is particularly useful for people in remote areas, as it saves time and reduces travel costs. During the COVID-19 pandemic, telemedicine became essential for healthcare systems globally, helping to reduce patient overcrowding. (33)________. Telemedicine will likely continue to play an important role in healthcare delivery even after the pandemic.\n\nWhile technology can enhance healthcare quality, (34)________. Therefore, it's essential to find a balance between technological and human interaction to ensure the best outcomes for patients.",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "having been implemented to enhance the storage and analysis of patient data",
+            "B": "are used by hospitals to monitor, store, and evaluate extensive medical information",
+            "C": "that enable medical professionals to track and review patient health histories conveniently",
+            "D": "combining advanced diagnostics with storage systems to improve healthcare accuracy"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta có chủ ngữ 'Various devices and software systems', 'such as digital health records and diagnostic tools' bổ sung, liệt kê cho chủ ngữ, phía sau cần một động từ chính phù hợp.\nA, D sai vì là 'having', 'combining' không phù hợp là động từ chính của câu.\nC sai vì là mệnh đề quan hệ.\nB là đáp án chính xác, 'are used by…' là mệnh đề bị động phù hợp làm vị ngữ của câu.\nThông tin: Various devices and software systems, such as digital health records and diagnostic tools, are used by hospitals to monitor, store, and evaluate extensive medical information."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "and identify patterns that help diagnose diseases accurately and swiftly",
+            "B": "using AI to study health records for improved diagnostics and health strategies",
+            "C": "that has proven ineffective in evaluating complex health data at high speeds",
+            "D": "which is used to analyze large amounts of patient health data too efficiently"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta có mệnh đề 'artificial intelligence systems can scan thousands of medical records' đã có đầy đủ chủ ngữ và động từ, vậy sau dấu phẩy cần một mệnh đề quan hệ để bổ nghĩa, hoặc có thể là một động từ khác được nối bởi liên từ phù hợp.\nA. và xác định các mô hình giúp chẩn đoán bệnh chính xác và nhanh chóng => Phù hợp cấu trúc ngữ pháp và ngữ cảnh (liên từ nối với động từ tiếp theo)\nB. Mệnh đề quan hệ rút gọn đúng về ngữ pháp nhưng không phù hợp về ngữ nghĩa vì 'artificial intelligence' không thể sử dụng 'AI' được.\nC. Không dùng 'that' sau dấu phẩy.\nD. Không phù hợp về ngữ nghĩa vì bị lặp nghĩa với mệnh đề chính."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Many patients benefit from virtual consultations that increase physical visits to clinics",
+            "B": "It allows patients to consult specialists offline, avoiding waiting time and commutes",
+            "C": "Telemedicine provides healthcare access to patients in urban areas",
+            "D": "Virtual consultations give patients access to specialists without travel or waiting time"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu liên kết mạch lạc với các câu sau đó ở trong đoạn, nói về y tế từ xa.\nA. Sai. Đoạn văn nói về việc giảm nhu cầu di chuyển và khám trực tiếp, không phải tăng lên.\nB. Sai. Telemedicine là trực tuyến (online), không phải ngoại tuyến (offline).\nC. Sai. Đoạn văn nhấn mạnh người ở vùng xa xôi là đối tượng được lợi, không phải khu vực thành thị.\nD. Các buổi tư vấn ảo giúp bệnh nhân tiếp cận với các chuyên gia mà không cần di chuyển hoặc thời gian chờ đợi => Mô tả chính xác nhất nội dung này.\nThông tin: Telemedicine is another significant development, allowing patients to consult doctors remotely. Virtual consultations give patients access to specialists without travel or waiting time."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Virtual consultations are a key component of healthcare despite reduced in-person visits",
+            "B": "It hasn't been integrated as an essential service to reduce in-person medical visits",
+            "C": "Patients who rely on telemedicine underestimate its effectiveness in treatment accessibility",
+            "D": "Telemedicine has ensured healthcare access, especially during high-demand time"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu phù hợp với ngữ cảnh sau khi đề cập đến vai trò của telemedicine trong đại dịch COVID-19.\nA. Tư vấn trực tuyến là một thành phần quan trọng của chăm sóc sức khỏe mặc dù số lần khám trực tiếp đã giảm => Sai. Ý này chưa đề cập đến vai trò trong đại dịch hoặc khả năng đáp ứng nhu cầu cao.\nB. Nó chưa được tích hợp như một dịch vụ thiết yếu để giảm số lần khám trực tiếp => Sai. Đoạn văn khẳng định telemedicine là dịch vụ thiết yếu trong đại dịch, mâu thuẫn với đáp án này.\nC. Sai. Đoạn văn không đề cập hoặc ngụ ý về việc bệnh nhân đánh giá thấp hiệu quả của y tế từ xa.\nD. Y học từ xa đã đảm bảo khả năng tiếp cận chăm sóc sức khỏe, đặc biệt là trong thời gian có nhu cầu cao => D là đáp án chính xác nhất vì phản ánh đúng ý chính của đoạn văn, đặc biệt trong bối cảnh đại dịch COVID-19."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "combining high-tech tools with compassion is unnecessary to improve patient care experiences",
+            "B": "human touch isn't still crucial in healthcare, despite advancements in medical technology",
+            "C": "the role of technology must be carefully balanced with personal patient interactions",
+            "D": "healthcare workers believe in maintaining either technological or personal care elements"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta có mệnh đề phụ 'While technology can enhance healthcare quality', phía sau cần một mệnh đề chính phù hợp.\nA. Sai vì không phù hợp về ngữ cảnh. Ý này phủ nhận tầm quan trọng của sự quan tâm, mâu thuẫn với thông điệp của câu.\nB. Sai. Tương tác con người vẫn rất quan trọng, và đây là yếu tố không thể thay thế bởi công nghệ.\nC. vai trò của công nghệ phải được cân bằng cẩn thận với các tương tác cá nhân với bệnh nhân => Đúng, phản ánh chính xác ý chính này, nhấn mạnh tầm quan trọng của việc cân đối giữa công nghệ và tương tác cá nhân để chăm sóc bệnh nhân tốt hơn.\nD. Sai. Không có ý nào trong câu đề cập đến việc phải chọn giữa công nghệ và chăm sóc cá nhân. Ngược lại, cần kết hợp cả hai."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 35 to 40.",
+      "passageTitle": "Preserve Vietnam's Cultural Heritage",
+      "passage": "Why Preserve Cultural Heritage?\n\n• Heritage sites tell a (35)________ of stories about our ancestors and show how they lived. They are windows into the past and help us understand our history.\n• These sites reflect our unique traditions and values, defining who we are as a nation. (36)________, they are symbols of our cultural pride.\n• Heritage sites provide learning opportunities about our past, offering valuable (37)________ for understanding our roots and heritage.\n\nHow Can You Contribute?\n\n• Learn and Share: (38)________ about local heritage sites. Share what you learn with your peers to raise awareness.\n• Promote Responsible Tourism: Encouragement of responsible tourism to heritage sites is important. This practice helps minimize damage and ensures the (39)________ of these sites for future generations.\n• Use Social Media: Share stories and information about cultural heritage online. This raises awareness and inspires (40)________ to take action.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amount",
+            "B": "number",
+            "C": "level",
+            "D": "quality"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ chỉ lượng:\nA. an amount of + N (không đếm được): lượng\nB. a number of + N (số nhiều): nhiều\nC. a level of + N (không đếm được): mức độ\nD. the quality of + N: chất lượng\nTa có 'stories' là danh từ đếm được số nhiều và dựa vào ngữ cảnh ta dùng 'a number of'.\nTạm dịch: Heritage sites tell a number of stories about our ancestors and show how they lived."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On the contrary",
+            "B": "In conclusion",
+            "C": "In addition",
+            "D": "In contrast"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ nối:\nA. on the contrary: trái lại, ngược lại\nB. in conclusion: kết luận, tóm lại\nC. in addition: ngoài ra, thêm vào đó\nD. in contrast: trái lại, đối lập\nCâu sau đang bổ sung thêm thông tin cho câu trước, nên dùng 'In addition'.\nTạm dịch: These sites reflect our unique traditions and values, defining who we are as a nation. In addition, they are symbols of our cultural pride."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "traditions",
+            "B": "culture",
+            "C": "reports",
+            "D": "lessons"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. tradition /trəˈdɪʃ.ən/ (n): truyền thống\nB. culture /ˈkʌl.tʃər/ (n): văn hóa\nC. report /rɪˈpɔːt/ (n): báo cáo\nD. lesson /ˈles.ən/ (n): bài học\nTạm dịch: Heritage sites provide learning opportunities about our past, offering valuable lessons for understanding our roots and heritage. (Các di sản văn hóa cung cấp cơ hội học hỏi về quá khứ, mang lại những bài học quý giá để hiểu về cội nguồn và di sản của chúng ta.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Break out",
+            "B": "Set out",
+            "C": "Find out",
+            "D": "Look over"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm động từ thông dụng:\nA. break out: bùng nổ, bùng phát\nB. set out: đặt mục tiêu hoặc lên kế hoạch để thực hiện điều gì đó\nC. find out: tìm ra, phát hiện ra, tìm hiểu (thông tin)\nD. look over: xem qua, kiểm tra nhanh\nTạm dịch: Learn and Share: Find out about local heritage sites. Share what you learn with your peers to raise awareness. (Học Hỏi và Chia Sẻ: Khám phá về các di sản văn hóa địa phương. Chia sẻ những gì bạn học được với bạn bè để nâng cao nhận thức.)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "preservation",
+            "B": "preparation",
+            "C": "conversation",
+            "D": "observation"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. preservation /ˌprez.əˈveɪ.ʃən/ (n): sự bảo tồn, sự gìn giữ\nB. preparation /ˌprep.əˈreɪ.ʃən/ (n): sự chuẩn bị\nC. conversation /ˌkɒn.vəˈseɪ.ʃən/ (n): cuộc trò chuyện\nD. observation /ˌɒb.zəˈveɪ.ʃən/ (n): sự quan sát\nTạm dịch: This practice helps minimize damage and ensures the preservation of these sites for future generations. (Việc này giúp giảm thiểu tổn hại và đảm bảo bảo tồn các di sản này cho các thế hệ tương lai.)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the other",
+            "B": "another",
+            "C": "others",
+            "D": "other"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. the other + N (đếm được): người/cái còn lại\nB. another + N (số ít): một cái/người khác\nC. others: những cái/người khác\nD. other + N (số nhiều/không đếm được): những cái/người khác\nTa dùng đại từ 'others' sau động từ 'inspires' để chỉ những người khác.\nTạm dịch: This raises awareness and inspires others to take action. (Điều này giúp nâng cao nhận thức và truyền cảm hứng cho những người khác cùng hành động.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.642266+00:00",
+  "updatedAt": "2026-06-08T10:41:58.642266+00:00",
+  "originalFileName": "THPT_Vinh_Phuc_Ma_De_901_2025.json"
+}

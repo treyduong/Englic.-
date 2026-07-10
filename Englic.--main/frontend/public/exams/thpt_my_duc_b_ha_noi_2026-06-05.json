@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_my_duc_b_ha_noi_2026-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Mỹ Đức B, Hà Nội",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_My_Duc_B_Ha_Noi_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HàNội",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and indicate the correct option that best fits each blank.",
+      "passageTitle": "THE PROBLEM OF CHILD LABOUR",
+      "passage": "Child labour is a significant issue that (1)_______ many children worldwide. It often forces them to work long hours in poor conditions, affecting their (2)_______ and mental health. Many children are unable to attend school, which has a long-term impact on their futures. (3)_________ these challenges, organizations like UNICEF are (4)_________ to provide better opportunities for children. They believe that through offering education and protection, child labour can be significantly reduced. Although child labour still remains in (5)_________ parts of the world, efforts are being made to (6)_______ its impact.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "affects",
+            "B": "involves",
+            "C": "includes",
+            "D": "causes"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. affect (v) /əˈfekt/: ảnh hưởng, tác động đến\nB. involve (v) /ɪnˈvɒlv/: liên quan đến, bao gồm\nC. include (v) /ɪnˈkluːd/: bao gồm, tính vào\nD. cause (v) /kɔːz/: gây ra\nTạm dịch: Child labour is a significant issue that affects many children worldwide. (Lao động trẻ em là một vấn đề nghiêm trọng ảnh hưởng đến nhiều trẻ em trên toàn thế giới.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "emotional",
+            "B": "social",
+            "C": "mental",
+            "D": "physical"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. emotional (adj) /ɪˈməʊʃənl/: thuộc về cảm xúc, dễ bị xúc động\nB. social (adj) /ˈsəʊʃl/: thuộc về xã hội, cộng đồng\nC. mental (adj) /ˈmentəl/: thuộc về tinh thần, tâm lý\nD. physical (adj) /ˈfɪzɪkəl/: thuộc về cơ thể, thể chất\nTạm dịch: It often forces them to work long hours in poor conditions, affecting their physical and mental health. (Nó thường buộc các em làm việc trong những điều kiện kém, ảnh hưởng đến sức khỏe thể chất và tinh thần của các em.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Because of",
+            "B": "Instead of",
+            "C": "Due to",
+            "D": "In spite of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ nối:\nA. Because of: bởi vì, do\nB. Instead of: thay vì\nC. Due to: do, vì\nD. In spite of: mặc dù, bất chấp\nTạm dịch: In spite of these challenges, organizations like UNICEF are... (Mặc dù phải đối mặt với những thách thức này, các tổ chức như UNICEF...)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "look forward",
+            "B": "come up with",
+            "C": "find out",
+            "D": "focusing on"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm động từ:\nA. look forward to something: mong đợi, háo hức về cái gì\nB. come up with something: nghĩ ra, sáng tạo ra cái gì (ý tưởng, giải pháp)\nC. find out something: tìm ra, khám phá ra cái gì\nD. focus on something: tập trung vào cái gì\nTạm dịch: In spite of these challenges, organizations like UNICEF are focusing on providing better opportunities for children. (Mặc dù phải đối mặt với những thách thức này, các tổ chức như UNICEF đang tập trung vào việc cung cấp cơ hội tốt hơn cho trẻ em.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "most",
+            "B": "much",
+            "C": "many",
+            "D": "little"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về lượng từ:\nA. most + N (số nhiều/không đếm được): hầu hết\nB. much + N (không đếm được): nhiều\nC. many + N (số nhiều): nhiều\nD. little + N (không đếm được): ít\n'parts' là danh từ đếm được số nhiều nên ta dùng 'many'.\nTạm dịch: Although child labour still remains in many parts of the world, efforts are being made to... (Mặc dù lao động trẻ em vẫn tồn tại ở nhiều nơi trên thế giới, nhưng các nỗ lực...)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "focus",
+            "B": "control",
+            "C": "reduce",
+            "D": "decrease"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. focus (v) /ˈfəʊkəs/: tập trung\nB. control (v) /kənˈtrəʊl/: kiểm soát, điều khiển\nC. reduce (v) /rɪˈdjuːs/: giảm, cắt giảm → reduce impact: giảm thiểu tác động\nD. decrease (v) /dɪˈkriːs/: giảm xuống, làm giảm\nTạm dịch: Although child labour still remains in many parts of the world, efforts are being made to reduce its impact. (Mặc dù lao động trẻ em vẫn tồn tại ở nhiều nơi trên thế giới, nhưng các nỗ lực đang được thực hiện để giảm thiểu tác động của nó.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Choose the correct arrangement of the sentences to make a meaningful paragraph/letter in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "a. Mia: I'm really excited for the trip next month!\nb. Lisa: The food there is amazing! You'll love it.\nc. Lisa: Absolutely! What are you most looking forward to?\nd. Mia: I can't wait to see the beaches and try the local food.\ne. Mia: I'm sure I will. How about you?",
+          "options": {
+            "A": "a-c-d-b-e",
+            "B": "a-b-c-e-d",
+            "C": "a-d-c-b-e",
+            "D": "a-d-b-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý của đoạn hội thoại:\na → Mia mở đầu bằng sự hào hứng về chuyến đi.\nc → Lisa hỏi Mia mong chờ điều gì nhất.\nd → Mia trả lời muốn ngắm bãi biển và thử đồ ăn địa phương.\nb → Lisa khen đồ ăn ở đó tuyệt vời.\ne → Mia nói chắc chắn sẽ thích và hỏi lại Lisa.\nTạm dịch: Mia: Mình thực sự háo hức cho chuyến đi vào tháng tới! | Lisa: Chắc chắn rồi! Cậu mong chờ điều gì nhất? | Mia: Mình rất mong chờ để được ngắm bãi biển và thử đồ ăn địa phương. | Lisa: Đồ ăn ở đó tuyệt lắm! Cậu sẽ thích nó. | Mia: Mình chắc chắn mình sẽ thích. Còn cậu thì sao?"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "a. Anna: I mostly do Hatha yoga; it's perfect for beginners and really focuses on breathing and relaxation.\nb. Anna: I've started doing yoga every morning, and it's amazing how much it helps with my stress levels.\nc. Sarah: That sounds great! What kind of yoga do you practice?",
+          "options": {
+            "A": "c-b-a",
+            "B": "a-c-b",
+            "C": "b-c-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý của đoạn hội thoại:\nb → Anna chia sẻ việc bắt đầu tập yoga mỗi sáng và tác dụng của nó.\nc → Sarah hỏi Anna tập loại yoga nào.\na → Anna trả lời chủ yếu tập Hatha yoga.\nTạm dịch: Anna: Mình bắt đầu tập yoga mỗi sáng và thật tuyệt vời khi nó giúp mình giảm căng thẳng rất nhiều. | Sarah: Nghe tuyệt quá! Cậu tập loại yoga nào? | Anna: Mình chủ yếu tập Hatha yoga; nó hoàn hảo cho người mới bắt đầu và thực sự tập trung vào hơi thở và thư giãn."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "a. The local park has been renovated and now features a brand-new playground.\nb. However, the increase in visitors has led to some littering issues.\nc. Many families and children enjoy spending time there on weekends.\nd. To address this, the city plans to install more trash bins and hire extra staff for maintenance.\ne. Overall, it's a great improvement, but keeping the park clean will require community effort.",
+          "options": {
+            "A": "a-d-b-c-e",
+            "B": "a-b-e-c-d",
+            "C": "a-c-d-b-e",
+            "D": "a-c-b-d-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý của đoạn văn:\na → Giới thiệu: công viên được cải tạo, có sân chơi mới.\nc → Nhiều gia đình và trẻ em thích đến đó vào cuối tuần.\nb → Tuy nhiên, lượng khách tăng dẫn đến một số vấn đề về xả rác.\nd → Để giải quyết vấn đề này, thành phố có kế hoạch lắp đặt thêm thùng rác và thuê thêm nhân viên.\ne → Nhìn chung, đây là một cải tiến tuyệt vời, nhưng việc giữ cho công viên sạch sẽ đòi hỏi nỗ lực của cộng đồng.\nTạm dịch: Công viên địa phương đã được cải tạo và hiện có một sân chơi hoàn toàn mới. Nhiều gia đình và trẻ em thích dành thời gian ở đó vào cuối tuần. Tuy nhiên, lượng khách tăng đã dẫn đến một số vấn đề về xả rác. Để giải quyết vấn đề này, thành phố có kế hoạch lắp đặt thêm thùng rác và thuê thêm nhân viên để bảo trì. Nhìn chung, đây là một cải tiến tuyệt vời, nhưng việc giữ cho công viên sạch sẽ đòi hỏi nỗ lực của cộng đồng."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "a. Although the population has increased, public transportation hasn't improved much.\nb. The city has grown rapidly in the last decade.\nc. New shopping centers, apartments, and parks have been built.\nd. Actually, traffic congestion has also become a serious problem.\ne. This is mainly due to the lack of sufficient infrastructure to handle the growing number of residents.",
+          "options": {
+            "A": "b-c-a-d-e",
+            "B": "b-c-e-a-d",
+            "C": "b-c-d-a-e",
+            "D": "b-d-c-e-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý của đoạn văn:\nb → Thành phố phát triển nhanh chóng trong thập kỷ qua.\nc → Các trung tâm mua sắm, căn hộ và công viên mới đã được xây dựng.\ne → Nguyên nhân chủ yếu là do thiếu cơ sở hạ tầng đủ để đáp ứng số lượng cư dân ngày càng tăng.\na → Mặc dù dân số đã tăng, nhưng giao thông công cộng vẫn chưa được cải thiện nhiều.\nd → Trên thực tế, tình trạng tắc nghẽn giao thông cũng đã trở thành một vấn đề nghiêm trọng.\nTạm dịch: Thành phố đã phát triển nhanh chóng trong thập kỷ qua. Các trung tâm mua sắm, căn hộ và công viên mới đã được xây dựng. Nguyên nhân chủ yếu là do thiếu cơ sở hạ tầng đủ để đáp ứng số lượng cư dân ngày càng tăng. Mặc dù dân số đã tăng, nhưng giao thông công cộng vẫn chưa được cải thiện nhiều. Trên thực tế, tình trạng tắc nghẽn giao thông cũng đã trở thành một vấn đề nghiêm trọng."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "Hi Ben,\na. I feel much stronger and more energized.\nb. I've been following the workout routine you recommended, and it's been amazing!\nc. The exercises are challenging but effective.\nd. Thanks again for helping me get started on this journey!\ne. I appreciate your advice on staying consistent.\nBest,\nMichael",
+          "options": {
+            "A": "b-a-c-e-d",
+            "B": "a-d-c-b-e",
+            "C": "b-a-d-e-c",
+            "D": "a-b-d-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý của bức thư:\nb → Michael chia sẻ đã làm theo lịch trình tập luyện Ben giới thiệu và nó thật tuyệt vời.\na → Michael cảm thấy khỏe hơn và tràn đầy năng lượng hơn nhiều.\nc → Các bài tập rất khó nhưng hiệu quả.\ne → Michael đánh giá cao lời khuyên của Ben về việc luôn kiên định.\nd → Michael cảm ơn Ben một lần nữa vì đã giúp mình bắt đầu hành trình này.\nTạm dịch: Xin chào Ben, / Mình đã làm theo lịch trình tập luyện mà cậu giới thiệu, và nó thật tuyệt vời! Mình cảm thấy khỏe hơn và tràn đầy năng lượng hơn nhiều. Các bài tập rất khó nhưng hiệu quả. Mình đánh giá cao lời khuyên của cậu về việc luôn kiên định. Cảm ơn cậu một lần nữa vì đã giúp mình bắt đầu hành trình này! / Thân ái, / Michael"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about and indicate the best answer to each of the following questions.",
+      "passageTitle": "CULTURAL DIVERSITY",
+      "passage": "(I) In today's globalized world, cultural diversity has become a fundamental aspect of many societies. (II) Many countries are experiencing increasing levels of migration. (III) With the rise of immigration and the blending of traditions, people from various cultural backgrounds are now living side by side in cities across the globe. (IV)\n\nOne of the key advantages of cultural diversity is the richness it adds to a society. Different cultures introduce unique perspectives, foods, languages, and traditions, which help people broaden their understanding of the world. In schools and workplaces, cultural diversity fosters creativity and innovation, as individuals from different backgrounds approach problems in novel ways. However, there are also challenges associated with living in culturally diverse communities. Misunderstandings and communication barriers can arise when people are unfamiliar with each other's customs and values. To address these issues, societies must encourage cultural sensitivity and create opportunities for cross-cultural exchange.\n\nGovernments and institutions around the world are beginning to implement policies that promote inclusion and respect for cultural differences. By celebrating diversity through events, education, and media representation, communities can create environments where people feel valued regardless of their background. Ultimately, embracing cultural diversity helps to build more peaceful and harmonious societies.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "The word \"novel\" in paragraph 2 could best be replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "common",
+            "B": "customary",
+            "C": "flexible",
+            "D": "new"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ vựng:\nA. common (adj) /ˈkɒmən/: phổ biến, thông thường\nB. customary (adj) /ˈkʌstəməri/: theo phong tục, theo thói quen\nC. flexible (adj) /ˈfleksɪbəl/: linh hoạt\nD. new (adj) /njuː/: mới, mới mẻ\nnovel (adj): mới lạ = new\nTạm dịch: In schools and workplaces, cultural diversity fosters creativity and innovation, as individuals from different backgrounds approach problems in novel ways. (Ở trường học và nơi làm việc, sự đa dạng văn hóa thúc đẩy sự sáng tạo và đổi mới, vì những cá nhân từ các nền tảng khác nhau tiếp cận các vấn đề theo những cách mới lạ.)"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"This increasing diversity brings about both challenges and opportunities.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(IV)",
+            "C": "(I)",
+            "D": "(II)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu 'This increasing diversity brings about both challenges and opportunities' phù hợp nhất ở vị trí (IV) vì nó phù hợp là câu tổng kết đoạn và liên kết mạch lạc với các lợi thế, thách thức ở đoạn tiếp theo.\nTạm dịch: Sự đa dạng ngày càng tăng này mang lại cả thách thức và cơ hội."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The word \"it\" in paragraph 2 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "opportunity",
+            "B": "richness",
+            "C": "society",
+            "D": "cultural diversity"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'it' trong đoạn 2 ám chỉ đến 'cultural diversity'.\nThông tin: One of the key advantages of cultural diversity is the richness it adds to a society. (Một trong những lợi thế chính của sự đa dạng văn hóa là sự phong phú mà nó mang lại cho xã hội.)"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Immigration has led to challenges for societies that can only be solved by eliminating cultural differences.",
+            "B": "Embracing cultural diversity is easy for societies that celebrate traditions and language differences without the need for cross-cultural exchange.",
+            "C": "Governments should focus on reducing immigration to prevent the problems associated with cultural diversity.",
+            "D": "Cultural diversity enriches societies by promoting new perspectives and innovation, but it also requires efforts to overcome misunderstandings and communication barriers."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 1: Sự đa dạng văn hóa ngày càng trở nên quan trọng trong xã hội toàn cầu hóa, với sự gia tăng di cư và hòa trộn văn hóa.\nĐoạn 2: Đa dạng văn hóa mang lại lợi ích về sáng tạo và đổi mới, nhưng cũng có thách thức như hiểu lầm và rào cản giao tiếp.\nĐoạn 3: Chính phủ và tổ chức đang thúc đẩy sự hòa nhập và tôn trọng sự khác biệt văn hóa qua giáo dục và các sự kiện cộng đồng.\nĐáp án D phản ánh đầy đủ cả lợi ích và thách thức của sự đa dạng văn hóa."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Cultural diversity mainly benefits societies by creating job opportunities.",
+            "B": "Governments have not yet addressed the challenges posed by cultural diversity.",
+            "C": "Cross-cultural exchange programs are unnecessary for promoting inclusion.",
+            "D": "Misunderstandings in diverse communities arise due to unfamiliar customs."
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai: One of the key advantages of cultural diversity is the richness it adds to a society – lợi ích là sự phong phú, không phải việc làm.\nB sai: Governments and institutions around the world are beginning to implement policies – chính phủ đang hành động.\nC sai: To address these issues, societies must encourage cultural sensitivity and create opportunities for cross-cultural exchange – giao lưu văn hóa là cần thiết.\nD đúng: Misunderstandings and communication barriers can arise when people are unfamiliar with each other's customs and values."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3? (\"By celebrating diversity through events, education, and media representation, communities can create environments where people feel valued regardless of their background.\")",
+          "context": "",
+          "options": {
+            "A": "Celebrating diversity alone cannot solve the issues in culturally diverse communities.",
+            "B": "Communities can create inclusive environments by encouraging cultural events and education.",
+            "C": "Misunderstandings will persist without education about different cultures.",
+            "D": "Understanding cultural diversity fully is necessary for harmonious societies."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: By celebrating diversity through events, education, and media representation, communities can create environments where people feel valued regardless of their background.\nTạm dịch: Bằng cách tôn vinh sự đa dạng thông qua các sự kiện, giáo dục và đại diện truyền thông, các cộng đồng có thể tạo ra môi trường nơi mọi người cảm thấy được coi trọng bất kể xuất thân của họ.\nĐáp án B diễn giải đúng nhất: Communities can create inclusive environments by encouraging cultural events and education."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Cultural diversity can be both a benefit and a challenge for communities.",
+            "B": "Increased immigration automatically leads to social harmony.",
+            "C": "Cultural sensitivity programs are ineffective in reducing communication barriers.",
+            "D": "Governments are failing to address the complexities of cultural diversity."
+          },
+          "correctAnswer": "A",
+          "explanation": "B sai: This increasing diversity brings about both challenges and opportunities – không tự động dẫn đến hòa hợp xã hội.\nC sai: Societies must encourage cultural sensitivity and create opportunities for cross-cultural exchange – các chương trình nhạy cảm văn hóa được coi là cần thiết.\nD sai: Governments and institutions around the world are beginning to implement policies – chính phủ đang hành động.\nA đúng: This increasing diversity brings about both challenges and opportunities."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "According to paragraph 2, which of the following is NOT an advantage of cultural diversity?",
+          "context": "",
+          "options": {
+            "A": "Promoting innovation",
+            "B": "Enhancing creativity",
+            "C": "Preventing misunderstandings",
+            "D": "Expanding perspectives"
+          },
+          "correctAnswer": "C",
+          "explanation": "A, B đúng: cultural diversity fosters creativity and innovation.\nD đúng: Different cultures introduce unique perspectives… which help people broaden their understanding of the world.\nC đúng (là điều không phải lợi thế): Misunderstandings and communication barriers can arise when people are unfamiliar with each other's customs and values. – Ngăn ngừa hiểu lầm KHÔNG phải là lợi thế được đề cập; thực tế bài văn nói hiểu lầm CÓ THỂ xảy ra."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "The word \"harmonious\" in paragraph 3 is OPPOSITE in meaning to ________.",
+          "context": "",
+          "options": {
+            "A": "freezing",
+            "B": "friendly",
+            "C": "hostile",
+            "D": "adaptable"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ vựng:\nA. freezing (adj) /ˈfriːzɪŋ/: lạnh cóng, đóng băng\nB. friendly (adj) /ˈfrendli/: thân thiện, hòa nhã\nC. hostile (adj) /ˈhɒstaɪl/: thù địch, đối đầu\nD. adaptable (adj) /əˈdæptəbl/: dễ thích nghi, có thể thay đổi để phù hợp\nharmonious (adj): hài hòa >< hostile\nThông tin: Ultimately, embracing cultural diversity helps to build more peaceful and harmonious societies."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Promoting cross-cultural exchange helps societies overcome the challenges of diversity.",
+            "B": "Governments are taking steps to ensure that cultural diversity is celebrated and respected.",
+            "C": "Celebrating cultural diversity creates more harmonious and peaceful societies.",
+            "D": "Policies that promote inclusion are reducing the challenges caused by cultural diversity."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn văn nói về các chính sách mà chính phủ đang thực hiện để hỗ trợ sự đa dạng văn hóa.\nDựa vào câu đầu tiên và câu kết đoạn:\n+ Governments and institutions around the world are beginning to implement policies that promote inclusion and respect for cultural differences.\n+ Ultimately, embracing cultural diversity helps to build more peaceful and harmonious societies.\nĐáp án B: Các chính phủ đang thực hiện các bước để đảm bảo rằng sự đa dạng văn hóa được tôn vinh và tôn trọng."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and indicate the correct option that best fits each blank.",
+      "passageTitle": "133 TUITION",
+      "passage": "Do you love children? We need some tutors (22)_______ students aged 6 and 9 at 133 Duong Ba Trac, Ward 1, District 8 this summer.\n• You will work with children full of (23)_______.\n• Good appearance is needed. Don't worry (24)_________ you haven't tutored before.\n• (25)_______.\nHow (26)_______? Our tutors must provide (27)_______ IDs and criminal records, and they must pass our rigorous application process. If you want to know more about our process, please visit us at www.hcmc......vn.",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "who has ability to assist",
+            "B": "have ability to assist",
+            "C": "having ability to assist",
+            "D": "who to assist"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng chủ động rút gọn bằng cách bỏ đại từ quan hệ và tobe (nếu có), chuyển V sang V-ing.\nTạm dịch: We need some tutors having ability to assist students aged 6 and 9 at 133 Duong Ba Trac, Ward 1, District 8 this summer. (Chúng tôi cần một số gia sư có khả năng hỗ trợ học sinh từ 6 đến 9 tuổi tại địa chỉ 133 Dương Bá Trạc, Phường 1, Quận 8 trong mùa hè này.)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "energetically",
+            "B": "energy",
+            "C": "energies",
+            "D": "energetic"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ loại:\nA. energetically (adv) /ˌen.əˈdʒetɪkli/: một cách đầy năng lượng\nB. energy (n) /ˈen.ə.dʒi/: năng lượng → be full of energy: tràn đầy năng lượng\nC. energies (n) /ˈen.ə.dʒiz/: các nguồn năng lượng (số nhiều) (chỉ được sử dụng khi ta nói về các dạng năng lượng khác nhau)\nD. energetic (adj) /ˌen.əˈdʒetɪk/: năng động, đầy năng lượng\nTạm dịch: You will work with children full of energy. (Bạn sẽ làm việc với những đứa trẻ đầy năng lượng.)"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "unless",
+            "B": "that",
+            "C": "if",
+            "D": "about"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ nối:\nA. unless: nếu không\nB. that: rằng\nC. if: nếu\nD. about: về\nTạm dịch: Don't worry if you haven't tutored before. (Đừng lo lắng nếu bạn chưa từng dạy kèm trước đây.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Working hours flexibility.",
+            "B": "Working flexible hours",
+            "C": "Flexible working hours",
+            "D": "Flexibly working hours"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về trật tự từ:\n- working hours (N-phrase): giờ làm việc\n- flexible (adj): linh hoạt\nDùng tính từ 'flexible' trước cụm danh từ 'working hours'.\nTạm dịch: Flexible working hours. (Giờ làm việc linh hoạt.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "you're applying",
+            "B": "you apply",
+            "C": "to apply",
+            "D": "will apply"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to': Sau từ để hỏi 'How', ta dùng to V để chỉ cách làm gì đó.\nTạm dịch: How to apply? (Cách để nộp đơn?)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with us",
+            "B": "us with",
+            "C": "us for",
+            "D": "for us"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dạng động từ: provide somebody with something: cung cấp cho ai đó cái gì\nTạm dịch: Our tutors must provide us with IDs and criminal records, and they must pass our rigorous application process. (Các gia sư của chúng tôi phải cung cấp chúng tôi các giấy tờ tùy thân và lý lịch tư pháp, và họ phải vượt qua quá trình tuyển chọn nghiêm ngặt của chúng tôi.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "CRISTIANO RONALDO",
+      "passage": "Cristiano Ronaldo, one of the greatest football players of all time, (28)_______.\n\nBorn on February 5, 1985, in Funchal, Madeira, Portugal, he showed exceptional talent from a young age. His journey began at Sporting Lisbon, (29)_______. There, he developed into a formidable player, winning multiple Premier League titles and the coveted UEFA Champions League.\n\nDuring his time at Manchester United, Ronaldo developed into a world-class player, winning three Premier League titles and the UEFA Champions League. He became known for his incredible speed and powerful shots, qualities that made him a formidable opponent on the pitch. In 2009, he transferred to Real Madrid, where he broke numerous records, including becoming the club's all-time leading scorer. (30)_______.\n\nPossessing remarkable athleticism and a keen sense of strategy, (31)_______. His training regimen, which includes intense workouts and a strict diet, ensures that he remains at peak performance. This dedication has allowed him to adapt his playing style over the years, maintaining his relevance in an ever-evolving sport. Additionally, Ronaldo's ability to lead his teammates has earned him respect both on and off the field.\n\nBeyond his football career, Ronaldo is a philanthropist who uses his platform to give back to the community. (32)_______. His influence extends far beyond the pitch, making him a global icon and a role model for aspiring athletes. Ultimately, Cristiano Ronaldo's legacy is defined not only by his records but also by his commitment to making a positive impact in the world.",
+      "questions": [
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "of whom significant impact on the sport",
+            "B": "has made a significant impact on the sport",
+            "C": "impacting significantly on the sport",
+            "D": "that has his significant impact on the sport recognized"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc câu: Câu có chủ ngữ 'Cristiano Ronaldo', có mệnh đề quan hệ rút gọn 'one of the greatest football players of all time'. Câu thiếu vị ngữ với động từ chính được chia thì.\nTạm dịch: Cristiano Ronaldo, one of the greatest football players of all time, has made a significant impact on the sport. (Cristiano Ronaldo, một trong những cầu thủ bóng đá vĩ đại nhất mọi thời đại, đã có tác động đáng kể đến môn thể thao này.)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "refining his skills there before making the move to Manchester United in 2003",
+            "B": "aided him in polishing his skills before transferring to Manchester United in 2003",
+            "C": "where he honed his skills before moving to Manchester United in 2003",
+            "D": "of which his skills were honed before signing with Manchester United in 2003"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta có mệnh đề hoàn chỉnh 'His journey began at Sporting Lisbon', phía sau cần mệnh đề quan hệ bổ nghĩa.\nCâu có mệnh đề chính hoàn chỉnh: Chủ ngữ 'His journey' + Vị ngữ 'began at Sporting Lisbon' → Cần mệnh đề quan hệ.\nĐáp án D không phù hợp do cần sử dụng giới từ chỉ nơi chốn để thay thế cho trạng ngữ chỉ vị trí (of which → in which) → chọn C (in which = where).\nTạm dịch: His journey began at Sporting Lisbon, where he honed his skills before moving to Manchester United in 2003."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Aiming to encourage young athletes to become footballers, Ronaldo trained hard and shared his experiences with them.",
+            "B": "The relentless drive and work ethic of Ronaldo have forced many young fans to become footballers",
+            "C": "Ronaldo's relentless drive and work ethic have inspired many young athletes who aspire to follow his footsteps",
+            "D": "Young athletes have inspired Ronaldo to strengthen his relentless drive and work ethic"
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai: Đoạn văn không đề cập đến việc Ronaldo làm huấn luyện viên hoặc chia sẻ kinh nghiệm một cách trực tiếp.\nB sai: Từ 'forced' (ép buộc) không phản ánh đúng cách mà Ronaldo ảnh hưởng đến các vận động viên trẻ.\nC đúng: Phù hợp liên kết trực tiếp với những gì đã được mô tả trong đoạn văn.\nD sai: Không hợp lý về nghĩa vì đoạn đang tập trung vào những kỷ lục của Ronaldo.\nTạm dịch: Ronaldo's relentless drive and work ethic have inspired many young athletes who aspire to follow his footsteps."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Ronaldo consistently demonstrates why he is considered one of the best players of all time",
+            "B": "Experts consistently regard Ronaldo as one of the greatest players of all time",
+            "C": "The label of one of the all-time best players is attributed to Ronaldo",
+            "D": "Achieving the title of the best player of all time is a simple feat for Ronaldo"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu có mệnh đề phân từ hiện tại 'Possessing remarkable' (Sở hữu sức mạnh thể thao) ở đầu câu → chủ ngữ trong mệnh đề chính và chủ ngữ trong mệnh đề phụ phải chỉ cùng một đối tượng.\nB sai vì 'Experts' không phù hợp làm chủ ngữ ở mệnh đề trước.\nC sai vì 'The label of one of the all-time best players' không phù hợp làm chủ ngữ ở mệnh đề trước.\nD sai vì 'Achieving the title of the best player of all time' không phù hợp làm chủ ngữ ở mệnh đề trước.\nTạm dịch: Possessing remarkable athleticism and a keen sense of strategy, Ronaldo consistently demonstrates why he is considered one of the best players of all time."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "He has donated millions of dollars to various charities, supporting causes such as children's hospitals and disaster relief efforts",
+            "B": "His millions of dollars serve as an aid to causes like children's hospitals and disaster relief efforts.",
+            "C": "Spending millions of dollars, various charities can support causes such as children's hospitals and disaster relief efforts on behalf of Ronaldo",
+            "D": "Various charities would definitely struggle to support causes like children's hospitals and disaster relief efforts without Ronaldo's contributions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn văn nói rằng ngoài sự nghiệp bóng đá, Ronaldo là một nhà từ thiện và sử dụng nền tảng của mình để đóng góp cho cộng đồng nên ta cần một câu mô tả hành động từ thiện của Ronaldo.\nA đúng: Phù hợp về ngữ pháp và ngữ cảnh - anh ấy đã quyên góp hàng triệu đô la cho nhiều tổ chức từ thiện khác nhau.\nB không phù hợp về ngữ nghĩa.\nC sai vì câu này ngụ ý rằng các tổ chức từ thiện chi tiêu hàng triệu đô la, nhưng thực tế là Ronaldo là người đã quyên góp tiền cho các tổ chức từ thiện.\nD sai vì câu này không nhấn mạnh trực tiếp về hành động quyên góp của Ronaldo.\nTạm dịch: He has donated millions of dollars to various charities, supporting causes such as children's hospitals and disaster relief efforts."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and indicate the best answer to each of the following questions.",
+      "passageTitle": "GREEN LIVING",
+      "passage": "In an era marked by climate change and environmental degradation, adopting green living habits has become increasingly vital. Green living refers to a lifestyle that seeks to minimize one's ecological footprint through conscious choices in daily activities. This can include everything from reducing waste to conserving energy and using sustainable products. As more individuals recognize the importance of preserving our planet, the movement toward greener practices continues to gain momentum.\n\nOne of the most significant aspects of green living is its focus on sustainability. By choosing products that are eco-friendly, consumers can support businesses that prioritize environmental responsibility. For instance, using reusable bags, bottles, and containers reduces plastic waste and promotes a circular economy. Furthermore, opting for locally sourced foods not only supports local farmers but also decreases the carbon emissions associated with transportation.\n\nWhen green living habits are adopted, they can lead to profound changes in our environment. By reducing their energy consumption through the use of energy-efficient appliances, individuals help lower greenhouse gas emissions. Consequently, this contributes to cleaner air and mitigates the effects of climate change. Moreover, by practicing water conservation methods, such as fixing leaks and using low-flow fixtures, households can significantly decrease water waste, promoting the sustainable use of this precious resource.\n\nIn conclusion, educating individuals about green living habits is crucial for promoting a more sustainable future. Schools and community organizations can offer workshops and resources that highlight the benefits of eco-friendly practices. Additionally, social media campaigns can raise awareness and encourage people to share their experiences with sustainable living. By empowering individuals to make informed choices, we can collectively work toward a healthier planet for generations to come.",
+      "questions": [
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following is NOT mentioned as one of the green living practices?",
+          "context": "",
+          "options": {
+            "A": "Using sustainable products",
+            "B": "Reducing waste",
+            "C": "Conserving energy",
+            "D": "Composting organic waste"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: This can include everything from reducing waste to conserving energy and using sustainable products. (Điều này có thể bao gồm mọi thứ, từ giảm chất thải đến tiết kiệm năng lượng và sử dụng các sản phẩm bền vững.)\nA, B, C đều được đề cập. D (Ủ phân rác thải hữu cơ) không được đề cập trong bài."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"empowering\" in paragraph 4 could be best replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "allowing",
+            "B": "requiring",
+            "C": "prohibiting",
+            "D": "abandoning"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. allow (v) /əˈlaʊ/: cho phép, để cho\nB. require (v) /rɪˈkwaɪər/: yêu cầu, đòi hỏi\nC. prohibit (v) /prəˈhɪbɪt/: cấm, ngăn cấm\nD. abandon (v) /əˈbændən/: từ bỏ, bỏ rơi\nempower (v): trao quyền = allow\nThông tin: By empowering individuals to make informed choices, we can collectively work toward a healthier planet for generations to come. (Bằng cách trao quyền cho mọi người đưa ra những lựa chọn sáng suốt, chúng ta có thể cùng nhau hướng tới một hành tinh khỏe mạnh hơn cho các thế hệ mai sau.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2? (\"By choosing products that are eco-friendly, consumers can support businesses that prioritize environmental responsibility.\")",
+          "context": "",
+          "options": {
+            "A": "Choosing eco-friendly products allows consumers to back businesses that emphasize environmental protection.",
+            "B": "When consumers select non-eco-friendly products, they undermine companies committed to environmental responsibility.",
+            "C": "Opting for eco-friendly products may distract consumers from recognizing businesses that neglect environmental responsibility.",
+            "D": "By purchasing items that are harmful to the planet, consumers can inadvertently encourage businesses that do not care about environmental issues."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: By choosing products that are eco-friendly, consumers can support businesses that prioritize environmental responsibility.\nTạm dịch: Bằng cách lựa chọn các sản phẩm thân thiện với môi trường, người tiêu dùng có thể ủng hộ các doanh nghiệp ưu tiên trách nhiệm với môi trường.\nĐáp án A diễn giải đúng nhất: Choosing eco-friendly products allows consumers to back businesses that emphasize environmental protection."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"vital\" in paragraph 1 is OPPOSITE in meaning to ________.",
+          "context": "",
+          "options": {
+            "A": "crucial",
+            "B": "important",
+            "C": "imperfect",
+            "D": "inessential"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ vựng:\nA. crucial (adj) /ˈkruːʃəl/: quan trọng, quyết định, then chốt\nB. important (adj) /ɪmˈpɔːtənt/: quan trọng, có ý nghĩa\nC. imperfect (adj) /ɪmˈpɜːfɪkt/: không hoàn hảo, có khuyết điểm\nD. inessential (adj) /ˌɪnɪˈsenʃəl/: không cần thiết, không quan trọng\nvital (adj): quan trọng >< inessential\nThông tin: adopting green living habits has become increasingly vital."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Green living exclusively focuses on reducing energy consumption and does not address waste management.",
+            "B": "Using reusable products can contribute to a decrease in plastic waste and promote sustainability.",
+            "C": "Teaching people about green living practices is not essential for promoting a sustainable future.",
+            "D": "The movement toward greener practices has lost momentum as fewer individuals recognize the importance of preserving the planet."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai: Green living refers to a lifestyle... This can include everything from reducing waste to conserving energy – sống xanh bao gồm cả quản lý chất thải.\nC sai: educating individuals about green living habits is crucial.\nD sai: the movement toward greener practices continues to gain momentum.\nB đúng: For instance, using reusable bags, bottles, and containers reduces plastic waste and promotes a circular economy."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "The word \"their\" in paragraph 3 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "energy-efficient appliances",
+            "B": "individuals",
+            "C": "green living habits",
+            "D": "profound changes"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: By reducing their energy consumption through the use of energy-efficient appliances, individuals help lower greenhouse gas emissions.\nTừ 'their' trong đoạn 3 ám chỉ đến 'individuals'."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "In which paragraph does the writer mention a present casual relationship?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 4",
+            "C": "Paragraph 1",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: By reducing their energy consumption through the use of energy-efficient appliances, individuals help lower greenhouse gas emissions. Consequently, this contributes to cleaner air and mitigates the effects of climate change. (Bằng cách giảm mức tiêu thụ năng lượng thông qua việc sử dụng các thiết bị tiết kiệm năng lượng, mọi người giúp giảm lượng khí thải nhà kính. Do đó, điều này góp phần làm cho không khí trong lành hơn và giảm thiểu tác động của biến đổi khí hậu.)\nĐoạn 3 đề cập đến mối quan hệ nhân quả hiện tại (cause → effect)."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "In which paragraph does the writer discuss methods for teaching people about eco-friendly living practices?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 4",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: In conclusion, educating individuals about green living habits is crucial for promoting a more sustainable future. Schools and community organizations can offer workshops and resources that highlight the benefits of eco-friendly practices. Additionally, social media campaigns can raise awareness and encourage people to share their experiences with sustainable living. (Tóm lại, việc giáo dục mọi người về thói quen sống xanh là rất quan trọng để thúc đẩy một tương lai bền vững hơn. Các trường học và tổ chức cộng đồng có thể cung cấp các hội thảo và nguồn lực nêu bật lợi ích của các hoạt động thân thiện với môi trường. Ngoài ra, các chiến dịch truyền thông xã hội có thể nâng cao nhận thức và khuyến khích mọi người chia sẻ kinh nghiệm của họ về cuộc sống bền vững.)\nĐây là đoạn 4 (kết luận)."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.588740+00:00",
+  "updatedAt": "2026-06-08T10:41:58.588740+00:00",
+  "originalFileName": "THPT_My_Duc_B_Ha_Noi_2025.json"
+}

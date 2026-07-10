@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_vinh_phuc_ma903_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Vĩnh Phúc - Mã đề 903",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file Vinh phuc ma de 903.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#VĩnhPhúc",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about ecotourism and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 10.",
+      "passageTitle": "Ecotourism",
+      "passage": "(I) Ecotourism, a form of sustainable travel that prioritizes environmental conservation and cultural awareness, has become increasingly popular over the years as more people seek meaningful travel experiences. (II) Its appeal lies in its dual promise of adventure and responsible travel, making it an attractive option for environmentally conscious travelers. (III) However, it's not all sunshine and rainbows. While it offers significant benefits, including boosting the local economy and promoting conservation efforts, challenges like mismanagement, cultural exploitation, and the potential for environmental degradation persist, underscoring the complexity of balancing tourism with sustainability. (IV)\n\nOne of the primary advantages of ecotourism is its potential to foster environmental conservation. By attracting visitors to protected areas, it generates much-needed funds for wildlife preservation and ecosystem management efforts. Furthermore, local communities often play a crucial role in the success of ecotourism. Acting as guides, educators, and stewards, they share their knowledge of local flora and fauna, strengthening the bond between humans and nature. However, without proper guidelines and monitoring systems, over-tourism can occur, leading to unintended consequences such as habitat destruction, pollution, and wildlife disturbances that undermine conservation efforts.\n\nAnother significant benefit of ecotourism is the opportunity to educate travelers about cultural and ecological values. Visitors gain unique insights into indigenous traditions and practices, fostering mutual respect and understanding. These cultural exchanges can empower local communities and encourage the preservation of their heritage. However, as the saying goes, \"The road to hell is paved with good intentions.\" In many cases, excessive commercialization of cultural practices for entertainment purposes risks diluting their authenticity and reducing them to mere performances for tourist consumption. This exploitation not only diminishes the cultural value but also alienates the communities whose heritage is being commercialized.\n\nFor ecotourism to truly succeed, all stakeholders – tourists, businesses, and local communities – must strike a delicate balance between profit-making and preservation. Clear policies, robust community involvement, and responsible travel behavior are essential components of sustainable ecotourism practices. By emphasizing these principles, negative impacts can be minimized, allowing ecotourism to achieve its true purpose. Ultimately, ecotourism is more than a journey to breathtaking destinations; it represents a shared responsibility to protect and cherish our planet while experiencing its wonders in meaningful ways.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"Unlike traditional tourism, ecotourism focuses on destinations that showcase natural beauty, biodiversity, and authentic cultural practices.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(II)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí số (II), vì nó liên kết và bổ sung ý nghĩa cho câu trước đang định nghĩa 'ecotourism'.\nTạm dịch câu cần điền: Khác với du lịch truyền thống, du lịch sinh thái tập trung vào những điểm đến có vẻ đẹp tự nhiên, sự đa dạng sinh học và những phong tục văn hóa chân thực."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word \"they\" in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "ecotourism",
+            "B": "local communities",
+            "C": "educators",
+            "D": "guides"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đại từ 'they' thay thế cho 'local communities' (cộng đồng địa phương) được nhắc đến ngay trước đó trong câu: 'local communities often play a crucial role in the success of ecotourism. Acting as guides, educators, and stewards, they share their knowledge...'\nTạm dịch: Các cộng đồng địa phương thường đóng vai trò quan trọng trong sự thành công của du lịch sinh thái. Hoạt động như những hướng dẫn viên, nhà giáo dục và người bảo vệ, họ chia sẻ kiến thức về thực vật và động vật địa phương."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The word \"undermine\" in paragraph 2 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "damage",
+            "B": "exploit",
+            "C": "neutralize",
+            "D": "enhance"
+          },
+          "correctAnswer": "D",
+          "explanation": "undermine /ˌʌndəˈmaɪn/ (v): làm suy yếu >< enhance (v): tăng cường\nA. damage /ˈdæmɪdʒ/ (v): gây hư hại\nB. exploit /ɪkˈsplɔɪt/ (v): khai thác\nC. neutralize /ˈnjuːtrəlaɪz/ (v): trung hòa\nD. enhance /ɪnˈhɑːns/ (v): tăng cường\nTạm dịch: ...những hậu quả không mong muốn như phá hủy môi trường sống, ô nhiễm và xáo trộn động vật hoang dã, làm suy yếu các nỗ lực bảo tồn."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "Which of the following impacts of ecotourism is NOT mentioned in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Positive effects on wildlife preservation and ecosystem management.",
+            "B": "The disruption of local community traditions by ecotourism activities.",
+            "C": "Habitat destruction due to over-tourism.",
+            "D": "Pollution caused by improper guidelines and monitoring."
+          },
+          "correctAnswer": "B",
+          "explanation": "A được đề cập: 'it generates much-needed funds for wildlife preservation and ecosystem management efforts.'\nC và D được đề cập: 'over-tourism can occur, leading to unintended consequences such as habitat destruction, pollution...'\nB không được đề cập trong đoạn 2 — đoạn 2 không nói về việc du lịch sinh thái gián đoạn truyền thống của cộng đồng địa phương."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "The word \"fostering\" in paragraph 3 could best be replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "abandoning",
+            "B": "hindering",
+            "C": "neglecting",
+            "D": "promoting"
+          },
+          "correctAnswer": "D",
+          "explanation": "foster /ˈfɒstə/ (v): nuôi dưỡng, thúc đẩy = promote (v)\nA. abandon /əˈbændən/ (v): bỏ rơi\nB. hinder /ˈhɪndə/ (v): cản trở\nC. neglect /nɪˈglekt/ (v): sao nhãng\nD. promote /prəˈməʊt/ (v): thúc đẩy\nTạm dịch: Du khách sẽ có cái nhìn sâu sắc về các truyền thống và tập quán bản địa, từ đó thúc đẩy sự tôn trọng và hiểu biết lẫn nhau."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Ecotourism is only beneficial when it directly supports wildlife preservation, disregarding cultural factors.",
+            "B": "Ecotourism helps protect the environment and preserve culture, but excessive commercialization can undermine its benefits.",
+            "C": "The primary goal of ecotourism is to increase tourism revenue, without concern for environmental or cultural consequences.",
+            "D": "Ecotourism has no negative impacts as it promotes environmental conservation and cultural understanding."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì đoạn 3 đề cập đến giáo dục du khách về văn hóa (disregarding cultural factors là sai).\nB đúng vì tóm tắt đầy đủ nội dung chính của đoạn: du lịch sinh thái mang lại lợi ích giáo dục về văn hóa và sinh thái, thúc đẩy tôn trọng và bảo tồn di sản. Tuy nhiên, thương mại hóa quá mức có thể làm giảm tính chân thực, giá trị văn hóa.\nC sai vì không phải nội dung của đoạn.\nD sai ở 'no negative impacts' vì thương mại hóa quá mức các hoạt động văn hóa có thể gây ra những tác động tiêu cực."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Ecotourism discourages travelers from learning about cultural and ecological values.",
+            "B": "Ecotourism requires a balance between economic goals and environmental conservation.",
+            "C": "Local communities benefit more from ecotourism than ecosystems do.",
+            "D": "Ecotourism primarily aims to replace indigenous traditions with modern practices."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai ở 'discourages' vì bài đọc nêu du lịch sinh thái là cơ hội giáo dục du khách về các giá trị văn hóa và sinh thái.\nB đúng: 'all stakeholders must strike a delicate balance between profit-making and preservation.'\nC sai vì không có thông tin so sánh trong bài.\nD sai ở 'replace indigenous traditions' vì mục tiêu của du lịch sinh thái là bảo tồn các truyền thống bản địa.\nTạm dịch: Để du lịch sinh thái thực sự thành công, tất cả các bên liên quan — du khách, doanh nghiệp và cộng đồng địa phương — phải đạt được sự cân bằng tinh tế giữa việc tạo ra lợi nhuận và việc bảo tồn."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?\n\"By emphasizing these principles, negative impacts can be minimized, allowing ecotourism to achieve its true purpose.\"",
+          "context": "",
+          "options": {
+            "A": "Following these principles will help ecotourism avoid problems and ensure it meets its goals.",
+            "B": "Without these principles, ecotourism's goals of sustainability and conservation will remain out of reach.",
+            "C": "Ecotourism can only succeed if all stakeholders disregard these principles and focus solely on profit.",
+            "D": "By neglecting these principles, ecotourism will fail to meet its objectives and could cause harm."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng với nội dung câu được gạch chân: việc nhấn mạnh các nguyên tắc này sẽ giảm thiểu tác động tiêu cực, giúp du lịch sinh thái đạt được mục đích thực sự.\nB sai vì câu được gạch chân không trực tiếp đề cập đến 'sustainability' và 'conservation'.\nC sai về ý nghĩa câu so với câu được gạch chân.\nD sai về ý nghĩa câu so với câu được gạch chân."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Educating travelers is the most challenging aspect of ecotourism.",
+            "B": "Without proper monitoring, ecotourism can contradict its conservation goals.",
+            "C": "Local communities should avoid participating in ecotourism to preserve their traditions.",
+            "D": "Ecotourism is sustainable only when local traditions remain unaffected."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì không có thông tin đây là 'the most challenging aspect'.\nB đúng vì có thể suy ra từ bài đọc: 'without proper guidelines and monitoring systems, over-tourism can occur, leading to unintended consequences... that undermine conservation efforts.'\nC sai vì không có thông tin trong bài.\nD sai vì không có thông tin trong bài đọc."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Ecotourism is a sustainable form of travel that focuses on environmental conservation, cultural understanding, and the economic benefits of tourism, but it faces challenges such as over-tourism and cultural exploitation.",
+            "B": "The passage emphasizes that ecotourism is purely a means to educate travelers about the importance of protecting the environment, without any negative consequences.",
+            "C": "Ecotourism is mainly beneficial because it helps tourists experience adventure while generating significant economic benefits for the local communities.",
+            "D": "While ecotourism is mostly about promoting cultural exchanges and enhancing the economic status of local communities, it rarely involves environmental concerns."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng vì tóm tắt đầy đủ nội dung chính của bài: du lịch sinh thái ngày càng phổ biến nhờ vào việc bảo vệ môi trường và nâng cao nhận thức văn hóa, nhưng cũng đối mặt với các thách thức như quản lý kém và khai thác văn hóa.\nB sai ở 'purely a means to educate travelers' và 'without any negative consequences'.\nC sai ở 'mainly beneficial' và chưa tóm tắt được nội dung chính của bài (thiếu các yếu tố bảo tồn và thách thức).\nD sai ở 'rarely involves environmental concerns'."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about volunteering and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 11 to 15.",
+      "passageTitle": "Volunteering",
+      "passage": "Volunteering is a powerful way to make a positive impact on society while also enriching one's personal growth. Many programs (11) _______ their time and skills to various causes. From environmental conservation to helping those in need, volunteering provides individuals with the opportunity to develop new skills, expand their social networks, and gain a deeper understanding of societal issues.\n\nNumerous organizations have been set up to connect volunteers with meaningful opportunities. These organizations aim to ensure that volunteers are matched with projects (12) _______. These initiatives are crucial in creating a more engaged and active citizenry, while providing valuable support to various causes across the globe.\n\nVolunteering plays a vital role in fostering a sense of unity and resilience within communities. For example, disaster relief efforts often rely heavily on volunteers to provide immediate assistance to affected areas. (13) _______, helping them recover more quickly from crises.\n\nBy participating in community service, (14) _______. It allows individuals to feel a sense of purpose and fulfillment while they actively address pressing societal issues. Moreover, volunteering can also lead to personal growth, increased empathy, and enhanced leadership skills.\n\nHowever, for volunteering programs to succeed, strong leadership, clear communication, and consistent support are essential. (15) _______. Additionally, partnerships between organizations and local communities are crucial in ensuring that the projects have long-term sustainability and meaningful outcomes.",
+      "questions": [
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that are gradually being developed to promote the value of community to contribute",
+            "B": "when purpose is to inspire participation in charitable activities to spend",
+            "C": "have been established to encourage people of all ages to contribute",
+            "D": "having been launched recently to attract younger volunteers to waste"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu đã có chủ ngữ chính 'many programs' (nhiều chương trình), do vậy ta cần một động từ chính có chia thì.\nLoại A vì sử dụng mệnh đề quan hệ.\nLoại B vì sử dụng liên từ 'when'.\nLoại D vì sử dụng phân từ hoàn thành.\nC đúng: 'have been established' là động từ chính chia thì.\nTạm dịch: Nhiều chương trình đã được thành lập để khuyến khích mọi người ở mọi lứa tuổi tham gia đóng góp thời gian và kỹ năng cho các mục tiêu khác nhau."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which suit their interests and skills so that they can maximize their impact",
+            "B": "are guided effectively to develop their abilities and make meaningful contributions",
+            "C": "connect individuals to groups, organizations, and initiatives that work together for the betterment of society as a whole",
+            "D": "where offer communities better access to essential resources and empowering them to achieve greater success"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu đã có chủ ngữ chính 'These organizations' và động từ chính 'aim'. Ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ bổ nghĩa cho danh từ 'projects'.\nLoại B và C vì sử dụng động từ có chia thì 'are guided' và 'connect'.\nLoại D vì sử dụng trạng từ quan hệ 'where'.\nA đúng: mệnh đề quan hệ với 'which' bổ nghĩa cho 'projects'.\nTạm dịch: Những tổ chức này nhằm đảm bảo rằng các tình nguyện viên được kết nối với những dự án phù hợp với sở thích và kỹ năng của họ để có thể tối đa hóa tác động của mình."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Their contribution not only offers tangible support but also strengthens the emotional bonds within communities",
+            "B": "Volunteering enhances teamwork by fostering collaboration and strengthen individual efforts for the benefit of society",
+            "C": "Communities flourish when supported by volunteers whose efforts help strengthen social and economic foundations",
+            "D": "A stronger sense of unity and mutual support arises from the continued efforts of those who volunteer to help others"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một mệnh đề liên kết về ngữ nghĩa với mệnh đề quan hệ rút gọn 'helping them recover more quickly from crises' (giúp những cộng đồng này phục hồi nhanh chóng hơn từ các cuộc khủng hoảng).\nA đúng vì phù hợp về ngữ nghĩa: Sự đóng góp của họ không chỉ mang lại sự hỗ trợ hữu hình mà còn làm mạnh mẽ thêm các mối liên kết cảm xúc trong cộng đồng.\nB, C, D sai vì không liên kết về ý nghĩa khi kết hợp với mệnh đề phía sau."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "individuals gain a deeper understanding of societal challenges",
+            "B": "their dedication and compassion bring about meaningful changes that transform communities and society at large",
+            "C": "volunteering leads to positive outcomes for everyone involved, building stronger communities",
+            "D": "community projects experience significant success as a result of volunteers' increased involvement"
+          },
+          "correctAnswer": "A",
+          "explanation": "Mệnh đề phía trước sử dụng hiện tại phân từ dạng chủ động 'by participating'. Ta xét từng đáp án:\nA – chủ ngữ chung 'individuals' (các cá nhân) phù hợp với 'by participating' ở mệnh đề phía trước.\nB – chủ ngữ chung 'their dedication and compassion' không thể kết hợp với 'by participating'.\nC – chủ ngữ chung 'volunteering' không thể kết hợp với 'by participating'.\nD – chủ ngữ chung 'community projects' không thể kết hợp với 'by participating'.\nTạm dịch: Bằng cách tham gia vào các hoạt động phục vụ cộng đồng, các cá nhân sẽ có được sự hiểu biết sâu sắc hơn về những thách thức xã hội."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Volunteers stay motivated and engaged to need proper training, guidance, and recognition",
+            "B": "Volunteers need proper training, guidance, and recognition to stay motivated and engaged",
+            "C": "Proper training, guidance, and recognition to stay motivated and engaged volunteers need",
+            "D": "Proper training, guidance, and recognition need volunteers to stay motivated and engaged"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một câu hoàn chỉnh và phù hợp về ngữ nghĩa.\nA sai về ngữ pháp câu 'engaged to need'.\nB đúng vì phù hợp về ngữ nghĩa: Các tình nguyện viên cần được đào tạo, hướng dẫn và công nhận phù hợp để duy trì động lực và sự gắn kết.\nC sai về ngữ pháp câu 'to stay motivated and engaged volunteers need'.\nD không phù hợp về ngữ nghĩa.\nTạm dịch: Tình nguyện viên cần được đào tạo, hướng dẫn và công nhận đúng mức để duy trì động lực và sự tham gia."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 16 to 21.",
+      "passageTitle": "Join Earth Hour – Make a Difference!",
+      "passage": "Why participate in?\n\nEach year, Earth Hour encourages people worldwide to turn off their lights for one hour, helping (16) _______ positive environmental changes. This movement shows how the (17) _______ of people acting together can make a huge impact. (18) _______ rising pollution and energy consumption, Earth Hour reminds us to consider our power usage and how it affects the planet.\n\nWhat can you do?\n\nBy turning off non-essential lights, we help reduce emissions and protect (19) _______ natural resources that support our environment. In this event, we transmit a strong (20) _______ of unity and responsibility to future generations.\n\nGet involved today!\n\nJoin us on this journey; every small action counts. Your (21) _______ to this movement is valid, meaningful, and impactful. Together, let's show that we care about a sustainable future. Be a part of Earth Hour – your actions matter!",
+      "questions": [
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make out",
+            "B": "turn off",
+            "C": "come round",
+            "D": "bring about"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. make out: hiểu\nB. turn off: tắt\nC. come round: tỉnh lại\nD. bring about: gây ra, mang lại\nTạm dịch: Hàng năm, Giờ Trái Đất khuyến khích mọi người trên toàn thế giới tắt đèn trong một giờ, giúp mang lại những thay đổi tích cực cho môi trường."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "lots",
+            "B": "amount",
+            "C": "plenty",
+            "D": "number"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. lots of + N (số nhiều/không đếm được): rất nhiều\nB. the amount of + N (không đếm được): lượng\nC. plenty of + N (số nhiều/không đếm được): nhiều\nD. the number of + N (số nhiều): số lượng\nTa thấy câu đã có 'the' và danh từ 'people' ở dạng danh từ đếm được số nhiều nên ta chọn 'number'.\nTạm dịch: Phong trào này cho thấy số lượng người cùng hành động có thể tạo ra một tác động to lớn như thế nào."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Regardless of",
+            "B": "In spite of",
+            "C": "On behalf of",
+            "D": "On account of"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm giới từ:\nA. Regardless of: bất chấp, bất kể\nB. In spite of: mặc dù\nC. On behalf of: thay mặt\nD. On account of: vì lý do\nTạm dịch: Mặc dù mức độ ô nhiễm và tiêu thụ năng lượng vẫn đang gia tăng, Giờ Trái Đất nhắc nhở chúng ta suy nghĩ về việc sử dụng năng lượng và ảnh hưởng của nó đối với hành tinh."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "other",
+            "B": "others",
+            "C": "the other",
+            "D": "another"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. other + N (số nhiều/không đếm được): (những) cái/người khác\nB. others: những cái/người khác\nC. the other + N (đếm được): (những) cái/người còn lại trong 1 nhóm\nD. another + N (số ít): cái/người khác\nTa thấy danh từ 'natural resources' ở dạng đếm được số nhiều và dựa vào nghĩa, ta chọn 'other'.\nTạm dịch: Bằng cách tắt đèn không cần thiết, chúng ta giúp giảm phát thải và bảo vệ những tài nguyên thiên nhiên khác hỗ trợ môi trường của chúng ta."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sign",
+            "B": "voice",
+            "C": "message",
+            "D": "signal"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. sign /saɪn/ (n): dấu hiệu\nB. voice /vɔɪs/ (n): giọng nói\nC. message /ˈmesɪdʒ/ (n): thông điệp\nD. signal /ˈsɪɡnəl/ (n): tín hiệu\nTạm dịch: Trong sự kiện này, chúng ta truyền tải một thông điệp mạnh mẽ về sự đoàn kết và trách nhiệm đối với thế hệ tương lai."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "experience",
+            "B": "move",
+            "C": "contribution",
+            "D": "measurement"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. experience /ɪkˈspɪərɪəns/ (n): kinh nghiệm\nB. move /muːv/ (n): động thái\nC. contribution /ˌkɒntrɪˈbjuːʃən/ (n): sự đóng góp\nD. measurement /ˈmeʒəmənt/ (n): phép đo\nTa có contribution to something: đóng góp cho cái gì.\nTạm dịch: Sự đóng góp của bạn vào phong trào này là hợp lý, có ý nghĩa và có ảnh hưởng."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Yoga and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 22 to 29.",
+      "passageTitle": "Yoga",
+      "passage": "Yoga is a healthy lifestyle. One of the benefits of yoga is that you can choose a yoga style that is suitable for your lifestyle, such as hot yoga, power yoga, relaxation yoga, etc. If you are a yoga beginner, Hatha Yoga, which focuses on basic postures at a comfortable pace, would be great for you. If you want to increase strength through using more of your own body's resistance, Power Yoga may be right for you. Whether you prefer you're at home, in a private session, watching a DVD or at a studio or gym, there are a huge variety of options available to suit your goals and needs.\n\nImproved flexibility is one of the first and most obvious benefits of yoga. During your first class, you probably won't be able to touch your toes. But if you stick with it, you'll notice a gradual loosening, and eventually, seemingly impossible poses will become possible. Each of the yoga poses is built to reinforce the muscles around the spine, the very center of your body, which is the core from which everything else operates.\n\nWhen the core is working properly, posture is improved, thus alleviating back, shoulder, and neck pain. Strong muscles do more than look good. They also protect us from conditions like arthritis and back pain, and help prevent falls in elderly people. And when you build strength through yoga, you balance it with flexibility. If you just went to the gym and lifted weights, you might build strength at the expense of flexibility.\n\nYoga gets your blood flowing. More specifically, the relaxation exercises you learn in yoga can help your circulation, especially in your hands and feet. Yoga also gets more oxygen to your cells, which function better as a result. Twisting poses are thought to wring out venous blood from internal organs and allow oxygenated blood to flow in once the twist is released. Many studies found that a consistent yoga practice improved depression and led to greater levels of happiness and better immune function.",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following yoga styles is NOT mentioned in the passage?",
+          "context": "",
+          "options": {
+            "A": "Hot Yoga",
+            "B": "Power Yoga",
+            "C": "Hatha Yoga",
+            "D": "Vinyasa Yoga"
+          },
+          "correctAnswer": "D",
+          "explanation": "Bài đọc đề cập: hot yoga, power yoga, relaxation yoga, Hatha Yoga. Yoga Vinyasa không được nhắc đến.\nThông tin: 'such as hot yoga, power yoga, relaxation yoga, etc. If you are a yoga beginner, Hatha Yoga...'"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"reinforce\" in paragraph 2 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "weaken",
+            "B": "soften",
+            "C": "stretch",
+            "D": "tighten"
+          },
+          "correctAnswer": "A",
+          "explanation": "reinforce /ˌriːɪnˈfɔːs/ (v): củng cố >< weaken (v): làm yếu đi\nA. weaken /ˈwiːkən/ (v): làm yếu đi\nB. soften /ˈsɒfn/ (v): làm mềm\nC. stretch /stretʃ/ (v): kéo căng\nD. tighten /ˈtaɪtn/ (v): siết chặt\nTạm dịch: Mỗi tư thế yoga được xây dựng để củng cố các cơ xung quanh cột sống, trung tâm của cơ thể, là cốt lõi mà từ đó mọi thứ khác mới hoạt động được."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"They\" in paragraph 3 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "Strong muscles",
+            "B": "Elderly people",
+            "C": "Falls",
+            "D": "Conditions"
+          },
+          "correctAnswer": "A",
+          "explanation": "'They' thay thế cho 'Strong muscles' được nhắc đến ngay trước đó:\n'Strong muscles do more than look good. They also protect us from conditions like arthritis and back pain...'\nTạm dịch: Các cơ bắp khỏe mạnh không chỉ giúp cơ thể đẹp hơn. Chúng còn bảo vệ chúng ta khỏi những căn bệnh như viêm khớp, đau lưng và giúp ngăn ngừa té ngã ở người cao tuổi."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"alleviating\" in paragraph 3 could best be replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "relieving",
+            "B": "boosting",
+            "C": "keeping",
+            "D": "worsening"
+          },
+          "correctAnswer": "A",
+          "explanation": "alleviate /əˈliːvieɪt/ (v): làm giảm bớt, làm dịu bớt = relieve (v)\nA. relieve /rɪˈliːv/ (v): làm dịu\nB. boost /buːst/ (v): tăng cường\nC. keep /kiːp/ (v): giữ\nD. worsen /ˈwɜːsən/ (v): làm tệ hơn\nTạm dịch: Khi cốt lõi hoạt động đúng cách, tư thế của bạn được cải thiện, từ đó giảm bớt đau lưng, vai và cổ."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "According to the passage, which of the following statements is TRUE?",
+          "context": "",
+          "options": {
+            "A": "All yoga styles require an advanced level of fitness.",
+            "B": "Flexibility is the only benefit of yoga.",
+            "C": "Depression is unrelated to yoga practice.",
+            "D": "Yoga can help reduce shoulder and neck pain."
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai ở 'all' vì có nhiều phong cách yoga phù hợp với mọi mức độ thể lực: 'Hatha Yoga, which focuses on basic postures at a comfortable pace, would be great for you [beginners]'.\nB sai ở 'the only benefit'.\nC sai ở 'unrelated': 'Many studies found that a consistent yoga practice improved depression'.\nD đúng: 'posture is improved, thus alleviating back, shoulder, and neck pain'."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?\n\"Twisting poses are thought to wring out venous blood from internal organs and allow oxygenated blood to flow in once the twist is released.\"",
+          "context": "",
+          "options": {
+            "A": "Twisting poses only benefit blood flow when done in moderation.",
+            "B": "Twisting poses may help remove old blood from organs and bring in fresh blood.",
+            "C": "Twisting poses are harmful as they reduce blood flow to the organs.",
+            "D": "Twisting poses block oxygenated blood flow and cause tension in the internal organs."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì câu được gạch chân không đề cập đến 'only' hay 'moderation'.\nB đúng với ý nghĩa câu được gạch chân: các tư thế xoắn có thể giúp loại bỏ máu cũ từ các cơ quan và đưa máu mới vào.\nC sai vì câu được gạch chân không nói các tư thế xoắn có hại.\nD sai vì câu được gạch chân không nói các tư thế xoắn chặn dòng máu được oxy hóa."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "In which paragraph does the author describe the types of yoga suitable for different goals?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả mô tả các kiểu yoga phù hợp với những mục tiêu khác nhau trong đoạn văn 1: hot yoga, power yoga, relaxation yoga, Hatha Yoga cho người mới bắt đầu, Power Yoga để tăng cường sức mạnh."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the author discuss how yoga can improve mental health and immunity?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả thảo luận về cách yoga có thể cải thiện sức khỏe tinh thần và miễn dịch trong đoạn 4: 'Many studies found that a consistent yoga practice improved depression and led to greater levels of happiness and better immune function.'"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 30 to 35.",
+      "passageTitle": "Volunteer Recruitment Results for Charity Organization",
+      "passage": "We are delighted to announce the results of our (30) _______ for volunteers at the Charity Organization. After careful review and thoughtful consideration, we have (31) _______ the conclusion that we have an enthusiastic and varied group of new volunteers ready to join us. This talented team will bring unique skills and fresh perspectives, as they plan (32) _______ further our mission of community support and development, enriching the lives of those in need. The final list of selected volunteers is available at the Charity Organization's main office, where we will also provide further information (33) _______ all selected candidates regarding their upcoming roles and responsibilities. We are (34) _______ for the high level of interest shown by the community and look forward to achieving positive change together. Thank you to everyone (35) _______ and showing such wonderful support for our cause!",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "recent campaign recruitment",
+            "B": "campaign recruitment recent",
+            "C": "recruitment campaign recent",
+            "D": "recent recruitment campaign"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: ta có cụm danh từ 'recruitment campaign' (chiến dịch tuyển dụng), do vậy ta cần tính từ 'recent' (gần đây) đứng trước cụm danh từ này để bổ sung ý nghĩa.\nTạm dịch: Chúng tôi vui mừng thông báo kết quả của chiến dịch tuyển dụng tình nguyện viên gần đây tại Tổ chức Từ thiện."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "jumped",
+            "B": "come",
+            "C": "got",
+            "D": "reached"
+          },
+          "correctAnswer": "D",
+          "explanation": "Collocations: reach the conclusion: đi đến kết luận, đạt được kết luận\nTạm dịch: Sau khi xem xét kỹ lưỡng và cân nhắc thận trọng, chúng tôi đã đi đến kết luận rằng chúng tôi có một nhóm tình nguyện viên nhiệt tình và đa dạng sẵn sàng tham gia cùng chúng tôi."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "helping",
+            "B": "helped",
+            "C": "to help",
+            "D": "help"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to': plan to do something: lên kế hoạch làm gì\nTạm dịch: Đội ngũ tài năng này sẽ mang đến những kỹ năng độc đáo và góc nhìn mới, khi họ lên kế hoạch giúp đỡ tiếp tục sứ mệnh hỗ trợ và phát triển cộng đồng của chúng tôi."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to",
+            "B": "for",
+            "C": "with",
+            "D": "on"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về giới từ: provide something for somebody: cung cấp cái gì cho ai đó\nTạm dịch: Danh sách cuối cùng của các tình nguyện viên được chọn có tại văn phòng chính của Tổ chức Từ thiện, nơi chúng tôi sẽ cung cấp thêm thông tin cho tất cả các ứng viên được chọn về vai trò và trách nhiệm sắp tới của họ."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "grate",
+            "B": "gratefully",
+            "C": "grateful",
+            "D": "gratefulness"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. grate /greɪt/ (v): bào, mài\nB. gratefully /ˈgreɪtfəli/ (adv): một cách biết ơn\nC. grateful /ˈgreɪtfəl/ (adj): biết ơn\nD. gratefulness /ˈgreɪtfəlnəs/ (n): sự biết ơn\nSau 'to be', ta cần một tính từ nên ta chọn 'grateful'.\nTạm dịch: Chúng tôi rất biết ơn vì sự quan tâm cao độ của cộng đồng và mong muốn cùng nhau tạo ra sự thay đổi tích cực."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "applying",
+            "B": "applied",
+            "C": "applies",
+            "D": "who applying"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ: ta thấy câu đã có chủ ngữ và động từ chính, do vậy ta có thể sử dụng mệnh đề quan hệ hoặc mệnh đề quan hệ rút gọn thay thế cho đại từ 'everyone'. Để rút gọn mệnh đề quan hệ dạng chủ động, ta lược bỏ đại từ quan hệ và 'to be' (nếu có), chuyển V thành V-ing (who applied → applying).\nTạm dịch: Cảm ơn tất cả mọi người đã nộp đơn và thể hiện sự hỗ trợ tuyệt vời cho mục tiêu của chúng tôi!"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 36 to 40.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "a. These targeted steps can collectively foster better health outcomes, providing teenagers with accessible resources and supportive surroundings that contribute meaningfully to their well-being.\nb. Furthermore, implementing a policy where school canteens exclusively serve nutritious food options would reinforce healthy eating habits.\nc. For instance, offering all teenagers free memberships to local sports facilities could encourage physical activity by reducing barriers to participation.\nd. Rather than restricting screen time, a limitation that may be impractical, I propose focusing on actionable changes within their environment.\ne. To promote a healthier lifestyle among young people, a comprehensive set of measures is essential.",
+          "options": {
+            "A": "a-d-c-b-e",
+            "B": "a-c-b-d-e",
+            "C": "e-d-c-b-a",
+            "D": "e-a-d-b-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đúng: e-d-c-b-a\ne: Câu chủ đề (topic sentence) giới thiệu chủ đề chính.\nd: Đề xuất hướng tiếp cận thay vì hạn chế thời gian dùng màn hình.\nc: Ví dụ cụ thể (For instance) về cung cấp thành viên miễn phí.\nb: Thêm đề xuất (Furthermore) về căng tin trường học.\na: Kết luận (These targeted steps) tổng kết các đề xuất trên.\nTạm dịch: Để thúc đẩy một lối sống lành mạnh hơn cho giới trẻ, một bộ các biện pháp toàn diện là điều cần thiết. Thay vì hạn chế thời gian sử dụng màn hình, một biện pháp có thể không thực tế, tôi đề xuất tập trung vào những thay đổi có thể thực hiện được trong môi trường của họ. Ví dụ, việc cung cấp thẻ thành viên miễn phí cho tất cả các thanh thiếu niên tại các cơ sở thể thao địa phương có thể khuyến khích hoạt động thể chất bằng cách giảm bớt rào cản tham gia. Hơn nữa, việc thực hiện chính sách mà ở đó căng tin trường học chỉ phục vụ các món ăn dinh dưỡng sẽ củng cố thói quen ăn uống lành mạnh. Các bước có mục tiêu này có thể cùng thúc đẩy kết quả sức khỏe tốt hơn."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "a. Minh: She was really nervous about it, but I think she did quite well.\nb. Anna: I hope she gets the score she needs for her university application.\nc. Anna: Hi, Minh! How did your sister do on her IELTS exam?",
+          "options": {
+            "A": "c-b-a",
+            "B": "a-c-b",
+            "C": "c-a-b",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đúng: c-a-b\nc: Anna hỏi về kết quả thi IELTS của em gái Minh (câu mở đầu cuộc hội thoại).\na: Minh trả lời câu hỏi của Anna.\nb: Anna bày tỏ hy vọng về điểm số cho đơn xin vào đại học.\nTạm dịch:\nAnna: Chào Minh! Chị của bạn thi IELTS thế nào?\nMinh: Cô ấy rất lo lắng về kỳ thi, nhưng tôi nghĩ cô ấy đã làm khá tốt.\nAnna: Tôi hy vọng cô ấy sẽ đạt được số điểm cần thiết cho đơn xin vào đại học của mình."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "a. Peter: Yes, we should all have these basic life skills to be adults.\nb. Peter: Because doing housework helps them develop life skills.\nc. Mary: It's true. Cooking, cleaning, or looking after others are really necessary life skills for kids when they grow up.\nd. Mary: Thank you for sharing your idea. It's very useful for my project.\ne. Mary: Why do you think children should do housework?",
+          "options": {
+            "A": "d-a-e-b-c",
+            "B": "d-b-c-e-a",
+            "C": "e-b-d-a-c",
+            "D": "e-b-c-a-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: e-b-c-a-d\ne: Mary đặt câu hỏi mở đầu cuộc trò chuyện.\nb: Peter trả lời lý do.\nc: Mary đồng ý và bổ sung thêm ví dụ.\na: Peter đồng ý và nhấn mạnh tầm quan trọng.\nd: Mary cảm ơn và kết thúc hội thoại.\nTạm dịch:\nMary: Tại sao bạn nghĩ trẻ em nên làm việc nhà?\nPeter: Vì làm việc nhà giúp chúng phát triển kỹ năng sống.\nMary: Đúng vậy. Nấu ăn, dọn dẹp, hay chăm sóc người khác là những kỹ năng sống rất cần thiết cho trẻ khi chúng lớn lên.\nPeter: Đúng rồi, tất cả chúng ta đều cần có những kỹ năng cơ bản này để trở thành người lớn.\nMary: Cảm ơn bạn đã chia sẻ ý tưởng. Nó rất hữu ích cho dự án của tôi."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "Dear students,\na. As you may have heard, we will switch to online classes for the next few weeks because of the severe storm.\nb. I hope everyone is doing well despite the weather conditions.\nc. I appreciate your understanding and flexibility during this time, and I'm confident we can make this work together.\nd. I know this might be an adjustment for some of you, but it's important to prioritize safety.\ne. Please ensure you have access to your online resources, and let me know if you have any questions or concerns.\nBest wishes,\nMrs. Hanh",
+          "options": {
+            "A": "d-b-a-c-e",
+            "B": "b-a-d-c-e",
+            "C": "c-b-e-a-d",
+            "D": "a-e-c-b-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: b-a-d-c-e\nb: Lời chào và hỏi thăm mở đầu.\na: Thông báo về việc chuyển sang học trực tuyến.\nd: Thừa nhận sự thay đổi có thể khó khăn nhưng cần thiết vì lý do an toàn.\nc: Cảm ơn sự thông cảm và linh hoạt của học sinh.\ne: Hướng dẫn thực tế về tài nguyên học tập trực tuyến.\nTạm dịch:\nCác em học sinh thân mến,\nTôi hy vọng mọi người vẫn ổn dù thời tiết có phần khắc nghiệt. Như các em đã biết, vì cơn bão nghiêm trọng, chúng ta sẽ chuyển sang học trực tuyến trong vài tuần tới. Tôi hiểu đây có thể là một sự thay đổi lớn đối với một số em, nhưng sự an toàn luôn là điều quan trọng nhất. Cảm ơn các em đã thông cảm và linh hoạt trong thời gian này, tôi tin chắc chúng ta sẽ cùng nhau vượt qua được. Các em hãy đảm bảo rằng mình có thể truy cập vào các tài nguyên học trực tuyến và đừng ngần ngại liên hệ với tôi nếu có bất kỳ câu hỏi hay vấn đề gì."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "a. After completing my degree in social work, I began working as a social worker and have been doing it for almost five years now.\nb. In short, my advice to anyone who is considering a career in social work is to have a strong support system in place and take care of yourself mentally and physically.\nc. It can be emotionally challenging at times, but the reward of seeing people's lives change for the better is what keeps me motivated to work hard every day.\nd. I have always been passionate about helping others in my community.\ne. I always try to make a positive difference in someone's life, no matter how small it may be. Knowing that I am able to make a positive impact on someone's life makes me feel good.",
+          "options": {
+            "A": "e-c-d-a-b",
+            "B": "d-a-c-e-b",
+            "C": "c-a-d-e-b",
+            "D": "a-e-c-d-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: d-a-c-e-b\nd: Giới thiệu sở thích và đam mê của người viết (câu mở đầu).\na: Kinh nghiệm làm việc sau khi tốt nghiệp.\nc: Thách thức và động lực trong công việc.\ne: Triết lý sống và cảm xúc khi giúp đỡ người khác.\nb: Lời khuyên kết thúc bài chia sẻ.\nTạm dịch: Tôi luôn đam mê giúp đỡ những người khác trong cộng đồng của mình. Sau khi hoàn thành bằng công tác xã hội, tôi bắt đầu làm việc như một nhân viên xã hội và đã làm công việc này được gần năm năm nay. Dù đôi lúc công việc có thể khá căng thẳng về mặt cảm xúc, nhưng nhìn thấy cuộc sống của mọi người thay đổi theo hướng tích cực chính là động lực để tôi nỗ lực làm việc mỗi ngày. Tôi luôn cố gắng tạo ra sự khác biệt tích cực trong cuộc sống của ai đó, dù nhỏ bé đến đâu. Biết rằng mình có thể mang lại ảnh hưởng tích cực cho cuộc sống của một người nào đó khiến tôi cảm thấy hạnh phúc. Tóm lại, lời khuyên của tôi dành cho những ai đang cân nhắc theo đuổi sự nghiệp trong lĩnh vực công tác xã hội là hãy có một hệ thống hỗ trợ vững chắc và chăm sóc bản thân cả về tinh thần lẫn thể chất."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.645973+00:00",
+  "updatedAt": "2026-06-08T10:41:58.645973+00:00",
+  "originalFileName": "Vinh phuc ma de 903.json"
+}

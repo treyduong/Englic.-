@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_tuyen_quang_ma_de_le_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Tuyên Quang - Mã đề lẻ",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Tuyen_Quang_Ma_de_le_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#TuyenQuang",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the passage and mark the letter A, B, C, or D to indicate the correct answers.",
+      "passageTitle": "Cristiano Ronaldo",
+      "passage": "Cristiano Ronaldo, one of the greatest football players of all time, (1)_______.\n\nBorn on February 5, 1985, in Funchal, Madeira, Portugal, he showed exceptional talent from a young age. His journey began at Sporting Lisbon, (2)_______. There, he developed into a formidable player, winning multiple Premier League titles and the coveted UEFA Champions League.\n\nDuring his time at Manchester United, Ronaldo developed into a world-class player, winning three Premier League titles and the UEFA Champions League. He became known for his incredible speed and powerful shots, qualities that made him a formidable opponent on the pitch. In 2009, he transferred to Real Madrid, where he broke numerous records, including becoming the club's all-time leading scorer. (3)_______.\n\nPossessing remarkable athleticism and a keen sense of strategy, (4)_______. His training regimen, which includes intense workouts and a strict diet, ensures that he remains at peak performance. This dedication has allowed him to adapt his playing style over the years, maintaining his relevance in an ever-evolving sport. Additionally, Ronaldo's ability to lead his teammates has earned him respect both on and off the field.\n\nBeyond his football career, Ronaldo is a philanthropist who uses his platform to give back to the community. (5)_______. His influence extends far beyond the pitch, making him a global icon and a role model for aspiring athletes. Ultimately, Cristiano Ronaldo's legacy is defined not only by his records but also by his commitment to making a positive impact in the world.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "has made a significant impact on the sport",
+            "B": "that has his significant impact on the sport recognized",
+            "C": "of whom significant impact on the sport",
+            "D": "impacting significantly on the sport"
+          },
+          "correctAnswer": "A",
+          "explanation": "Phân tích thành phần câu: Chủ ngữ: 'Cristiano Ronaldo'. Cụm từ bổ nghĩa: 'one of the greatest football players of all time'. Thiếu vị ngữ với động từ đã chia.\nA. đã ảnh hưởng đáng kể đến môn thể thao này → Hợp lý nhất với động từ đã chia 'has made'.\nB. Sai vì là mệnh đề quan hệ.\nC. Sai vì là mệnh đề quan hệ.\nD. Sai vì dùng hiện tại phân từ.\nTạm dịch: Cristiano Ronaldo, một trong những cầu thủ bóng đá vĩ đại nhất mọi thời đại, đã ảnh hưởng đáng kể đến môn thể thao này."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "where he honed his skills before moving to Manchester United in 2003",
+            "B": "aided him in polishing his skills before transferring to Manchester United in 2003",
+            "C": "of which his skills were honed before signing with Manchester United in 2003",
+            "D": "refining his skills there before making the move to Manchester United in 2003"
+          },
+          "correctAnswer": "A",
+          "explanation": "Vị trí cần một mệnh đề quan hệ để bổ sung thông tin cho cụm từ 'Sporting Lisbon'. Mệnh đề này phải diễn tả quá trình Ronaldo phát triển kỹ năng của mình tại câu lạc bộ này.\nA. nơi anh đã rèn luyện kỹ năng của mình trước khi chuyển đến Manchester United vào năm 2003 → Hợp lý nhất vì đúng ngữ pháp, diễn tả một cách rõ ràng và chính xác về quá trình Ronaldo rèn luyện kỹ năng tại Sporting Lisbon trước khi chuyển đến Manchester United.\nB. Sai vì dựa vào cụm từ 'Sporting Lisbon', không dùng quá khứ phân từ 'aided'.\nC. Sai vì dùng 'of which': để cập đến sự sở hữu hoặc một phần của cái gì đó, không phải là một địa điểm.\nD. Sai vì cụm từ 'Sporting Lisbon' chỉ nơi chốn, không phù hợp với hiện tại phân từ 'refining'.\nTạm dịch: Hành trình của anh bắt đầu tại Sporting Lisbon, nơi anh đã rèn luyện kỹ năng của mình trước khi chuyển đến Manchester United vào năm 2003."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Young athletes have inspired Ronaldo to strengthen his relentless drive and work ethic",
+            "B": "Ronaldo's relentless drive and work ethic have inspired many young athletes who aspire to follow his footsteps",
+            "C": "The relentless drive and work ethic of Ronaldo have forced many young fans to become footballers",
+            "D": "Aimed to encourage young athletes to become footballers, Ronaldo trained hard and shared his experiences with them."
+          },
+          "correctAnswer": "B",
+          "explanation": "Vị trí cần một mệnh đề độc lập để cập liên kết mạch lạc với ý liền trước, thảo luận về những phẩm chất đặc biệt của Ronaldo, bao gồm khả năng thể thao, chế độ tập luyện và sự cống hiến cho môn thể thao của anh và diễn tả được ảnh hưởng của những phẩm chất đặc biệt này lên các cầu thủ trẻ.\nA. Các vận động viên trẻ đã truyền cảm hứng cho Ronaldo để củng cố động lực không ngừng nghỉ và đạo đức nghề nghiệp của mình → Sai vì không logic, Ronaldo là người truyền cảm hứng, không phải người được truyền cảm hứng.\nB. Sự quyết tâm và tinh thần làm việc không ngừng nghỉ của Ronaldo đã truyền cảm hứng cho nhiều cầu thủ trẻ, những người mơ ước được noi theo bước chân của anh → Hợp lý nhất, nhấn mạnh đến yếu tố quyết định thành công của Ronaldo là sự nỗ lực không ngừng nghỉ và điều này truyền cảm hứng cho nhiều cầu thủ trẻ.\nC. Động lực không ngừng nghỉ và đạo đức nghề nghiệp của Ronaldo đã buộc nhiều người hâm mộ trẻ tuổi trở thành cầu thủ bóng đá → Sai vì không logic, không phải ai hâm mộ Ronaldo cũng trở thành cầu thủ bóng đá.\nD. Nhằm mục đích khuyến khích các vận động viên trẻ trở thành cầu thủ bóng đá, Ronaldo đã tập luyện chăm chỉ và chia sẻ kinh nghiệm của mình với họ → Sai vì câu này quá chung chung và không nhấn mạnh đến vai trò của Ronaldo trong việc truyền cảm hứng.\nTạm dịch: Năm 2009, anh chuyển đến Real Madrid, nơi anh phá vỡ nhiều kỷ lục, bao gồm cả việc trở thành cầu thủ ghi bàn hàng đầu mọi thời đại của câu lạc bộ. Sự quyết tâm và tinh thần làm việc không ngừng nghỉ của Ronaldo đã truyền cảm hứng cho nhiều cầu thủ trẻ, những người mơ ước được noi theo bước chân của anh."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the label of one of the all-time best players is officially attributed to Ronaldo",
+            "B": "Ronaldo consistently demonstrates why he is considered one of the best players of all time",
+            "C": "achieving the marvelous title of the best player of all time is a simple feat for Ronaldo",
+            "D": "experts consistently regard Ronaldo as one of the greatest players of all time worldwide"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy, ở trước vị trí cần điền, mệnh đề đang ở dạng rút gọn chủ ngữ, với động từ 'possessing remarkable athleticism and a keen sense of strategy', vì vậy cần một chủ ngữ phù hợp.\nA. danh hiệu một trong những cầu thủ xuất sắc nhất mọi thời đại chính thức được trao cho Ronaldo → Sai vì 'the label of one of the all-time best players' không phù hợp với 'possessing remarkable athleticism and a keen sense of strategy'.\nB. Ronaldo liên tục chứng minh lý do tại sao anh được coi là một trong những cầu thủ xuất sắc nhất mọi thời đại → Hợp lý nhất, cho thấy rằng danh hiệu 'một trong những cầu thủ xuất sắc nhất mọi thời đại' không chỉ là một danh hiệu mà còn là kết quả của những nỗ lực không ngừng nghỉ của Ronaldo.\nC. đạt được danh hiệu là cầu thủ xuất sắc nhất mọi thời đại là một chiến công đơn giản đối với Ronaldo → Sai vì 'achieving the marvelous title of the best player of all time' không phù hợp với 'possessing remarkable athleticism and a keen sense of strategy'.\nD. các chuyên gia liên tục coi Ronaldo là một trong những cầu thủ vĩ đại nhất mọi thời đại trên toàn thế giới → Sai vì 'the label of one of the all-time best players' không phù hợp với 'possessing remarkable athleticism and a keen sense of strategy'.\nTạm dịch: Sở hữu thể lực đáng kinh ngạc và chiến thuật sắc bén, Ronaldo luôn chứng minh tại sao anh được coi là một trong những cầu thủ xuất sắc nhất mọi thời đại."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Spending millions of dollars, various charities can support causes such as children's hospitals and disaster relief efforts on behalf of Ronaldo",
+            "B": "Various charities would definitely struggle to support causes like children's hospitals and disaster relief efforts without Ronaldo's contributions",
+            "C": "He has donated millions of dollars to various charities, supporting causes such as children's hospitals and disaster relief efforts",
+            "D": "His millions of dollars are reserved for his personal projects rather than being used to support causes like children's hospitals and disaster relief efforts."
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy, 'Beyond his football career' là cụm từ bổ nghĩa, nên vị trí cần một mệnh đề độc lập để hoàn chỉnh câu và diễn tả hoạt động từ thiện của Cristiano Ronaldo vào các hoạt động xã hội.\nA. Chi hàng triệu đô la, nhiều tổ chức từ thiện có thể hỗ trợ các mục đích như bệnh viện nhi và nỗ lực cứu trợ thiên tai thay mặt cho Ronaldo → Sai vì câu này chỉ tập trung vào các tổ chức từ thiện, không phải Ronaldo.\nB. Nhiều tổ chức từ thiện chắc chắn sẽ gặp khó khăn trong việc hỗ trợ các mục đích như bệnh viện nhi và nỗ lực cứu trợ thiên tai nếu không có sự đóng góp của Ronaldo → Sai vì không có bằng chứng cụ thể chứng minh rằng nếu không có Ronaldo nhiều tổ chức từ thiện chắc chắn sẽ gặp khó khăn.\nC. Anh ấy đã quyên góp hàng triệu đô la cho nhiều tổ chức từ thiện, hỗ trợ các mục đích như bệnh viện nhi và nỗ lực cứu trợ thiên tai → Hợp lý nhất vì diễn tả rõ ràng và chính xác hoạt động từ thiện của Ronaldo.\nD. Hàng triệu đô la của anh ấy được dành cho các dự án cá nhân thay vì được sử dụng để hỗ trợ các mục đích như bệnh viện nhi và nỗ lực cứu trợ thiên tai → Sai vì trái ngược với thông tin trong đoạn văn.\nTạm dịch: Ngoài sự nghiệp bóng đá, Ronaldo còn là một nhà từ thiện, sử dụng tầm ảnh hưởng của mình để giúp đỡ cộng đồng. Anh đã quyên góp hàng triệu đô la cho các tổ chức từ thiện khác nhau, ủng hộ các hoạt động như bệnh viện nhi và cứu trợ thiên tai."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Education and Civic Responsibility",
+      "passage": "Education is fundamental to shaping individuals and driving societal progress. While opinions differ on its primary purpose, the debate often centers around two key perspectives: workforce preparation and fostering critical thinking alongside civic responsibility. This article explores these viewpoints and make the case for a more holistic approach to education.\n\n(I) Advocates for vocational training emphasize its role in equipping students with practical skills needed for various professions. (II) Vocational training and higher education programs equip students with the technical knowledge needed for various professions, thus enhancing their employability. (III) For instance, degrees in fields such as engineering, medicine, and information technology often lead to high-demand careers with lucrative salaries. By prioritizing workforce readiness, educational institutions can contribute to economic growth and stability, ultimately benefiting society as a whole (IV).\n\nConversely, focusing solely on vocational training overlooks the broader purpose of education, which should include fostering critical thinking and civic engagement. Education should not only prepare individuals for jobs but also cultivate informed citizens who can contribute to democratic processes and social change. Programs that encourage critical analysis, creativity, and ethical reasoning are essential for developing well-rounded individuals. For example, courses in the humanities and social sciences promote empathy and understanding of diverse perspectives, which are crucial for navigating complex societal issues. By emphasizing these skills, education can empower individuals to become proactive members of their communities.\n\nTo ensure that education benefits both individuals and society, a balanced approach is essential. While preparing individuals for the workforce is an important aspect of education, it should not be the sole focus. A balanced approach that encompass vocational training alongside the cultivation of critical thinking and civic responsibility is essential for fostering a well-informed and engaged citizenry. By embracing this holistic perspective, educational institutions can better serve both individuals and society, ultimately leading to a mere equitable and prosperous future. This dual focus will enable education to act as a catalyst for personal development and societal advancement in the 21st century.\n\n(Adapted from The Need for Civic Education in 21st-Century Schools)",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "The phrase 'make the case for' in paragraph I could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "back down from",
+            "B": "put up with",
+            "C": "stand up for",
+            "D": "make up for"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ 'make the case for' trong đoạn 1 có thể được thay thế tốt nhất bằng:\nA. back down from something: từ bỏ, thoái lui cái gì\nB. put up with somebody/something: chịu đựng, cam chịu ai/cái gì\nC. stand up for somebody/something: ủng hộ, bênh vực ai/cái gì\nD. make up for something: bù đắp, đền bù cái gì\n- make the case for something: trình bày lý lẽ, tranh luận để chứng minh cái gì = stand up for\nThông tin: This article explores these viewpoints and make the case for a more holistic approach to education. (Bài viết này trình bày lý lẽ và đưa ra lập luận cho một cách tiếp cận toàn diện hơn đối với giáo dục.)"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Where in paragraph 2 does the following sentence best fit? 'In today's competitive job market, employers increasingly seek candidates with specific skills and qualifications.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Vị trí (II) phù hợp nhất vì câu cần điền đang nhấn mạnh nhu cầu ngày càng tăng trên thị trường việc làm đối với các ứng viên có kỹ năng và trình độ cụ thể. Điều này liên kết mạch lạc với ý sau (II), đang thảo luận về chương trình đào tạo nghề và giáo dục đại học trang bị cho sinh viên kiến thức và kỹ năng cần thiết, qua đó nâng cao khả năng tìm việc làm của họ.\nThông tin: In today's competitive job market, employers increasingly seek candidates with specific skills and qualifications. Vocational training and higher education programs equip students with the technical knowledge needed for various professions, thus enhancing their employability."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word 'their' in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "programs",
+            "B": "professions",
+            "C": "students",
+            "D": "employers"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'their' trong đoạn 2 ám chỉ 'students'.\nThông tin: Vocational training and higher education programs equip students with the technical knowledge needed for various professions, thus enhancing their employability. (Các chương trình đào tạo nghề nghiệp và giáo dục đại học trang bị cho sinh viên kiến thức chuyên môn cần thiết cho các ngành nghề khác nhau, qua đó nâng cao khả năng tìm việc làm của họ.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "According to paragraph 2, which of the following is NOT TRUE?",
+          "context": "",
+          "options": {
+            "A": "Degrees in engineering rarely guarantee high salaries.",
+            "B": "Vocational training enhances employability.",
+            "C": "Students can study medicine in vocational training courses",
+            "D": "Education can contribute to economic growth."
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn 2, câu nào sau đây KHÔNG ĐÚNG?\nA. Bằng cấp về kỹ sư hiếm khi đảm bảo mức lương cao. → Sai vì đoạn văn đề cập bằng cấp trong lĩnh vực kỹ sư thường dẫn đến các nghề nghiệp có nhu cầu cao với mức lương hấp dẫn.\nB. Đào tạo nghề nâng cao khả năng tuyển dụng. → Đúng với thông tin được đề cập.\nC. Sinh viên có thể học y khoa trong các khóa đào tạo nghề → Đúng với thông tin được đề cập.\nD. Giáo dục có thể đóng góp vào tăng trưởng kinh tế. → Đúng với thông tin được đề cập.\nThông tin: Vocational training and higher education programs equip students with the technical knowledge needed for various professions, thus enhancing their employability. For instance, degrees in fields such as engineering, medicine, and information technology often lead to high-demand careers with lucrative salaries."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Education should foster critical thinking and civic engagement, not just job readiness.",
+            "B": "Vocational training is essential for job preparation and should be prioritized in education.",
+            "C": "Focusing only on jobs limits the broader goals of education and civic responsibility.",
+            "D": "Humanities courses are necessary for developing technical skills for the workforce."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn 3?\nA. Giáo dục nên thúc đẩy tư duy phản biện và tham gia vào cộng đồng, không chỉ là sự sẵn sàng cho công việc. (A đúng, tóm tắt được ý trong đoạn văn.)\nB. Đào tạo nghề là điều cần thiết để chuẩn bị cho công việc và nên được ưu tiên trong giáo dục. (B sai vì đoạn văn không đề cập cho việc ưu tiên đào tạo nghề trong giáo dục.)\nC. Chỉ tập trung vào công việc sẽ hạn chế các mục tiêu rộng hơn của giáo dục và trách nhiệm công dân. (C sai vì đoạn văn không chỉ đề cập việc chỉ tập trung vào công việc là không đủ, nó cũng nhấn mạnh các kỹ năng khác như tư duy phản biện và tham gia vào cộng đồng.)\nD. Các khóa học nhân văn là cần thiết để phát triển các kỹ năng chuyên môn cho lực lượng lao động. (D sai vì các khóa học nhân văn rất quan trọng để phát triển tư duy phản biện và lý luận về đạo đức, nhưng chúng không liên quan trực tiếp đến các kỹ năng chuyên môn của lực lượng lao động.)\nThông tin: Conversely, focusing solely on vocational training overlooks the broader purpose of education, which should include fostering critical thinking and civic engagement. Education should not only prepare individuals for jobs but also cultivate informed citizens who can contribute to democratic processes and social change."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "The word 'well-rounded' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "holistic",
+            "B": "mediocre",
+            "C": "outstanding",
+            "D": "comprehensive"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'well-rounded' trong đoạn 3 TRÁI NGHĨA với:\nA. holistic /həʊˈlɪstɪk/ (adj): toàn diện, tổng thể\nB. mediocre /ˌmiːdiˈoʊkər/ (adj): trung bình, bình thường\nC. outstanding /aʊtˈstændɪŋ/ (adj): xuất sắc, nổi bật\nD. comprehensive /ˌkɒmprɪˈhensɪv/ (adj): toàn diện, bao quát\n- well-rounded /ˌwel ˈraʊndɪd/ (adj): toàn diện, đa tài >< mediocre\nThông tin: Programs that encourage critical analysis, creativity, and ethical reasoning are essential for developing well-rounded individuals."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "The primary goal of education is to ensure individuals secure high-paying jobs in the market.",
+            "B": "Employers today value candidates who possess general knowledge over specific technical skills.",
+            "C": "Vocational training is the only effective method for achieving social progress and personal growth",
+            "D": "Education should balance workforce preparation with the development of critical and civic skills."
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA. Mục tiêu chính của giáo dục là đảm bảo cá nhân có được công việc lương cao trên thị trường. → Sai vì đoạn văn đề cập giáo dục cũng phải tập trung vào việc thúc đẩy tư duy phản biện và trách nhiệm công dân, không chỉ là sự đảm bảo việc làm lương cao.\nB. Ngày nay, các nhà tuyển dụng coi trọng những ứng viên có kiến thức chung hơn là các kỹ năng chuyên môn. → Sai vì đoạn văn không ám chỉ rằng kiến thức chung quan trọng hơn các kỹ năng cụ thể. Thay vào đó, nó nhấn mạnh tầm quan trọng của việc cân bằng các kỹ năng nghề nghiệp với tư duy phản biện và tham gia cộng đồng.\nC. Đào tạo nghề là phương pháp hiệu quả duy nhất để đạt được tiến bộ xã hội và phát triển cá nhân → Sai vì đoạn văn đề cập đào tạo nghề không đủ để phát triển cá nhân và tiến bộ xã hội. Đoạn văn ủng hộ cách tiếp cận toàn diện, kết hợp chuẩn bị lực lượng lao động với việc thúc đẩy tư duy phản biện và trách nhiệm công dân là điều cần thiết.\nD. Giáo dục nên cân bằng giữa việc chuẩn bị lực lượng lao động với việc phát triển các kỹ năng quan trọng và kỹ năng công dân. → Đúng với thông tin được đề cập.\nThông tin: A balanced approach that encompass vocational training alongside the cultivation of critical thinking and civic responsibility is essential for fostering a well-informed and engaged citizenry."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Embracing a multifaceted approach enables educational organizations to enhance fairness and prosperity for all.",
+            "B": "By adopting a comprehensive viewpoint, educational bodies can advance both personal growth and societal equity.",
+            "C": "By utilizing this broad framework, educational institutions can support individuals and communities towards greater equity.",
+            "D": "Integrating this all-encompassing perspective allows educational institutions to foster individual and communal success effectively"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải tốt nhất câu gạch chân trong đoạn 4?\nA. Việc áp dụng phương pháp tiếp cận đa chiều cho phép các tổ chức giáo dục nâng cao sự công bằng và thịnh vượng cho tất cả mọi người. (A sai vì chỉ tập trung vào sự công bằng và thịnh vượng, không đề cập đến ý về sự phát triển cá nhân.)\nB. Bằng cách áp dụng quan điểm toàn diện, các cơ quan giáo dục có thể thúc đẩy cả sự phát triển cá nhân và công bằng xã hội. (B đúng với nghĩa của câu gốc.)\nC. Bằng cách sử dụng khuôn khổ rộng này, các tổ chức giáo dục có thể hỗ trợ các cá nhân và cộng đồng hướng tới sự công bằng hơn. (C sai vì câu gốc tập trung vào sự phát triển cá nhân và sự tiến bộ của xã hội, không chỉ tập trung vào công bằng.)\nD. Việc tích hợp quan điểm toàn diện này cho phép các tổ chức giáo dục thúc đẩy thành công của cá nhân và cộng đồng một cách hiệu quả. (D sai vì thiếu ý 'hướng đến một tương lai công bằng và thịnh vượng hơn'.)\nThông tin: By embracing this holistic perspective, educational institutions can better serve both individuals and society, ultimately leading to a mere equitable and prosperous future."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Critical thinking skills are less important than vocational training in today's job market.",
+            "B": "Higher education institutions exclusively prioritize workforce readiness over personal development.",
+            "C": "Courses in humanities are unnecessary for fostering critical analysis and ethical reasoning.",
+            "D": "A narrow focus on job training will likely result in limited societal engagement and progress."
+          },
+          "correctAnswer": "D",
+          "explanation": "Có thể suy ra điều nào sau đây từ đoạn văn?\nA. Kỹ năng tư duy phản biện ít quan trọng hơn đào tạo nghề trong thị trường việc làm ngày nay. → Sai vì đoạn văn không cho rằng tư duy phản biện kém quan trọng hơn đào tạo nghề, đoạn văn nhấn mạnh rằng giáo dục nên tập trung vào cả hai khía cạnh.\nB. Các tổ chức giáo dục đại học ưu tiên sự sẵn sàng của lực lượng lao động hơn là phát triển cá nhân. → Sai vì đoạn văn thảo luận về nhu cầu tiếp cận cân bằng đối với giáo dục. Nó không gợi ý rằng các tổ chức giáo dục đại học chỉ ưu tiên sự sẵn sàng của lực lượng lao động. Thay vào đó, nó lập luận về việc cân bằng giữa việc chuẩn bị lực lượng lao động với tư duy phản biện và trách nhiệm công dân.\nC. Các khóa học về nhân văn là không cần thiết để thúc đẩy phân tích phản biện và lý luận đạo đức. → Sai vì đoạn văn đề cập các khóa học về nhân văn và khoa học xã hội thúc đẩy sự đồng cảm và hiểu biết về nhiều quan điểm khác nhau, điều này rất quan trọng để thúc đẩy phân tích phê bình và lý luận về đạo đức.\nD. Chỉ tập trung vào đào tạo nghề có thể dẫn đến tham gia và tiến bộ hạn chế trong xã hội. → Sai có thể suy ra từ thông tin này.\nThông tin: Conversely, focusing solely on vocational training overlooks the broader purpose of education, which should include fostering critical thinking and civic engagement."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "While education is essential for workforce preparation, it is equally important to develop critical thinking and civic engagement among students for societal progress.",
+            "B": "The text emphasizes that employers prefer candidates with specific skills, thus advocating for an education prioritizes technical knowledge over civic responsibility.",
+            "C": "The passage argues that education must focus exclusively on vocational training to meet the demands of today's job market and enhance employability.",
+            "D": "The discussion highlights the necessity of balancing vocational skills with personal development, suggesting that education should cater merely to immediate job market needs."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn văn?\nA. Trong khi giáo dục là điều cần thiết để chuẩn bị cho lực lượng lao động, thì việc phát triển tư duy phản biện tham gia vào cộng đồng trong học sinh cũng quan trọng không kém để xã hội tiến bộ. (A đúng, tóm tắt được ý trong đoạn văn.)\nB. Đoạn văn nhấn mạnh rằng các nhà tuyển dụng thích những ứng viên có kỹ năng chuyên môn, do đó, việc ủng hộ giáo dục ưu tiên kiến thức chuyên môn hơn trách nhiệm công dân. (B sai vì đoạn văn không lập luận rằng nhà tuyển dụng thích ứng viên có kỹ năng chuyên môn hơn trách nhiệm công dân. Thay vào đó, nó nhấn mạnh tầm quan trọng của cả hai.)\nC. Đoạn văn lập luận rằng giáo dục phải tập trung hoàn toàn vào đào tạo nghề để đáp ứng nhu cầu của thị trường việc làm ngày nay và nâng cao khả năng tuyển dụng. (C sai vì đoạn văn này không ủng hộ việc chỉ tập trung vào đào tạo nghề, nó nhấn mạnh cách tiếp cận cân bằng bao gồm đào tạo nghề nghiệp cùng với việc nuôi dưỡng tư duy phản biện và trách nhiệm công dân là điều cần thiết.)\nD. Đoạn văn nhấn mạnh đến sự cần thiết của việc cân bằng các kỹ năng nghề nghiệp với sự phát triển cá nhân, cho thấy rằng giáo dục chỉ nên đáp ứng nhu cầu trước mắt của thị trường việc làm. (D sai vì đoạn văn này không đề cập giáo dục chỉ nên đáp ứng nhu cầu của thị trường việc làm, nó đề cập một cách tiếp cận toàn diện hơn, cân bằng giữa sự sẵn sàng làm việc với tư duy phản biện và tham gia vào cộng đồng.)\nTóm tắt: Đoạn 1: Giáo dục là điều cần thiết cho sự phát triển của cá nhân và xã hội, với các cuộc tranh luận tập trung vào việc mục tiêu chính của giáo dục là chuẩn bị lực lượng lao động hay thúc đẩy tư duy phản biện và trách nhiệm công dân. Đoạn văn ủng hộ một cách tiếp cận toàn diện kết hợp cả hai quan điểm. Đoạn 2: Đào tạo nghề trang bị cho sinh viên các kỹ năng thực tế và chuyên môn mà các nhà tuyển dụng tìm kiếm, nâng cao khả năng tuyển dụng của họ và hướng đến các nghề nghiệp có nhu cầu, được trả lương cao. Việc ưu tiên sự sẵn sàng cho lực lượng lao động mang lại lợi ích cho cả cá nhân và xã hội bằng cách đóng góp vào tăng trưởng kinh tế và ổn định. Đoạn 3: Chỉ tập trung vào đào tạo nghề sẽ bỏ qua mục đích rộng lớn hơn của giáo dục, bao gồm nuôi dưỡng tư duy phản biện, sáng tạo và tham gia cộng đồng. Các khóa học về khoa học xã hội và nhân văn thúc đẩy sự đồng cảm và hiểu biết, cho phép cá nhân giải quyết các thách thức của xã hội và đóng góp chủ động cho cộng đồng của họ. Đoạn 4: Một cách tiếp cận cân bằng đối với giáo dục là điều cần thiết, kết hợp đào tạo nghề với việc bồi dưỡng tư duy phản biện và trách nhiệm công dân. Quan điểm toàn diện này mang lại lợi ích cho cá nhân và xã hội, thúc đẩy công dân có hiểu biết và tham gia vào cộng đồng, đồng thời thúc đẩy sự phát triển công bằng và thịnh vượng trong thế kỷ 21."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "MAGICAL PARK: REDEFINING URBAN LIVING IN OUR CITY",
+      "passage": "Are you looking for a home that's modern, spacious, and smart? Magical Park might just be what you've been dreaming of! Imagine living in a (16)_______ decorated home which is designed to meet your every need.\n\nWith vast parks and lakes, it's the perfect place to create your ideal (17)_______. Every home is equipped with cutting-edge technology, ensuring comfort and security. Magical Park also features a high-speed transportation system (18)_______ you to central Ha Noi in no time. The community promotes a green lifestyle, helping you engage (19)_______ healthy habits while enjoying world-class amenities. Residents can (20)_______ full advantage of these conveniences, from public transport to smart living features. Life at Magical Park is bound (21)_______ as more exciting developments continue to unfold.\n\nSo what are you waiting for? Your dream home is waiting for you at Magical Park.",
+      "questions": [
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "beautify",
+            "B": "beautiful",
+            "C": "beauty",
+            "D": "beautifully"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về trật tự từ:\nA. beautify /ˈbjuːtəfaɪ/ (v): làm đẹp\nB. beautiful /ˈbjuːtrfl/ (adj): đẹp, xinh đẹp\nC. beauty /ˈbjuːti/ (n): vẻ đẹp, sự đẹp đẽ\nD. beautifully /ˈbjuːtrfli/ (adv): một cách đẹp đẽ\nTrật tự từ: adv (beautifully) + adj (decorated) + N (home)\nTạm dịch: Hãy tưởng tượng một ngôi nhà được trang trí đẹp mắt, được thiết kế để đáp ứng mọi nhu cầu của bạn."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "spacious modern lifestyle",
+            "B": "modern spacious lifestyle",
+            "C": "lifestyle spacious modern",
+            "D": "spacious lifestyle modern"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về trật tự tính từ:\n- spacious /ˈspeɪʃəs/ (adj): rộng rãi\n- modern /ˈmɒd.ən/ (adj): hiện đại\n- lifestyle /ˈlaɪfstaɪl/ (n): cách sống\nTrật tự tính từ: Opinion → Size → Age → Shape → Color → Origin → Material → Purpose\n→ spacious (size) – modern (age)\nTạm dịch: Với những công viên và hồ nước rộng lớn, đây là nơi lý tưởng để xây dựng phong cách sống hiện đại, rộng rãi mà bạn mong muốn."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "connecting",
+            "B": "which connected",
+            "C": "is connected",
+            "D": "connected"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về rút gọn mệnh đề: Mệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và tobe (nếu có), chuyển V sang V-ing.\nTạm dịch: Magical Park còn sở hữu một hệ thống giao thông tốc độ cao kết nối bạn đến trung tâm Hà Nội chỉ trong chốc lát."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "of",
+            "D": "to"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ: engage in something: tham gia, bắt đầu làm cái gì\nTạm dịch: Cộng đồng đề cao phong cách sống xanh, giúp bạn bắt đầu những thói quen lành mạnh đồng thời tận hưởng những tiện ích đẳng cấp thế giới."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "meet",
+            "C": "take",
+            "D": "rise"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm từ thông dụng: take advantage of something/somebody: tận dụng, lợi dụng ai/cái gì\nTạm dịch: Cư dân có thể tận dụng tối đa những tiện ích này, từ giao thông công cộng đến các tính năng sống thông minh."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to improving",
+            "B": "improve",
+            "C": "improving",
+            "D": "to improve"
+          },
+          "correctAnswer": "D",
+          "explanation": "bound to do/be something: chắc chắn sẽ làm gì, nhất định sẽ xảy ra cái gì\nTạm dịch: Cuộc sống tại Magical Park chắc chắn sẽ cải thiện khi những phát triển thú vị tiếp tục được triển khai."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "BEAUTY STANDARDS THROUGHOUT CULTURE",
+      "passage": "Throughout cultures around the world, beauty standards have always been a fascinating topic. From ancient civilizations to modern societies, each culture has its unique perception of beauty. Whether it's the hourglass figure in Western cultures or the fair and flawless skin in some Asian cultures, these standards often reflect the values, traditions, and ideals of a particular society.\n\nIn many cultures, beauty standards are closely tied to the idea of marriage, especially for women. There is often a lot of pressure for them to follow these standards to increase their chances of finding a partner. This pressure can stem from traditional beliefs that parents may still hold onto, which can negatively impact their children's self-esteem and make them feel bad. The expectation to meet these beauty standards can create a sense of not being good enough as individuals strive to fit into societal expectations.\n\nA woman's ideal figure differs depending on the country's culture. Tiny models are more popular in magazines in the United States, but in other countries, the women who appear in American publications are not considered beautiful. While some people believe that a slim woman is better, other cultures believe that women must be plump to be deemed beautiful.\n\nKorea, in particular, has the most diverse beauty standards, as well as the ideal slender form observed throughout Eastern Asia. A pale complexion has long been associated with higher social rank, as has double eyelid surgery, which dates back to the nineteenth century.\n\nCultural diversity and globalization have brought about increased exposure to different beauty standards. As a result of societal standards, people will never be good enough for its massive expectations but acceptance of ourselves is the most beautiful type of beauty. Instead of changing our compilations, we should represent our culture in a way that embraces it.\n\n(Adapted from https://rangeviewnews.org/25683/features/beauty-standards-throughout-culture)",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following is NOT mentioned as an aspect related to beauty standards, according to the passage?",
+          "context": "",
+          "options": {
+            "A": "morals",
+            "B": "values",
+            "C": "ideals",
+            "D": "traditions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn văn, điều nào sau đây KHÔNG được đề cập đến như một khía cạnh liên quan đến tiêu chuẩn về đẹp?\nA. đạo đức\nB. giá trị\nC. lý tưởng\nD. truyền thống\nB, C, D được đề cập. A không được đề cập.\nThông tin: Whether it's the hourglass figure in Western cultures or the fair and flawless skin in some Asian cultures, these standards often reflect the values, traditions, and ideals of a particular society."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word 'slender' in paragraph 4 could be replaced by",
+          "context": "",
+          "options": {
+            "A": "overweight",
+            "B": "plump",
+            "C": "chubby",
+            "D": "slim"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'slender' trong đoạn 4 có thể được thay thế bằng:\nA. overweight /ˌəʊ.vəˈweɪt/ (adj): thừa cân, béo phì\nB. plump /plʌmp/ (adj): mũm mĩm, tròn trịa\nC. chubby /ˈtʃʌbi/ (adj): mũm mĩm, béo phúng phính\nD. slim /slɪm/ (adj): mảnh mai, thon thả\n- slender /ˈslen.dər/ (adj): mảnh mai, thon thả = slim\nThông tin: Korea, in particular, has the most diverse beauty standards, as well as the ideal slender form observed throughout Eastern Asia."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word 'them' in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "cultures",
+            "B": "women",
+            "C": "standards",
+            "D": "self-esteem"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'them' trong đoạn 2 ám chỉ 'standards'.\nThông tin: In many cultures, beauty standards are closely tied to the idea of marriage, especially for women. There is often a lot of pressure for them to follow these standards to increase their chances of finding a partner. (Ở nhiều nền văn hóa, tiêu chuẩn sắc đẹp gắn liền với tư tưởng về hôn nhân, đặc biệt là đối với phụ nữ. Họ thường bị áp lực rất lớn để tuân theo những tiêu chuẩn này nhằm tăng cơ hội tìm được bạn đời.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word 'massive' in paragraph 5 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "tiny",
+            "B": "common",
+            "C": "enormous",
+            "D": "serious"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'massive' trong đoạn 5 TRÁI NGHĨA với:\nA. tiny /ˈtaɪni/ (adj): nhỏ xíu, rất nhỏ\nB. common /ˈkɒmən/ (adj): phổ biến, thông thường\nC. enormous /ɪˈnɔːməs/ (adj): rất lớn, khổng lồ\nD. serious /ˈsɪəriəs/ (adj): nghiêm trọng, nghiêm túc\n- massive /ˈmæsɪv/ (adj): to lớn, khổng lồ >< tiny\nThông tin: As a result of societal standards, people will never be good enough for its massive expectations but acceptance of ourselves is the most beautiful type of beauty."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following details is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "American magazines often feature women who are considered attractive worldwide.",
+            "B": "Beauty standards in Korea include a preference for a slender figure and pale skin.",
+            "C": "Beauty standards have remained the same throughout history despite cultural diversity.",
+            "D": "Western culture universally values plump women as beautiful."
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo đoạn văn, chi tiết nào sau đây là ĐÚNG?\nA. Các tạp chí Mỹ thường giới thiệu những người phụ nữ được coi là hấp dẫn trên toàn thế giới. → Sai vì đoạn văn đề cập rằng ở Hoa Kỳ, 'người mẫu mảnh mai' được ưa chuộng hơn, nhưng cũng nêu rằng phụ nữ xuất hiện trên các tạp chí Mỹ không được coi là đẹp ở các quốc gia khác. Vì vậy, các tạp chí Mỹ không có những người phụ nữ được coi là hấp dẫn trên toàn thế giới.\nB. Tiêu chuẩn về cái đẹp ở Hàn Quốc bao gồm sở thích về vóc dáng mảnh mai và làn da trắng. → Đúng với thông tin được đề cập.\nC. Tiêu chuẩn về cái đẹp vẫn giữ nguyên trong suốt chiều dài lịch sử bất chấp sự đa dạng về văn hóa. → Sai vì đoạn văn giải thích rằng tiêu chuẩn cái đẹp đã thay đổi theo thời gian và có thể thay đổi rất nhiều giữa các nền văn hóa, đặc biệt là khi sự đa dạng văn hóa và toàn cầu hóa đã làm tăng sự tiếp xúc với các lý tưởng về cái đẹp khác nhau.\nD. Văn hóa phương Tây coi trọng những người phụ nữ đầy đặn là đẹp. → Sai vì đoạn văn đề cập trong các nền văn hóa phương Tây, người ta thường thích dáng người mảnh khánh hơn là dáng người đầy đặn.\nThông tin: Korea, in particular, has the most diverse beauty standards, as well as the ideal slender form observed throughout Eastern Asia. A pale complexion has long been associated with higher social rank."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which option best paraphrases the underlined sentence in paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "Cultural diversity is reducing, and people are now seeing fewer beauty standards than ever before.",
+            "B": "People see more beauty ideas from different cultures because of cultural diversity and globalization.",
+            "C": "Globalization and cultural diversity have made beauty standards the same everywhere.",
+            "D": "Globalization has caused people to lose interest in beauty standards from other cultures."
+          },
+          "correctAnswer": "B",
+          "explanation": "Lựa chọn nào diễn giải tốt nhất câu được gạch chân trong đoạn 5?\nA. Sự đa dạng văn hóa đang giảm dần và mọi người hiện nay thấy ít tiêu chuẩn về cái đẹp hơn bao giờ hết. (A sai vì câu gốc không đề cập sự đa dạng văn hóa 'đang giảm dần' và mọi người hiện nay thấy 'ít tiêu chuẩn về cái đẹp hơn bao giờ hết'.)\nB. Mọi người thấy nhiều ý tưởng về cái đẹp hơn từ các nền văn hóa khác nhau vì sự đa dạng văn hóa và toàn cầu hóa. (B đúng với nghĩa của câu gốc.)\nC. Toàn cầu hóa và sự đa dạng văn hóa đã khiến các tiêu chuẩn về cái đẹp trở nên giống nhau ở mọi nơi. (C sai vì câu gốc đề cập đến việc tiếp xúc nhiều hơn với các tiêu chuẩn khác nhau, nhưng không phải là tất cả đều trở nên giống nhau.)\nD. Toàn cầu hóa đã khiến mọi người mất hứng thú với các tiêu chuẩn về cái đẹp từ các nền văn hóa khác. (D sai vì câu gốc đề cập toàn cầu hóa đã làm tăng sự tiếp xúc với các tiêu chuẩn cái đẹp khác nhau, không phải làm mọi người mất hứng thú.)\nThông tin: Cultural diversity and globalization have brought about increased exposure to different beauty standards."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "In which paragraph does the writer mention a negative effect of beauty standards?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 1",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tác giả đề cập đến tác động tiêu cực của tiêu chuẩn cái đẹp ở đoạn 2.\nThông tin: There is often a lot of pressure for them to follow these standards to increase their chances of finding a partner. This pressure can stem from traditional beliefs that parents may still hold onto, which can negatively impact their children's self-esteem and make them feel bad. The expectation to meet these beauty standards can create a sense of not being good enough as individuals strive to fit into societal expectations."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer discuss women's ideal body shape in different cultures?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tác giả thảo luận về vóc dáng lý tưởng của phụ nữ ở các nền văn hóa khác nhau ở đoạn 3.\nThông tin: A woman's ideal figure differs depending on the country's culture. (Vóc dáng lý tưởng của phụ nữ khác nhau tùy vào văn hóa của từng quốc gia.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "a. Alex: That's great! Adopting renewable energy can help reduce pollution.\nb. Lisa: I'm considering installing solar panels on my house to cut down on electricity costs.\nc. Alex: Have you thought about any ways to make your home more environmentally friendly?",
+          "options": {
+            "A": "b-a-c",
+            "B": "a-c-b",
+            "C": "c-b-a",
+            "D": "c-a-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dịch bài:\nAlex: Cậu đã nghĩ đến làm thế nào để cho ngôi nhà của mình thân thiện với môi trường hơn chưa?\nLisa: Tớ đang cân nhắc lắp đặt các tấm pin mặt trời trên mái nhà để cắt giảm chi phí điện.\nAlex: Tuyệt quá! Áp dụng năng lượng tái tạo có thể giúp giảm thiểu ô nhiễm."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "a. Paul: Yes. But it's challenging to learn all the verb conjugations.\nb. Lisa: I can imagine! Have you tried using language apps to practice?\nc. Paul: Not yet. I'll look into that.\nd. Lisa: That's great! Are you enjoying it?\ne. Paul: I've started learning Spanish recently.",
+          "options": {
+            "A": "e-b-c-a-d",
+            "B": "d-e-b-c-a",
+            "C": "d-c-e-b-a",
+            "D": "e-d-a-b-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dịch bài:\nPaul: Gần đây mình bắt đầu học tiếng Tây Ban Nha.\nLisa: Thật tuyệt! Bạn có thích không?\nPaul: Có, nhưng học tất cả các cách chia động từ khá thử thách.\nLisa: Mình có thể hiểu được! Bạn đã thử sử dụng các ứng dụng học ngôn ngữ để luyện tập chưa?\nPaul: Chưa, mình sẽ tìm hiểu thử."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "Dear students,\na. As you may have heard, we will be switching to online classes for the next few weeks because of the severe storm.\nb. I hope everyone is doing well despite the weather conditions.\nc. I appreciate your understanding and flexibility during this time, and I'm confident we can make this work together.\nd. I know this might be an adjustment for some of you, but it's important to prioritize safety.\ne. Please ensure you have access to your online resources, and let me know if you have any questions or concerns.\nBest wishes,\nMrs. Trung",
+          "options": {
+            "A": "a-e-c-b-d",
+            "B": "d-b-a-c-e",
+            "C": "b-a-d-c-e",
+            "D": "c-b-e-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dịch bài:\nThân gửi các em học sinh,\nCô hy vọng mọi người đều ổn bất chấp điều kiện thời tiết. Như các em có thể đã nghe, chúng ta sẽ chuyển sang học trực tuyến trong vài tuần tới do cơn bão lớn. Cô biết đây có thể là sự điều chỉnh đối với một số em, nhưng điều quan trọng là phải ưu tiên sự an toàn. Cô rất cảm ơn sự thông cảm và linh hoạt của các em trong thời gian này, và cô tin tưởng rằng chúng ta có thể làm tốt điều này cùng nhau. Hãy chắc chắn rằng các em có thể truy cập vào tài nguyên học trực tuyến và nếu có bất kỳ câu hỏi hay thắc mắc nào, đừng ngần ngại liên hệ với cô.\nChúc các em sức khỏe,\nCô Trung"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "a. By doing so, we can significantly reduce our carbon footprint.\nb. Simple actions like recycling, using public transport, and reducing energy use can make a difference.\nc. Living a green lifestyle is essential for the health of our planet.\nd. Everyone can contribute to this effort, no matter how small the action might seem.\ne. It's our responsibility to protect the environment for future generations.",
+          "options": {
+            "A": "c-d-b-a-e",
+            "B": "c-b-a-d-e",
+            "C": "b-c-d-a-e",
+            "D": "c-b-d-a-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dịch bài:\nSống một lối sống xanh là rất quan trọng đối với sức khỏe của hành tinh chúng ta. Những hành động đơn giản như tái chế, sử dụng phương tiện công cộng và giảm thiểu việc sử dụng năng lượng có thể tạo ra sự khác biệt. Bằng cách làm như vậy, chúng ta có thể giảm thiểu đáng kể lượng khí thải carbon. Mỗi người đều có thể đóng góp vào nỗ lực này, dù hành động có nhỏ bé đến đâu. Chúng ta đều có trách nhiệm bảo vệ môi trường cho các thế hệ tương lai."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "a. For employees, the shift to remote work offers flexibility and the ability to balance personal and professional responsibilities.\nb. However, it also presents challenges, such as feelings of isolation and the blurring of work-life boundaries.\nc. The rapid advancement of technology has transformed the way people approach work, making remote work a feasible option for many industries.\nd. As companies adapt to this new model, they must also address concerns related to cybersecurity and data protection.\ne. Additionally, businesses have embraced hybrid work models, combining in-person and remote work to maintain productivity and collaboration.",
+          "options": {
+            "A": "c-a-e-d-b",
+            "B": "c-e-d-a-b",
+            "C": "c-a-b-e-d",
+            "D": "c-d-e-a-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dịch bài:\nSự tiến bộ nhanh chóng của công nghệ đã thay đổi cách mọi người tiếp cận công việc, biến làm việc từ xa trở thành một lựa chọn khả thi cho nhiều ngành nghề. Đối với nhân viên, việc chuyển sang làm việc từ xa mang lại sự linh hoạt và khả năng cân bằng giữa trách nhiệm cá nhân và công việc. Tuy nhiên, nó cũng đặt ra những thách thức, như cảm giác cô đơn và sự mờ nhạt của ranh giới giữa công việc và cuộc sống cá nhân. Ngoài ra, các doanh nghiệp đã áp dụng các mô hình làm việc kết hợp, kết hợp giữa làm việc trực tiếp và làm việc từ xa để duy trì năng suất và sự hợp tác. Khi các công ty thích nghi với mô hình mới này, họ cũng phải giải quyết các vấn đề liên quan đến an ninh mạng và bảo vệ dữ liệu."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "PROTECT OUR ENVIRONMENT EVERY DAY!",
+      "passage": "Discover what simple changes we can make in our daily routines to benefit the environment\n\nCurrent challenges:\nIndustrial activities and widespread urban development have destroyed forests and (35)_______ habitats. Additionally, we (36)_______ 500 million plastic bottles every week, contributing to land and ocean pollution. This waste leads to the deaths of countless marine animals each year.\n\nSteps we can take!\n* Choose eco-friendly products and reduce water consumption at home. This helps decrease the (37)_______ of resources needed for production.\n\n* Avoid products packaged in excess materials. (38)_______ buying single-use plastic water bottles, use a refillable water bottle! This helps lower the (39)_______ of waste you generate.\n\n* Compost biodegradable waste and (40)_______ organic materials whenever possible. Separate food scraps from recyclable items for better waste management.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "each other",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. the others: những người còn lại, những cái còn lại\nB. each other: lẫn nhau\nC. other + N (số nhiều/không đếm được): những người khác, những cái khác\nD. another + N (số ít): người khác, cái khác\nVì phía sau chỗ trống danh từ 'habitats' đang ở dạng số nhiều nên 'other' là đáp án đúng.\nTạm dịch: Các hoạt động công nghiệp và sự phát triển đô thị rộng rãi đã phá hủy rừng và các môi trường sống khác."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "throw away",
+            "B": "give up",
+            "C": "turn down",
+            "D": "hand out"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ:\nA. throw away something: vứt bỏ cái gì\nB. give up somebody/something: từ bỏ, không còn duy trì ai/cái gì\nC. turn down somebody/something: từ chối ai, tắt cái gì\nD. hand out something: phân phát cái gì\nTạm dịch: Thêm vào đó, chúng ta còn vứt bỏ 500 triệu chai nhựa mỗi tuần, góp phần gây ô nhiễm đất và đại dương."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "delivery",
+            "B": "consumption",
+            "C": "generation",
+            "D": "storage"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. delivery /dɪˈlɪvəri/ (n): sự giao hàng, sự chuyển phát.\nB. consumption /kənˈsʌmpʃən/ (n): sự tiêu thụ, sự sử dụng.\nC. generation /ˌdʒenəˈreɪʃən/ (n): thế hệ, sự tạo ra, sự sản xuất.\nD. storage /ˈstɔːrɪdʒ/ (n): kho lưu trữ, sự lưu trữ.\nTạm dịch: Điều này giúp giảm bớt việc tiêu thụ tài nguyên cần thiết cho sản xuất."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "In view of",
+            "B": "With respect to",
+            "C": "In terms of",
+            "D": "Instead of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm giới từ/liên từ:\nA. in view of: xem xét, vì\nB. with respect to: liên quan đến\nC. in terms of: xét về mặt\nD. instead of: thay vì\nTạm dịch: Thay vì mua chai nước nhựa dùng một lần, hãy sử dụng chai nước có thể tái sử dụng!"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "volume",
+            "B": "level",
+            "C": "quality",
+            "D": "number"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm từ chỉ lượng:\nA. volume of + N (không đếm được): lượng\nB. level of + N (không đếm được): lượng, mức độ\nC. quality (n): phẩm chất, chất lượng\nD. the number of + N (số nhiều): số lượng\nVì phía sau chỗ trống danh từ 'waste' là danh từ số ít → A, B phù hợp\n+ volume: nói về số lượng của một cái gì đó đang được đo lường\n+ level: để cập đến mức độ hoặc phạm vi của một cái gì đó\n→ A phù hợp nhất.\nTạm dịch: Điều này giúp giảm bớt khối lượng chất thải bạn tạo ra."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "discard",
+            "B": "reuse",
+            "C": "produce",
+            "D": "release"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. discard /dɪsˈkɑːd/ (v): vứt bỏ, loại bỏ\nB. reuse /ˌriːˈjuːz/ (v): tái sử dụng\nC. produce /prəˈdjuːs/ (v): sản xuất, tạo ra\nD. release /rɪˈliːs/ (v): phát hành, thả ra\nTạm dịch: Ủ phân chất thải phân hủy sinh học và tái sử dụng các vật liệu hữu cơ khi có thể."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.633929+00:00",
+  "updatedAt": "2026-06-08T10:41:58.633929+00:00",
+  "originalFileName": "THPT_Tuyen_Quang_Ma_de_le_2025.json"
+}

@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_kinh_mon_hai_duong_2025-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Kinh Môn, Hải Dương",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file thpt_kinh_mon_hai_duong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HảiDương",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following introduction about a unique way of commuting to work and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6",
+      "passageTitle": "SWIM TO WORK - BERN'S MOST UNIQUE COMMUTE!",
+      "passage": "Tired of crowded buses and traffic jams? In Bern, Switzerland, you can try a/an (1)_______ -swimming to work!\n\nThe beautiful Aare River offers a refreshing and eco-friendly way to (2)_______ your day.\n\nLocals pack their belongings in waterproof bags, dive into the clean, cool water, and let the gentle current carry them. It's not just commuting - it's a fun workout and (3)_______ great stress-reliever! Imagine arriving (4)_______ work feeling refreshed, energized, and ready to take on the day.\n\nSwimming to work is also (5)_______ and supports a greener future for Bern. It's a unique tradition (6)_______ combines nature, exercise, and adventure.\n\nWhy not make your commute the best part of your day? Dive in and experience Bern like never before!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "truly experience special",
+            "B": "experience truly special",
+            "C": "special truly experience",
+            "D": "truly special experience"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: trạng từ + tính từ + danh từ\n- truly /'truː.li/ (adv): một cách thật sự\n- special /'speʃ.əl/ (adj): đặc biệt\n- experience /ɪkˈsprə.ri.əns/ (n): trải nghiệm\nTạm dịch: Tired of crowded buses and traffic jams? In Bern, Switzerland, you can try a/an truly special experience -swimming to work! (Chán ngấy với những chiếc xe buýt đông đúc và những tắc đường? Tại Bern, Thụy Sĩ, bạn có thể thử một trải nghiệm thực sự đặc biệt - bơi đến nơi làm việc!)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "kick off",
+            "B": "put off",
+            "C": "break off",
+            "D": "show off"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. kick off something: bắt đầu cái gì\nB. put off something: hoãn cái gì\nC. break off something: cắt đứt cái gì (mối quan hệ, liên hệ, sự đính ước,...)\nD. show off something: khoe khoang cái gì\nTạm dịch: The beautiful Aare River offers a refreshing and eco-friendly way to kick off your day. (Con sông Aare xinh đẹp mang đến một cách thức thư giãn và thân thiện với môi trường để bắt đầu ngày mới của bạn.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "X"
+          },
+          "correctAnswer": "A",
+          "explanation": "Mạo từ: Trước cụm danh từ đếm được số ít chỉ chung chung (great stress-reliever) dùng \"a/an\"\nTạm dịch: It's not just commuting - it's a fun workout and a great stress-reliever! (Không chỉ đơn giản là đi làm - đó còn là một bài tập thể dục vui vẻ và là cách tuyệt vời để giảm căng thẳng!)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "off",
+            "C": "to",
+            "D": "at"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ: arrive at something: đến đâu\nTạm dịch: Imagine arriving at work feeling refreshed, energized, and ready to take on the day. (Hãy tưởng tượng bạn đến nơi làm việc với cảm giác sảng khoái, tràn đầy năng lượng và sẵn sàng đón nhận một ngày mới.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sustain",
+            "B": "sustainable",
+            "C": "sustainably",
+            "D": "sustainability"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ loại:\nA. sustain /səˈsteɪm/ (v): duy trì\nB. sustainable /səˈsteɪ.nə.bəl/ (adj): bền vững\nC. sustainably /səˈsteɪ.nə.bli/ (adv): một cách bền vững\nD. sustainability /səˌsteɪ.nəˈbɪl.ɪ.ti/ (n): sự bền vững\nChỗ trống đứng sau tobe 'is' và trạng từ 'also' → cần tính từ\nTạm dịch: Swimming to work is also sustainable and supports a greener future for Bern. (Bơi đến nơi làm việc cũng là một phương pháp bền vững và góp phần vào một tương lai xanh hơn cho Bern.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "that",
+            "D": "what"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mệnh đề quan hệ: Dùng đại từ quan hệ 'that' làm chủ ngữ thay thế cho danh từ chỉ vật đứng trước (tradition).\nTạm dịch: It's a unique tradition that combines nature, exercise, and adventure. (Đây là một truyền thống độc đáo kết hợp giữa thiên nhiên, thể dục và phiêu lưu.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement about a future means of transport and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 7 to 12",
+      "passageTitle": "DISCOVER THE FUTURE OF TRAVEL WITH MOSCOW'S PILOTLESS ELECTRIC TRAINS!",
+      "passage": "Step into the future with Moscow's new pilotless electric trains! These cutting-edge trains (7)_______ for safety, comfort, and efficiency, making your daily commute smoother than ever. (8)_______ by advanced AI technology, they run without a driver, ensuring precise schedules and reducing delays.\n\nEnjoy the modern interiors with spacious seating, USB charging ports, and free Wi-Fi. These eco-friendly trains (9)_______ zero emissions, helping to create a cleaner, greener Moscow. (10)_______, the smart monitoring system ensures a safe and secure journey for every passenger.\n\nTravel smarter, faster, and greener-try the pilotless electric trains today! Let technology take you there with (11)_______. Experience innovation on your daily commute. Your journey (12)_______ this exciting!\n\nHop on and feel the difference!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "are designed",
+            "B": "design",
+            "C": "had been designed",
+            "D": "designed"
+          },
+          "correctAnswer": "A",
+          "explanation": "Chủ ngữ là \"These cutting-edge trains\", động từ là \"design\" → chỗ trống cần cấu trúc bị động\nCâu bị động: Thì hiện tại đơn: S + be + V-3/ed\nTạm dịch: These cutting-edge trains are designed for safety, comfort, and efficiency, making your daily commute smoother than ever. (Những đoàn tàu tiên tiến này được thiết kế vì sự an toàn, thoải mái và hiệu quả, giúp hành trình hằng ngày của bạn trở nên mượt mà hơn bao giờ hết.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Operate",
+            "B": "Operated",
+            "C": "Operating",
+            "D": "To operate"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mệnh đề phân từ: Sử dụng quá khứ phân từ dạng bị động để bổ sung thông tin cho chủ ngữ của mệnh đề chính.\nTạm dịch: Operated by advanced AI technology, they run without a driver, ensuring precise schedules and reducing delays. (Vận hành bằng công nghệ trí tuệ nhân tạo tiên tiến, chúng hoạt động mà không cần người lái, đảm bảo lịch trình chính xác và giảm thiểu sự chậm trễ.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "capture",
+            "B": "control",
+            "C": "produce",
+            "D": "lower"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. capture /ˈkæp.tʃər/ (v): bắt lấy\nB. control /kənˈtrəʊl/ (v): kiểm soát\nC. produce /prəˈdʒuːs/ (v): tạo ra, sản sinh\nD. lower /ˈləʊ.ər/ (v): giảm\nTạm dịch: These eco-friendly trains produce zero emissions, helping to create a cleaner, greener Moscow. (Những đoàn tàu thân thiện với môi trường này không tạo ra khí thải, góp phần xây dựng một Moscow xanh sạch hơn.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "However",
+            "B": "Therefore",
+            "C": "Otherwise",
+            "D": "Moreover"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Tuy nhiên\nB. Vì thế\nC. Mặc khác\nD. Hơn thế nữa\nTạm dịch: Moreover, the smart monitoring system ensures a safe and secure journey for every passenger. (Hơn nữa, hệ thống giám sát thông minh đảm bảo chuyến đi an toàn và bảo mật cho mọi hành khách.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "ease",
+            "B": "power",
+            "C": "effort",
+            "D": "speed"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. ease /iːz/ (n): sự dễ chịu, sự dễ dàng → with ease = easily: một cách dễ dàng\nB. power /paʊər/ (n): năng lượng\nC. effort /ˈef.ət/ (n): nỗ lực\nD. speed /spiːd/ (n): tốc độ\nTạm dịch: Let technology take you there with ease. (Hãy để công nghệ đưa bạn đến nơi một cách dễ dàng.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "had never been",
+            "B": "was never",
+            "C": "would never be",
+            "D": "has never been"
+          },
+          "correctAnswer": "D",
+          "explanation": "Chia thì: Diễn tả một kinh nghiệm cho tới thời điểm hiện tại → dùng thì HTHT\nTạm dịch: Your journey has never been this exciting! (Chuyến đi của bạn chưa bao giờ thú vị đến thế!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Tom: I agree. We should focus on reducing waste and using sustainable energy.\nb. Thomas: I think we really need to act now to protect the environment. Pollution is getting worse.\nc. Thomas: Exactly! Every small effort counts in protecting the planet.",
+          "options": {
+            "A": "a. b. c",
+            "B": "c. a. b",
+            "C": "b. a. c",
+            "D": "c. b. a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Hướng dẫn giải:\nThomas: I think we really need to act now to protect the environment. Pollution is getting worse.\nTom: I agree. We should focus on reducing waste and using sustainable energy.\nThomas: Exactly! Every small effort counts in protecting the planet.\nTạm dịch:\nThomas: Tôi nghĩ chúng ta thực sự cần hành động ngay bây giờ để bảo vệ môi trường. Ô nhiễm đang ngày càng tồi tệ hơn.\nTom: Tôi đồng ý. Chúng ta nên tập trung vào việc giảm thiểu rác thải và sử dụng năng lượng bền vững.\nThomas: Chính xác! Mỗi nỗ lực nhỏ đều có ý nghĩa trong việc bảo vệ hành tinh."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Ted: Not yet, I'm still trying to figure out my topic. Do you have any ideas?\nb. Lucy: Yeah, that would be a perfect combination. We could even collaborate on some parts of the presentation!\nc. Lucy: I'm thinking of presenting on climate change. It's an important topic, and there's so much information to cover.\nd. Ted: That sounds great! I'm considering something on renewable energy. It ties in with your topic really well.\ne. Lucy: Hey, have you started working on the presentation for next week?",
+          "options": {
+            "A": "e. a. c. d. b",
+            "B": "c. d. e. a. b",
+            "C": "b. a. e. d. c",
+            "D": "e. a. b. d. c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Hướng dẫn giải:\nLucy: Hey, have you started working on the presentation for next week?\nTed: Not yet, I'm still trying to figure out my topic. Do you have any ideas?\nLucy: I'm thinking of presenting on climate change. It's an important topic, and there's so much information to cover.\nTed: That sounds great! I'm considering something on renewable energy. It ties in with your topic really well.\nLucy: Yeah, that would be a perfect combination. We could even collaborate on some parts of the presentation!\nTạm dịch:\nLucy: Này, bạn đã bắt đầu làm bài thuyết trình cho tuần sau chưa?\nTed: Chưa, tôi vẫn đang cố gắng xác định chủ đề. Bạn có ý tưởng nào không?\nLucy: Tôi đang nghĩ đến việc thuyết trình về biến đổi khí hậu. Đây là một chủ đề quan trọng và có rất nhiều thông tin để trình bày.\nTed: Nghe hay đấy! Tôi đang cân nhắc làm một chủ đề về năng lượng tái tạo. Nó rất phù hợp với chủ đề của bạn.\nLucy: Ừ, đó sẽ là sự kết hợp hoàn hảo. Chúng ta thậm chí có thể hợp tác làm một số phần trong bài thuyết trình!"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Dear Nam,\na. In the club, we engage in activities like tree planting, recycling initiatives, and organizing campaigns to educate others about sustainability.\nb. I believe you would enjoy joining us and it would be a great opportunity for you to learn more about eco-friendly practices.\nc. I can't wait to introduce you to the \"Green Club\" at our school, which is focused on raising environmental awareness.\nd. I hope you're doing well! In your last letter, you asked me about my favorite club in my school.\ne. These activities have greatly impacted students, helping us better understand the importance of protecting the environment.\nBest regards,\nMinh Anh",
+          "options": {
+            "A": "d. a. b. e. c",
+            "B": "d. b. a. c. e",
+            "C": "d. e. a. c. b",
+            "D": "d. c. a. e. b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Hướng dẫn giải:\nDear Nam,\nd. I hope you're doing well! In your last letter, you asked me about my favorite club in my school.\nc. I can't wait to introduce you to the \"Green Club\" at our school, which is focused on raising environmental awareness.\na. In the club, we engage in activities like tree planting, recycling initiatives, and organizing campaigns to educate others about sustainability.\ne. These activities have greatly impacted students, helping us better understand the importance of protecting the environment.\nb. I believe you would enjoy joining us and it would be a great opportunity for you to learn more about eco-friendly practices.\nBest regards, Minh Anh\nTạm dịch: Thư kể về câu lạc bộ yêu thích - \"Câu lạc bộ Xanh\" tại trường, nơi tập trung vào việc nâng cao nhận thức về môi trường."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Living in a smart home offers numerous benefits.\nb. Finally, the integration of voice assistants makes daily tasks simpler and hands-free, saving time and effort.\nc. Moreover, smart homes improve energy efficiency by automatically adjusting settings to reduce waste.\nd. In addition, they enhance security with features like smart cameras and alarms that can be monitored from anywhere.\ne. First, it provides increased convenience, as you can control lighting, temperature, and appliances remotely using your smartphone.",
+          "options": {
+            "A": "b. d. a. c. e",
+            "B": "a. e. c. d. b",
+            "C": "e. b. d. b. c",
+            "D": "a. c. b. d. e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Hướng dẫn giải:\nLiving in a smart home offers numerous benefits. First, it provides increased convenience, as you can control lighting, temperature, and appliances remotely using your smartphone. Moreover, smart homes improve energy efficiency by automatically adjusting settings to reduce waste. In addition, they enhance security with features like smart cameras and alarms that can be monitored from anywhere. Finally, the integration of voice assistants makes daily tasks simpler and hands-free, saving time and effort.\nTạm dịch: Sống trong một ngôi nhà thông minh mang lại nhiều lợi ích. Đầu tiên, nó mang lại sự tiện lợi tăng cường, vì bạn có thể điều khiển ánh sáng, nhiệt độ và các thiết bị từ xa bằng điện thoại thông minh. Hơn nữa, các ngôi nhà thông minh cải thiện hiệu quả năng lượng bằng cách tự động điều chỉnh các cài đặt để giảm thiểu lãng phí. Bên cạnh đó, chúng tăng cường bảo mật với các tính năng như camera và báo động thông minh có thể được giám sát từ bất kỳ đâu. Cuối cùng, sự tích hợp của các trợ lý giọng nói làm cho các công việc hằng ngày trở nên đơn giản và không cần dùng tay, tiết kiệm thời gian và công sức."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. I find it fascinating how platforms like TikTok and Instagram Reels have made it so easy for anyone to share creative, entertaining videos.\nb. Overall, I believe this trend reflects the fast-paced nature of modern life, where people prefer instant entertainment and information.\nc. This trend has significantly changed the way we consume content, as people are now more likely to watch quick, engaging clips rather than long videos.\nd. One trend that has been gaining a lot of attention on social media is the rise of short-form video content.\ne. However, while it can be fun and informative, I think it also encourages a shorter attention span.",
+          "options": {
+            "A": "d. a. c. e. b",
+            "B": "d. c. e. a. b",
+            "C": "a. e. c. d. b",
+            "D": "a. d. e. c. b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Hướng dẫn giải:\nOne trend that has been gaining a lot of attention on social media is the rise of short-form video content. I find it fascinating how platforms like TikTok and Instagram Reels have made it so easy for anyone to share creative, entertaining videos. This trend has significantly changed the way we consume content, as people are now more likely to watch quick, engaging clips rather than long videos. However, while it can be fun and informative, I think it also encourages a shorter attention span. Overall, I believe this trend reflects the fast-paced nature of modern life, where people prefer instant entertainment and information.\nTạm dịch: Một xu hướng đang nhận được rất nhiều sự chú ý trên mạng xã hội là sự gia tăng của nội dung video dạng ngắn. Tôi thấy thật thú vị khi các nền tảng như TikTok và Instagram Reels đã làm cho mọi người dễ dàng chia sẻ các video sáng tạo, giải trí. Xu hướng này đã thay đổi đáng kể cách chúng ta tiêu thụ nội dung, vì giờ đây mọi người có xu hướng xem các video ngắn, hấp dẫn thay vì các video dài. Tuy nhiên, mặc dù nó có thể thú vị và thông tin, tôi nghĩ rằng nó cũng khuyến khích sự chú ý ngắn hơn. Nhìn chung, tôi tin rằng xu hướng này phản ánh bản chất nhanh chóng của cuộc sống hiện đại, nơi mọi người ưa chuộng giải trí và thông tin tức thì."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about teaching work and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "TEACHING IN AFRICA",
+      "passage": "Teaching is a noble profession that has the power to change societies and shape the future. This is especially true in Africa, (18)_________. It is a strong tool to fight poverty and bring growth.\n\nBeing a core group teacher in Africa is a chance to share knowledge and inspire young minds. Even though there are challenges like limited resources, cultural differences, and various tribal traditions, (19)_________. Teachers use creative methods to encourage students to think critically and solve problems, helping them to build better lives and communities.\n\nAfrica's rich diversity of cultures, languages, and traditions gives teachers a special opportunity to promote understanding and respect. (20)_______, teachers help students connect with each other and create unity. This helps build more inclusive and peaceful societies.\n\nHowever, teaching in Africa also needs creativity and resilience. Teachers face problems like lack of materials, crowded classrooms, and poor infrastructure. For example, projects such as building school furniture, enlarging a school yard, and decorating classrooms show how teamwork and creativity can solve these issues. Through fundraising and collaboration, students learned how (21)_________.\n\n(22)_________. They guide students, teach important values, and prepare them to solve social and environmental problems. By doing this, teachers not only improve lives of local people but also help entire communities grow and succeed. Education truly opens the door to a better future.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which does not solve any problems of education",
+            "B": "where real education is hard to bring long-term changes",
+            "C": "where education is important for solving challenges",
+            "D": "which is crucial for shaping the future education"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mệnh đề quan hệ: Dùng trạng từ quan hệ \"where\" để thay thế cho từ, cụm từ đóng vai trò làm trạng từ chỉ nơi chốn trong câu (Africa): where = in which/at which\nA. cái mà không giải quyết được vấn đề giáo dục nào → Sai vì sử dụng đại từ quan hệ \"which\"\nB. nơi giáo dục thực sự khó mang lại thay đổi lâu dài → Không phù hợp về ngữ nghĩa\nC. nơi giáo dục rất quan trọng trong việc giải quyết các thách thức\nD. điều mà rất quan trọng trong việc định hình giáo dục tương lai → Sai vì sử dụng đại từ quan hệ \"which\"\nTạm dịch: This is especially true in Africa, where education is important for solving challenges."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "classrooms often become places of hope and strength",
+            "B": "classrooms rarely help students to grow or succeed",
+            "C": "classrooms are only used to handle basic knowledge",
+            "D": "classrooms usually face more problems than solutions"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. các lớp học thường trở thành nơi của hy vọng và sức mạnh\nB. các lớp học hiếm khi giúp học sinh phát triển hoặc thành công\nC. các lớp học chỉ được sử dụng để xử lý kiến thức cơ bản\nD. các lớp học thường đối mặt với nhiều vấn đề hơn là giải pháp\nTạm dịch: Even though there are challenges like limited resources, cultural differences, and various tribal traditions, classrooms often become places of hope and strength. (Mặc dù có những thách thức như tài nguyên hạn chế, sự khác biệt văn hóa và các truyền thống bộ lạc, nhưng các lớp học thường trở thành nơi của hy vọng và sức mạnh.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Because lessons often avoid the use of cultural traditions",
+            "B": "By including local customs in their daily lessons",
+            "C": "Cultural diversity often leads to more serious issues",
+            "D": "Adding local traditions rarely makes any difference"
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân tích thành phần câu: Câu đã có mệnh đề hoàn chỉnh (teachers help students connect with each other and create unity) → chỗ trống cần cụm trạng ngữ/mệnh đề trạng ngữ\nA. Bởi vì các bài học thường tránh sử dụng các truyền thống văn hóa → Sai vì không phù hợp về nghĩa\nB. Bằng cách đưa các phong tục địa phương vào bài học hằng ngày\nC. Sự đa dạng văn hóa thường dẫn đến những vấn đề nghiêm trọng hơn → Sai vì sử dụng mệnh đề hoàn chỉnh\nD. Việc thêm các truyền thống địa phương hiếm khi tạo ra sự khác biệt → Sai vì sử dụng mệnh đề hoàn chỉnh\nTạm dịch: By including local customs in their daily lessons, teachers help students connect with each other and create unity."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "working together and achieving great results.",
+            "B": "to work together and achieving great results.",
+            "C": "working together and achieve great results.",
+            "D": "to work together and achieve great results."
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: how to do something: cách làm gì\nCấu trúc song song: Hai vế song song nối với nhau bằng liên từ \"and\" phải có cấu trúc giống nhau (V-nguyên mẫu)\nTạm dịch: Through fundraising and collaboration, students learned how to work together and achieve great results. (Thông qua việc gây quỹ và hợp tác, học sinh đã học cách làm việc cùng nhau và đạt được kết quả lớn.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Education is only about sharing knowledge",
+            "B": "Teachers focus solely on academics",
+            "C": "Teachers do more than share knowledge",
+            "D": "Communities succeed without education"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Giáo dục chỉ là chia sẻ kiến thức\nB. Giáo viên chỉ tập trung vào học thuật\nC. Giáo viên không chỉ chia sẻ kiến thức\nD. Cộng đồng thành công mà không cần giáo dục\nTạm dịch: Teachers do more than share knowledge. They guide students, teach important values, and prepare them to solve social and environmental problems. (Giáo viên không chỉ chia sẻ kiến thức. Họ hướng dẫn học sinh, dạy những giá trị quan trọng và chuẩn bị cho họ giải quyết các vấn đề xã hội và môi trường.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about iPhone and its social symbol and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "iPHONE AS A SOCIAL SYMBOL",
+      "passage": "A year ago, the U.S. launch of the iPhone 15 offered a glimpse into consumer habits at an Apple Store in Boston. While the store was busier than usual, it lacked the overwhelming crowds and long queues often seen in countries like Singapore or Thailand. This reflects the relative ease of accessing iPhones in the U.S., where new releases are exciting but don't spark the same frenzy observed in other parts of the world.\n\nA global study recently highlighted the sharp contrast in iPhone affordability. In Vietnam, an average worker needs to save 53 days' wages to buy an iPhone 16 Pro, priced at 28.99 million VND, while in Switzerland, the same phone costs just four days' earnings. This difference reveals how the iPhone, though globally desired, represents a much heavier financial burden in countries with lower income levels.\n\nYet, despite these challenges, Vietnam leads Southeast Asia in iPhone ownership. In 2022, the country's adoption rate surpassed even wealthier neighbors like Thailand and Singapore. Many Vietnamese are willing to spend a full month's salary to own the latest model. This is not merely about the phone's advanced features but about the social value it represents. Apple has crafted a brand that symbolizes success, identity, and prestige. Unboxing and showcasing a new iPhone on social media has become a public display of achievement and sophistication.\n\nHowever, this pursuit of status comes with significant costs. While wealthier buyers can afford iPhones effortlessly, others face financial strain or debt to own one. This raises a deeper question: Is the desire for social recognition worth the financial burden? True satisfaction lies in financial stability, not fleeting prestige. Balancing aspirations with long-term well-being is key to lasting fulfillment.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following statements is NOT true based on the passage?",
+          "context": "",
+          "options": {
+            "A": "The iPhone 15 launch in Boston attracted more people than usual.",
+            "B": "In Switzerland, workers need to save 50 days' wages to buy an iPhone.",
+            "C": "Vietnam leads Southeast Asia in iPhone ownership despite its high cost.",
+            "D": "Apple's marketing highlights the social value of owning its products."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn văn chỉ ra rằng ở Thụy Sĩ, một người lao động chỉ cần tiết kiệm 4 ngày lương để mua iPhone, không phải 50 ngày lương như đáp án B.\nThông tin:\n+ A đúng: the store was busier than usual\n+ C đúng: Vietnam leads Southeast Asia in iPhone ownership\n+ D đúng: This is not merely about the phone's advanced features but about the social value it represents. Apple has crafted a brand that symbolizes success, identity, and prestige.\n+ B sai: In Switzerland, the same phone costs just four days' earnings."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following is NOT mentioned about Vietnam in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "The average number of days required to save for an iPhone.",
+            "B": "The total price of the iPhone 16 Pro in Vietnamese currency.",
+            "C": "The level of government support for people buying iPhones.",
+            "D": "A comparison of iPhone affordability in Vietnam and Switzerland."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn văn không đề cập gì đến sự hỗ trợ của chính phủ đối với người dân khi mua iPhone ở Việt Nam.\nThông tin có trong đoạn 2:\nA. an average worker needs to save 53 days' wages → được đề cập\nB. priced at 28.99 million VND → được đề cập\nD. while in Switzerland, the same phone costs just four days' earnings → được đề cập\nC. Mức độ hỗ trợ của chính phủ → không đề cập"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"sharp\" in paragraph 2 is CLOSEST in meaning to",
+          "context": "",
+          "options": {
+            "A": "clear",
+            "B": "clever",
+            "C": "quick",
+            "D": "sudden"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. clear /klɪər/ (adj): rõ ràng\nB. clever /ˈklev.ər/ (adj): thông minh\nC. quick /kwɪk/ (adj): nhanh\nD. sudden /ˈsʌd.ən/ (adj): đột ngột\nsharp /ʃɑːp/ (adj): rõ ràng = clear\nTạm dịch: A global study recently highlighted the sharp contrast in iPhone affordability. (Một nghiên cứu toàn cầu gần đây đã làm nổi bật sự tương phản rõ ràng về khả năng chi trả iPhone.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"that\" in paragraph 3 refers to",
+          "context": "",
+          "options": {
+            "A": "success",
+            "B": "features",
+            "C": "a brand",
+            "D": "the social value"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Apple has crafted a brand that symbolizes success, identity, and prestige. (Apple đã tạo ra một thương hiệu tượng trưng cho sự thành công, bản sắc và uy tín.)\nTừ \"that\" trong đoạn 2 đề cập đến \"a brand\"."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "What can be inferred about the Vietnamese market for iPhones?",
+          "context": "",
+          "options": {
+            "A": "iPhones are more widely used in Vietnam than in Switzerland.",
+            "B": "Social recognition is a key factor in purchasing iPhones in Vietnam.",
+            "C": "Most Vietnamese people can easily afford to buy a latest iPhone model.",
+            "D": "Apple has difficulty marketing its products to people in Vietnam."
+          },
+          "correctAnswer": "B",
+          "explanation": "A, D: không đề cập → Loại A, D\nC sai: Đoạn văn nói rằng người Việt cần tiết kiệm 53 ngày lương để mua iPhone, không phải dễ dàng\nB đúng: This is not merely about the phone's advanced features but about the social value it represents. (Điều này không chỉ liên quan đến các tính năng tiên tiến của điện thoại mà còn về giá trị xã hội mà nó đại diện.) → suy ra nhận diện xã hội là yếu tố quan trọng"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"effortlessly\" in paragraph 4 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "with caution",
+            "B": "with difficulty",
+            "C": "with ease",
+            "D": "with care"
+          },
+          "correctAnswer": "B",
+          "explanation": "effortlessly (adv): không cách dễ dàng, không tốn sức lực >< with difficulty\nA. một cách cẩn trọng\nB. một cách khó khăn\nC. một cách dễ dàng\nD. một cách cẩn thận"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the author mention the global costs of owning an iPhone?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: In Vietnam, an average worker needs to save 53 days' wages to buy an iPhone 16 Pro, priced at 28.99 million VND, while in Switzerland, the same phone costs just four days' earnings. → Đoạn 2 đề cập đến chi phí toàn cầu của việc sở hữu một chiếc iPhone."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the author discuss the role of social status in buying the latest iPhone model?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 4",
+            "C": "Paragraph 2",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "D",
+          "explanation": "Giải thích: Đoạn 3 nói về việc sở hữu iPhone như một biểu tượng của thành công và danh tiếng xã hội ở Việt Nam.\nIn 2022, the country's adoption rate surpassed even wealthier neighbors like Thailand and Singapore. Many Vietnamese are willing to spend a full month's salary to own the latest model. This is not merely about the phone's advanced features but about the social value it represents. (Vào năm 2022, tỷ lệ sở hữu của quốc gia này còn vượt qua cả những người hàng xóm giàu có hơn như Thái Lan và Singapore. Nhiều người Việt sẵn sàng chi một tháng lương để sở hữu mẫu iPhone mới nhất. Điều này không chỉ liên quan đến các tính năng tiên tiến của điện thoại mà còn về giá trị xã hội mà nó đại diện.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Typhoon No. 3 and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "TYPHOON NO. 3: A STORM OF DEVASTATION AND RESILIENCE",
+      "passage": "[I] Typhoon No. 3 has become a historic event in Vietnam, causing widespread environmental and socio-economic damage. [II] As the strongest storm in the South China Sea in 30 years and the most severe to hit Vietnam in 70 years, it reached super typhoon status with wind gusts of up to level 17. [III] The storm brought unprecedented rainfall, impacting 26 provinces in Northern Vietnam and Thanh Hoa, and devastating communities already vulnerable to climate change. [IV]\n\nThe human toll has been tragic. As of September 17, 329 people are reported dead or missing, with nearly 1,929 others injured. The storm destroyed over 234,000 homes and 1,500 schools, while also causing significant losses in crops and livestock. The estimated economic damage exceeds 50 trillion VND, reducing annual GDP growth by 0.15%. Hard-hit regions like Hai Phong, Quang Ninh, Thai Nguyen, and Lao Cai may see growth declines of over 0.5%, severely impacting local economies.\n\nIn response, the Vietnamese government has launched a comprehensive recovery plan to aid affected communities and rebuild the economy. The immediate focus is on saving lives, with the Ministry of National Defense working with local authorities to locate missing persons and evacuate high-risk areas. This highlights the government's commitment to protecting its people during crises.\n\nResource allocation is also a priority. The Ministry of Agriculture and Rural Development is assessing damages to provide assistance to affected families. To support economic recovery, the Ministry of Finance is offering tax relief, and the State Bank is restructuring loans and offering low-interest rates to help businesses rebuild.\n\nLooking forward, Vietnam plans to strengthen infrastructure to withstand future disasters. Simplifying administrative processes and stabilizing essential goods' prices will aid recovery efforts. Despite the challenges, the government's robust response reflects resilience and a determination to protect its citizens and ensure a stronger future.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"Its intensity broke records and highlighted the increasing frequency of extreme weather events in the region.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Giải thích: Câu trước (II) giới thiệu về cơn bão và nhấn mạnh tầm quan trọng và tính lịch sử của cơn bão. Câu cần điền sẽ tiếp nối hợp lý bằng cách giải thích lý do tại sao cơn bão được xem là \"lịch sử\": vì cường độ phá kỷ lục và phản ánh sự gia tăng của các hiện tượng thời tiết cực đoan. Ta xét thấy \"its\" trực tiếp tham chiếu cho \"Typhoon No. 3\" ở câu trước vị trí (II) nên điền câu trên vào vị trí (II) là hợp lý nhất."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following statements is NOT true based on the text?",
+          "context": "",
+          "options": {
+            "A": "Typhoon No. 3 was the strongest storm in the region in 30 years.",
+            "B": "The storm caused major damage to homes, schools, and livestock.",
+            "C": "Vietnam's government has chosen not to give financial support.",
+            "D": "Some regions may face economic growth declines over 0.5%."
+          },
+          "correctAnswer": "C",
+          "explanation": "Chính phủ Việt Nam đã triển khai nhiều hỗ trợ tài chính như giảm thuế và hỗ trợ vay vốn cho các doanh nghiệp, vì vậy đáp án C nói không hỗ trợ là không đúng.\nThông tin:\nA đúng: As the strongest storm in the South China Sea in 30 years\nB đúng: The storm destroyed over 234,000 homes and 1,500 schools, while also causing significant losses in crops and livestock.\nD đúng: Hard-hit regions like Hai Phong, Quang Ninh, Thai Nguyen, and Lao Cai may see growth declines of over 0.5%"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following is NOT mentioned in paragraph 1 and 2 about the typhoon's effects?",
+          "context": "",
+          "options": {
+            "A": "The total number of provinces impacted by the disaster.",
+            "B": "The financial help given by international organizations.",
+            "C": "The reduction in Vietnam's GDP due to the typhoon's impact.",
+            "D": "The total number of people reported missing by September 17."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin có trong đoạn 1 và 2:\nA được đề cập: impacting 26 provinces in Northern Vietnam and Thanh Hoa\nC được đề cập: reducing annual GDP growth by 0.15%\nD được đề cập: As of September 17, 329 people are reported dead or missing\nB không được đề cập: Sự hỗ trợ tài chính từ các tổ chức quốc tế không được đề cập"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"Hard-hit\" in paragraph 2 is CLOSEST in meaning to",
+          "context": "",
+          "options": {
+            "A": "Recently affected",
+            "B": "Seriously impacted",
+            "C": "Geographically large",
+            "D": "Economically stable"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Bị ảnh hưởng gần đây\nB. Bị tác động nghiêm trọng\nC. Có diện tích lớn về mặt địa lý\nD. Ổn định về kinh tế\nhard-hit: bị ảnh hưởng nặng nề, chịu tác động nghiêm trọng = seriously impacted\nThông tin: Hard-hit regions like Hai Phong, Quang Ninh, Thai Nguyen, and Lao Cai may see growth declines of over 0.5%, severely impacting local economies."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The word \"it\" in paragraph 1 refers to",
+          "context": "",
+          "options": {
+            "A": "The South China Sea",
+            "B": "Typhoon No. 3",
+            "C": "Northern Vietnam",
+            "D": "Climate change"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: As the strongest storm in the South China Sea in 30 years and the most severe to hit Vietnam in 70 years, it reached super typhoon status with wind gusts of up to level 17. (Là cơn bão mạnh nhất ở Biển Đông trong 30 năm qua và là cơn bão tàn khốc nhất ảnh hưởng đến Việt Nam trong 70 năm qua, cơn bão đạt đến cấp siêu bão với gió mạnh lên tới cấp 17.) → \"it\" refers to Typhoon No. 3"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The underlined sentence in paragraph 5 can best be paraphrased as: \"Despite the challenges, the government's robust response reflects resilience and a determination to protect its citizens and ensure a stronger future.\"",
+          "context": "",
+          "options": {
+            "A": "The government has shown strength and determination by overcoming challenges to protect its people and build a better future.",
+            "B": "Citizens have played a key role by coming together and supporting each other in efforts to rebuild their lives and restore their communities after the disaster.",
+            "C": "The challenges faced by the government have made it very difficult to respond effectively, showing the limits of its ability to handle the crisis well.",
+            "D": "Given how serious the challenges were, the idea of creating a strong and effective response seems unlikely or even impossible for the government."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Despite the challenges, the government's robust response reflects resilience and a determination to protect its citizens and ensure a stronger future. (Mặc dù đối mặt với nhiều thử thách, phản ứng mạnh mẽ của chính phủ thể hiện sự kiên cường và quyết tâm bảo vệ công dân cũng như đảm bảo một tương lai mạnh mẽ hơn.)\nA. Chính phủ đã thể hiện sức mạnh và quyết tâm bằng cách vượt qua những thử thách để bảo vệ người dân và xây dựng một tương lai tốt đẹp hơn. → Đúng nhất"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The word \"comprehensive\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "partial",
+            "B": "inclusive",
+            "C": "widespread",
+            "D": "detailed"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. partial /ˈpɑː.ʃəl/ (adj): một phần\nB. inclusive /ɪnˈkluː.sɪv/ (adj): bao gồm\nC. widespread /ˌwaɪdˈspred/ (adj): lan rộng\nD. detailed /ˈdiː.teɪld/ (adj): chi tiết\ncomprehensive /ˌkɒm.prɪˈhen.sɪv/ (adj): toàn diện, bao quát >< partial"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "What can be inferred about the government's recovery plan?",
+          "context": "",
+          "options": {
+            "A": "It is focused only on building new roads and local structures.",
+            "B": "It lacks clear steps to assist businesses in recovery efforts.",
+            "C": "It works to provide both immediate help and future solutions.",
+            "D": "It has faced strong opposition from citizens in rural areas."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\n+ In response, the Vietnamese government has launched a comprehensive recovery plan to aid affected communities and rebuild the economy. The immediate focus is on saving lives... (kế hoạch ngay lập tức)\n+ Despite the challenges, the government's robust response reflects resilience and a determination to protect its citizens and ensure a stronger future. (kế hoạch tương lai)\n→ Kế hoạch vừa cung cấp sự trợ giúp ngay lập tức, vừa tìm kiếm các giải pháp lâu dài. → Chọn C"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following best summarizes the main idea of paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "The government is helping local people and businesses recover.",
+            "B": "Families impacted by the storm are receiving little direct help.",
+            "C": "The government recovery plan focuses on large tax reductions.",
+            "D": "Agricultural recovery efforts have been ignored in the response."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tóm tắt: Đoạn 4 nói về các nỗ lực của chính phủ trong việc hỗ trợ phục hồi các cộng đồng và doanh nghiệp bị ảnh hưởng bởi cơn bão. Cụ thể, chính phủ đã làm việc với các cơ quan để đánh giá thiệt hại, cung cấp hỗ trợ tài chính cho các gia đình bị ảnh hưởng và hỗ trợ doanh nghiệp thông qua việc giảm thuế và tái cấu trúc các khoản vay."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the main idea of the passage?",
+          "context": "",
+          "options": {
+            "A": "Typhoon No. 3 caused severe damage in Vietnam, and the government is focused on relief, rebuilding, and future disaster planning.",
+            "B": "The storm caused significant damage, but the government's response was limited to short-term measures for the severely affected areas.",
+            "C": "Vietnam's recovery plan centers mainly on economic aid to businesses, with less focus on long-term recovery.",
+            "D": "The storm's impact was worsened by climate change, but future storms are unlikely to cause similar damage."
+          },
+          "correctAnswer": "A",
+          "explanation": "A: Bài viết chủ yếu nói về thiệt hại nghiêm trọng của cơn bão và các nỗ lực của chính phủ trong việc cung cấp hỗ trợ khẩn cấp, phục hồi và lập kế hoạch cho các thảm họa trong tương lai. Các kế hoạch dài hạn như cải thiện cơ sở hạ tầng và chuẩn bị cho các thảm họa sau này được đề cập rõ ràng.\nB: đoạn văn cho thấy phản ứng của chính phủ không chỉ là biện pháp ngắn hạn, mà còn có các kế hoạch lâu dài → Loại B\nC: mặc dù có sự hỗ trợ cho doanh nghiệp, nhưng chính phủ cũng đang thực hiện các biện pháp dài hạn → Loại C\nD: bài đọc không đề cập đến sự ảnh hưởng của biến đổi khí hậu hay tuyên bố rằng các cơn bão tương lai sẽ không gây thiệt hại tương tự → Loại D"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.659610+00:00",
+  "updatedAt": "2026-06-08T10:41:58.659610+00:00",
+  "originalFileName": "thpt_kinh_mon_hai_duong_2025.json"
+}

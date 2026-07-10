@@ -1,0 +1,627 @@
+{
+  "examId": "thpt_ba_dinh_thanh_hoa_2025-06-08",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh – THPT Ba Đình – Thanh Hóa",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Ba_Dinh_Thanh_Hoa_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ThanhHoa",
+    "#BaDinh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6.",
+      "passageTitle": "CELEBRATE CULTURAL DIVERSITY",
+      "passage": "Cultural diversity brings numerous benefits that enrich our lives!\n\nEmbracing colourful cultural diversity can help create (1)_______ that thrive on creativity and innovation. Diverse teams, (2)_______ of individuals from different backgrounds, often make exceptional contributions to problem-solving.\n\nEngaging with cultural diversity allows us (3)_______ bridges and promote understanding among people. This is an (4)_______ celebration that can lead to stronger relationships and a more inclusive society. To harness the full potential of cultural diversity, it's essential to take part in cultural events and support initiatives aimed at fostering inclusivity.\n\nLet's (5)_______ a conscious effort to celebrate our differences, which enables us to learn from one another and grow together. By valuing cultural diversity, we can create a vibrant future filled with opportunities (6)_______ everyone!\"",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "diverse community plans",
+            "B": "diverse plans community",
+            "C": "plans diverse community",
+            "D": "community diverse plans"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về trật tự từ:\nTa có danh từ 'plans' (những kế hoạch) là danh từ đếm được ở dạng số nhiều nên đóng vai trò làm danh từ chính đứng cuối cụm danh từ.\nTa có cụm danh từ 'community plans' (những kế hoạch cộng đồng) nên ta cần tính từ 'diverse' (đa dạng) đứng trước cụm danh từ này để bổ sung ý nghĩa.\nTạm dịch: Việc chấp nhận sự đa dạng văn hóa đầy màu sắc có thể giúp tạo ra các kế hoạch cộng đồng đa dạng phát triển mạnh mẽ nhờ sự sáng tạo và đổi mới."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which composed",
+            "B": "composed",
+            "C": "composing",
+            "D": "were composed"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ dạng bị động:\nĐể rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và to be (nếu có), giữ nguyên quá khứ phân từ (V3/ed). (which are composed → composed)\nTạm dịch: Các nhóm đa dạng, bao gồm những cá nhân đến từ các nền tảng khác nhau, thường có những đóng góp xuất sắc vào việc giải quyết vấn đề."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "building",
+            "B": "build",
+            "C": "to building",
+            "D": "to build"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to':\nCấu trúc: allow somebody to do something: cho phép ai đó làm gì.\nTạm dịch: Tham gia vào sự đa dạng văn hóa cho phép chúng ta xây dựng cầu nối và thúc đẩy sự thấu hiểu giữa mọi người."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "excitedly",
+            "B": "excitement",
+            "C": "exciting",
+            "D": "excited"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại:\nA. excitedly /ɪkˈsaɪtɪdli/ (adv): một cách hào hứng\nB. excitement /ɪkˈsaɪtmənt/ (n): sự phấn khích\nC. exciting /ɪkˈsaɪtɪŋ/ (adj): gây thú vị, hào hứng\nD. excited /ɪkˈsaɪtɪd/ (adj): cảm thấy hào hứng\nSau mạo từ 'an' và trước danh từ 'celebration', ta cần một tính từ mang nghĩa 'đem đến sự thú vị' để tạo thành một cụm danh từ → ta chọn 'exciting'.\nCụm danh từ: a/an/the + ADJ + N\nTạm dịch: Đây là một lễ kỷ niệm thú vị có thể dẫn đến những mối quan hệ bền chặt hơn và một xã hội hòa nhập hơn."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "give",
+            "B": "do",
+            "C": "put",
+            "D": "make"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về collocations:\nmake an effort: cố gắng, nỗ lực\nTạm dịch: Hãy cùng nhau nỗ lực có ý thức để tôn vinh sự khác biệt của chúng ta, điều này cho phép chúng ta học hỏi lẫn nhau và cùng nhau phát triển."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "on",
+            "C": "from",
+            "D": "of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về giới từ:\nA. for: cho, dành cho\nB. on: trên, về\nC. from: từ\nD. of: của, về\nopportunities for everyone: cơ hội cho tất cả mọi người → 'for' phù hợp ngữ cảnh.\nTạm dịch: Bằng cách coi trọng sự đa dạng văn hóa, chúng ta có thể tạo ra một tương lai tươi sáng với nhiều cơ hội cho tất cả mọi người!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "MEDIA INFLUENCE ON CULTURE",
+      "passage": "The Impact of Media on Culture: Bringing People Together or Breaking Traditions?\n\nMedia affects how we see the world. It influences how we understand different cultures and how we keep our own traditions alive. The (7)_______ of media we consume can shape our perspectives.\n\nPositive effects\nThe media plays a crucial role in bringing together diverse cultures. By showing traditions from (8)_______ countries, it teaches people to appreciate and understand them better. Avoiding stereotypes, media can promote cultural (9)_______, respect, and diversity.\n\nNegative effects\nBut media can also harm cultures. It often favors popular trends over local (10)_______, leading to a loss of uniqueness. (11)_______ celebrating differences, media may push people to follow foreign ideas, weakening their cultural identity. This can (12)_______ a loss of unique customs and values in favor of more dominant global influences.\n\nLet's use media to celebrate different cultures while keeping our own identities strong!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amount",
+            "B": "number",
+            "C": "lot",
+            "D": "many"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về lượng từ:\nA. the amount of + N không đếm được: lượng\nB. the number of + N đếm được số nhiều: số lượng\nC. A lot of + N đếm được/không đếm được: nhiều\nD. many + N đếm được số nhiều: nhiều\nTa thấy danh từ 'media' ở dạng danh từ không đếm được với nghĩa 'phương tiện truyền thông nói chung' nên dựa vào nghĩa, ta chọn 'amount'.\nTạm dịch: Lượng thông tin truyền thông mà chúng ta tiêu thụ có thể định hình quan điểm của chúng ta."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "other",
+            "C": "others",
+            "D": "another"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về đại từ/tính từ:\nA. the others: những cái/người còn lại trong một nhóm\nB. other + N đếm được số nhiều/không đếm được: những cái/người khác\nC. others: những cái/người khác\nD. another + N đếm được số ít: cái/người khác\nTa thấy danh từ 'countries' ở dạng danh từ đếm được số nhiều nên ta chọn 'other'.\nTạm dịch: Bằng cách giới thiệu các truyền thống từ các quốc gia khác, nó dạy mọi người trân trọng và hiểu rõ hơn về chúng."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "background",
+            "B": "protection",
+            "C": "exchange",
+            "D": "preservation"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. background /ˈbækɡraʊnd/ (n): nền tảng, bối cảnh\nB. protection /prəˈtekʃən/ (n): sự bảo vệ\nC. exchange /ɪksˈtʃeɪndʒ/ (n): sự trao đổi\nD. preservation /ˌprezərˈveɪʃən/ (n): sự bảo tồn\ncultural exchange: trao đổi văn hóa\nTạm dịch: Tránh các định kiến, truyền thông có thể thúc đẩy sự trao đổi văn hóa, tôn trọng và đa dạng."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "people",
+            "B": "customs",
+            "C": "regulations",
+            "D": "attractions"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. people /ˈpiːpl/ (n): người\nB. custom /ˈkʌstəm/ (n): phong tục\nC. regulation /ˌreɡjuˈleɪʃən/ (n): quy định\nD. attraction /əˈtrækʃən/ (n): điểm thu hút\nNgữ cảnh: favors popular trends over local customs (ưa chuộng các xu hướng phổ biến hơn là phong tục địa phương)\nTạm dịch: Nó thường ưa chuộng các xu hướng phổ biến hơn là phong tục địa phương, dẫn đến việc mất đi tính độc đáo."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "In terms of",
+            "C": "With a view to",
+            "D": "On account of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về liên từ/cụm giới từ:\nA. Instead of: thay vì\nB. In terms of: về mặt, xét về\nC. With a view to: với mục đích\nD. On account of: vì lý do, do\nNgữ cảnh: Thay vì tôn vinh sự khác biệt → 'Instead of' phù hợp.\nTạm dịch: Thay vì tôn vinh sự khác biệt, truyền thông có thể khiến con người chạy theo các ý tưởng nước ngoài, làm suy yếu bản sắc văn hóa của họ."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take place",
+            "B": "come about",
+            "C": "thanks to",
+            "D": "result in"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. take place: diễn ra\nB. come about: xảy ra\nC. thanks to: nhờ vào\nD. result in: dẫn đến, gây ra\nNgữ cảnh: This can result in a loss of unique customs... (Điều này có thể dẫn đến sự mai một...)\nTạm dịch: Điều này có thể dẫn đến sự mai một của những phong tục và giá trị độc đáo để nhường chỗ cho những ảnh hưởng toàn cầu mạnh mẽ hơn."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following Questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Tom: I've been really focused on my studies lately, trying to improve my grades.\nb. Anna: That's awesome! What subjects are you concentrating on?\nc. Tom: Mainly math and science, as those are my weakest areas.",
+          "options": {
+            "A": "c-b-a",
+            "B": "a-b-c",
+            "C": "a-c-b",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hội thoại tự nhiên: a (Tom chia sẻ mình đang tập trung học) → b (Anna hỏi môn nào) → c (Tom trả lời: toán và khoa học).\nTạm dịch: Tom: Dạo này tớ tập trung vào việc học rất nhiều, cố gắng cải thiện điểm số. / Anna: Thật tuyệt! Cậu đang tập trung vào những môn nào vậy? / Tom: Chủ yếu là toán và khoa học, vì đó là những môn tớ yếu nhất."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Jason: It was such a lovely atmosphere; everyone seemed to enjoy themselves.\nb. Sarah: The food was delicious too; I couldn't get enough of the dessert table!\nc. Sarah: I can't believe how beautiful the wedding reception was!\nd. Sarah: I also loved the music they chose for the first dance; it was perfect!\ne. Jason: I know! The decorations were stunning and so well thought out.",
+          "options": {
+            "A": "d-b-a-e-c",
+            "B": "c-b-a-e-d",
+            "C": "d-e-a-b-c",
+            "D": "c-e-b-a-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hội thoại tự nhiên: c (Sarah khen đám cưới đẹp) → e (Jason đồng ý, khen trang trí) → b (Sarah khen đồ ăn) → a (Jason khen không khí) → d (Sarah khen nhạc).\nTạm dịch: Sarah: Tớ không thể tin được buổi tiệc cưới lại đẹp đến vậy! / Jason: Đúng vậy! Trang trí thực sự lộng lẫy và được chuẩn bị rất chu đáo. / Sarah: Đồ ăn cũng rất ngon; tớ không thể cưỡng lại được bàn tráng miệng! / Jason: Không khí thật tuyệt, ai cũng có vẻ rất vui vẻ. / Sarah: Tớ cũng rất thích bản nhạc họ chọn cho điệu nhảy đầu tiên, thật hoàn hảo!"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Dear Emily,\na. I hope you're doing well! I just got back from an amazing trip to Italy and had to tell you about it.\nb. If you ever get the chance to visit Italy, you should go! I'd love for us to travel together someday.\nc. I loved the food, especially the pizza in Naples!\nd. It was the perfect getaway and a much-needed break from routine.\ne. The locals were so welcoming, and learning a few Italian phrases helped.\nf. The views at the Amalfi Coast were breathtaking, and I explored beautiful cities like Venice and Rome.\nTake care,\nSarah",
+          "options": {
+            "A": "a-f-e-d-c-b",
+            "B": "a-e-d-c-b-f",
+            "C": "a-f-c-d-e-b",
+            "D": "a-f-c-e-d-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự thư logic: a (mở đầu, giới thiệu chuyến đi) → f (cảnh đẹp ở Amalfi và các thành phố) → c (đồ ăn, pizza Naples) → e (người dân thân thiện, học tiếng Ý) → d (chuyến đi hoàn hảo, kỳ nghỉ cần thiết) → b (khuyến khích Emily đến thăm, rủ đi cùng).\nTạm dịch: Emily thân mến, Mình hy vọng cậu vẫn ổn! Mình vừa trở về sau một chuyến đi tuyệt vời đến Ý và phải kể ngay cho cậu nghe. Quang cảnh ở bờ biển Amalfi thực sự ngoạn mục, và mình đã khám phá những thành phố tuyệt đẹp như Venice và Rome. Mình rất thích đồ ăn ở đó, đặc biệt là pizza ở Naples! Người dân địa phương rất thân thiện, và việc học một vài câu tiếng Ý thực sự có ích. Đây là một chuyến đi hoàn hảo và cũng là khoảng thời gian nghỉ ngơi rất cần thiết. Nếu cậu có cơ hội đến Ý, nhất định hãy đi nhé! Mình rất muốn một ngày nào đó chúng ta có thể đi du lịch cùng nhau. Giữ gìn sức khỏe nhé, Sarah."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Regular consumption of Coke can lead to several severe health concerns, which are linked to obesity and various health issues.\nb. Studies have shown that individuals who consume soft drinks frequently are more likely to develop type 2 diabetes and heart disease.\nc. Additionally, the acidity in Coke can erode tooth enamel, leading to dental problems over time.\nd. The high caffeine content in Coke can also contribute to anxiety and disrupt sleep patterns, affecting overall well-being.\ne. In conclusion, while Coke may be a popular beverage, the dangers associated with its regular consumption can have serious long-term health consequences.",
+          "options": {
+            "A": "b-a-c-d-e",
+            "B": "a-b-d-c-e",
+            "C": "d-a-c-b-e",
+            "D": "a-d-c-b-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự logic: a (luận điểm chính: Coca gây nhiều vấn đề sức khỏe) → b (nghiên cứu: tiểu đường và bệnh tim) → d (caffeine: lo lắng và mất ngủ) → c (axit: mòn men răng) → e (kết luận).\nTạm dịch: Việc tiêu thụ Coca thường xuyên có thể dẫn đến nhiều vấn đề sức khỏe nghiêm trọng, liên quan đến béo phì và các bệnh lý khác. Các nghiên cứu đã chỉ ra rằng những người uống nước ngọt thường xuyên có nguy cơ mắc bệnh tiểu đường loại 2 và bệnh tim cao hơn. Hàm lượng caffeine cao trong Coca cũng có thể gây lo lắng và làm gián đoạn giấc ngủ, ảnh hưởng đến sức khỏe tổng thể. Ngoài ra, tính axit trong Coca có thể làm mòn men răng, dẫn đến các vấn đề về răng miệng theo thời gian. Tóm lại, dù Coca là một loại đồ uống phổ biến, nhưng những nguy cơ từ việc tiêu thụ nó thường xuyên có thể gây ra hậu quả nghiêm trọng lâu dài đối với sức khỏe."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Furthermore, language that includes slurs or derogatory terms can escalate tensions and lead to online conflicts among users.\nb. A recent study found that certain Vietnamese phrases used on social media are often perceived as offensive or disrespectful, particularly among younger generations.\nc. This highlights the importance of promoting a positive online environment in discussions about social media etiquette.\nd. In fact, research indicates that nearly 65% of social media users in Vietnam have encountered offensive language in online interactions.\ne. In conclusion, being mindful of language use on social media is essential to fostering respectful communication and avoiding misunderstandings.",
+          "options": {
+            "A": "b-a-d-c-e",
+            "B": "e-a-d-b-c",
+            "C": "b-e-a-c-d",
+            "D": "d-b-c-a-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự logic: b (nghiên cứu gần đây: từ ngữ tiếng Việt trên mạng bị xem là xúc phạm) → a (hơn nữa: ngôn ngữ xúc phạm có thể leo thang xung đột) → d (thực tế: 65% người dùng mạng xã hội Việt Nam gặp ngôn ngữ xúc phạm) → c (điều này nhấn mạnh tầm quan trọng của môi trường trực tuyến tích cực) → e (kết luận: cẩn trọng trong cách dùng ngôn ngữ).\nTạm dịch: Một nghiên cứu gần đây cho thấy một số cụm từ tiếng Việt được sử dụng trên mạng xã hội thường bị coi là xúc phạm hoặc thiếu tôn trọng, đặc biệt là trong giới trẻ. Hơn nữa, việc sử dụng ngôn ngữ mang tính miệt thị hoặc xúc phạm có thể làm gia tăng căng thẳng và dẫn đến các cuộc xung đột trực tuyến giữa những người dùng. Thực tế, nghiên cứu chỉ ra rằng gần 65% người dùng mạng xã hội ở Việt Nam đã từng gặp phải ngôn ngữ xúc phạm trong các tương tác trực tuyến. Điều này nhấn mạnh tầm quan trọng của việc thúc đẩy một môi trường trực tuyến tích cực trong các cuộc thảo luận về quy tắc ứng xử trên mạng xã hội. Tóm lại, việc cẩn trọng trong cách sử dụng ngôn ngữ trên mạng xã hội là điều cần thiết để duy trì giao tiếp tôn trọng và tránh hiểu lầm."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Essential Travel Skills for Modern Travelers",
+      "passage": "Traveling can be both exciting and challenging, and to make the most of your journey, certain essential skills are needed. _______ (18) _______. In many countries, where people speak different languages, knowing basic phrases in the local language _____ (19) _____. Phrases like \"hello\" or \"thank you\" can make a big difference, and locals are often appreciative when efforts are made to speak their language.\n\n_____ (20) _______. Popular tourist destinations are often crowded, and long waiting times can be a major inconvenience. This is why reservations should be made in advance whenever possible, and planning should be done to ensure the most efficient use of time. Tourist attractions, _____ (21) _____. In addition to this, being adaptable is essential. Unforeseen events like flight delays or bad weather may occur, and being able to adjust your plans is important. Travelers must also be flexible when faced with cultural differences. _____ (22) _______. With the right skills, travel experiences can be enhanced, making them more enjoyable and fulfilling.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Communication skills should be the first thing learned when traveling.",
+            "B": "Time management is the most important skill to focus on when traveling.",
+            "C": "One of the most important skills is communication.",
+            "D": "You should always carry a travel guide for a successful trip."
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh làm câu chủ đề cho đoạn đầu.\nA. Kỹ năng giao tiếp nên là điều đầu tiên cần học khi đi du lịch. => Sai vì ngữ cảnh đang nói tới những kỹ năng quan trọng khi đi du lịch chứ không phải là 'kỹ năng đầu tiên cần học'.\nB. Quản lý thời gian là kỹ năng quan trọng nhất cần tập trung khi đi du lịch. => Sai vì không phù hợp với ngữ cảnh.\nC. Một trong những kỹ năng quan trọng nhất là giao tiếp. => Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nD. Bạn nên luôn mang theo một hướng dẫn du lịch để có một chuyến đi thành công. => Sai vì không phù hợp với ngữ cảnh.\nTạm dịch: Một trong những kỹ năng quan trọng nhất là giao tiếp."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "can help travelers connect with locals and navigate easily.",
+            "B": "which travelers can help connect with locals and navigate easily.",
+            "C": "having helped travelers connect with locals and navigate easily.",
+            "D": "that can help travelers connect with locals and navigate easily."
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'knowing basic phrases in the local language' (biết một số cụm từ cơ bản bằng ngôn ngữ địa phương), do vậy, ta cần một động từ chính có chia thì.\nLoại B và D vì sử dụng mệnh đề quan hệ.\nLoại C vì sử dụng hiện tại phân từ.\nA đúng: 'can help travelers connect with locals and navigate easily' là vị ngữ chính phù hợp.\nTạm dịch: Ở nhiều quốc gia nơi người dân nói các ngôn ngữ khác nhau, biết một số cụm từ cơ bản bằng ngôn ngữ địa phương có thể giúp du khách kết nối với người dân bản địa và di chuyển dễ dàng hơn."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Procrastination leads to a more spontaneous adventure.",
+            "B": "Another important skill is time management.",
+            "C": "Time management does not impact the overall experience.",
+            "D": "Avoid planning altogether for a more authentic journey."
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh làm câu chủ đề cho đoạn 2 (về quản lý thời gian).\nA. Sự trì hoãn dẫn đến một cuộc phiêu lưu tự phát hơn. => Sai vì không phù hợp với ngữ cảnh.\nB. Một kỹ năng quan trọng khác là quản lý thời gian. => Đúng về ngữ nghĩa và ngữ cảnh.\nC. Quản lý thời gian không ảnh hưởng đến trải nghiệm tổng thể. => Sai vì không phù hợp với ngữ cảnh.\nD. Tránh lập kế hoạch hoàn toàn để có một hành trình chân thực hơn. => Sai vì không phù hợp với ngữ cảnh.\nTạm dịch: Một kỹ năng quan trọng khác là quản lý thời gian."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which are visited by millions of people each year, require careful scheduling to avoid long lines and wasted time.",
+            "B": "avoiding by most travelers, can be discovered without planning.",
+            "C": "visiting at peak hours for the best experience.",
+            "D": "that are hidden from tourists, should be explored without maps."
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'Tourist attractions' (Các điểm tham quan du lịch), do vậy, ta cần một động từ chính có chia thì.\nLoại B vì mệnh đề quan hệ rút gọn sai ở 'avoiding'.\nLoại C vì không có động từ có chia thì.\nLoại D vì đại từ quan hệ 'that' không thể dùng sau dấu phẩy (mệnh đề quan hệ không xác định).\nA đúng: sử dụng mệnh đề quan hệ không xác định 'which are visited by millions of people each year' và động từ chính 'require'.\nTạm dịch: Các điểm tham quan du lịch, nơi đón hàng triệu du khách mỗi năm, cần được sắp xếp lịch trình cẩn thận để tránh phải xếp hàng dài và lãng phí thời gian."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Ignoring cultural differences leads to the most authentic travel experiences.",
+            "B": "It's important to stick to your own cultural expectations.",
+            "C": "Cultural differences are overrated and do not affect travel.",
+            "D": "Customs and traditions in some countries may be very different from what is expected backhome, and an open mind is necessary for a successful trip."
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh liên quan đến sự linh hoạt khi đối mặt với sự khác biệt văn hóa.\nA. Bỏ qua những khác biệt về văn hóa sẽ dẫn tới những trải nghiệm du lịch chân thực nhất. => Sai vì không liên kết với câu phía trước.\nB. Điều quan trọng là phải tuân theo những kỳ vọng về văn hóa của riêng bạn. => Sai vì không liên kết với câu phía trước.\nC. Những khác biệt về văn hóa bị đánh giá quá cao và không ảnh hưởng đến việc đi du lịch. => Sai vì không phù hợp với ngữ cảnh.\nD. Phong tục và truyền thống ở một số quốc gia có thể rất khác so với những gì được mong đợi ở quê nhà, và một tư duy cởi mở là cần thiết cho một chuyến đi thành công. => Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nTạm dịch: Phong tục và truyền thống ở một số quốc gia có thể rất khác so với những gì quen thuộc ở quê nhà, và một tư duy cởi mở là điều cần thiết để có một chuyến đi thành công."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the Questions from 23 to 30.",
+      "passageTitle": "Urban Pollution",
+      "passage": "The increase in urbanization causes different problems. Air and water pollution are amongst the major issues we have to tackle.\n\nIn the first page, cars, factories, and burning waste emit dangerous gases that change the air quality in our cities and pose threats to our health. Dangerous gases such as carbon dioxide and nitrogen oxides cause respiratory diseases, for instance, bronchitis and asthma. These are also proven to have long-term effects on the environment.\n\nFurthermore, with the increased population, it becomes difficult to manage the waste generated in cities. Most of the waste is discharged or dumped into rivers or onto streets. The waste pollutes water and makes it unfit for human consumption. Subsequently, it becomes more and more difficult for city dwellers to get clean water. Some cities in Africa are unable to provide adequate water supply because most of the water is lost in pipe leakages. In fact, most city dwellers in developing countries are forced to boil their water or to buy bottled water, which is very expensive.\n\nThere are several actions that could be taken to eradicate the problems described above. Firstly, a simple solution would be joining community efforts to address problems affecting your city. Ask your parents, friends, and relatives to join in as well. These efforts might include clean-up campaigns, recycling projects, and a signature campaign to ask the government to do something about these problems and to discuss how young people can help to solve them.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a source of dangerous gases in the city?",
+          "context": "",
+          "options": {
+            "A": "cars",
+            "B": "factories",
+            "C": "asthma",
+            "D": "burning waste"
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây KHÔNG được đề cập như một nguồn khí độc hại trong thành phố?\nThông tin: 'In the first place, cars, factories, and burning waste emit dangerous gases that change the air quality in our cities.'\nA. Ô tô → được đề cập.\nB. Nhà máy → được đề cập.\nC. Hen suyễn → KHÔNG được đề cập là nguồn khí độc; đây là một bệnh về hô hấp gây ra bởi khí độc.\nD. Đốt chất thải → được đề cập.\nTạm dịch: Điều nào sau đây KHÔNG được đề cập như một nguồn khí độc hại trong thành phố?"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word 'adequate' in the third paragraph is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "available",
+            "B": "lacking",
+            "C": "fresh",
+            "D": "accessible"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. available /əˈveɪləbl/ (adj): có sẵn\nB. lacking /ˈlækɪŋ/ (adj): thiếu\nC. fresh /freʃ/ (adj): tươi mới\nD. accessible /əkˈsesəbl/ (adj): có thể tiếp cận\nadequate /ˈædɪkwət/ (adj): đầy đủ, thỏa đáng >< lacking (adj)\nThông tin: Some cities in Africa are unable to provide adequate water supply because most of the water is lost in pipe leakages. (Một số thành phố ở Châu Phi không thể cung cấp đủ nước vì phần lớn lượng nước bị thất thoát do rò rỉ đường ống nước.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word 'These' in the first paragraph refers to:",
+          "context": "",
+          "options": {
+            "A": "respiratory diseases",
+            "B": "air quality",
+            "C": "dangerous gases",
+            "D": "factories"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'These' trong đoạn đầu tiên ám chỉ 'dangerous gases'.\nThông tin: 'Dangerous gases such as carbon dioxide and nitrogen oxides cause respiratory diseases, for instance, bronchitis and asthma. These are also proven to have long-term effects on the environment.' (Những khí độc hại như carbon dioxide và oxit nitơ gây ra các bệnh về hô hấp, chẳng hạn như viêm phế quản và hen suyễn. Những khí này cũng đã được chứng minh là có ảnh hưởng lâu dài đến môi trường.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word 'eradicate' in the 4th paragraph could be best replaced by:",
+          "context": "",
+          "options": {
+            "A": "explain",
+            "B": "solve",
+            "C": "create",
+            "D": "avoid"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. explain /ɪkˈspleɪm/ (v): giải thích\nB. solve /sɒlv/ (v): giải quyết\nC. create /kriˈeɪt/ (v): tạo ra\nD. avoid /əˈvɔɪd/ (v): tránh\neradicate /ɪˈrædɪkeɪt/ (v): xóa bỏ, diệt trừ = solve (v)\nThông tin: There are several actions that could be taken to eradicate the problems described above. (Có một số hành động có thể được thực hiện để loại bỏ các vấn đề đã nêu trên.)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the sentence: 'Air and water pollution are amongst the major issues we have to tackle'?",
+          "context": "",
+          "options": {
+            "A": "We must address several other issues aside from air and water pollution.",
+            "B": "One of our main challenges is dealing with air and water pollution.",
+            "C": "Tackling air and water pollution is not as important as other issues.",
+            "D": "Air and water pollution are minor problems we need to handle."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: 'Ô nhiễm không khí và nước là một trong những vấn đề chính mà chúng ta phải giải quyết.'\nA. Chúng ta phải giải quyết một số vấn đề khác ngoài ô nhiễm không khí và nước. => Sai về ý nghĩa câu.\nB. Một trong những thách thức chính của chúng ta là giải quyết ô nhiễm không khí và nước. => Đúng về ý nghĩa câu.\nC. Việc giải quyết ô nhiễm không khí và nước không quan trọng bằng các vấn đề khác. => Sai ở 'not'.\nD. Ô nhiễm không khí và nước là những vấn đề nhỏ mà chúng ta cần giải quyết. => Sai ở 'minor'."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Waste is always recycled in cities.",
+            "B": "Some cities in Africa lose water because of pipe leakages.",
+            "C": "Every city dweller has easy access to clean water.",
+            "D": "Young people cannot participate in environmental solutions."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Chất thải luôn được tái chế trong các thành phố. => Sai: 'Most of the waste is discharged or dumped into rivers or onto streets.'\nB. Một số thành phố ở Châu Phi thất thoát nước do rò rỉ ống nước. => Đúng: 'Some cities in Africa are unable to provide adequate water supply because most of the water is lost in pipe leakages.'\nC. Mọi cư dân thành phố đều dễ dàng tiếp cận với nước sạch. => Sai ở 'every'.\nD. Giới trẻ không thể tham gia vào các giải pháp môi trường. => Sai ở 'cannot'."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention the consequences of poor management?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả nhắc đến hậu quả của việc quản lý kém ở đoạn 3.\nThông tin: 'Furthermore, with the increased population, it becomes difficult to manage the waste generated in cities.' (Hơn nữa, với sự gia tăng dân số, việc quản lý chất thải được tạo ra trong các thành phố trở nên khó khăn.) → Đoạn 3 nói về hậu quả của quản lý chất thải kém: ô nhiễm nước, thiếu nước sạch."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer discuss ways to address urban pollution?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả thảo luận về các cách giải quyết ô nhiễm đô thị ở đoạn 4.\nThông tin: 'There are several actions that could be taken to eradicate the problems described above.' (Có một số hành động có thể được thực hiện để loại bỏ các vấn đề đã nêu trên.) → Đoạn 4 đưa ra các giải pháp: tham gia chiến dịch dọn dẹp, dự án tái chế, chiến dịch ký tên."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following Questions from 31 to 40.",
+      "passageTitle": "Greenpeace",
+      "passage": "Greenpeace is an international, non-profit organization with offices in more than forty countries throughout Asia, Europe, North and South America, and the Pacific. [I] Its headquarters is in Amsterdam, the Netherlands. [II] Each office has its own board of directors and an agenda based on the unique needs of the region. [III] Greenpeace representatives from around the world meet each year to discuss environmental issues and concerns of the global community. According to its website, \"Greenpeace exists because this fragile earth deserves a voice. It needs solutions. It needs change. It needs action.\" [IV] It seeks change through creative, non-violent confrontations between activists and those responsible for harming the environment.\n\nGreenpeace is currently working in six major areas where there is a significant threat to the environment. The first two areas address radiation and chemical contaminants. As its initial action against the nuclear test on Amchitka demonstrated, Greenpeace stands firm in its commitment to end the production and use of nuclear weapons. It also aims to eliminate toxic chemicals that are released into the environment.\n\nThe third area of concern is the threat posed to the environment by genetically engineered food ingredients, which cause irreversible biological pollution and many types of health risks. In 2002, Greenpeace published the True Food Guide. This helps consumers to select their foods by rating food companies according to their willingness to use genetically engineered ingredients in their products.\n\nA fourth item on the Greenpeace agenda is the protection of marine life. Of particular concern are commercial fishing practices that do not protect endangered species. Greenpeace is also engaged in educating the world community about the effects of global warming.\n\nFinally, Greenpeace actively supports measures that will protect the remaining ancient forests of the world. With more than 80 percent of the world's forests already gone, preserving what we have left seems more urgent than ever. In a recent victory, the Maisin people of Collingwood Bay, in Papua New Guinea, won a three-year legal struggle to deny loggers access to their land. Greenpeace played an important role in defending the interests of the Maisin in the court case.\n\n(Adapted from Reading for the Real World)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? 'Greenpeace is committed to making the public aware of environmental abuses.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu sau đây phù hợp nhất ở vị trí nào trong đoạn 1? 'Greenpeace cam kết làm cho công chúng nhận thức được các hành vi gây hại môi trường.'\nTa thấy câu sau đây phù hợp nhất ở vị trí IV vì liên kết với câu phía trước và câu phía sau khi nói về mục tiêu hướng tới việc bảo vệ môi trường của Greenpeace.\nThông tin: According to its website, 'Greenpeace exists because this fragile earth deserves a voice...' [IV] Greenpeace is committed to making the public aware of environmental abuses. It seeks change through creative, non-violent confrontations between activists and those responsible for harming the environment."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase 'stands firm' in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "persist",
+            "B": "waver",
+            "C": "hesitate",
+            "D": "submit"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. persist /pərˈsɪst/ (v): kiên trì\nB. waver /ˈweɪvər/ (v): dao động, phân vân\nC. hesitate /ˈhezɪteɪt/ (v): do dự\nD. submit /səbˈmɪt/ (v): phục tùng, nộp\nstand firm /stænd fɜːrm/ (v): giữ vững lập trường, kiên định = persist (v)\nThông tin: As its initial action against the nuclear test on Amchitka demonstrated, Greenpeace stands firm in its commitment to end the production and use of nuclear weapons."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word 'their' in paragraph 3 refers to",
+          "context": "",
+          "options": {
+            "A": "ingredients",
+            "B": "risks",
+            "C": "companies",
+            "D": "consumers"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'their' trong đoạn 3 ám chỉ 'companies'.\nThông tin: 'This helps consumers to select their foods by rating food companies according to their willingness to use genetically engineered ingredients in their products.' (Hướng dẫn này giúp người tiêu dùng lựa chọn thực phẩm của họ bằng cách xếp hạng các công ty thực phẩm theo mức độ sẵn sàng sử dụng thành phần biến đổi gen trong sản phẩm của họ.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to the passage, which of the following is NOT one of the six major areas of Greenpeace's work?",
+          "context": "",
+          "options": {
+            "A": "Addressing radiation",
+            "B": "Eliminating toxic chemicals",
+            "C": "Protecting endangered species",
+            "D": "Reducing deforestation"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo bài đọc, điều nào dưới đây KHÔNG phải là một trong sáu lĩnh vực chính trong hoạt động của Greenpeace?\nA. Giải quyết bức xạ → được đề cập: 'The first two areas address radiation and chemical contaminants.'\nB. Loại bỏ hóa chất độc hại → được đề cập: 'It also aims to eliminate toxic chemicals that are released into the environment.'\nC. Bảo vệ các loài có nguy cơ tuyệt chủng → được đề cập: 'A fourth item on the Greenpeace agenda is the protection of marine life. Of particular concern are commercial fishing practices that do not protect endangered species.'\nD. Giảm thiểu nạn phá rừng → KHÔNG được đề cập; bài đọc đề cập tới việc bảo vệ các khu rừng cổ xưa còn lại chứ không phải 'reducing deforestation'."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Greenpeace aims to end nuclear weapons and toxic chemicals.",
+            "B": "Greenpeace addresses radiation and promotes environmental awareness.",
+            "C": "Greenpeace's actions against nuclear tests protect public health.",
+            "D": "Greenpeace focuses on reducing nuclear testing and chemicals in agriculture."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào dưới đây tóm tắt tốt nhất đoạn 2?\nA. Greenpeace hướng đến việc chấm dứt vũ khí hạt nhân và hóa chất độc hại. => Đúng vì tóm tắt chính xác nội dung đoạn 2.\nB. Greenpeace giải quyết bức xạ và nâng cao nhận thức về môi trường. => Sai vì không có thông tin 'promotes environmental awareness' trong đoạn 2.\nC. Các hành động của Greenpeace chống lại thử nghiệm hạt nhân bảo vệ sức khỏe cộng đồng. => Sai vì không có thông tin 'protect public health' trong đoạn 2.\nD. Greenpeace tập trung vào việc giảm thử nghiệm hạt nhân và hóa chất trong nông nghiệp. => Sai ở 'reducing' vì Greenpeace tập trung vào chấm dứt vũ khí hạt nhân và loại bỏ hóa chất độc hại."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The phrase 'engaged in' in the fourth paragraph is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "focused on",
+            "B": "involved in",
+            "C": "put off",
+            "D": "committed to"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ 'engaged in' trong đoạn 4 có nghĩa TRÁI NGƯỢC với:\nA. focus on: tập trung vào\nB. involve in: tham gia vào\nC. put off: trì hoãn, hoãn lại\nD. commit to: cam kết với\nEngage in: tham gia vào, dấn thân vào >< put off (trì hoãn)\nThông tin: Greenpeace is also engaged in educating the world community about the effects of global warming."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Greenpeace has offices in over fifty countries worldwide.",
+            "B": "Greenpeace is committed to ending the use of nuclear weapons.",
+            "C": "The True Food Guide was published in 2010.",
+            "D": "Greenpeace does not engage in protecting marine life."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Greenpeace có các văn phòng tại hơn năm mươi quốc gia trên toàn thế giới. => Sai: 'offices in more than forty countries' (hơn 40).\nB. Greenpeace cam kết chấm dứt việc sử dụng vũ khí hạt nhân. => Đúng: 'Greenpeace stands firm in its commitment to end the production and use of nuclear weapons.'\nC. Hướng dẫn Thực phẩm Thực sự được xuất bản vào năm 2010. => Sai: 'In 2002, Greenpeace published the True Food Guide.'\nD. Greenpeace không tham gia vào việc bảo vệ sự sống biển. => Sai: 'A fourth item on the Greenpeace agenda is the protection of marine life.'"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "It is increasingly important to protect the remaining forests of the world.",
+            "B": "Most of the world's forests have been preserved for future generations.",
+            "C": "The loss of forests has become less urgent in recent years.",
+            "D": "There are still many forests left to explore and protect."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: 'With more than 80 percent of the world's forests already gone, preserving what we have left seems more urgent than ever.'\nA. Việc bảo vệ những khu rừng còn lại trên thế giới ngày càng trở nên quan trọng. => Đúng về ý nghĩa câu so với câu gốc.\nB. Hầu hết các khu rừng trên thế giới đã được bảo vệ cho các thế hệ tương lai. => Sai về ý nghĩa câu.\nC. Việc mất rừng trở nên ít cấp bách hơn trong những năm gần đây. => Sai về ý nghĩa câu.\nD. Vẫn còn nhiều khu rừng còn lại cần được khám phá và bảo vệ. => Sai về ý nghĩa câu và sai ở 'still many'."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Greenpeace is primarily focused on urban environmental issues rather than global ones.",
+            "B": "The loss of forests has significant implications for the planet's biodiversity and climate.",
+            "C": "Most consumers prefer genetically engineered food products over organic ones.",
+            "D": "Greenpeace views protecting ancient forests as less important than tackling chemical contamination."
+          },
+          "correctAnswer": "B",
+          "explanation": "Điều nào sau đây có thể suy ra từ bài đọc?\nA. Greenpeace chủ yếu tập trung vào các vấn đề môi trường đô thị thay vì toàn cầu. => Sai vì không có thông tin ở 'focused on urban environmental issues' trong bài.\nB. Việc mất rừng có ảnh hưởng lớn đến sự đa dạng sinh học và khí hậu của hành tinh. => Đúng, có thể suy ra từ bài: 'Greenpeace actively supports measures that will protect the remaining ancient forests of the world. With more than 80 percent of the world's forests already gone, preserving what we have left seems more urgent than ever.'\nC. Hầu hết người tiêu dùng thích sản phẩm thực phẩm biến đổi gen hơn thực phẩm hữu cơ. => Sai vì không có thông tin so sánh trong bài.\nD. Greenpeace xem việc bảo vệ rừng cổ xưa là ít quan trọng hơn việc giải quyết ô nhiễm hóa chất. => Sai vì không có thông tin so sánh trong bài."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Greenpeace focuses on promoting sustainable agriculture and improving organic food production practices.",
+            "B": "Greenpeace is an international organization addressing various environmental threats, including deforestation and nuclear weapons.",
+            "C": "Greenpeace primarily operates in urban areas to combat pollution and enhance waste management strategies.",
+            "D": "Greenpeace's main goal is to support the logging industry by advocating for sustainable forestry practices."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào dưới đây tóm tắt tốt nhất bài đọc?\nA. Greenpeace tập trung vào việc thúc đẩy nông nghiệp bền vững và cải thiện hoạt động sản xuất thực phẩm hữu cơ. => Sai ở 'focuses on' và không có thông tin ở 'sustainable agriculture'.\nB. Greenpeace là một tổ chức quốc tế giải quyết các mối đe dọa môi trường khác nhau, bao gồm nạn phá rừng và vũ khí hạt nhân. => Đúng vì tóm tắt được chính xác nội dung chính của bài.\nC. Greenpeace chủ yếu hoạt động ở các khu vực đô thị để chống lại ô nhiễm và cải thiện các chiến lược quản lý chất thải. => Sai vì không có thông tin trong bài.\nD. Mục tiêu chính của Greenpeace là hỗ trợ ngành khai thác gỗ bằng cách vận động cho các phương pháp rừng bền vững. => Sai vì không có thông tin 'support the logging industry' và 'advocating for sustainable forestry practices' trong bài."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.536343+00:00",
+  "updatedAt": "2026-06-08T10:41:58.536343+00:00",
+  "originalFileName": "THPT_Ba_Dinh_Thanh_Hoa_2025.json"
+}

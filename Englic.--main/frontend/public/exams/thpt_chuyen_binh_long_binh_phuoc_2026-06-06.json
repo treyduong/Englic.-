@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_binh_long_binh_phuoc_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Chuyên Bình Long, Bình Phước",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Chuyen_Binh_Long_Binh_Phuoc_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BìnhPhước",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about the benefits of learning a foreign language and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Vera – Autonomous Vehicle",
+      "passage": "In recent years, self-driving cars have emerged as one of the most significant technological innovations. Vera, one of the first fully autonomous vehicles, (1)________. After her first test run in Greenwich, UK, she has undergone numerous trials across the globe, showcasing the potential of autonomous driving. In one such event, Vera participated in the World Autonomous Vehicle Challenge in 2019, where it successfully completed a series of complex maneuvers without human assistance.\n\nVera is an example of how artificial intelligence and machine learning are changing the future of transportation, (2)________. Without a doubt, Vera and other autonomous vehicles highlight the progress that has been made in the field of automation and robotics. (3)________.\n\nVera's exterior design is inspired by both modern automotive engineering and futuristic concepts. (4)________. The most striking feature of Vera is its advanced sensor system, which allows it to detect obstacles, navigate complex road networks, and ensure passenger safety without human input. Vera astonishes experts and the public alike with its seamless navigation. The Vera Intelligence System, which combines AI, machine learning, and real-time data processing, allows the vehicle to make decisions in real time. Equipped with sophisticated algorithms, (5)________.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that had its first activation in March 2021",
+            "B": "the activation of which took place in March 2021",
+            "C": "was first launched in March 2021",
+            "D": "having been initially activated in March 2021"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu đã có chủ ngữ 'Vera' và mệnh đề quan hệ 'one of the first fully autonomous vehicles' → cần vị ngữ.\nA. sai vì sử dụng mệnh đề quan hệ\nB. sai vì sử dụng mệnh đề quan hệ\nC. đúng: 'was first launched in March 2021' làm vị ngữ cho câu\nD. sai vì sử dụng mệnh đề phân từ\nTạm dịch: Vera, một trong những phương tiện hoàn toàn tự động đầu tiên, được ra mắt lần đầu vào tháng 3 năm 2021."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which combined innovations in AI and engineering have led to the creation of self-driving cars",
+            "B": "successfully combined AI, engineering, and design to bring self-driving cars to life",
+            "C": "which has achieved success in creating self-driving cars through breakthroughs in AI, engineering, and design",
+            "D": "of which the joint efforts in AI research, engineering, and design in building self-driving cars"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu đã có chủ ngữ 'Vera' và vị ngữ 'is an example of how artificial intelligence and machine learning are changing the future of transportation' → cần mệnh đề quan hệ bổ nghĩa.\nA. không phù hợp về ngữ nghĩa\nB. sai vì sử dụng động từ có chia thì\nC. đúng: mệnh đề quan hệ 'which has achieved success in creating self-driving cars through breakthroughs in AI, engineering, and design'\nD. sai vì mệnh đề quan hệ thiếu động từ\nTạm dịch: Vera là một ví dụ về cách trí tuệ nhân tạo và học máy đang thay đổi tương lai ngành giao thông vận tải, với những thành công đạt được trong việc tạo ra xe tự lái thông qua các đột phá trong AI, kỹ thuật và thiết kế."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Planning to provide safe and efficient transportation, Vera has been designed.",
+            "B": "Vera was created to support people in transportation and robotics",
+            "C": "The autonomy of transportation led to the creation of Vera",
+            "D": "Vera was developed to revolutionize transportation with a focus on safety and efficiency"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ở đây cần 1 câu bổ nghĩa cho việc 'Vera và các phương tiện tự động khác đã làm nổi bật những tiến bộ trong lĩnh vực tự động hóa và robot' và nhấn mạnh vai trò của Vera.\nD. đúng: 'Vera was developed to revolutionize transportation with a focus on safety and efficiency'\nTạm dịch: Không còn nghi ngờ gì nữa, Vera và các phương tiện tự động khác làm nổi bật những tiến bộ trong lĩnh vực tự động hóa và robot. Vera được phát triển nhằm cách mạng hóa giao thông vận tải với trọng tâm là an toàn và hiệu quả."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "It has sensors for eyes and cameras for ears, allowing it to navigate along with a human driver",
+            "B": "Using sensors and cameras as its eyes and ears, they can autonomously navigate roads and detect obstacles",
+            "C": "Vera uses sensors and cameras as its eyes and ears, enabling it to navigate without human intervention",
+            "D": "Without cameras and sensors working as its eyes and ears, Vera would not be able to navigate autonomously"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ở đây cần 1 câu văn độc lập nhấn mạnh việc 'Thiết kế ngoại thất của Vera được lấy cảm hứng từ cả kỹ thuật ô tô hiện đại và các khái niệm tương lai'.\nA. sai: 'navigating along with a human driver' mâu thuẫn nội dung\nB. sai: 'they' không phù hợp để làm chủ ngữ ở mệnh đề trước\nC. đúng: 'Vera uses sensors and cameras as its eyes and ears, enabling it to navigate without human intervention'\nD. sai: câu giả định không phù hợp ngữ cảnh\nTạm dịch: Thiết kế ngoại thất của Vera được lấy cảm hứng từ cả kỹ thuật ô tô hiện đại và các phong cách chủ đạo tương lai. Vera sử dụng các cảm biến và camera như đôi mắt và đôi tai của mình, giúp nó di chuyển mà không cần sự can thiệp của con người."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The data helps it to make decisions and navigate the roads without human input",
+            "B": "Vera can make real-time decisions based on data and external inputs",
+            "C": "Real-time decision-making and data processing are becoming easier for Vera",
+            "D": "Decision-making through real-time data processing takes place in Vera"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu có mệnh đề phân từ 'Equipped with sophisticated algorithms' → mệnh đề chính cần có cùng chủ ngữ là 'Vera'.\nA. sai vì 'The data' không phù hợp để làm chủ ngữ ở mệnh đề trước\nB. đúng: 'Vera can make real-time decisions based on data and external inputs'\nC. sai vì 'Real-time decision-making and data processing' không phù hợp làm chủ ngữ ở mệnh đề trước\nD. sai vì 'Decision-making through real-time data processing' không phù hợp làm chủ ngữ ở mệnh đề trước\nTạm dịch: Được trang bị các thuật toán tiên tiến, Vera có thể đưa ra quyết định theo thời gian thực dựa trên dữ liệu và các yếu tố đầu vào từ bên ngoài."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Global Warming",
+      "passage": "Global warming is a concern to all people throughout the world (I). And it should be a concern. Not only are people affected by global warming, but there is new evidence that shows people have caused most of the warming changes over recent years. The earth and the people who live on it need greenhouse gas (II). Some, but not all, of greenhouse gas occurs naturally in the atmosphere. As the sun heats the earth responds by returning or radiating some of the sun's energy back into space (III). As the energy is returned, greenhouse gases in the atmosphere – water vapor, carbon dioxide, nitrous oxide, and methane – retain some of the heat in the atmosphere and, as a result, make our earth have a warmer temperature than it would without the absorption (IV).\n\nWhen greenhouse gas increases, the ability of the gas to trap heat increases and the earth surface temperature becomes warmer. Our earth's surface temperature has been increasing over the past century, especially in the last couple of decades. Many attribute this change to often the amount of carbon dioxide that is emitted into the atmosphere. Changes in emissions began to occur when the Industrial Revolution began in America. America is known as a fossil fuel country because of its use of that kind of fuel in heating homes, powering vehicles, and maintaining factories. Oil, coal, and natural gas are all considered fossil fuels and when these fuels are burned the carbon dioxide they emit is released into the air. The same is true when wood is burned. As carbon dioxide is trapped in the atmosphere, changes in temperature occur.\n\nThe causes of something are one matter, but effects are another. When the gasses are absorbed in the atmosphere, climate changes occur. Temperatures rise, evaporation increases, and precipitation also increases to an upward spiral. Sometimes the soil moisture declines and sometimes rainstorms become intense and sea levels rise. What has been observed is the melting of glaciers and decreased amounts of snow-fall in the colder regions of the earth.\n\nProjecting actual changes and the effects of those changes over the next several centuries cannot be accomplished with exactness. Not only will the overall effects be difficult to predict, the real problem comes in predicting the effects on regions and specific localities. For example, the scientists know that if global warming makes the ocean temperatures warmer then the result can be hurricanes of more intensity and frequency. The causes of global warming are known but the exact results and the degrees of the results aren't. Uncertainty as to the gravity and extent of global warming will continue until some certainty is extracted from factual, current, and objective data.\n\nAlthough uncertainty is a serious concern, there are things people can do. If there is a \"no ozone\" day in your community, try to adhere to the guidelines set forth by government officials. Don't burn leaves and don't drive unless it is necessary. Carpooling is good not only on \"no ozone\" days, but all the time. Don't continue to send unnecessary items to the landfills. Recycle. And plant trees – for shade and cooling – as well as for decorative purposes. A better environment can help everyone – now and in the future.",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"because this gas makes life on earth possible\"",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu văn có từ 'this gas', trong 4 vị trí thì chỉ có vị trí II có đề cập trực tiếp đến 'greenhouse gas' và phù hợp đứng trước câu văn cần điền.\nThông tin: 'The earth and the people who live on it need greenhouse gas because this gas makes life on earth possible.'\nTạm dịch: Trái đất và những người sống trên đó cần khí nhà kính vì loại khí này làm cho sự sống trên trái đất trở nên khả thi."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "The word \"retain\" in paragraph 1 could be best replaced by ______",
+          "context": "",
+          "options": {
+            "A": "throw away",
+            "B": "give",
+            "C": "lose",
+            "D": "keep"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ vựng:\nA. throw away (phr-V): vứt đi\nB. give /ɡɪv/ (v): đưa\nC. lose /luːz/ (v): mất\nD. keep /kiːp/ (v): giữ\nretain /rɪˈteɪm/ (v): giữ lại, duy trì = keep\nThông tin: '...greenhouse gases in the atmosphere – water vapor, carbon dioxide, nitrous oxide, and methane – retain some of the heat in the atmosphere...'\nTạm dịch: Khi năng lượng được phản xạ, các khí nhà kính trong khí quyển – hơi nước, carbon dioxide, nitrous oxide và methane – giữ lại một phần nhiệt trong khí quyển."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word \"they\" in paragraph 2 refers to ______",
+          "context": "",
+          "options": {
+            "A": "natural gas",
+            "B": "fossil fuels",
+            "C": "carbon dioxide",
+            "D": "factories"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Oil, coal, and natural gas are all considered fossil fuels and when these fuels are burned the carbon dioxide they emit is released into the air.'\nTừ 'they' đề cập đến 'fossil fuels' (những nhiên liệu hóa thạch).\nTạm dịch: Dầu mỏ, than đá và khí tự nhiên đều được coi là nhiên liệu hóa thạch, và khi các nhiên liệu này bị đốt cháy, lượng carbon dioxide thải ra được giải phóng vào không khí."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "According to paragraph 2, which of the following is NOT one factor of a fossil fuel country?",
+          "context": "",
+          "options": {
+            "A": "powering vehicles",
+            "B": "heating homes",
+            "C": "releasing carbon dioxide",
+            "D": "maintaining factories"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'America is known as a fossil fuel country because of its use of that kind of fuel in heating homes, powering vehicles, and maintaining factories.'\nBa yếu tố: heating homes, powering vehicles, maintaining factories. Releasing carbon dioxide là hậu quả, không phải yếu tố định nghĩa.\nTạm dịch: Mỹ được biết đến như một quốc gia sử dụng nhiên liệu hóa thạch vì sử dụng loại nhiên liệu này trong việc sưởi ấm nhà ở, vận hành phương tiện và duy trì các nhà máy."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarises paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Although the underlying causes of global warming are well-established, the specific details of future climate change, including regional impacts, remain elusive, necessitating continued research and monitoring.",
+            "B": "While the causes of global warming are understood, predicting the exact effects on specific regions remains uncertain, hindering precise projections of future climate change.",
+            "C": "The scientific community acknowledges the potential for severe weather events linked to global warming, but the precise consequences for individual regions and localities are difficult to forecast with certainty.",
+            "D": "The potential impacts of global warming, such as increased hurricane intensity, are known, but the exact magnitude and timing of these effects remain unclear due to the complex nature of climate systems."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'The causes of global warming are known but the exact results and the degrees of the results aren't. Uncertainty as to the gravity and extent of global warming will continue until some certainty is extracted from factual, current, and objective data.'\nĐoạn 4 nói về việc nguyên nhân gây nóng lên toàn cầu đã được biết đến, nhưng các kết quả chính xác và mức độ của các kết quả đó thì chưa được xác định.\nTạm dịch: Mặc dù các nguyên nhân gây ra nóng lên toàn cầu đã được hiểu rõ, nhưng việc dự đoán chính xác tác động đối với các khu vực cụ thể vẫn còn bất định, cản trở các dự báo chính xác về biến đổi khí hậu trong tương lai."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "The word \"specific\" in paragraph 4 is OPPOSITE in meaning to ______",
+          "context": "",
+          "options": {
+            "A": "general",
+            "B": "limited",
+            "C": "particular",
+            "D": "definite"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. general /ˈdʒen.ər.əl/ (adj): chung chung\nB. limited /ˈlɪm.ɪ.tɪd/ (adj): giới hạn\nC. particular /pəˈtɪk.jə.lər/ (adj): cụ thể\nD. definite /ˈdef.ɪ.nət/ (adj): rõ ràng\nspecific /spəˈsɪf.ɪk/ (adj): cụ thể >< general\nThông tin: 'Not only will the overall effects be difficult to predict, the real problem comes in predicting the effects on regions and specific localities.'"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is TRUE about most of the warming changes caused by man?",
+          "context": "",
+          "options": {
+            "A": "Man can regulate the amount of heat absorption in the atmosphere through the use of solar devices.",
+            "B": "The quality and quantity of fossil fuel used by man has varying effects on the atmosphere and the interplay of the greenhouse gasses within the atmosphere.",
+            "C": "Man can regulate the amount of emissions of greenhouse gasses by establishing \"no ozone\" days if actually interested in reducing the problem.",
+            "D": "Man can control the amount of greenhouse gasses required to radiate the sun's energy."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Many attribute this change to often the amount of carbon dioxide that is emitted into the atmosphere...Oil, coal, and natural gas are all considered fossil fuels and when these fuels are burned the carbon dioxide they emit is released into the air.'\nChất lượng và số lượng nhiên liệu hóa thạch mà con người sử dụng có ảnh hưởng khác nhau đến khí quyển và sự tương tác của các khí nhà kính trong khí quyển.\nTạm dịch: Chất lượng và số lượng nhiên liệu hóa thạch mà con người sử dụng có ảnh hưởng khác nhau đến khí quyển và sự tương tác của các khí nhà kính trong khí quyển."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "The statement which best summarizes why global warming is a concern to all nations is ________.",
+          "context": "",
+          "options": {
+            "A": "Expensive research projects can never eliminate the problem but at most can only help to alleviate it.",
+            "B": "When people are careless with fuel emissions, entire countries and future generations will suffer.",
+            "C": "Only expensive scientific research can eliminate the problem and poor nations are unable to fund such research efforts.",
+            "D": "The future impact can only be predicted with uncertainty while present consequences of global warming are certainly apparent."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'Projecting actual changes and the effects of those changes over the next several centuries cannot be accomplished with exactness. Not only will the overall effects be difficult to predict, the real problem comes in predicting the effects on regions and specific localities.'\nTác động trong tương lai chỉ có thể được dự đoán với sự không chắc chắn trong khi các hậu quả hiện tại của hiện tượng nóng lên toàn cầu là rõ ràng.\nTạm dịch: Tác động trong tương lai chỉ có thể được dự đoán với sự không chắc chắn trong khi các hậu quả hiện tại của hiện tượng nóng lên toàn cầu là rõ ràng."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Global warming is caused only by human activities, particularly the burning of fossil fuels.",
+            "B": "Greenhouse gases, such as carbon dioxide, trap heat in the atmosphere, leading to a decrease in global temperatures.",
+            "C": "Individuals can take steps to reduce their carbon footprint and mitigate the effects of climate change.",
+            "D": "The effects of global warming are the same and predictable, but may include rising sea levels, more extreme weather events, and changes in agricultural patterns."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'Although uncertainty is a serious concern, there are things people can do. If there is a \"no ozone\" day in your community, try to adhere to the guidelines set forth by government officials. Don't burn leaves and don't drive unless it is necessary. Carpooling is good not only on \"no ozone\" days, but all the time. Don't continue to send unnecessary items to the landfills. Recycle.'\nCác cá nhân có thể thực hiện các bước để giảm dấu chân carbon của họ và giảm thiểu tác động của biến đổi khí hậu.\nTạm dịch: Mặc dù sự không chắc chắn là một mối quan ngại nghiêm trọng, nhưng con người vẫn có thể làm được những điều nhất định."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "The sentence which best summarizes the passage is ________.",
+          "context": "",
+          "options": {
+            "A": "Global warming exists and its negative future effects, while unknown and indeterminable, can partially be eliminated by humans who are presently causing an increase in the warming trend.",
+            "B": "Global warming is a concern to all people because it impacts the subsurface of the earth by releasing dangerous gases into the lowers of the earth through mining and reforestation and generates heat while limiting oxygenation of the areas.",
+            "C": "Global warming is a worldwide problem which can be resolved by effective atmospheric control by nation with the financial means to do so.",
+            "D": "Global warming is a concern to all people because it affects the earth's surface by warming it to temperatures greater than necessary while failing to absorb the harmful gases."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn văn nói về những tác động tiêu cực của hiện tượng nóng lên toàn cầu và những khó khăn trong việc dự báo chính xác các thay đổi thực tế và tác động của những thay đổi đó trong tương lai. Tuy nhiên, vẫn có những hành động mà mọi người có thể thực hiện để cùng nhau giảm thiểu ảnh hưởng của hiện tượng này.\nA. đúng: Hiện tượng nóng lên toàn cầu tồn tại và các tác động tiêu cực trong tương lai của nó, mặc dù chưa được biết và không thể xác định, có thể phần nào được loại bỏ bởi con người, những người hiện đang gây ra sự gia tăng xu hướng nóng lên."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. John: That sounds amazing! Italy is such a beautiful country to visit.\nb. Mary: Yes, I'm going to Italy next month, and I can't wait to explore the countryside.\nc. John: Have you booked your holiday for this summer yet?",
+          "options": {
+            "A": "a-c-b",
+            "B": "c-b-a",
+            "C": "b-c-a",
+            "D": "c-a-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: c (John hỏi) → b (Mary trả lời về chuyến đi Ý) → a (John phản ứng về Ý).\nTạm dịch: John: Bạn đã đặt kỳ nghỉ cho mùa hè này chưa? / Mary: Rồi, tôi sẽ đi Ý vào tháng sau, và tôi rất háo hức để khám phá vùng nông thôn ở đó. / John: Nghe tuyệt thật đấy! Ý là một đất nước rất đẹp để ghé thăm."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Paul: Yes, but it's challenging to learn all the verb conjugations.\nb. Lisa: I can imagine! Have you tried using language apps to practice?\nc. Paul: Not yet. I'll look into that.\nd. Lisa: That's great! Are you enjoying it?\ne. Paul: I've started learning Spanish recently.",
+          "options": {
+            "A": "e-d-a-b-c",
+            "B": "e-b-c-a-d",
+            "C": "d-e-b-c-a",
+            "D": "d-c-e-b-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: e (Paul thông báo học tiếng Tây Ban Nha) → d (Lisa hỏi có thích không) → a (Paul có, nhưng thấy khó) → b (Lisa gợi ý ứng dụng) → c (Paul chưa thử, sẽ tìm hiểu).\nTạm dịch: Paul: Tôi vừa mới bắt đầu học tiếng Tây Ban Nha gần đây. / Lisa: Tuyệt quá! Bạn có thấy thích không? / Paul: Có, nhưng thật khó để học tất cả các cách chia động từ. / Lisa: Tôi có thể hình dung được! Bạn đã thử sử dụng các ứng dụng học ngôn ngữ để luyện tập chưa? / Paul: Chưa, tôi sẽ thử tìm hiểu về điều đó."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "Hi Emma,\na. You were right about that documentary, it really opened my eyes to new perspectives.\nb. I've been thinking a lot about what we discussed last time, especially about climate change.\nc. I've already started researching more about the topic and how I can contribute.\nd. Thanks again for recommending that documentary, I really appreciate it.\ne. Let's catch up soon to talk more about our ideas for community action.\nSpeak soon,\nOlivia",
+          "options": {
+            "A": "b-a-d-c-e",
+            "B": "d-a-b-e-c",
+            "C": "a-b-d-c-e",
+            "D": "b-d-a-c-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: b (đã suy nghĩ về chủ đề đã thảo luận) → d (cảm ơn vì bộ phim) → a (phim đã mở mang tầm nhìn) → c (đã bắt đầu nghiên cứu thêm) → e (hẹn gặp lại).\nTạm dịch: Chào Emma, Mình đã suy nghĩ rất nhiều về những gì chúng ta thảo luận lần trước, đặc biệt là về vấn đề biến đổi khí hậu. Cảm ơn bạn một lần nữa vì đã giới thiệu bộ phim tài liệu đó, mình thực sự rất trân trọng. Bạn nói đúng, bộ phim đó đã mở mang cho mình nhiều góc nhìn mới. Mình đã bắt đầu nghiên cứu thêm về chủ đề này và cách mình có thể đóng góp. Hãy sớm gặp nhau để bàn thêm về những ý tưởng hành động cộng đồng nhé."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "a. In addition to teaching, I participated in language exchange programs and helped organize cultural events for the local community.\nb. Recently, I completed a six-month internship in France, where I taught English to students of various ages.\nc. Looking back, I realize how much I've grown both personally and professionally during my time abroad.\nd. This experience not only improved my teaching skills but also deepened my understanding of different cultures.\ne. I've always been fascinated by languages, and my studies have taken me to several different countries.",
+          "options": {
+            "A": "e-b-d-a-c",
+            "B": "c-d-e-b-a",
+            "C": "d-c-a-b-e",
+            "D": "e-c-b-d-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: e (luôn bị cuốn hút bởi ngôn ngữ, việc học đã đưa đến nhiều quốc gia) → b (gần đây hoàn thành thực tập 6 tháng ở Pháp) → d (kinh nghiệm cải thiện kỹ năng giảng dạy) → a (ngoài giảng dạy, tham gia trao đổi ngôn ngữ) → c (nhìn lại, nhận ra sự trưởng thành).\nTạm dịch: Mình luôn bị cuốn hút bởi các ngôn ngữ, và việc học của mình đã đưa mình đến nhiều quốc gia khác nhau. Gần đây, mình đã hoàn thành một kỳ thực tập sáu tháng tại Pháp, nơi mình dạy tiếng Anh cho học sinh ở nhiều độ tuổi khác nhau. Kinh nghiệm này không chỉ cải thiện kỹ năng giảng dạy của mình mà còn làm sâu sắc thêm sự hiểu biết của mình về các nền văn hóa khác nhau. Ngoài việc giảng dạy, mình còn tham gia các chương trình trao đổi ngôn ngữ và giúp tổ chức các sự kiện văn hóa cho cộng đồng địa phương. Nhìn lại, mình nhận ra mình đã trưởng thành rất nhiều cả về mặt cá nhân lẫn nghề nghiệp trong suốt thời gian sống và làm việc ở nước ngoài."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "a. However, it also presents challenges, such as the need for digital literacy and the importance of maintaining privacy.\nb. It has made information more accessible than ever, enabling us to learn and share knowledge across the globe in an instant.\nc. As we navigate this rapidly evolving landscape, finding a balance between embracing innovation and fostering genuine human connections becomes essential.\nd. Technology has transformed the way we live, work, and connect with one another.\ne. From smartphones that keep us connected to advanced medical devices that save lives, technology enhances our daily experiences.",
+          "options": {
+            "A": "d-e-b-a-c",
+            "B": "d-a-b-e-c",
+            "C": "d-a-e-b-c",
+            "D": "d-b-e-a-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: d (công nghệ đã thay đổi cách sống) → e (ví dụ cụ thể: điện thoại, thiết bị y tế) → b (làm cho thông tin dễ tiếp cận hơn) → a (tuy nhiên cũng có thách thức) → c (cần tìm sự cân bằng khi điều hướng).\nTạm dịch: Công nghệ đã thay đổi cách chúng ta sống, làm việc và kết nối với nhau. Từ những chiếc điện thoại thông minh giữ chúng ta luôn kết nối đến những thiết bị y tế tiên tiến cứu sống con người, công nghệ nâng cao trải nghiệm hàng ngày của chúng ta. Nó đã làm cho thông tin trở nên dễ tiếp cận hơn bao giờ hết, giúp chúng ta học hỏi và chia sẻ kiến thức trên toàn cầu chỉ trong một tích tắc. Tuy nhiên, nó cũng mang lại những thách thức, như nhu cầu về kỹ năng số và tầm quan trọng của việc bảo vệ quyền riêng tư. Khi chúng ta điều hướng trong môi trường thay đổi nhanh chóng này, việc tìm kiếm sự cân bằng giữa việc chấp nhận đổi mới và duy trì các kết nối chân thật giữa con người trở nên vô cùng quan trọng."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about technology and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Technology and AI",
+      "passage": "Technology is evolving at an astonishing pace, transforming the way we live, work, and interact. One of the most groundbreaking advancements is artificial intelligence (AI). AI allows machines to perform tasks that typically require human intelligence, such as recognizing speech, making decisions, and solving problems. Many industries, from healthcare to finance, are already benefiting from AI. For example, in medicine, AI helps doctors diagnose diseases more accurately, while in business, it assists companies in analyzing large sets of data to make better decisions.\n\nAnother significant technological development is the rise of 5G networks. This new generation of mobile connectivity promises much faster internet speeds and more reliable connections, enabling innovations like self-driving cars and smart cities. With 5G, their ability to communicate and process data in real-time will be greatly enhanced, making it possible to connect millions of devices simultaneously, which will further improve the efficiency of everything from traffic management to energy distribution.\n\nHowever, with these advancements come concerns. Privacy is a major issue as more personal data is being collected and stored. Some worry that AI could lead to job losses as machines take over tasks previously done by humans. Furthermore, as 5G networks roll out, there are fears about potential health risks associated with prolonged exposure to radiation.\n\nDespite these concerns, most experts agree that technology, if properly regulated, can bring about great benefits. Governments and organizations worldwide are working to ensure that technological advancements are used responsibly and ethically, ensuring a brighter future for all.",
+      "questions": [
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following is NOT mentioned as an industry that benefits from AI?",
+          "context": "",
+          "options": {
+            "A": "Finance",
+            "B": "Medicine",
+            "C": "Entertainment",
+            "D": "Healthcare"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'Many industries, from healthcare to finance, are already benefiting from AI. For example, in medicine, AI helps doctors diagnose diseases more accurately, while in business, it assists companies in analyzing large sets of data to make better decisions.'\nCác ngành được đề cập: healthcare, finance, medicine. Entertainment không được đề cập.\nTạm dịch: Nhiều ngành công nghiệp, từ chăm sóc sức khỏe đến tài chính, đã và đang hưởng lợi từ AI."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word \"groundbreaking\" in paragraph 1 is OPPOSITE in meaning to ________",
+          "context": "",
+          "options": {
+            "A": "innovative",
+            "B": "revolutionary",
+            "C": "traditional",
+            "D": "modern"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ vựng:\nA. innovative /ˈm.ə.və.tɪv/ (adj): sáng tạo\nB. revolutionary /ˌrev.əˈluː.ʃən.ər.i/ (adj): mang tính cách mạng\nC. traditional /trəˈdɪʃ.ən.əl/ (adj): truyền thống\nD. modern (adj): hiện đại\ngroundbreaking /ˈɡraʊndˌbreɪ.kɪŋ/ (adj): đột phá >< traditional\nTạm dịch: Một trong những tiến bộ đột phá nhất là trí tuệ nhân tạo (AI)."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"their\" in paragraph 2 refers to ________",
+          "context": "",
+          "options": {
+            "A": "mobile connections",
+            "B": "faster internet speeds",
+            "C": "self-driving cars and smart cities",
+            "D": "5G networks"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'This new generation of mobile connectivity promises much faster internet speeds and more reliable connections, enabling innovations like self-driving cars and smart cities. With 5G, their ability to communicate and process data in real-time will be greatly enhanced...'\nTừ 'their' đề cập đến 'self-driving cars and smart cities' (xe tự lái và thành phố thông minh).\nTạm dịch: Thế hệ kết nối di động mới này hứa hẹn mang lại tốc độ internet nhanh hơn nhiều và kết nối ổn định hơn, mở ra những sáng kiến như xe tự lái và thành phố thông minh. Với 5G, khả năng giao tiếp và xử lý dữ liệu theo thời gian thực của chúng sẽ được cải thiện đáng kể."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"enhanced\" in paragraph 2 could be best replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "limited",
+            "B": "decreased",
+            "C": "improved",
+            "D": "reduced"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ vựng:\nA. limit /ˈlɪm.ɪt/ (v): giới hạn\nB. decrease /dɪˈkriːs/ (v): giảm xuống\nC. improve /ɪmˈpruːv/ (v): cải thiện\nD. reduce /rɪˈdʒuːs/ (v): giảm\nenhance /ɪmˈhɑːns/ (v): nâng cao = improve\nTạm dịch: Với 5G, khả năng giao tiếp và xử lý dữ liệu theo thời gian thực của chúng sẽ được cải thiện đáng kể."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "AI might cause people to lose jobs because machines can take over their tasks.",
+            "B": "AI is responsible for creating more job opportunities for humans.",
+            "C": "AI will not affect human jobs at all.",
+            "D": "Machines will replace all human tasks in the future."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gạch chân: 'Some worry that AI could lead to job losses as machines take over tasks previously done by humans.'\nA. đúng: AI có thể khiến con người mất việc vì máy móc có thể thay thế các công việc của họ.\nB. sai: AI có trách nhiệm tạo ra nhiều cơ hội việc làm hơn cho con người → ngược nghĩa\nC. sai: AI sẽ không ảnh hưởng đến công việc của con người chút nào → ngược nghĩa\nD. sai: Máy móc sẽ thay thế tất cả công việc của con người trong tương lai → quá tuyệt đối\nTạm dịch: Một số người lo ngại rằng AI có thể dẫn đến mất việc khi máy móc thay thế những công việc trước đây do con người thực hiện."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Governments are not concerned about technology development.",
+            "B": "AI only benefits the medical industry.",
+            "C": "5G technology will decrease the number of devices that can be connected.",
+            "D": "5G networks will help improve the efficiency of energy management."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'With 5G, their ability to communicate and process data in real-time will be greatly enhanced, making it possible to connect millions of devices simultaneously, which will further improve the efficiency of everything from traffic management to energy distribution.'\nA sai: Governments and organizations worldwide are working to ensure...\nB sai: Many industries, from healthcare to finance, are already benefiting from AI.\nC sai: making it possible to connect millions of devices simultaneously\nD đúng: improve the efficiency of everything from traffic management to energy distribution\nTạm dịch: Mạng 5G sẽ giúp cải thiện hiệu quả quản lý năng lượng."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "In which paragraph does the writer mention concerns related to privacy?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'However, with these advancements come concerns. Privacy is a major issue as more personal data is being collected and stored.' – Đây là đoạn 3.\nTạm dịch: Tuy nhiên, cùng với những tiến bộ này là những mối lo ngại. Quyền riêng tư là một vấn đề lớn khi dữ liệu cá nhân ngày càng được thu thập và lưu trữ."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "In which paragraph does the writer discuss efforts to ensure responsible use of technology?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: 'Despite these concerns, most experts agree that technology, if properly regulated, can bring about great benefits. Governments and organizations worldwide are working to ensure that technological advancements are used responsibly and ethically, ensuring a brighter future for all.' – Đây là đoạn 4.\nTạm dịch: Mặc dù có những lo ngại này, hầu hết các chuyên gia đều đồng ý rằng công nghệ, nếu được quản lý đúng cách, có thể mang lại nhiều lợi ích to lớn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Explore the Beauty of Eco-Tourism",
+      "passage": "Eco-tourism is an excellent way to explore the natural world while also protecting it. This type of travel focuses on minimizing environmental impact and supporting local communities. When you choose eco-tourism, you are not just enjoying nature, you are also helping to preserve it for future generations.\n\nWhy Eco-Tourism?\n\nEvery year, millions of tourists (29)________ beautiful destinations around the world, but not all travel is sustainable. Traditional tourism often leads to overcrowding, pollution, and damage to natural habitats. (30)________ eco-tourism, you can travel responsibly and make a positive impact.\n\nPositive action!\n- Choose eco-friendly accommodations. Look for hotels or lodges that use renewable energy and (31)________ waste. These places often have policies in place to conserve water and reduce single-use plastics.\n- When exploring nature, always follow the \"leave no trace\" principle. This means taking your trash with you, respecting wildlife, and staying on marked paths to (32)________ damage to the environment.\n- Support local businesses by buying handmade souvenirs and eating at local restaurants. This ensures that your money directly benefits the community and enhances the local economy.\n- Before traveling, (33)________ some research on the environmental practices of the places you plan to visit. This helps ensure you make responsible travel choices that align with eco-tourism principles.\n\nThe Benefits of Eco-Tourism\n\nBy choosing eco-tourism, you can enjoy breathtaking landscapes, connect with local cultures, and reduce your ecological footprint. It's a rewarding way to travel that combines adventure with responsibility. Remember, your choices inspire (34)________ to protect the environment too!",
+      "questions": [
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "forget",
+            "B": "leave",
+            "C": "visit",
+            "D": "destroy"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. forget /fəˈɡet/ (v): quên\nB. leave /liːv/ (v): rời đi\nC. visit /ˈvɪz.ɪt/ (v): tham quan\nD. destroy /dɪˈstrɔɪ/ (v): phá hủy\nTạm dịch: Hàng năm, hàng triệu du khách tham quan các điểm đến đẹp trên khắp thế giới, nhưng không phải tất cả các chuyến đi đều bền vững."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Because of",
+            "B": "In view of",
+            "C": "With",
+            "D": "On account of"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Because of: Bởi vì\nB. In view of: Dựa trên\nC. Instead of (With eco-tourism = With = thay vì, với): Thay vì\nD. On account of: Vì\nCâu hoàn chỉnh: 'With eco-tourism, you can travel responsibly and make a positive impact.'\nTạm dịch: Với du lịch sinh thái, bạn có thể du lịch một cách có trách nhiệm và tạo ra những tác động tích cực."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "prevent",
+            "B": "reduce",
+            "C": "create",
+            "D": "avoid"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. prevent /prɪˈvent/ (v): phòng ngừa\nB. reduce /rɪˈdʒuːs/ (v): giảm\nC. create /kriˈeɪt/ (v): tạo ra\nD. avoid /əˈvɔɪd/ (v): tránh\nTạm dịch: Chọn các chỗ ở thân thiện với môi trường. Tìm các khách sạn hoặc nhà nghỉ sử dụng năng lượng tái tạo và giảm thiểu chất thải."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "minimize",
+            "B": "lead to",
+            "C": "stop",
+            "D": "cause"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. minimize /ˈmɪn.ɪ.maɪz/ (v): tối thiểu hoá\nB. lead /liːd/ (v): dẫn tới\nC. stop /stɒp/ (v): dừng\nD. cause /kɔːz/ (v): gây nên\nTạm dịch: Điều này có nghĩa là mang rác của bạn theo, tôn trọng động vật hoang dã và chỉ đi trên các con đường đã được đánh dấu để giảm thiểu thiệt hại cho môi trường."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take in",
+            "B": "break into",
+            "C": "carry out",
+            "D": "look after"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\n- take in something: hiểu, tiếp nhận cái gì (thông tin, kiến thức,...)\n- break into something: đột nhập vào đâu\n- carry out something: tiến hành cái gì (nghiên cứu, khảo sát,...)\n- look after somebody/something: chăm sóc ai/cái gì\nTạm dịch: Trước khi đi du lịch, hãy tìm hiểu một chút về các thực hành bảo vệ môi trường của những nơi bạn định đến."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "other",
+            "C": "another",
+            "D": "the other"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. others: những cái khác/những người khác (đại từ)\nB. other + N (số nhiều): những cái khác\nC. another + N (số ít): một cái khác\nD. the other: người còn lại/cái còn lại\nTạm dịch: Hãy nhớ rằng, những lựa chọn của bạn sẽ truyền cảm hứng cho người khác bảo vệ môi trường!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Discover the Future of Tech with SmartGadgets",
+      "passage": "- Experience (35)________ like never before with our smartphones that redefine connectivity.\n- Our (36)________ will enhance your daily life and keep you ahead of the curve.\n- Join thousands of customers (37)________ with their purchases and enjoy unparalleled performance.\n- Show the features (38)________ your customers that truly set you apart from the competition.\n- Don't (39)________ out on this once-in-a-lifetime opportunity to upgrade your tech.\n- Start (40)________ the benefits of advanced technology today, or wait for the future to catch up!\n- With SmartGadgets, you're not just purchasing a product; you're investing in a lifestyle. Explore our collection now!",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "innovative",
+            "B": "innovate",
+            "C": "innovation",
+            "D": "innovatively"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. innovative /ˈm.ə.və.tɪv/ (adj): sáng tạo\nB. innovate /ˈm.ə.veɪt/ (v): sáng tạo\nC. innovation /ˌɪn.əˈveɪ.ʃən/ (n): sáng kiến, sự đổi mới\nD. innovatively /ˈm.ə.tɪv.li/ (adv): một cách sáng tạo\nChỗ trống đứng sau ngoại động từ 'experience' → cần danh từ làm tân ngữ.\nTạm dịch: Trải nghiệm sự đổi mới chưa từng có trước đây với những chiếc smartphone của chúng tôi, định nghĩa lại kết nối."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "innovative solutions technology",
+            "B": "innovative technology solutions",
+            "C": "technology solutions innovative",
+            "D": "solutions innovative technology"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về trật tự từ: adj + N/cụm N. Trật tự đúng: 'innovative' (tính từ) + 'technology solutions' (cụm danh từ).\nTạm dịch: Các giải pháp công nghệ sáng tạo của chúng tôi sẽ nâng cao cuộc sống hàng ngày của bạn và giúp bạn luôn đi trước một bước."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was satisfied",
+            "B": "who satisfied",
+            "C": "satisfying",
+            "D": "satisfied"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng bị động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển V sang V-ed (who are satisfied → satisfied).\nTạm dịch: Tham gia cùng hàng nghìn khách hàng hài lòng với các sản phẩm của họ và tận hưởng hiệu suất vượt trội."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with",
+            "B": "about",
+            "C": "to",
+            "D": "from"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dạng động từ: show something to somebody: trình bày gì với ai.\nTạm dịch: Trình bày các tính năng với khách hàng của bạn, những tính năng thực sự giúp bạn nổi bật so với đối thủ."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "miss",
+            "B": "run",
+            "C": "skip",
+            "D": "pass"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nmiss out: bỏ lỡ cơ hội\nTạm dịch: Đừng bỏ lỡ cơ hội có một không hai này để nâng cấp công nghệ của bạn."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to enjoying",
+            "B": "enjoy",
+            "C": "enjoyed",
+            "D": "enjoying"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ: start doing something: bắt đầu làm gì.\nTạm dịch: Hãy bắt đầu tận hưởng những lợi ích của công nghệ tiên tiến ngay hôm nay, hoặc chờ đợi tương lai sẽ theo kịp!"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.544615+00:00",
+  "updatedAt": "2026-06-08T10:41:58.544615+00:00",
+  "originalFileName": "THPT_Chuyen_Binh_Long_Binh_Phuoc_2025.json"
+}

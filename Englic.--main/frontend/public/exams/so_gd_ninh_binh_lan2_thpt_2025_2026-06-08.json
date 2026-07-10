@@ -1,0 +1,627 @@
+{
+  "examId": "so_gd_ninh_binh_lan2_thpt_2025_2026-06-08",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở Giáo Dục và Đào Tạo Ninh Bình (Lần 2)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file so_gd_ninh_binh_lan2_.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#NinhBinh",
+    "#TốtNghiệp",
+    "#Lan2"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about green energy and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 10.",
+      "passageTitle": "GREEN ENERGY",
+      "passage": "As we continue to face the impacts of climate change, having a green environment has become increasingly important to the future of our society. To achieve this, the world is shifting towards green energy, and two particular types of energy at the centre of this movement are solar power and wind power.\n\n(I) Solar power is all about harnessing the energy of the sun by using solar panels to convert sunlight into usable electricity. (II) Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan. (III) However, the ability to generate solar power depends on the time of day and weather conditions. (IV) This means that solar panels are often less useful if they are installed in places where sunny weather is not typical.\n\nWind power involves converting the energy of the wind into electricity using large turbines. Wind power doesn't produce any greenhouse gases, but it is not ideal for private use since turbines require consistent care. However, wind farms can be installed on a large scale and are able to produce electricity continuously regardless of the time of day. This means that if there were more investments in wind power, it could be a viable way to provide energy for major cities and even for whole regions.\n\nWind and solar power contribute significantly to a green environment by reducing our reliance on fossil fuels, helping us cut down on pollution and slow climate change. Additionally, using renewable energy sources helps promote spending on sustainable development by creating new career opportunities in the green energy sector.\n\nFor now, the biggest challenge of adopting green energy is the costs associated with installation and infrastructure, but the benefits unquestionably outweigh the downsides. If we want to stop the climate crisis and create a better and more sustainable future, green energy sources will undoubtedly be the key.\n\n(Adapted from Bright)",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Where in paragraph 2 does the following sentence best fit?\n\"This highly efficient form of energy produces zero emissions, so it can significantly reduce our carbon footprint.\"",
+          "context": "",
+          "options": {
+            "A": "(IV)",
+            "B": "(II)",
+            "C": "(I)",
+            "D": "(III)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (II) vì đề cập đến ưu điểm của năng lượng mặt trời, liên kết với câu sau về ý 'Moreover, solar panels are perfect for installation on a small scale' đang bổ sung thêm ưu điểm khác của dạng năng lượng này.\nDịch bài: Dạng năng lượng hiệu quả cao này không tạo ra khí thải, vì vậy có thể giảm đáng kể lượng dấu chân carbon của chúng ta. Hơn nữa, các tấm pin mặt trời thì hoàn hảo để lắp đặt ở quy mô nhỏ, chẳng hạn như ở nhà riêng, vì chúng yêu cầu rất ít bảo trì và có tuổi thọ dài."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word 'they' in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "weather conditions",
+            "B": "private homes",
+            "C": "sunny places",
+            "D": "solar panels"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'they' trong đoạn 2 đề cập đến 'solar panels'.\nThông tin: This means that solar panels are often less useful if they are installed in places where sunny weather is not typical. (Điều này có nghĩa là các tấm pin mặt trời thường ít hữu ích hơn nếu chúng được lắp đặt ở những nơi không có nắng thường xuyên.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The phrase 'converting the energy' in paragraph 3 could best be replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "breaking the energy down",
+            "B": "turning the energy into",
+            "C": "giving the energy off",
+            "D": "saving on the energy"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ 'converting the energy' ở đoạn 3 có thể được thay thế tốt nhất bằng 'turning the energy into'.\n- convert the energy: chuyển đổi năng lượng = turn the energy into\nThông tin: Wind power involves converting the energy of the wind into electricity using large turbines. (Năng lượng gió liên quan đến việc chuyển đổi năng lượng của gió thành điện năng bằng cách sử dụng các tua-bin lớn.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The cost of wind energy makes it impractical for urban areas.",
+            "B": "With more investment, wind power can provide reliable, large-scale electricity.",
+            "C": "Private wind turbines are the best solution for reducing greenhouse gas emissions.",
+            "D": "Wind power produces greenhouse gases and cannot supply cities on a large scale."
+          },
+          "correctAnswer": "B",
+          "explanation": "Điều nào sau đây tóm tắt tốt nhất đoạn 3?\nA. Chi phí của năng lượng gió khiến nó không khả thi đối với các khu vực thành thị → Sai ở 'cost of wind energy' vì không được đề cập trong đoạn.\nB. Với sự đầu tư nhiều hơn, năng lượng gió có thể cung cấp nguồn điện quy mô lớn, đáng tin cậy → Đúng vì tóm tắt đầy đủ ý của đoạn.\nC. Tua bin gió tư nhân là giải pháp tốt nhất để giảm sự phát thải khí nhà kính → Sai ở 'the best solution' vì thông tin đề cập năng lượng gió không phù hợp cho mục đích sử dụng cá nhân.\nD. Năng lượng gió tạo ra khí nhà kính và không thể cung cấp cho các thành phố trên quy mô lớn → Sai vì toàn bộ ý nghĩa câu trái ngược với thông tin đề cập trong đoạn."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "According to paragraph 4, which of the following is NOT a benefit of using green energy like wind and solar power?",
+          "context": "",
+          "options": {
+            "A": "mitigation of climate change",
+            "B": "increasing pollution levels",
+            "C": "green job opportunities",
+            "D": "reduction in fossil fuel consumption"
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo đoạn 4, điều nào sau đây KHÔNG phải là lợi ích của việc sử dụng năng lượng xanh như năng lượng gió và năng lượng mặt trời?\nThông tin: Wind and solar power contribute significantly to a green environment by reducing our reliance on fossil fuels, helping us cut down on pollution and slow climate change. Additionally, using renewable energy sources helps promote spending on sustainable development by creating new career opportunities in the green energy sector.\n→ A, C và D được đề cập là lợi ích của việc sử dụng năng lượng xanh như năng lượng gió và năng lượng mặt trời.\n→ B không được đề cập là lợi ích của việc sử dụng năng lượng xanh như năng lượng gió và năng lượng mặt trời."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "The word 'viable' in paragraph 3 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "effective",
+            "B": "impractical",
+            "C": "achievable",
+            "D": "sustainable"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'viable' trong đoạn 3 thi TRÁI NGHĨA với 'impractical'.\nA. effective /ɪˈfektɪv/ (adj): hiệu quả\nB. impractical /ɪmˈpræktɪkl/ (adj): không thực tế\nC. achievable /əˈtʃiːvəbl/ (adj): có thể đạt được\nD. sustainable /səˈsteɪnəbl/ (adj): bền vững\n- viable /ˈvaɪəbl/ (adj): khả thi >< impractical (adj)\nThông tin: This means that if there were more investments in wind power, it could be a viable way to provide energy for major cities and even for whole regions."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "The costs of installing green energy are minimal and not a challenge.",
+            "B": "Solar power can be generated at any time of day or night.",
+            "C": "Solar panels are a long-lasting and low-maintenance option for home installations.",
+            "D": "Wind power is more suitable for private homes than solar power."
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây là ĐÚNG theo bài đọc?\n+ For now, the biggest challenge of adopting green energy is the costs associated with installation and infrastructure → A sai ở 'minimal' và 'not a challenge' vì trái với thông tin đề cập trong bài.\n+ However, the ability to generate solar power depends on the time of day and weather conditions → B sai ở 'at any time of day or night' vì thông tin đề cập năng lượng mặt trời phụ thuộc vào thời gian trong ngày.\n+ Wind power doesn't produce any greenhouse gases, but it is not ideal for private use since turbines require consistent care → D sai ở 'more suitable' vì thông tin đề cập năng lượng gió không phù hợp cho mục đích sử dụng cá nhân.\n+ Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan → C đúng."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "The disadvantages of green energy are too great for it to be the key option.",
+            "B": "Not until green energy becomes completely cost-effective will it replace fossil fuels.",
+            "C": "Were the costs of green energy lower, its adoption would be much easier.",
+            "D": "Despite high costs, green energy remains the best long-term alternative."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây diễn giải tốt nhất câu được gạch chân ở đoạn 5?\nA. Nhược điểm của năng lượng xanh là quá lớn nên không thể trở thành lựa chọn chính → Sai ở 'too great' vì trái với thông tin đề cập trong câu gốc, khẳng định lợi ích lớn hơn nhược điểm.\nB. Phải đến khi năng lượng xanh trở nên hoàn toàn có hiệu quả về mặt chi phí, nó mới thay thế được nhiên liệu hóa thạch → Sai ở 'becomes completely cost-effective' vì không được đề cập trong câu gốc.\nC. Nếu chi phí năng lượng xanh thấp hơn thì việc áp dụng nó sẽ dễ dàng hơn nhiều → Diễn đạt đúng ý nghĩa của câu gốc, đề cập chi phí là thách thức lớn trong việc áp dụng năng lượng xanh.\nD. Mặc dù chi phí cao nhưng năng lượng xanh vẫn là giải pháp thay thế lâu dài tốt nhất → Sai ở 'the best long-term alternative' vì không được đề cập trong câu gốc.\nThông tin: For now, the biggest challenge of adopting green energy is the costs associated with installation and infrastructure, but the benefits unquestionably outweigh the downsides."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The shift to renewable energy is essential for achieving long-term sustainability.",
+            "B": "Fossil fuels remain the most practical solution for energy production.",
+            "C": "The financial burden of green energy outweighs its environmental benefits.",
+            "D": "Solar energy is a more cost-effective alternative to fossil fuels in all cases."
+          },
+          "correctAnswer": "A",
+          "explanation": "Điều nào sau đây có thể được suy ra từ bài đọc?\nA. Việc chuyển đổi sang năng lượng tái tạo là cần thiết để đạt được sự bền vững lâu dài → Có thể suy ra từ bài đọc.\nB. Nhiên liệu hóa thạch vẫn là giải pháp thiết thực nhất cho sản xuất năng lượng → Sai ở 'the most practical solution' vì bài đọc nhấn mạnh đến việc chuyển sang năng lượng tái tạo.\nC. Gánh nặng tài chính của năng lượng xanh lớn hơn lợi ích môi trường của nó → Sai vì bài đọc đề cập lợi ích lớn hơn nhược điểm (chi phí cao).\nD. Năng lượng mặt trời là giải pháp thay thế tiết kiệm chi phí hơn cho nhiên liệu hóa thạch trong mọi trường hợp → Sai ở 'a more cost-effective alternative' vì không có thông tin so sánh về giá cả của năng lượng mặt trời và nhiên liệu hóa thạch.\nThông tin: If we want to stop the climate crisis and create a better and more sustainable future, green energy sources will undoubtedly be the key."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Solar and wind power are the only viable solutions to the global energy crisis, as they completely eliminate pollution and greenhouse gases.",
+            "B": "While renewable energy helps combat climate change, its effectiveness is limited by weather conditions, maintenance costs, and large-scale implementation challenges.",
+            "C": "Despite its environmental benefits, green energy is too expensive and unreliable to be a practical solution for large scale energy needs.",
+            "D": "Green energy, particularly solar and wind power, is key to reducing pollution and combating climate change, though cost and infrastructure remain challenges."
+          },
+          "correctAnswer": "D",
+          "explanation": "Điều nào sau đây tóm tắt tốt nhất đoạn văn?\nA. Năng lượng mặt trời và năng lượng gió là giải pháp khả thi duy nhất cho cuộc khủng hoảng năng lượng toàn cầu vì chúng loại bỏ hoàn toàn ô nhiễm và khí nhà kính → Sai ở 'only' vì bài đọc không đề cập năng lượng mặt trời và gió là duy nhất mà đây là 2 nguồn năng lượng trung tâm.\nB. Mặc dù năng lượng tái tạo giúp chống lại biến đổi khí hậu nhưng hiệu quả của nó bị hạn chế bởi điều kiện thời tiết, chi phí bảo trì và những thách thức thực hiện trên quy mô lớn → Sai vì chỉ đề cập đến các ý nhỏ trong bài đọc và nhấn mạnh quá nhiều vào hạn chế.\nC. Bất chấp những lợi ích về môi trường, năng lượng xanh quá đắt và không đáng tin cậy để trở thành giải pháp thiết thực cho nhu cầu năng lượng quy mô lớn → Sai.\nD. Năng lượng xanh, đặc biệt là năng lượng mặt trời và năng lượng gió, là chìa khóa để giảm ô nhiễm và chống biến đổi khí hậu, mặc dù chi phí và cơ sở hạ tầng vẫn còn nhiều thách thức → Đúng vì tóm tắt đầy đủ nội dung bài đọc."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 11 to 16.",
+      "passageTitle": "CAN YOU HELP SAVE OUR PLANET?",
+      "passage": "The Harm of Burning Waste\nBurning rubbish and organic waste in open fires severely damages the environment, (11)______ nearly a third of global black carbon emissions. The soot traps sunlight, releasing heat and contributing to global warming. Ban open waste burning!\n\nThe Dangers of Solid Fuels at Home\nMany people still burn coal and wood for heating and cooking, but this releases black carbon and (12)______ harmful pollutants. The tiny particles of indoor carbon (13)______ from indoor stoves can enter the human body and cause serious health problems. Research shows that household air (14)______ kills millions of people every year.\n\nRenewable Energy: A Clean Future\nRenewable energy is clean and free of black carbon and greenhouse gases, so it does not pollute the environment. It can replace fossil fuels (15)______ its convenience and reliability. Fossil fuels are depleting rapidly while renewable energy will never (16)______. Power the planet with renewable energy!",
+      "questions": [
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "controlling",
+            "B": "measuring",
+            "C": "generating",
+            "D": "stabilizing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. control /kənˈtrəʊl/ (v): kiểm soát\nB. measure /ˈmeʒə(r)/ (v): đo lường\nC. generate /ˈdʒenəreɪt/ (v): tạo ra\nD. stabilize /ˈsteɪbəlaɪz/ (v): làm ổn định\nTạm dịch: Burning rubbish and organic waste in open fires severely damages the environment, generating nearly a third of global black carbon emissions. (Việc đốt rác và chất thải hữu cơ trong các đám cháy ngoài trời gây tổn hại nghiêm trọng đến môi trường, tạo ra gần một phần ba lượng phát thải carbon đen toàn cầu.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "other",
+            "C": "few",
+            "D": "another"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về đại từ/tính từ:\nA. others: những cái/người khác (đứng một mình)\nB. other + N đếm được số nhiều/không đếm được: những cái/người khác\nC. few + N đếm được số nhiều: rất ít, hầu như không\nD. another + N đếm được số ít: cái/người khác\nTa thấy danh từ 'harmful pollutants' (các chất ô nhiễm độc hại) ở dạng danh từ đếm được số nhiều và dựa vào nghĩa, ta chọn 'other'.\nTạm dịch: Many people still burn coal and wood for heating and cooking, but this releases black carbon and other harmful pollutants. (Nhiều người vẫn đốt than và củi để sưởi ấm và nấu ăn, nhưng điều này giải phóng carbon đen và các chất ô nhiễm độc hại khác.)"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "heated",
+            "B": "absorbed",
+            "C": "released",
+            "D": "reduced"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. heat /hiːt/ (v): làm nóng\nB. absorb /əbˈzɔːb/ (v): hấp thụ\nC. release /rɪˈliːs/ (v): giải phóng, thải ra\nD. reduce /rɪˈdjuːs/ (v): giảm\nTạm dịch: The tiny particles of indoor carbon released from indoor stoves can enter the human body and cause serious health problems. (Các hạt carbon nhỏ được thải ra từ bếp trong nhà có thể xâm nhập vào cơ thể con người và gây ra các vấn đề sức khỏe nghiêm trọng.)"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "component",
+            "B": "current",
+            "C": "substance",
+            "D": "pollution"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. component /kəmˈpəʊnənt/ (n): thành phần\nB. current /ˈkʌrənt/ (n): dòng chảy\nC. substance /ˈsʌbstəns/ (n): chất, vật chất\nD. pollution /pəˈluːʃn/ (n): sự ô nhiễm\n- air pollution: ô nhiễm không khí\nTạm dịch: Research shows that household air pollution kills millions of people every year. (Nghiên cứu cho thấy ô nhiễm không khí trong nhà cướp đi sinh mạng của hàng triệu người mỗi năm.)"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on account of",
+            "B": "in spite of",
+            "C": "regardless of",
+            "D": "instead of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm giới từ:\nA. on account of: bởi vì\nB. in spite of: mặc dù\nC. regardless of: bất kể\nD. instead of: thay vì\nTạm dịch: It can replace fossil fuels on account of its convenience and reliability. (Nó có thể thay thế nhiên liệu hóa thạch nhờ vào sự tiện lợi và độ tin cậy của nó.)"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "run out",
+            "B": "put out",
+            "C": "light up",
+            "D": "burn down"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. run out: cạn kiệt\nB. put out: dập tắt\nC. light up: thắp sáng\nD. burn down: cháy rụi\nTạm dịch: Fossil fuels are depleting rapidly while renewable energy will never run out. (Nhiên liệu hóa thạch đang cạn kiệt nhanh chóng, trong khi năng lượng tái tạo sẽ không bao giờ hết.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisements and mark the letter A, B, C or your answer sheet to indicate the option that best fits each of the numbered blanks from 17 to 22.",
+      "passageTitle": "LANGUAGE EXCHANGE PROGRAM",
+      "passage": "Join the international Language Exchange Program and practice a new language with native speakers from across the globe! This program is excellent (17)________linguists who aim to enhance their language proficiency through authentic conversations. With both online and in-person meetings, it's an ideal (18)__________ to develop skills and forge new friendships.\n\nParticipants will be matched with native speakers (19)________ by our experienced team to ensure compatibility in language learning. Whether you wish (20)__________Spanish, French, Japanese, or another language, we have a partner for you. All sessions are available at flexible hours, allowing you to easily incorporate them into your schedule.\n\nExpand your global network and (21)________confidence in speaking a foreign language. Register now and get ready to embark on an (22)______language journey with us!",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "at",
+            "B": "for",
+            "C": "with",
+            "D": "on"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về giới từ:\n- excellent for something: xuất sắc, phù hợp cho cái gì\nTạm dịch: This program is excellent for linguists who aim to enhance their language proficiency through authentic conversations. (Chương trình này rất phù hợp cho những người yêu thích ngôn ngữ, những người muốn nâng cao trình độ ngôn ngữ của mình thông qua các cuộc trò chuyện chân thực.)"
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "language learning environment",
+            "B": "environment language learning",
+            "C": "environment learning language",
+            "D": "language environment learning"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về trật tự từ:\n- language /ˈlæŋɡwɪdʒ/ (n): ngôn ngữ\n- learning environment (np): môi trường học tập\nTrật tự từ: danh từ + cụm danh từ\nTạm dịch: With both online and in-person meetings, it's an ideal language learning environment to develop skills and forge new friendships. (Với các buổi gặp mặt trực tuyến và trực tiếp, đây là một môi trường học tập ngôn ngữ lý tưởng để phát triển kỹ năng và xây dựng những tình bạn mới.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "are chosen",
+            "B": "who chosen",
+            "C": "choosing",
+            "D": "chosen"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ:\nMệnh đề quan hệ dạng bị động rút gọn bằng cách lược bỏ đại từ và tobe, giữ nguyên V3/V-ed.\nTạm dịch: Participants will be matched with native speakers chosen by our experienced team to ensure compatibility in language learning. (Người tham gia sẽ được ghép cặp với người bản xứ được lựa chọn bởi đội ngũ giàu kinh nghiệm của chúng tôi để đảm bảo sự tương thích trong việc học ngôn ngữ.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to practicing",
+            "B": "to practice",
+            "C": "practicing",
+            "D": "practice"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc:\n- wish to do something: muốn làm cái gì\nTạm dịch: Whether you wish to practice Spanish, French, Japanese, or another language, we have a partner for you. (Bất kể bạn muốn thực hành tiếng Tây Ban Nha, tiếng Pháp, tiếng Nhật hay bất kỳ ngôn ngữ nào khác, chúng tôi đều có đối tác dành cho bạn.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "make",
+            "C": "get",
+            "D": "gain"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. do /duː/ (v): làm\nB. make /meɪk/ (v): làm, tạo ra\nC. get /ɡet/ (v): nhận, đạt được\nD. gain /ɡeɪn/ (v): đạt được, thu được\n- gain something: đạt được, thu được cái gì\nTạm dịch: Expand your global network and gain confidence in speaking a foreign language. (Hãy mở rộng mạng lưới toàn cầu của bạn và tự tin hơn khi nói một ngoại ngữ.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "exciting",
+            "B": "excite",
+            "C": "excitement",
+            "D": "excitingly"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\nA. exciting /ɪkˈsaɪtɪŋ/ (adj): thú vị, hào hứng\nB. excite /ɪkˈsaɪt/ (v): kích thích, làm hào hứng\nC. excitement /ɪkˈsaɪtmənt/ (n): sự hào hứng, sự kích động\nD. excitingly /ɪkˈsaɪtɪŋli/ (adv): một cách thú vị, một cách hào hứng\nMạo từ (an) + tính từ (exciting) + cụm danh từ (language journey)\nTạm dịch: Register now and get ready to embark on an exciting language journey with us. (Đăng ký ngay bây giờ và sẵn sàng bắt đầu một hành trình ngôn ngữ thú vị cùng chúng tôi.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about remote work and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "REMOTE WORK",
+      "passage": "Working from home has become increasingly common, providing employees with greater flexibility and control over their work environments. Without the need for long commutes, people have more time for family, personal interests, or simply to rest. A personalized workspace at home can also lead to higher productivity, as individuals can adjust their surroundings to suit their needs. Many companies now support remote work, recognizing its benefits for both employee well-being and business outcomes.\n\nHowever, working from home does bring certain challenges. For example, while remote work can boost productivity, some people find it hard to stay focused without the structure of an office setting. There's also a risk of isolation, as virtual meetings don't always fully replace face-to-face interactions. However, companies are increasingly devising creative strategies to mitigate these drawbacks, using sophisticated collaboration tools and arranging virtual social activities to preserve a sense of team cohesion.\n\nAnother difficulty with working from home is the blurred line between work and personal life. With workspaces merged into the home environment, the temptation to check emails or tackle tasks outside of regular hours can lead to an \"always-on\" mentality. Setting clear schedules and defining specific working hours is essential to ensure a healthy balance.\n\nLooking forward, remote work is likely to remain a popular choice, supported by ever-advancing technology. Many companies are considering hybrid models, allowing employees to split their time between home and office. This flexible approach can balance the productivity of remote work with the social and collaborative benefits of in-person interactions. As remote work continues to evolve, it will reshape traditional work culture, requiring adaptation from both businesses and employees.\n\n(Adapted from BreakingNewEnglish)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "According to the passage, which of the following is NOT an advantage of working from home?",
+          "context": "",
+          "options": {
+            "A": "higher productivity",
+            "B": "greater flexibility",
+            "C": "higher income",
+            "D": "more time"
+          },
+          "correctAnswer": "C",
+          "explanation": "Theo đoạn văn, điều nào sau đây KHÔNG phải là lợi thế của việc làm việc tại nhà?\nThông tin: Working from home has become increasingly common, providing employees with greater flexibility and control over their work environments. Without the need for long commutes, people have more time for family, personal interests, or simply to rest. A personalized workspace at home can also lead to higher productivity...\n→ A, B, D được đề cập là lợi thế của việc làm việc tại nhà.\n→ C không được đề cập."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word mitigate in paragraph 2 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "notice",
+            "B": "fix",
+            "C": "extend",
+            "D": "overcome"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'mitigate' trong đoạn 2 TRÁI NGHĨA với 'extend'.\nA. notice /ˈnəʊtɪs/ (v): chú ý, nhận ra\nB. fix /fɪks/ (v): sửa chữa, khắc phục\nC. extend /ɪkˈstend/ (v): mở rộng, kéo dài\nD. overcome /ˌəʊvəˈkʌm/ (v): vượt qua, khắc phục\nmitigate (v): giảm nhẹ, giảm thiểu >< extend (v)\nTạm dịch: However, companies are increasingly devising creative strategies to mitigate these drawbacks, using sophisticated collaboration tools and arranging virtual social activities to preserve a sense of team cohesion."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word their in paragraph 4 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "hybrid models",
+            "B": "companies",
+            "C": "benefits",
+            "D": "employees"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'their' trong đoạn 4 đề cập đến 'employees'.\nTạm dịch: Many companies are considering hybrid models, allowing employees to split their time between home and office. (Nhiều công ty đang cân nhắc các mô hình kết hợp, cho phép nhân viên phân chia thời gian giữa nhà và văn phòng.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word adjust in paragraph 1 could be best replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "leave",
+            "B": "divide",
+            "C": "adapt",
+            "D": "destroy"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'adjust' trong đoạn 1 có thể được thay thế tốt nhất bằng 'adapt'.\nA. leave /liːv/ (v): rời đi, để lại\nB. divide /dɪˈvaɪd/ (v): chia, phân chia\nC. adapt /əˈdæpt/ (v): thích nghi, điều chỉnh\nD. destroy /dɪˈstrɔɪ/ (v): phá hủy, tàn phá\nadjust (v): điều chỉnh = adapt (v)\nTạm dịch: A personalized workspace at home can also lead to higher productivity, as individuals can adjust their surroundings to suit their needs."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Working from home allows for a better balance between work and personal life.",
+            "B": "One challenge of remote work is the difficulty separating professional tasks from personal time.",
+            "C": "The main issue with remote work is the inability to complete tasks efficiently.",
+            "D": "A major drawback of working remotely is the lack of communication with colleagues."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân trong đoạn 3 một cách tốt nhất?\nA. Làm việc tại nhà giúp cân bằng tốt hơn giữa công việc và cuộc sống cá nhân → Sai, trái ngược nghĩa câu gạch chân.\nB. Một thách thức của công việc từ xa là khó khăn trong việc tách biệt các nhiệm vụ chuyên môn với thời gian cá nhân → Đúng, phù hợp diễn giải lại câu gạch chân.\nC. Vấn đề chính của công việc từ xa là không thể hoàn thành nhiệm vụ một cách hiệu quả → Sai, câu này mang ý nghĩa khác với câu gạch chân.\nD. Một nhược điểm lớn của làm việc từ xa là thiếu giao tiếp với đồng nghiệp → Sai, câu gạch chân không đề cập đến vấn đề giao tiếp với đồng nghiệp.\nTạm dịch: Another difficulty with working from home is the blurred line between work and personal life. (Một khó khăn khác khi làm việc tại nhà là ranh giới mờ nhạt giữa công việc và cuộc sống cá nhân.)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Working from home does not require any schedule management.",
+            "B": "Companies are eliminating remote work due to its negative impact.",
+            "C": "Technology is helping companies overcome remote work challenges.",
+            "D": "Virtual meetings completely replace the need for in-person interactions."
+          },
+          "correctAnswer": "C",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA. Làm việc tại nhà không yêu cầu bất kỳ sự quản lý lịch trình nào → Sai. Setting clear schedules and defining specific working hours is essential.\nB. Các công ty đang loại bỏ hình thức làm việc từ xa do tác động tiêu cực của nó → Sai. Many companies now support remote work.\nC. Công nghệ đang giúp các công ty vượt qua những thách thức của hình thức làm việc từ xa → Đúng.\nD. Các cuộc họp ảo thay thế hoàn toàn nhu cầu tương tác trực tiếp → Sai. Virtual meetings don't always fully replace face-to-face interactions.\nThông tin: companies are increasingly devising creative strategies to mitigate these drawbacks, using sophisticated collaboration tools..."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention the benefit of remote work for both employees and businesses?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 4",
+            "C": "Paragraph 1",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong đoạn văn nào, tác giả đề cập đến lợi ích của việc làm việc từ xa đối với cả nhân viên và doanh nghiệp?\nTác giả đề cập đến lợi ích của việc làm việc từ xa đối với cả nhân viên và doanh nghiệp trong đoạn 1.\nThông tin: Many companies now support remote work, recognizing its benefits for both employee well-being and business outcomes."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer discuss the challenge of balancing work and personal life while working from home?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 3",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong đoạn văn nào, tác giả thảo luận về thách thức cân bằng giữa công việc và cuộc sống cá nhân khi làm việc tại nhà?\nTác giả thảo luận về thách thức cân bằng giữa công việc và cuộc sống cá nhân khi làm việc tại nhà trong đoạn 3.\nThông tin: Another difficulty with working from home is the blurred line between work and personal life. With workspaces merged into the home environment, the temptation to check emails or tackle tasks outside of regular hours can lead to an \"always-on\" mentality."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about social media and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 31 to 35.",
+      "passageTitle": "RISKS OF SOCIAL MEDIA FOR TEENS",
+      "passage": "Social media has become very popular. However, it has many risks for teens. This essay will explain the biggest risks of social media and give some ideas on how to avoid them.\n\nOne of the biggest things teens need to understand is that the things they post are permanent. If they post on social media today, it could affect their life in the future. Teens may post things (31)________, and in the future, a company could find these. Many people have lost their jobs because of things they posted years ago, so teens need to be careful what they post now.\n\nThe second biggest risk for teens is social media addiction. (32)________. It can affect their ability to communicate with people, and it also causes their grades to go down. Teenagers should limit their time on social media and spend more time interacting with friends in person.\n\nThe last risk I want to talk about (33)________. Teens need to understand that they can get malware by downloading bad software and get viruses by clicking a link or visiting a bad website on social media. These slow down the computer and can even destroy important files. (34)________.\n\nIn conclusion, we all know that social media is a big part of most teens lives now. It can be interesting and fun, but using it carelessly can also be risky. However, thinking about what they post, spending less time online, and being careful about possible threats, (35)________.\n\n(Adapted from i-Learn Smart Word)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "have led to negative outcomes for many professionals",
+            "B": "could harm their reputation later in life",
+            "C": "which the consequences might affect their opportunities",
+            "D": "that can make them look like bad people"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy câu đã có chủ ngữ 'teens' (thanh thiếu niên) và chủ ngữ 'may post' (có thể đăng); do vậy ta có thể dùng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ bổ nghĩa cho danh từ 'things' (những thứ). Ta xét từng đáp án.\n- Loại A và B vì sử dụng động từ có chia thì 'have led to' và 'could harm'.\n- Loại C vì sử dụng sai đại từ quan hệ, ta dùng 'whose' để thay cho tính từ sở hữu trong mệnh đề quan hệ.\nTạm dịch: Teens may post things that can make them look like bad people, and in the future, a company could find these. (Thanh thiếu niên có thể đăng những thứ có thể khiến họ trông giống người xấu, và trong tương lai, một công ty có thể tìm thấy những thứ này.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The reduction in time spent studying, seeing friends, or doing extracurricular activities is a growing concern",
+            "B": "Researchers have studied the effects of social media on studying, seeing friend, or doing extracurricular activities",
+            "C": "To improve their lifestyle, teens should focus more on studying, seeing friends, or doing extracurricular activities",
+            "D": "Too much time on social media means less time studying, seeing friends, or doing extracurricular activities"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu hoàn chỉnh phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Việc giảm thời gian học tập, gặp gỡ bạn bè hoặc tham gia các hoạt động ngoại khóa đang là mối lo ngại ngày càng tăng → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh, chỉ đề cập về một mối quan tâm, không liên kết với câu trước về ý 'social media addiction'.\nB. Các nhà nghiên cứu đã nghiên cứu tác động của mạng xã hội đến việc học tập, gặp gỡ bạn bè hoặc tham gia các hoạt động ngoại khóa → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh, không liên kết với câu trước về ý 'social media addiction'.\nC. Để cải thiện lối sống, thanh thiếu niên nên tập trung hơn vào việc học tập, gặp gỡ bạn bè hoặc tham gia các hoạt động ngoại khóa → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nD. Quá nhiều thời gian trên mạng xã hội đồng nghĩa với việc có ít thời gian học tập, gặp gỡ bạn bè hoặc tham gia các hoạt động ngoại khóa → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh, cung cấp một giải thích rõ ràng và trực tiếp về hậu quả của 'social media addiction'."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that mainly involves malware and viruses",
+            "B": "of which the concern is malware and viruses",
+            "C": "is malware and viruses",
+            "D": "being identified as malware and viruses"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu đã có chủ ngữ 'The last risk I want to talk about' (Rủi ro cuối cùng tôi muốn nói đến) nên ta cần điền một động từ có chia thì. Ta xét từng đáp án:\n- Loại A và B vì sử dụng mệnh đề quan hệ.\n- Loại D vì sử dụng hiện tại phân từ 'being'.\nTạm dịch: The last risk I want to talk about is malware and viruses. (Rủi ro cuối cùng tôi muốn nói đến là phần mềm độc hại và virus.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Using antivirus software and avoiding bad websites, their computers can be protected",
+            "B": "Teens must be so careful that they never avoid clicking on suspicious links or downloading unsafe files",
+            "C": "Teens should have good antivirus software, and never click on strange links or take files from strangers",
+            "D": "Without antivirus software, teens may be able to protect their computers from malware and viruses"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một câu hoàn chỉnh phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Sử dụng phần mềm diệt virus và tránh các trang web xấu, máy tính của họ có thể được bảo vệ → Sai vì chủ ngữ chung 'their computers' (máy tính của họ) không thể kết hợp với hiện tại phân từ 'using' (sử dụng) ở mệnh đề phía trước.\nB. Thanh thiếu niên phải hết sức cẩn thận để không bao giờ tránh việc nhấp vào các liên kết đáng ngờ hoặc tải xuống các tệp không an toàn → Sai về logic nghĩa, 'never avoid clicking on' (tức có nghĩa là 'phải nhấp vào') mâu thuẫn với 'careful' (cẩn thận).\nC. Thanh thiếu niên nên có phần mềm chống virus tốt và không bao giờ nhấp vào các liên kết lạ hoặc lấy tệp từ người lạ → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh, đề cập đến cách phòng ngừa cụ thể.\nD. Nếu không có phần mềm chống vi-rút, thanh thiếu niên có thể bảo vệ máy tính của mình khỏi phần mềm độc hại và vi-rút → Sai về logic nghĩa, 'without antivirus software' mâu thuẫn với 'be able to protect'."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "these habits allow teens to ensure their safety on social media",
+            "B": "teens can develop healthier online habits and use social media safely",
+            "C": "the use of social media in a safe manner by teens is encouraged",
+            "D": "safe social media usage is becoming so important to teens"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy mệnh đề phía trước dùng các hiện tại phân từ 'thinking', 'spending' và 'being'. Ta xét từng đáp án:\nA – chủ ngữ chung 'these habits' (những thói quen này) → Sai vì không thể kết hợp với 'thinking', 'spending' và 'being' ở mệnh đề phía trước.\nB – chủ ngữ chung 'teens' (thanh thiếu niên) → Đúng vì có thể kết hợp với 'thinking', 'spending' và 'being' ở mệnh đề phía trước và ngữ nghĩa phù hợp.\nC – chủ ngữ chung 'the use of social media in a safe manner by teens' → Sai vì không thể kết hợp với 'thinking', 'spending' và 'being' ở mệnh đề phía trước.\nD – chủ ngữ chung 'safe social media usage' (việc sử dụng mạng xã hội an toàn) → Sai vì không thể kết hợp với 'thinking', 'spending' và 'being' ở mệnh đề phía trước.\nTạm dịch: However, thinking about what they post, spending less time online, and being careful about possible threats, teens can develop healthier online habits and use social media safely."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of to make a meaningful exchange or text in each of the following questions from 36 to 40.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "a. Mark: I agree. The Cycling-to-school programme proposed by Class 12C is going to impress the judges.\nb. Nam: It's hard to predict who'll win. Other classes also have very interesting projects.\nc. Mark: Tomorrow, we'll get the results of the Green Classroom Competition. Do you think we will win?\n\n(Adapted from Global Success)",
+          "options": {
+            "A": "b-c-a",
+            "B": "c-a-b",
+            "C": "a-c-b",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nMark: Ngày mai, chúng ta sẽ có kết quả của cuộc thi Lớp học Xanh. Cậu có nghĩ chúng ta sẽ thắng không?\nNam: Khó mà đoán được ai sẽ thắng. Các lớp khác cũng có những dự án rất thú vị.\nMark: Tớ đồng ý. Chương trình Đi xe đạp đến trường do lớp 12C đề xuất chắc chắn sẽ gây ấn tượng với ban giám khảo."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "a. Mai: Try listening to English podcasts or audiobooks daily. Start with slow speech and gradually move to natural speed.\nb. Lan: Thanks! I'll check those out!\nc. Lan: How can I improve my English listening skills?\nd. Lan: Any good websites for listening practice?\ne. Mai: BBC Learning English, TED Talks, and ESL Lab are great for improving listening skills.",
+          "options": {
+            "A": "c-a-e-d-b",
+            "B": "a-c-d-e-b",
+            "C": "c-a-d-e-b",
+            "D": "b-a-c-d-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nLan: Làm thế nào để tớ cải thiện kỹ năng nghe tiếng Anh?\nMai: Hãy thử nghe podcast hoặc sách nói tiếng Anh hàng ngày. Bắt đầu với tốc độ chậm rồi dần dần chuyển sang tốc độ tự nhiên.\nLan: Có trang web nào hay để luyện nghe không?\nMai: BBC Learning English, TED Talks và ESL Lab rất tốt để cải thiện kỹ năng nghe.\nLan: Cảm ơn nhé! Tớ sẽ thử xem!"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "Hi Daisy.\na. Last week, my brother said that he had posted some photos on his blog.\nb. I said that he had relied too much on information from social media, and that he shouldn't spend time reading them.\nc. My mum says that my brother needs support from me and I shouldn't complain about his dependence on social media.\nd. Then he told me that some of his friends had left negative comments on the photos, and he would not forget them.\ne. What do you think? Write back soon.\nEva\n\n(Adapted from Friends Global)",
+          "options": {
+            "A": "c-a-d-b-e",
+            "B": "d-b-a-c-e",
+            "C": "a-d-b-c-e",
+            "D": "b-e-a-d-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nChào Daisy.\nTuần trước, em trai tớ nói rằng nó đã đăng một số bức ảnh lên blog. Sau đó, nó kể rằng một số bạn bè đã để lại những bình luận tiêu cực về những bức ảnh đó, và nó sẽ không quên chuyện này. Tớ nói rằng nó dựa dẫm quá nhiều vào thông tin từ mạng xã hội và không nên tốn thời gian đọc những thứ đó. Mẹ tớ bảo rằng em trai tớ cần sự ủng hộ từ tớ và tớ không nên phàn nàn về việc nó phụ thuộc vào mạng xã hội. Cậu nghĩ sao? Viết lại cho tớ sớm nhé.\nEva"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "a. The quick and easy nature of platforms like TikTok and Instagram often leads to decreased attention spans, as viewers become accustomed to rapid changes and instant gratification.\nb. In conclusion, while short-form content can be entertaining and engaging, it is essential to be aware of its potential harms and to practice moderation in consumption to maintain a healthy balance in our lives.\nc. This type of media can also contribute to feelings of anxiety and inadequacy, as individuals may find themselves comparing their lives to the highlights showcased by others.\nd. In recent years, the rise of short-form content has become a significant trend, but its negative effects on viewers cannot be overlooked.\ne. Furthermore, the addictive nature of short-form content can lead to excessive screen time, negatively impacting physical health and social interactions.",
+          "options": {
+            "A": "d-c-a-e-b",
+            "B": "d-a-e-c-b",
+            "C": "a-c-d-e-b",
+            "D": "c-a-e-d-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "DỊCH BÀI:\nTrong những năm gần đây, sự nổi lên của nội dung dạng ngắn đã trở thành một xu hướng đáng kể, nhưng không thể bỏ qua những tác động tiêu cực của nó đối với người xem. Bản chất nhanh chóng và dễ dàng của các nền tảng như TikTok và Instagram thường khiến người xem mất tập trung, vì họ đã quen với những thay đổi nhanh chóng và sự hài lòng tức thì. Hơn nữa, tính gây nghiện của nội dung dạng ngắn có thể dẫn đến thời gian sử dụng màn hình quá mức, ảnh hưởng tiêu cực đến sức khỏe thể chất và các tương tác xã hội. Loại hình truyền thông này cũng có thể góp phần gây ra cảm giác lo lắng và tự ti, khi mọi người so sánh cuộc sống của họ với những khoảnh khắc nổi bật được người khác thể hiện. Tóm lại, mặc dù nội dung dạng ngắn có thể mang tính giải trí và hấp dẫn, nhưng điều quan trọng là phải nhận thức được những tác hại tiềm ẩn của nó và sử dụng có chừng mực để duy trì sự cân bằng lành mạnh trong cuộc sống của chúng ta."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "a. As well as that, it is important to include any special foods that babies, small children, or elderly people in your family may need.\nb. Choose food that can be stored for a long time and food that can be eaten without cooking such as canned foods (soup, fish, meat), fruit, dry foods (crackers and nuts).\nc. On top of that, be sure to store food that you like, and include a few special treats like candy or cookies.\nd. Every day, with extreme weather conditions like floods, earthquakes, and hurricanes occurring more and more often you may want to be ready for them.\ne. In general, the first thing is to stock up on emergency supplies by keeping enough food and water for at least three days in your house.",
+          "options": {
+            "A": "d-b-a-c-e",
+            "B": "d-c-b-e-a",
+            "C": "d-a-e-b-c",
+            "D": "d-e-b-c-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nHàng ngày, với các hiện tượng thời tiết khắc nghiệt như lũ lụt, động đất và bão xảy ra ngày càng thường xuyên, bạn nên chuẩn bị sẵn sàng để đối phó. Nói chung, điều đầu tiên cần làm là dự trữ đồ dùng khẩn cấp bằng cách chuẩn bị đủ thức ăn và nước uống cho ít nhất ba ngày trong nhà của bạn. Hãy chọn những loại thực phẩm có thể bảo quản lâu dài và những loại thực phẩm có thể ăn mà không cần nấu nướng, chẳng hạn như thực phẩm đóng hộp (súp, cá, thịt), trái cây, thực phẩm khô (bánh quy giòn và các loại hạt). Thêm vào đó, hãy chắc chắn dự trữ những loại thực phẩm mà bạn thích và bao gồm một vài món ăn vặt đặc biệt như kẹo hoặc bánh quy. Ngoài ra, điều quan trọng là phải bao gồm bất kỳ loại thực phẩm đặc biệt nào mà trẻ sơ sinh, trẻ nhỏ hoặc người lớn tuổi trong gia đình bạn có thể cần."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.652138+00:00",
+  "updatedAt": "2026-06-08T10:41:58.652138+00:00",
+  "originalFileName": "so_gd_ninh_binh_lan2_.json"
+}

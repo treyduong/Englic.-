@@ -1,0 +1,627 @@
+{
+  "examId": "thpt_tue_tinh_hai_duong_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Tuệ Tĩnh - Hải Dương",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Tue_Tinh_Hai_Duong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HaiDuong",
+    "#TueTinh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks.",
+      "passageTitle": "FIT & ACTIVE GYM MEMBERSHIP",
+      "passage": "Are you looking for a place to work out that is open 24/7? Fit & Active Gym welcomes all fitness levels in a (1)________ environment. Our gym provides (2)________ equipment and a variety of classes, including weightlifting, yoga, and cardio. We have the perfect programs for all of you.\n\nBecome a member for only $35 a month and enjoy a supportive community of fitness enthusiasts. You can also download our app (3)_______ you to track your progress, set goals, and (4)________ connected with other members online. Our personal trainers are here to help you achieve your fitness goals and stay motivated. Start your journey toward a healthier you (5)________ Fit & Active Gym-where fitness meets convenience!\n\nJoin today and (6)________ your first month free!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "support",
+            "B": "supported",
+            "C": "supportive",
+            "D": "supportedly"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng: Chỗ trống cần điền 1 tính từ bổ nghĩa cho danh từ 'environment' => 'supportive' là lựa chọn phù hợp nhất.\n- support /səˈpɔːt/ (v): hỗ trợ\n- supportive /səˈpɔː.tɪv/ (adj): có tính hỗ trợ\nChỗ trống đứng sau mạo từ 'a' và trước danh từ 'environment' → cần tính từ.\nTạm dịch: Fit & Active Gym chào đón mọi cấp độ thể hình trong một môi trường đầy tính hỗ trợ."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "high-quality Japanese new",
+            "B": "new Japanese high-quality",
+            "C": "Japanese high-quality new",
+            "D": "high-quality new Japanese"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự tính từ: OSASCOMP: Opinion - Size - Age - Shape - Color - Origin – Material – Purpose\nopinion → high-quality\nage → new\norigin → Japanese\nTạm dịch: Phòng tập của chúng tôi cung cấp thiết bị mới chất lượng cao của Nhật Bản và nhiều lớp học đa dạng, bao gồm cử tạ, yoga và cardio."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "allowed",
+            "B": "allowing",
+            "C": "that allow",
+            "D": "is allowed"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mệnh đề quan hệ: Mệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và tobe (nếu có), chuyển V sang V-ing.\nTạm dịch: Bạn cũng có thể tải xuống ứng dụng của chúng tôi, cái cho phép bạn theo dõi tiến độ của mình, đặt mục tiêu,..."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "stay",
+            "C": "keep",
+            "D": "play"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ (Collocations): stay connected: duy trì kết nối\nTạm dịch: Bạn cũng có thể tải xuống ứng dụng của chúng tôi, cái mà cho phép bạn theo dõi tiến trình của mình, đặt mục tiêu và duy trì kết nối với các thành viên khác trực tuyến."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "by",
+            "B": "to",
+            "C": "with",
+            "D": "at"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. by: bằng cách\nB. to: đến\nC. with: với, cùng\nD. at: tại\nTạm dịch: Hãy bắt đầu hành trình hướng đến một bạn khỏe mạnh hơn với Fit & Active Gym - nơi thể hình kết hợp với sự tiện lợi!"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "received",
+            "B": "to receive",
+            "C": "receive",
+            "D": "receiving"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc song song: Chỗ trống đứng sau liên từ 'and' nối với động từ nguyên mẫu 'join' → dùng động từ nguyên mẫu.\nTạm dịch: Hãy tham gia ngay hôm nay và nhận tháng đầu tiên miễn phí!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "Practical Tips to Reduce Waste at Home",
+      "passage": "Making small changes at home can make a big difference. Here are some effective actions you can take:\n\n• Use reusable items instead of disposable ones to reduce (7)_______ waste produced each year.\n\n• Save water by fixing leaks and installing water-efficient fixtures. This action helps (8)_______ the consumption of valuable resources and reduces your water bill.\n\n• Sort your recyclables like plastic, metal, and paper. Proper sorting makes (9)________ easier and helps prevent waste.\n\n• (10)_______ using plastic bags, choose a reusable bag that lasts longer and is eco-friendly.\n\n• Buy local products with minimal packaging. Supporting local goods reduces the need for long-distance (11)_________, which lowers emissions and benefits the environment.\n\n• Compost food scraps if possible, as this process transforms organic waste into (12)________ soil, useful for plants and gardens.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "much",
+            "B": "many",
+            "C": "every",
+            "D": "some"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. much + N (không đếm được): nhiều\nB. many + N (số nhiều): nhiều\nC. every + N (số ít): mọi\nD. some + N: một số\nTạm dịch: Sử dụng các vật dụng có thể tái sử dụng thay vì đồ dùng một lần để giảm thiểu lượng rác thải được tạo ra mỗi năm. (waste: danh từ không đếm được → dùng 'much')"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "cut down on",
+            "B": "run out of",
+            "C": "hold back",
+            "D": "put up with"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. cut down on something: cắt giảm cái gì\nB. run out of something: hết cái gì\nC. hold somebody/something back: ngăn chặn ai/cái gì\nD. put up with somebody/something: chịu đựng ai/cái gì\nTạm dịch: Hành động này giúp cắt giảm tiêu thụ những tài nguyên quý giá và giảm hóa đơn nước của bạn."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "conservation",
+            "B": "collection",
+            "C": "recycling",
+            "D": "storage"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. conservation /ˌkɒnsəˈveɪʃn/ (n): sự bảo tồn\nB. collection /kəˈlekʃn/ (n): sự sưu tầm\nC. recycling /ˌriːˈsaɪklɪŋ/ (n): sự tái chế\nD. storage /ˈstɔːrɪdʒ/ (n): sự lưu trữ\nTạm dịch: Việc phân loại đúng cách giúp việc tái chế dễ dàng hơn và ngăn rác thải."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "However",
+            "C": "Although",
+            "D": "Even if"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Instead of: thay vì\nB. However: tuy nhiên\nC. Although: mặc dù\nD. Even if: ngay cả khi\nTạm dịch: Thay vì sử dụng túi nhựa, hãy lựa chọn túi có thể tái sử dụng, bền hơn và thân thiện với môi trường."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "development",
+            "B": "connection",
+            "C": "travel",
+            "D": "transport"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. development /dɪˈveləpmənt/ (n): sự phát triển\nB. connection /kəˈnekʃn/ (n): sự kết nối\nC. travel /ˈtrævl/ (n): việc đi lại, du lịch\nD. transport /ˈtrænspɔːt/ (n): sự vận chuyển\nTạm dịch: Việc ủng hộ các sản phẩm địa phương giúp giảm nhu cầu vận chuyển đường dài, từ đó giảm lượng khí thải và có lợi cho môi trường."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "abundant",
+            "B": "healthy",
+            "C": "fertile",
+            "D": "various"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. abundant /əˈbʌndənt/ (adj): dồi dào\nB. healthy /ˈhelθi/ (adj): lành mạnh\nC. fertile /ˈfɜːtaɪl/ (adj): màu mỡ\nD. various /ˈveəriəs/ (adj): đa dạng\nTạm dịch: Ủ phân thực phẩm nếu có thể, vì quá trình này biến chất thải hữu cơ thành đất màu mỡ, hữu ích cho cây cối và vườn tược."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "Dear Mr. Thompson,\na. The topics covered were quite insightful, focusing on time management and budgeting\nb. I would appreciate the chance to discuss how I can apply these skills.\nc. I hope this message finds you well.\nd. I believe the knowledge I gained could benefit our team's projects.\ne. I am writing to share that I recently completed the online project management course.\nLook forward to your response.",
+          "options": {
+            "A": "c-e-a-d-b",
+            "B": "c-d-a-b-e",
+            "C": "e-a-d-c-b",
+            "D": "c-a-d-b-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch:\nKính gửi ông Thompson,\nTôi hy vọng ông vẫn khỏe. Tôi viết email này để chia sẻ rằng tôi vừa hoàn thành khóa học quản lý dự án trực tuyến. Các chủ đề được đề cập rất bổ ích, tập trung vào quản lý thời gian và lập ngân sách. Tôi tin rằng kiến thức mà tôi nhận được có thể mang lại lợi ích cho các dự án của đội chúng ta. Tôi rất mong có cơ hội thảo luận về cách áp dụng những kỹ năng này.\nRất mong nhận được phản hồi từ ông."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. David: That's good! What kind of work/will you be doing?\nb. Sophie: I'm a bit nervous but excited to take a new role.\nc. Sophie: I'm about to start my internship next week.\nd. David: Sounds like a fantastic opportunity! Are you feeling prepared?\ne. Sophie: I'll be assisting in marketing and social media projects.",
+          "options": {
+            "A": "b-c-d-a-e",
+            "B": "d-c-b-a-e",
+            "C": "e-a-d-c-b",
+            "D": "d-a-e-c-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tạm dịch:\nSophie: Mình sắp bắt đầu kỳ thực tập vào tuần tới.\nDavid: Nghe có vẻ là một cơ hội tuyệt vời! Bạn đã sẵn sàng chưa?\nSophie: Mình hơi lo lắng nhưng cũng rất hào hứng khi đảm nhận vai trò mới.\nDavid: Tuyệt vời! Bạn sẽ làm công việc gì vậy?\nSophie: Mình sẽ hỗ trợ các dự án về marketing và mạng xã hội."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. Laura: Hi! How's everything going with you lately?\nb. Laura: That sounds nice! I've been good, just keeping busy with some new projects.\nc. Ben: Hello! I've been doing well, thanks. Just got back from a short vacation. And you?",
+          "options": {
+            "A": "c-b-a",
+            "B": "a-b-c",
+            "C": "b-a-c",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tạm dịch:\nLaura: Chào! Dạo này bạn thế nào rồi?\nBen: Chào! Mình ổn, cảm ơn nhé. Mình vừa đi nghỉ ngắn ngày về. Còn bạn thì sao?\nLaura: Nghe thật thú vị! Mình cũng ổn, chỉ là bận rộn với vài dự án mới."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. I often explore local parks and neighbourhoods to capture interesting scenes and moments.\nb. I'm now working on a photo project that highlights the beauty of everyday life.\nc. Initially, I struggled with understanding the technical aspects of my camera, but I gradually improved.\nd. This journey has not only enhanced my skills but also deepened my appreciation for the small details that often go unnoticed in our busy lives.\ne. Taking up photography as a hobby has transformed my perspective on the world.",
+          "options": {
+            "A": "e-b-a-d-c",
+            "B": "e-a-d-c-b",
+            "C": "e-c-a-b-d",
+            "D": "e-d-b-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tạm dịch:\nViệc theo đuổi sở thích nhiếp ảnh đã thay đổi hoàn toàn cách nhìn của tôi về thế giới. Ban đầu, tôi gặp khó khăn trong việc hiểu các khía cạnh kỹ thuật của máy ảnh, nhưng tôi đã dần cải thiện. Tôi thường khám phá các công viên và khu phố địa phương để chụp lại những cảnh đẹp và khoảnh khắc thú vị. Hiện tại, tôi đang thực hiện một dự án ảnh làm nổi bật vẻ đẹp của cuộc sống thường ngày. Hành trình này không chỉ nâng cao kỹ năng của tôi mà còn khiến tôi trân trọng hơn những chi tiết nhỏ bé mà chúng ta thường không để ý trong cuộc sống bận rộn."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. This year, the city has also seen a significant increase in bike lanes and pedestrian paths, encouraging more people to travel in an eco-friendly manner.\nb. These efforts include expanding bus routes and introducing electric buses to reduce air pollution.\nc. The city's commitment to enhancing mobility has led to greater community engagement and awareness about the benefits of sustainable transport.\nd. However, some residents argue that while these initiatives are helpful, they do not fully address the ongoing traffic congestion issues in the area.\ne. The city of Riverton has recently launched an ambitious campaign to improve public transportation.",
+          "options": {
+            "A": "e-d-c-a-b",
+            "B": "e-b-a-c-d",
+            "C": "e-c-b-d-a",
+            "D": "e-a-d-c-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tạm dịch:\nThành phố Riverton gần đây đã khởi động một chiến dịch đầy tham vọng để cải thiện hệ thống giao thông công cộng. Những nỗ lực này bao gồm mở rộng tuyến xe buýt và giới thiệu xe buýt điện nhằm giảm ô nhiễm không khí. Năm nay, thành phố cũng đã tăng đáng kể số lượng làn đường dành cho xe đạp và lối đi bộ, khuyến khích nhiều người di chuyển theo cách thân thiện với môi trường. Cam kết của thành phố trong việc nâng cao khả năng di chuyển đã thúc đẩy sự tham gia của cộng đồng và nâng cao nhận thức về lợi ích của giao thông bền vững. Tuy nhiên, một số cư dân cho rằng mặc dù các sáng kiến này rất hữu ích, nhưng chúng chưa giải quyết triệt để các vấn đề ùn tắc giao thông đang diễn ra trong khu vực."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about inspiring life stories and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Inspiring Life Stories",
+      "passage": "Inspiring life stories can serve as a beacon of hope and motivation for many people. (18)_______. These stories highlight the resilience and perseverance of individuals who have overcome significant challenges. One of the most compelling aspects of these stories is their ability to connect with people on a personal level. (19)______. Whether it's a story of someone who achieved success despite facing adversity, or someone who dedicated their life to helping others, these narratives resonate deeply.\n\nAnother important element of these stories is the lessons they impart. (20)________. They teach us that determination, hard work, and a positive mindset can lead to remarkable achievements. These stories also emphasize the importance of kindness, empathy, and compassion. As we read about the journeys of others, we are reminded of our own potential to make a difference.\n\nTo fully appreciate and learn from these stories, it's essential to engage with them thoughtfully. (21)________. Reflecting on the experiences and insights shared can provide valuable guidance in our own lives. It's through these reflections that we find inspiration and the courage to pursue our own dreams.\n\nSharing these stories with others can also have a profound impact. (22)______. By spreading positive and inspiring narratives, we contribute to a culture of hope and encouragement. We remind ourselves and others that no matter the obstacles we face, there is always a path forward.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Life stories are seldom impactful.",
+            "B": "People are often inspired by stories of triumph.",
+            "C": "Adversity is a common theme in literature.",
+            "D": "Stories about struggles are not interesting."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Những câu chuyện cuộc đời hiếm khi có tác động.\nB. Mọi người thường được truyền cảm hứng bởi những câu chuyện chiến thắng.\nC. Nghịch cảnh là một chủ đề phổ biến trong văn học.\nD. Những câu chuyện về khó khăn không thú vị.\nTạm dịch: Những câu chuyện cuộc đời truyền cảm hứng có thể trở thành ngọn hải đăng của hy vọng và động lực cho nhiều người. Mọi người thường được truyền cảm hứng bởi những câu chuyện chiến thắng."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Overcoming challenges is a universal experience.",
+            "B": "Adversity is an inevitable part of life.",
+            "C": "Personal narratives are often fictional.",
+            "D": "Success stories are easy to relate to."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Vượt qua thử thách là một trải nghiệm của chung.\nB. Nghịch cảnh là một phần không thể tránh khỏi của cuộc sống.\nC. Những câu chuyện cá nhân thường là hư cấu.\nD. Những câu chuyện thành công dễ dàng để đồng cảm.\nTạm dịch: Một trong những khía cạnh hấp dẫn nhất của những câu chuyện này là khả năng kết nối với mọi người ở cấp độ cá nhân. Vượt qua thử thách là một trải nghiệm mà ai cũng từng có."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Life stories can be educational and inspirational.",
+            "B": "Personal success is the only valuable lesson.",
+            "C": "Stories of triumph have no moral lessons.",
+            "D": "Struggles are not important in life stories."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Những câu chuyện cuộc đời có thể mang tính giáo dục và truyền cảm hứng.\nB. Thành công cá nhân là bài học duy nhất có giá trị.\nC. Những câu chuyện chiến thắng không có bài học đạo đức.\nD. Khó khăn không quan trọng trong những câu chuyện cuộc đời.\nTạm dịch: Một yếu tố quan trọng khác của những câu chuyện này là những bài học mà chúng mang lại. Những câu chuyện cuộc đời có thể mang tính giáo dục và truyền cảm hứng."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Reading quickly through life stories is effective.",
+            "B": "Analyzing every detail of a story is unnecessary.",
+            "C": "Engaging with stories",
+            "D": "Reflecting on life stories helps us learn."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Việc đọc nhanh qua các câu chuyện cuộc đời là hiệu quả.\nB. Việc phân tích mọi chi tiết của câu chuyện là không cần thiết.\nC. Việc tham gia vào các câu chuyện.\nD. Việc suy ngẫm về các câu chuyện cuộc đời giúp chúng ta học hỏi.\nTạm dịch: Để thực sự trân trọng và học hỏi từ những câu chuyện này, điều cần thiết là tham gia vào chúng một cách sâu sắc. Việc suy ngẫm về các câu chuyện cuộc đời giúp chúng ta học hỏi."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Stories of failure are more impactful.",
+            "B": "Stories should be shared to inspire others.",
+            "C": "Sharing negative stories creates a supportive environment.",
+            "D": "Keeping stories to oneself is beneficial."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Những câu chuyện thất bại có tác động mạnh mẽ hơn.\nB. Những câu chuyện nên được chia sẻ để truyền cảm hứng cho người khác.\nC. Việc chia sẻ những câu chuyện tiêu cực tạo ra môi trường hỗ trợ.\nD. Việc giữ câu chuyện cho riêng mình là có lợi.\nTạm dịch: Việc chia sẻ những câu chuyện này với người khác cũng có thể mang lại tác động sâu sắc. Những câu chuyện nên được chia sẻ để truyền cảm hứng cho người khác."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Milu's Story",
+      "passage": "Milu was born in a small village in the north of India, and never had the chance of going to school, because her family needed her to work. So she grew up never having learned to read or write. She was a little sad about it, but she didn't let it upset her too much, and tried to think about other things.\n\nShe went through life, never being able to do what she wanted, because she felt that if she couldn't read, then she was somehow less than everybody else. This meant that she didn't make many friends and didn't go out much. She thought people would think she was stupid, and she didn't want them to laugh at her.\n\nWhen she was fifty-six, she got a job cleaning a school and when she had finished her work, she used to sit and watch the little kids do their lessons. She didn't realise that one of the teachers watched her while she watched the kids, and one day, as she was about to leave, the teacher asked her to sit in the class. The kids thought it was very funny, but the teacher patiently started Milu on her first lesson to learn to read.\n\nThat was a few years ago, and now Milu can read and write as well as any of the other kids. She still cleans the school because she likes her job, but she doesn't feel less than everybody else anymore. The teacher, who is now her friend, sometimes gives her a book to read and she learns about people living in other parts of the world.\n\nShe has a granddaughter who studies at the same school, and sometimes she helps her with her homework. Being able to do that makes her feel so happy that when she stays alone she has a little cry. When she was in her little village as a child, she would never have dreamt that one day she would be able to help her granddaughter with her homework. She owes gratitude to her teacher friend for the gift she was given.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT what Milu gains from learning?",
+          "context": "",
+          "options": {
+            "A": "Feeling interested in her cleaning job",
+            "B": "Becoming a friend of the teacher's",
+            "C": "Knowing more about the world",
+            "D": "Reading some books"
+          },
+          "correctAnswer": "A",
+          "explanation": "Điều nào sau đây KHÔNG phải là điều Milu đạt được từ việc học?\nA. Cảm thấy hứng thú với công việc dọn dẹp của mình\nB. Trở thành bạn của giáo viên\nC. Biết thêm về thế giới\nD. Đọc một số cuốn sách\nThông tin:\n+ The teacher, who is now her friend, sometimes gives her a book to read and she learns about people living in other parts of the world. → B, C được đề cập\n+ That was a few years ago, and now Milu can read and write as well as any of the other kids. → D được đề cập\n→ Chọn đáp án A"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "In which paragraph does the writer mention that Milu feels grateful to her teacher?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 5"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả đề cập rằng Milu cảm thấy biết ơn giáo viên của mình trong đoạn nào?\nThông tin: She owes gratitude to her teacher friend for the gift she was given. (Cô mang ơn người bạn giáo viên vì món quà mà cô ấy đã nhận được.) → Đoạn 5"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Milu likes cleaning the school but she wants to become a teacher so that everyone admires her.",
+            "B": "Milu likes cleaning the school and she doesn't want to learn how to read and write any longer.",
+            "C": "Milu likes cleaning the school but she no longer feels socially inferior as she has learnt how to read and write.",
+            "D": "Milu likes cleaning the school and she doesn't want to change her job as she feels socially inferior."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây diễn đạt lại đúng nhất câu gạch chân trong đoạn 4?\nA. Milu thích dọn dẹp trường học nhưng cô muốn trở thành giáo viên để được mọi người ngưỡng mộ.\nB. Milu thích dọn dẹp trường học và cô không muốn học đọc và viết thêm nữa.\nC. Milu thích dọn dẹp trường học nhưng cô không còn cảm thấy mình thấp kém hơn xã hội vì cô đã học đọc và viết.\nD. Milu thích dọn dẹp trường học và cô không muốn thay đổi công việc vì cô cảm thấy thấp kém hơn xã hội.\nThông tin: She still cleans the school because she likes her job, but she doesn't feel less than everybody else anymore. (Cô vẫn dọn dẹp trường học vì cô thích công việc của mình, nhưng cô không còn cảm thấy thua kém người khác nữa.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word 'patiently' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "irritably",
+            "B": "irrationally",
+            "C": "irrelevantly",
+            "D": "irregularly"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'patiently' trong đoạn 3 TRÁI NGHĨA với:\nA. irritably /ˈɪr.ɪ.tə.bli/ (adv): một cách cáu kinh\nB. irrationally /ɪˈræʃ.ən.əl.i/ (adv): một cách vô lý\nC. irrelevantly /ɪˈrel.ə.vənt.li/ (adv): một cách không liên quan\nD. irregularly /ɪˈreg.jə.lə.li/ (adv): một cách không đều đặn\npatiently /ˈpeɪʃənt.li/ (adv): một cách kiên nhẫn >< irritably\nThông tin: The kids thought it was very funny, but the teacher patiently started Milu on her first lesson to learn to read."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "The words 'went through' can be replaced with",
+          "context": "",
+          "options": {
+            "A": "started",
+            "B": "experienced",
+            "C": "felt bored with",
+            "D": "felt happy with"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'went through' có thể được thay thế bằng:\nA. bắt đầu\nB. trải nghiệm\nC. cảm thấy nhàm chán với\nD. cảm thấy hạnh phúc với\ngo through something: trải qua cái gì = experience\nThông tin: She went through life, never being able to do what she wanted, because she felt that if she couldn't read, then she was somehow less than everybody else."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Milu, an Indian woman, has learnt a lot from the children in the school where she works as a cleaner.",
+            "B": "Milu, an Indian woman, has become a teacher though she had no education in her childhood.",
+            "C": "Milu, an Indian woman, has changed her life since she was taught how to read and write.",
+            "D": "Milu, an Indian woman, has been socially inferior since she has no education in her life."
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây ĐÚNG theo bài đọc?\nA. Milu, một người phụ nữ Ấn Độ, đã học được nhiều điều từ các em nhỏ ở trường nơi cô làm lao công.\nB. Milu, một người phụ nữ Ấn Độ, đã trở thành giáo viên mặc dù không được giáo dục khi còn nhỏ.\nC. Milu, một người phụ nữ Ấn Độ, đã thay đổi cuộc đời mình kể từ khi cô được dạy cách đọc và viết.\nD. Milu, một người phụ nữ Ấn Độ, luôn cảm thấy thấp kém về mặt xã hội vì cô không được giáo dục trong đời.\nThông tin: That was a few years ago, and now Milu can read and write as well as any of the other kids. She still cleans the school because she likes her job, but she doesn't feel less than everybody else anymore."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "What does the phrase 'the gift' refer to?",
+          "context": "",
+          "options": {
+            "A": "the money Milu owes to the teacher",
+            "B": "Milu's childhood dream",
+            "C": "what the teacher could teach her",
+            "D": "what Milu could do to her granddaughter."
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ 'the gift' đề cập đến gì?\nA. số tiền Milu nợ giáo viên\nB. giấc mơ thuở nhỏ của Milu\nC. những gì mà giáo viên có thể dạy cô\nD. điều Milu có thể làm cho cháu gái của mình\nThông tin: She owes gratitude to her teacher friend for the gift she was given. (Cô mang ơn người bạn giáo viên vì món quà mà cô ấy đã nhận được.)"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer mention Milu's inferiority?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 2",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả đề cập cảm giác thấp kém của Milu trong đoạn nào?\nThông tin: She went through life, never being able to do what she wanted, because she felt that if she couldn't read, then she was somehow less than everybody else. (Cô đã sống cả cuộc đời mà không bao giờ có thể làm được những gì mình muốn, bởi vì cô ấy cảm thấy rằng nếu không biết đọc thì mình sẽ kém cỏi hơn mọi người khác.) → Đoạn 2"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "URBANIZATION: REASONS AND RESULTS",
+      "passage": "Urbanization, the movement of people from rural to urban areas, has become a defining trend globally. (I). The primary reason for urbanization is the search for better economic opportunities. Cities typically offer more jobs, higher wages, and career growth potential, attracting people from less developed regions. (II). In addition, urban areas often provide greater access to education, healthcare, and essential services, which are typically limited in rural regions. (III). Collectively, these factors make cities particularly appealing to young people who seek to improve their quality of life and to families looking for better opportunities for their children. (IV)\n\nAnother major driver of urbanization is infrastructure development. Cities often invest heavily in transportation, advanced communication networks, and reliable public services, which make urban living more convenient and efficient. Such infrastructure attracts both businesses and residents, contributing to a city's economic expansion and reinforcing the cycle of urban growth. This availability of resources and opportunities makes cities desirable for companies and individuals, boosting both local economies and international business appeal.\n\nHowever, urbanization also presents significant challenges. Overcrowding, traffic congestion, and increased pollution are common in highly urbanized areas. These problems strain city resources and can reduce the quality of life for residents. Furthermore, as cities expand, they often encroach on natural landscapes, leading to habitat destruction and a loss of biodiversity. This encroachment affects local ecosystems and can create environmental issues that extend beyond city borders. Balancing urban growth with sustainable practices remains a critical issue for many cities worldwide.\n\nIn response, some cities are adopting \"smart growth\" policies. These policies aim to manage urban expansion in a way that minimizes environmental impact and promotes a higher quality of life. By focusing on sustainable infrastructure, green spaces, and efficient resource management, smart growth policies attempt to address the downsides of urbanization while still supporting economic and social development.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1? \"The primary reason for urbanization is the search for better economic opportunities.\"",
+          "context": "",
+          "options": {
+            "A": "People move to cities mainly to find improved education.",
+            "B": "Better living conditions are the main reason for migration.",
+            "C": "Urban areas are attracting residents due to economic incentives.",
+            "D": "Economic opportunity drives many people to move to cities."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây diễn đạt lại đúng nhất câu được gạch chân trong đoạn 1?\nA. Mọi người di cư đến thành phố chủ yếu để tìm kiếm giáo dục cải thiện.\nB. Điều kiện sống tốt hơn là lý do chính dẫn đến sự di cư.\nC. Khu vực đô thị thu hút cư dân nhờ các ưu đãi kinh tế.\nD. Cơ hội kinh tế thúc đẩy nhiều người chuyển đến sống ở thành phố.\nThông tin: The primary reason for urbanization is the search for better economic opportunities. (Lý do chính cho quá trình đô thị hóa là tìm kiếm các cơ hội kinh tế tốt hơn.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Urbanization in many developing countries often results in significant economic benefits for rural regions.",
+            "B": "Cities are expanding too quickly, that's why it often leads to overpopulation, pollution and lack of resources.",
+            "C": "Smart growth policies are urgently needed to address the consequences of rapid urbanization in rural areas.",
+            "D": "Urbanization is driven by economic opportunities and improved services but causes environmental challenges."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất nội dung bài đọc?\nA. Đô thị hóa ở nhiều quốc gia đang phát triển thường mang lại lợi ích kinh tế đáng kể cho các khu vực nông thôn.\nB. Các thành phố mở rộng quá nhanh, dẫn đến tình trạng quá tải dân số, ô nhiễm và thiếu tài nguyên.\nC. Các chính sách phát triển thông minh rất cần thiết để giải quyết hậu quả của đô thị hóa nhanh chóng ở nông thôn.\nD. Đô thị hóa được thúc đẩy bởi cơ hội kinh tế và các dịch vụ cải thiện nhưng gây ra các thách thức về môi trường.\nTóm tắt: Đô thị hóa chủ yếu do nhu cầu tìm kiếm cơ hội kinh tế tốt hơn, cùng với việc tiếp cận giáo dục, y tế và các dịch vụ thiết yếu, vốn dễ dàng có ở thành phố. Đô thị hóa cũng gây ra tình trạng quá tải dân số, tắc nghẽn giao thông và ô nhiễm, gây căng thẳng tài nguyên của thành phố và giảm chất lượng sống. Để giảm thiểu tác động tiêu cực của đô thị hóa, một số thành phố áp dụng chính sách 'tăng trưởng thông minh'. → Đô thị hóa được thúc đẩy bởi cơ hội kinh tế và các dịch vụ cải thiện nhưng gây ra các thách thức về môi trường."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following best summarizes paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Infrastructure development enhances urban life and drives economic growth.",
+            "B": "Urbanization often causes environmental challenges for cities.",
+            "C": "People move to cities for education and healthcare access.",
+            "D": "Smart growth policies can manage urban expansion."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất đoạn 2?\nA. Phát triển cơ sở hạ tầng cải thiện đời sống đô thị và thúc đẩy tăng trưởng kinh tế.\nB. Đô thị hóa thường gây ra các thách thức về môi trường cho các thành phố.\nC. Mọi người chuyển đến thành phố để tiếp cận giáo dục và chăm sóc sức khỏe.\nD. Các chính sách phát triển thông minh có thể quản lý việc mở rộng đô thị.\nThông tin: Đoạn 2 nói về những lợi ích của việc phát triển cơ sở hạ tầng đối với đô thị hóA. Dựa vào câu chủ đề đầu đoạn: Another major driver of urbanization is infrastructure development."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The phrase 'these factors' in paragraph 1 refers to",
+          "context": "",
+          "options": {
+            "A": "cities and rural areas",
+            "B": "jobs, education, and healthcare",
+            "C": "infrastructure and environmental policies",
+            "D": "population and income"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ 'these factors' trong đoạn 1 đề cập đến:\nA. thành phố và khu vực nông thôn\nB. công việc, giáo dục và chăm sóc sức khỏe\nC. cơ sở hạ tầng và chính sách môi trường\nD. dân số và thu nhập\nThông tin: Cities typically offer more jobs, higher wages, and career growth potential, attracting people from less developed regions. In addition, urban areas often provide greater access to education, healthcare, and essential services, which are typically limited in rural regions. Collectively, these factors make cities particularly appealing..."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following is NOT mentioned as a cause of urbanization?",
+          "context": "",
+          "options": {
+            "A": "Search for employment",
+            "B": "Need for environmental policies",
+            "C": "Development of infrastructure",
+            "D": "Greater educational opportunities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Điều nào sau đây KHÔNG được đề cập là nguyên nhân của đô thị hóa?\nA. Tìm kiếm việc làm\nB. Nhu cầu về chính sách môi trường\nC. Phát triển cơ sở hạ tầng\nD. Cơ hội giáo dục lớn hơn\nThông tin:\n+ The primary reason for urbanization is the search for better economic opportunities. → A được đề cập\n+ Another major driver of urbanization is infrastructure development. → C được đề cập\n+ In addition, urban areas often provide greater access to education, healthcare, and essential services. → D được đề cập\n→ B không được đề cập là nguyên nhân."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "According to the passage, which of the following is TRUE about smart growth policies?",
+          "context": "",
+          "options": {
+            "A": "They focus on green spaces and infrastructure to manage urbanization sustainably.",
+            "B": "They limit job growth in order to reduce population density.",
+            "C": "They aim to reduce access to education and healthcare in rural areas.",
+            "D": "They emphasize industrial development and economic incentives in cities."
+          },
+          "correctAnswer": "A",
+          "explanation": "Điều nào sau đây ĐÚNG về các chính sách phát triển thông minh?\nA. Chúng tập trung vào không gian xanh và cơ sở hạ tầng để quản lý đô thị hóa một cách bền vững.\nB. Chúng giới hạn tăng trưởng việc làm nhằm giảm mật độ dân số.\nC. Chúng nhằm giảm tiếp cận giáo dục và chăm sóc sức khỏe ở các khu vực nông thôn.\nD. Chúng nhấn mạnh vào phát triển công nghiệp và các ưu đãi kinh tế ở các thành phố.\nThông tin: By focusing on sustainable infrastructure, green spaces, and efficient resource management, smart growth policies attempt to address the downsides of urbanization while still supporting economic and social development."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The word 'challenges' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "opportunities",
+            "B": "obstacles",
+            "C": "difficulties",
+            "D": "problems"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'challenges' trong đoạn 3 TRÁI NGHĨA với:\nA. opportunity /ˌɒpəˈtjuːnɪti/ (n): cơ hội\nB. obstacle /ˈɒbstəkl/ (n): trở ngại\nC. difficulty /ˈdɪfɪkəlti/ (n): khó khăn\nD. problem /ˈprɒbləm/ (n): vấn đề\nchallenge /ˈtʃæl.mɪndʒ/ (n): thách thức >< opportunity\nThông tin: However, urbanization also presents significant challenges."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "The word 'expansion' in paragraph 2 is closest in meaning to",
+          "context": "",
+          "options": {
+            "A": "development",
+            "B": "decrease",
+            "C": "suppression",
+            "D": "reduction"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'expansion' trong đoạn 2 gần nghĩa nhất với:\nA. development /dɪˈveləpmənt/ (n): sự phát triển\nB. decrease /dɪˈkriːs/ (n): sự giảm sút\nC. suppression /səˈpreʃn/ (n): sự đàn áp, sự ngăn chặn\nD. reduction /rɪˈdʌkʃn/ (n): sự giảm bớt\nexpansion /ɪkˈspæn.ʃən/ (n): sự mở rộng = development\nThông tin: Such infrastructure attracts both businesses and residents, contributing to a city's economic expansion and reinforcing the cycle of urban growth."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Where in paragraph 1 would the following sentence best fit in the passage? \"This population shift can have both positive and negative impacts on cities.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(III)",
+            "C": "(IV)",
+            "D": "(II)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu sau đây sẽ phù hợp nhất ở vị trí nào trong đoạn 1? 'Sự thay đổi dân số này có thể có cả tác động tích cực và tiêu cực đến các thành phố.'\nVị trí (I) phù hợp nhất vì câu này liên kết câu định nghĩa về đô thị hóa ('Urbanization, the movement of people from rural to urban areas...') với phần còn lại của đoạn văn thảo luận về các lý do và hệ quả của nó.\nThông tin: This population shift can have both positive and negative impacts on cities."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The majority of urban growth happens in developing countries.",
+            "B": "Managing urban growth sustainably is a challenge many cities currently face.",
+            "C": "Urbanization is likely to decrease in the future as cities face more issues.",
+            "D": "Cities with limited infrastructure are better suited to handle population growth."
+          },
+          "correctAnswer": "B",
+          "explanation": "Điều nào sau đây có thể suy ra từ bài đọc?\nA. Phần lớn sự phát triển đô thị xảy ra ở các quốc gia đang phát triển.\nB. Quản lý sự phát triển đô thị một cách bền vững là thách thức mà nhiều thành phố đang đối mặt.\nC. Đô thị hóa có khả năng giảm trong tương lai khi các thành phố đối mặt với nhiều vấn đề hơn.\nD. Các thành phố có cơ sở hạ tầng hạn chế sẽ phù hợp hơn để xử lý sự gia tăng dân số.\nThông tin: Balancing urban growth with sustainable practices remains a critical issue for many cities worldwide. (Cân bằng giữa phát triển đô thị và các hành động bền vững vẫn là một vấn đề quan trọng đối với nhiều thành phố trên thế giới.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.628950+00:00",
+  "updatedAt": "2026-06-08T10:41:58.628950+00:00",
+  "originalFileName": "THPT_Tue_Tinh_Hai_Duong_2025.json"
+}

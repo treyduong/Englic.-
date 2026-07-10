@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_thuan_thanh_3_bac_ninh_2026-06-05",
+  "title": "Ki Thi Tot Nghiep THPT Nam 2025 - Mon Tieng Anh - THPT Thuan Thanh 3, Bac Ninh (Ma de chan)",
+  "category": "Tiếng Anh",
+  "source": "De tieng anh Englic free",
+  "description": "Đề được import từ file THPT_Thuan_Thanh_3_Bac_Ninh_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BacNinh",
+    "#TotNghiep"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6.",
+      "passageTitle": "Healthy mind, healthy body",
+      "passage": "\"A healthy mind lives in a healthy body\" is a saying (1)_______ to have often been used by the ancient Greeks. Thousands of years later, the same idea still applies. According to health experts, it's advisable (2)_______ eight to ten glasses of water every day. However, water itself is not enough; a balanced diet is essential, too. A healthy body naturally is the result of doing exercise. Many people, however, do not like gyms and object to going there for different reasons. Some, for instance, say that aerobic sessions are too difficult to follow while others say that gyms are just too expensive. Many people also say that they have (3)_______ in finding time to exercise due to their busy lifestyle, but the truth is that everyone can make a little time every now and then. Regardless of the way people choose to exercise, it is important to remember that there's no point (4)_______ doing it only for a short period of time. Last but not least, (5)_______ a positive attitude and doing away with negative thoughts contribute to one's good health. In short, following (6)_______ surely helps in having a healthy mind and body.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "believed",
+            "B": "believe",
+            "C": "believing",
+            "D": "which believed"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rut gon menh de quan he: Menh de quan he dang bi dong rut gon bang cach luoc bo dai tu quan he va tobe, giu nguyen V-pII. Menh de day du: 'which is believed to have...'\nTam dich: 'A healthy mind lives in a healthy body' is a saying believed to have often been used by the ancient Greeks."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "drinking",
+            "B": "drink",
+            "C": "to drink",
+            "D": "to drinking"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cau truc: It is + adj + to V. it's advisable + to V: dung de khuyen lam gi do.\nTam dich: According to health experts, it's advisable to drink eight to ten glasses of water every day."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "difficulty",
+            "B": "difficult",
+            "C": "difficultly",
+            "D": "difficulties"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dang danh tu: have difficulty in doing something = gap kho khan khi lam gi.\nTam dich: Many people also say that they have difficulty in finding time to exercise due to their busy lifestyle."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "of",
+            "D": "about"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cau truc: there's no point in doing something = vo ich khi lam gi.\nTam dich: it is important to remember that there's no point in doing it only for a short period of time."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "taking",
+            "B": "getting",
+            "C": "having",
+            "D": "doing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cum tu (Collocations): have a positive/negative/optimistic attitude = co mot thai do ra sao.\nTam dich: having a positive attitude and doing away with negative thoughts contribute to one's good health."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "simple advice this",
+            "B": "this advice simple",
+            "C": "simple this advice",
+            "D": "this simple advice"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trat tu tu: Tu han dinh (this) + Tinh tu (simple) + Danh tu (advice).\nTam dich: In short, following this simple advice surely helps in having a healthy mind and body."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "PROMOTE MENTAL WELL-BEING AT HOME!",
+      "passage": "Nurturing Your Mind and Spirit\nTaking care of our mental health is just as important as our physical health, which helps us (7)_______ stress, build resilience, and lead fulfilling lives.\n\nFacts and Figures\nNature's Impact: Studies show that spending time outdoors can significantly reduce stress (8)_______. However, many people feel they lack access to green spaces.\nScreen Time Concerns: Excessive daily screen time is linked to increased anxiety and depression. (9)_______ spending too much time on the phone screen, why don't we go outside and get some fresh air?\n\nPositive Actions You Can Take\n- Designate a cozy corner in your home for reading, meditation, or simply unwinding.\n- Start a gratitude journal! Write down three things you're thankful for each day.\n- Make time for meaningful (10)_______ with family and friends. Connect with (11)_______ regularly help (12)_______ your support network and combats feelings of isolation.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "cope with",
+            "B": "put up with",
+            "C": "agree with",
+            "D": "begin with"
+          },
+          "correctAnswer": "A",
+          "explanation": "Phrasal verbs:\n- cope with something: doi pho voi cai gi\n- put up with: chiu dung ai/cai gi\n- agree with: dong y voi ai/cai gi\n- begin with: bat dau bang cai gi\nTam dich: which helps us cope with stress, build resilience, and lead fulfilling lives."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "extents",
+            "B": "levels",
+            "C": "quantities",
+            "D": "proportions"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kien thuc tu vung: level (n) = muc do, cap do. Stress levels = muc do cang thang.\nTam dich: Studies show that spending time outdoors can significantly reduce stress levels."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Although",
+            "B": "Instead of",
+            "C": "On account of",
+            "D": "Irrespective of"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Although: mac du | B. Instead of: thay vi | C. On account of: boi vi | D. Irrespective of: bat ke.\nTam dich: Instead of spending too much time on the phone screen, why don't we go outside and get some fresh air?"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "conversations",
+            "B": "stories",
+            "C": "talks",
+            "D": "sayings"
+          },
+          "correctAnswer": "A",
+          "explanation": "conversation (n) = cuoc tro chuyen. Make time for meaningful conversations = danh thoi gian cho nhung cuoc tro chuyen y nghia.\nTam dich: Make time for meaningful conversations with family and friends."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the other"
+          },
+          "correctAnswer": "C",
+          "explanation": "others = nhung nguoi khac/cai khac (dai tu, dung doc lap, khong can danh tu theo sau).\nThong tin: Connect with others regularly helps strengthen your support network."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "weaken",
+            "B": "worsen",
+            "C": "lengthen",
+            "D": "strengthen"
+          },
+          "correctAnswer": "D",
+          "explanation": "strengthen (v) = cung co. Connect with others regularly helps strengthen your support network.\nA. weaken: lam yeu di | B. worsen: lam te hon | C. lengthen: keo dai"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Linda: They all sound fun. I'll try to join all of them if I can.\nb. Nam: I can see it on the map. It's an open booth and it looks huge! Visitors can play Vietnamese traditional games such as tug of war and bamboo dancing.\nc. Linda: But where's the Vietnamese booth?",
+          "options": {
+            "A": "a-b-c",
+            "B": "b-c-a",
+            "C": "c-b-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trat tu hop ly: Linda hoi gian hang Viet Nam o dau (c) -> Nam chi va mo ta (b) -> Linda phan hoi thich thu (a). Thu tu: c-b-a."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. B: No. I wouldn't. I think it would be a boring job. I wouldn't like working alone.\nb. A: Do you think you'd be a good receptionist?\nc. B: I think I'd be OK. I'm confident but not organized.\nd. A: Would you like to be a receptionist?",
+          "options": {
+            "A": "c-a-b-d",
+            "B": "d-a-b-c",
+            "C": "c-a-d-b",
+            "D": "a-c-b-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trat tu hop ly: A hoi co muon lam le tan khong (d) -> B tra loi khong muon vi nham chan (a) -> A hoi co nghi se lam tot khong (b) -> B tra loi tam on, tu tin nhung khong co to chuc (c). Thu tu: d-a-b-c."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Hi Gemma,\na. But it was interesting to watch these videos.\nb. Thanks so much for the guitar lesson videos you sent me last week.\nc. You know, we ought to practise together for some time. What do you think?\nd. Thanks also for the tip about the free websites with musical lesson videos - they are much better than the sites I've been following.\ne. It's really nice to learn how to play a new instrument like the guitar, but I am too busy at the moment, so I'm focusing on my violin lessons for now.\nWrite back soon.\nBilly",
+          "options": {
+            "A": "d-b-a-c-e",
+            "B": "b-e-a-d-c",
+            "C": "a-d-b-c-e",
+            "D": "a-c-d-b-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trat tu trong thu: Cam on ve video bai hoc guitar (b) -> Hoc nhac cu moi thu vi nhung ban tap violin (e) -> Nhung xem video thu vi (a) -> Cam on ve tip cac trang web mien phi (d) -> De xuat luyen tap cung nhau (c). Thu tu: b-e-a-d-c."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. For example, here in Viet Nam, we can enjoy Italian pizza or Japanese sushi, in addition to our traditional food.\nb. On the other hand, Vietnamese specialties, such as pho and banh mi, are also gaining popularity worldwide.\nc. Fast food chains and international restaurants have become popular, offering a wide range of dishes and more food choices to local people.\nd. Moreover, some international dishes use local ingredients, which make them unique and more suitable to local tastes.\ne. In short, you can explore the flavorful world of traditional Vietnamese food or enjoy dishes from other countries around the world in Viet Nam.",
+          "options": {
+            "A": "d-c-a-b-e",
+            "B": "c-a-d-b-e",
+            "C": "d-b-c-e-a",
+            "D": "e-b-a-c-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trat tu: Cau chu de ve nha hang quoc te pho bien (c) -> Vi du cu the tai Viet Nam (a) -> Hon nua cac mon quoc te dung nguyen lieu dia phuong (d) -> Nguoc lai dac san Viet Nam cung noi tieng (b) -> Tom lai (e). Thu tu: c-a-d-b-e."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. As a result, globalization has made the world of music more diverse and inclusive, bringing people together through the universal language of music.\nb. With the internet and digital technology, musicians can easily distribute their music to fans in different countries.\nc. In conclusion, the ability to share music globally is a significant benefit of globalization that has enriched the music industry and brought joy to people everywhere.\nd. Globalization has many benefits for music, one of which is the ability to share music with people all around the world.\ne. For example, a musician from Africa can now share their music with fans in Europe or Asia with just a few clicks.",
+          "options": {
+            "A": "b-d-a-e-c",
+            "B": "d-b-e-a-c",
+            "C": "d-b-a-e-c",
+            "D": "b-a-e-c-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trat tu: Cau chu de loi ich toan cau hoa voi am nhac (d) -> Internet giup phan phoi nhac (b) -> Vi du nhac si chau Phi (e) -> Ket qua am nhac da dang hon (a) -> Ket luan (c). Thu tu: d-b-e-a-c."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Humanoid Robot Apollo",
+      "passage": "The development of humanoid robots has captured the imagination of many. One such creation is Apollo, a highly advanced robot designed for social interaction, (18)_________. Apollo made her first public appearance in 2020, showcasing her ability to converse and express emotions. Since then, she has participated in numerous tech conferences across the globe.\n\nApollo was developed by a team of engineers and psychologists (19)_________. This collaboration aimed to create a robot that could effectively understand and respond to human emotions, making her a unique presence in the field of artificial intelligence. Apollo's design is sleek and modern, (20)_________. His facial expressions and gestures are crafted to resemble those of a human, enhancing her ability to connect with people on a deeper level.\n\nEquipped with advanced speech recognition technology, Apollo (21)_________. This allows him to engage in meaningful conversations and adapt her responses based on the emotional tone of the discussion.\n\nAs humanoid robots like Apollo become more integrated into society, (22)_________. They hold the potential to transform the way we interact with technology and each other.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that was created to bridge the gap between humans and machines",
+            "B": "who aims to redefine human-robot relationships",
+            "C": "that first stepped into the spotlight in early 2020",
+            "D": "which was designed to enhance social communication"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dung 'who' thay the cho Apollo (nhan hoa robot). Cac lua chon A, C, D dung 'that/which' nhung khong dung sau dau phay trong menh de phi han dinh.\nTam dich: One such creation is Apollo, a highly advanced robot designed for social interaction, who aims to redefine human-robot relationships."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "whose goal was to merge technology with emotional intelligence",
+            "B": "combining expertise in robotics and behavioral science",
+            "C": "that collaborated to bring a human touch to robotics",
+            "D": "whose members specialized in AI and human interaction"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dung 'whose' thay the cho hinh thuc so huu cua danh tu chi nguoi (a team of engineers and psychologists).\nTam dich: Apollo was developed by a team of engineers and psychologists whose goal was to merge technology with emotional intelligence."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "inspired by contemporary art and human anatomy",
+            "B": "combining elements of both futuristic and classic designs",
+            "C": "designed to be visually appealing while functional",
+            "D": "reflecting the aesthetics of modern robotics and human likeness"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tam dich: Apollo's design is sleek and modern, reflecting the aesthetics of modern robotics and human likeness. (Thiet ke cua Apollo thon gon va hien dai, phan anh tinh tham my cua robot hien dai va tinh giong con nguoi.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "can comprehend and respond to a variety of human languages",
+            "B": "uses sophisticated algorithms to interact with users",
+            "C": "understands context and nuance in human conversations",
+            "D": "is programmed to facilitate discussions on various topics"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tam dich: Equipped with advanced speech recognition technology, Apollo understands context and nuance in human conversations. (Apollo hieu ngu canh va sac thai trong cac cuoc tro chuyen cua con nguoi.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "they could lead to more personalized user experiences",
+            "B": "their integration could enhance daily life for many people",
+            "C": "their development raises questions about ethics and empathy",
+            "D": "they may change the landscape of communication in the future"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dap an D phu hop vi co cung chu ngu 'they' voi menh de trang ngu dung truoc.\nTam dich: As humanoid robots like Apollo become more integrated into society, they may change the landscape of communication in the future."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Avicii's life after rehab and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "AVICII'S LIFE AFTER REHAB",
+      "passage": "Once he completed his month in rehab, Avicii seemed to have a new outlook on life. He was meditating regularly, reading about the collective unconscious, and got a puppy. After not performing for a long period of time, he returned to the stage in 2016 at Miami's Ultra Music Festival. It was announced a few days after this gig that he would not be performing live anymore. Avicii chose to not perform so that he could focus on bettering his mental health.\n\nDespite appearing to have new-found stability, Avicii still struggled to deal with his mental health issues. While continuing to suppress the anxiety and depression that he frequently felt, Avicii also started to become disinterested in his music career. During this time, he was smoking and drinking on occasion which may have resulted in a resurgence of his disassociation feelings.\n\nHe told Tereza Kacerova, his girlfriend at the time, 'What if everyone around me is just a projection in my mind? Sometimes I just think these things. About how nothing really matters.'\n\nAvicii started to focus heavily on meditation which he found to be helpful in clearing the nonsense from his mind. He believed that a deep form of meditation taught by Maharishi Mahesh Yogi was a way to exercise his brain which he had decided would lead to his happiness. Despite this form of meditation typically being done in 20 minute increments, Avicii would sometimes spend full days meditating in an attempt to reach enlightenment faster.\n\n(Adapted from https://www.addictioncenter.com/)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following activities did Avicii NOT engage in after rehab?",
+          "context": "",
+          "options": {
+            "A": "Performing live",
+            "B": "Meditating regularly",
+            "C": "Reading about the collective unconscious",
+            "D": "Getting a puppy"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thong tin: He was meditating regularly, reading about the collective unconscious, and got a puppy. (B, C, D deu duoc de cap.) Avicii da dung bieu dien truc tiep sau khi cai nghien.\nTam dich: Avicii KHONG tham gia bieu dien truc tiep sau khi cai nghien."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The phrase 'new-found stability' in paragraph 2 suggests that Avicii felt",
+          "context": "",
+          "options": {
+            "A": "completely free of mental health issues",
+            "B": "more balanced than before",
+            "C": "indifferent to his music career",
+            "D": "ready to return to performing"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: Despite appearing to have new-found stability, Avicii still struggled to deal with his mental health issues. new-found stability = on dinh hon truoc = more balanced than before."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word 'suppress' in paragraph 2 is closest in meaning to",
+          "context": "",
+          "options": {
+            "A": "express",
+            "B": "ignore",
+            "C": "hold back",
+            "D": "confront"
+          },
+          "correctAnswer": "C",
+          "explanation": "suppress (v): kim nen = hold back (kim lai, nen lai).\nA. express: boc lo | B. ignore: bo qua | D. confront: doi mat"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The statement 'he would sometimes spend full days meditating' indicates that Avicii",
+          "context": "",
+          "options": {
+            "A": "was not following typical meditation practices",
+            "B": "preferred group meditation sessions",
+            "C": "found it difficult to meditate",
+            "D": "wanted to rush his meditation progress"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thong tin: in an attempt to reach enlightenment faster. (De co gang dat duoc su giac ngo nhanh hon.) -> Avicii muon day nhanh tien trinh thien cua minh."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "According to the passage, what was one reason Avicii chose not to perform live anymore?",
+          "context": "",
+          "options": {
+            "A": "He wanted to pursue a different career",
+            "B": "He was focusing on his mental health",
+            "C": "He was not interested in music anymore",
+            "D": "He had lost his passion for performing"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: Avicii chose to not perform so that he could focus on bettering his mental health. (Avicii quyet dinh khong bieu dien de tap trung cai thien suc khoe tinh than cua minh.)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "In which paragraph does the author mention Avicii's struggle with his mental health?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: Doan 2: Avicii still struggled to deal with his mental health issues. While continuing to suppress the anxiety and depression that he frequently felt... -> Doan 2 de cap kho khan suc khoe tinh than."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "Which of the following statements is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Avicii found meditation to be unhelpful",
+            "B": "He frequently questioned his perception of reality",
+            "C": "He stopped smoking and drinking entirely",
+            "D": "Avicii returned to performing at multiple festivals"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: 'What if everyone around me is just a projection in my mind?' -> Avicii thuong xuyen nghi ngo nhan thuc cua minh ve thuc te."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "What can be inferred about Avicii's mental state after rehab?",
+          "context": "",
+          "options": {
+            "A": "He was completely cured of his anxiety and depression",
+            "B": "He still faced challenges despite some improvements",
+            "C": "He became more socially active and engaged",
+            "D": "He lost interest in meditation and wellness practices"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: Despite appearing to have new-found stability, Avicii still struggled to deal with his mental health issues. -> Anh van gap kho khan mac du da co mot so cai thien."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about technology dependence and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "DEPENDENCE ON TECHNOLOGY: TIME FOR CHANGE!",
+      "passage": "[I] Los Angeles dancer, Brian Perez, was eating out with his friends one evening when suddenly everyone went quiet. [II] To his horror, he saw that the reason for this was that people were checking their phones. [III] What if they all put their gadgets in a pile in the middle of the table until they had finished the meal? [IV] If anyone picked up their phone, that person would have to pay the whole bill. And so, it is said, the game of 'phone stacking' was born.\n\nThe necessity for action like this highlights a major problem in today's society: our inability to disconnect from technology. But while Brian's idea deals with the obsession in a social context, measures also need to be taken at home. Some people drop their smartphones into a box the moment they arrive home, which gives them the chance to interact with the people they live with. The fact that the phone cannot be heard - it is on silent - nor seen - the flashing lights are hidden by the box - means that they are no longer tempted to use it.\n\nA less drastic solution is to ban electronic devices at certain times of day when the whole family is likely to be together, for example at meal times. This can be hard for everyone, from teenagers desperate to text friends to parents unable to switch off from work. On a normal day, however, dinner takes less than an hour, and the benefits of exchanging opinions and anecdotes with the rest of the family certainly makes up for the time spent offline.\n\nTaking a break from technology is one thing, but knowing when to turn off a device is another. Time seems to stand still in the virtual world, and before you know it, you find that it is three o'clock in the morning. This is where a digital curfew comes in handy, a set time when all devices must be put away. Evenings without technology are usually nice and peaceful and make a more agreeable end to the day. And then it's time for bed. One of the best ways of ensuring you can sleep at night is to ban electronic devices altogether from the bedroom. Lying next to a machine bursting with information is far from relaxing, and the sounds it emits during the night can easily wake you up. With technology out of the room, a line has been drawn between daytime and sleep time, which enables us to switch off ourselves and drift off to sleep.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? 'Realising he had to do something to stop this, Brian made a rather daring suggestion.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cau bo sung y nghia cho cau dung truoc ('this' chi 'people were checking their phones'). Sau khi thay moi nguoi kiem tra dien thoai [II], Brian nhan ra va dua ra de nghi tao bao, roi cau [III] mo ta de nghi do. Vi tri: sau [II], truoc [III]."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase 'the necessity for action' in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "the requirement for change",
+            "B": "the importance of communication",
+            "C": "the need for technology",
+            "D": "the demand for connection"
+          },
+          "correctAnswer": "A",
+          "explanation": "the necessity for action: su can thiet phai co hanh dong = the requirement for change: yeu cau thay doi."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word 'it' in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "fact",
+            "B": "phone",
+            "C": "light",
+            "D": "box"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: The fact that the phone cannot be heard - it is on silent - nor seen... means that they are no longer tempted to use it. 'it' = the phone (dien thoai)."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 1, Brian Perez was shocked to find that",
+          "context": "",
+          "options": {
+            "A": "people were willing to remove all their gadgets",
+            "B": "the prices for food were too expensive",
+            "C": "people were glued to their phones",
+            "D": "everyone seemed quiet by nature"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thong tin: To his horror, he saw that the reason for this was that people were checking their phones. -> moi nguoi dan mat vao dien thoai."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Banning electronic devices during family meals helps improve communication and connection.",
+            "B": "Parents find it easy to disconnect from work during meal times.",
+            "C": "Family meals should be brief to accommodate everyone's schedules.",
+            "D": "Teenagers resist limits on device use but benefit from family interaction."
+          },
+          "correctAnswer": "A",
+          "explanation": "Doan 3 de cap: cam thiet bi dien tu trong bua an gia dinh -> giup cai thien giao tiep va ket noi. -> Dap an A tom tat tot nhat."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word 'ban' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "allow",
+            "B": "forbid",
+            "C": "prohibit",
+            "D": "prevent"
+          },
+          "correctAnswer": "A",
+          "explanation": "ban (v): cam >< allow (v): cho phep.\nB. forbid: cam | C. prohibit: cam | D. prevent: ngan chan"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following statements is TRUE, according to the passage?",
+          "context": "",
+          "options": {
+            "A": "People choose not to use their phones at home so that they can talk to other members.",
+            "B": "Meal times are the most suitable for the whole family to use phones together.",
+            "C": "Teenagers can find it easier to turn off their phones compared to their parents.",
+            "D": "Brian's idea is not new in terms of making people less dependent on technology."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thong tin: Some people drop their smartphones into a box the moment they arrive home, which gives them the chance to interact with the people they live with. -> Moi nguoi chon khong su dung dien thoai o nha de giao tiep voi cac thanh vien khac."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "The word 'highlights' in paragraph 2 is closest in meaning to",
+          "context": "",
+          "options": {
+            "A": "tackles",
+            "B": "expects",
+            "C": "proposes",
+            "D": "emphasizes"
+          },
+          "correctAnswer": "D",
+          "explanation": "highlight (v): lam noi bat, nhan manh = emphasize (v): nhan manh.\nA. tackle: giai quyet | B. expect: mong doi | C. propose: de xuat"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following best paraphrases the sentence 'With technology out of the room, a line has been drawn between daytime and sleep time'?",
+          "context": "",
+          "options": {
+            "A": "Removing devices from the bedroom helps distinguish between waking hours and rest.",
+            "B": "Keeping technology in the bedroom allows for better sleep quality.",
+            "C": "Limiting device usage at night makes it easier to stay awake.",
+            "D": "Having devices in the bedroom is beneficial for sleep routines."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tam dich: Viec loai bo thiet bi khoi phong ngu giup phan biet ro giua thoi gian thuc va thoi gian nghi ngoi. -> Dap an A dien giai dung nhat."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Frequent technology use can enhance family communication, but it often leads to disconnection during important moments.",
+            "B": "Setting boundaries on device usage is essential for fostering meaningful interactions among family members.",
+            "C": "While technology offers benefits, it can disrupt family life, necessitating limits on its use during shared times.",
+            "D": "Families should embrace technology fully, as it provides more opportunities for communication and connection."
+          },
+          "correctAnswer": "C",
+          "explanation": "C. Mac du cong nghe mang lai nhieu loi ich, nhung no co the lam gian doan doi song gia dinh, vi vay can co gioi han trong viec su dung trong nhung thoi gian o cung moi nguoi.\nA. Sai vi khong de cap khoang khac quan trong.\nB. Sai vi chua bao quat.\nD. Sai vi doan van khuyen giam bot phu thuoc vao cong nghe."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.624239+00:00",
+  "updatedAt": "2026-06-08T10:41:58.624239+00:00",
+  "originalFileName": "THPT_Thuan_Thanh_3_Bac_Ninh_2025.json"
+}

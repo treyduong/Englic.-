@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_nguyen_tat_thanh_kon_tum_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Nguyễn Tất Thành - Kon Tum",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Chuyen_Nguyen_Tat_Thanh_Kon_Tum_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#KonTum",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 1 to 5.",
+      "passageTitle": "",
+      "passage": "Education is a cornerstone of personal and societal development, (1)______, skills, and perspectives necessary to navigate and contribute to the world. It goes beyond the classroom, shaping character, fostering critical thinking, and promoting lifelong learning. Quality education is a powerful tool for breaking the cycle of poverty, empowering individuals (2)________. In an interconnected global society, (3)________ and tolerance, fostering a more harmonious world. Recognizing the transformative potential of education (4)________, equitable, and prosperous communities that thrive on the principles (5)______, innovation, and collaboration.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "individuals with the knowledge provides",
+            "B": "providing individuals with the knowledge",
+            "C": "individuals with the knowledge is provided",
+            "D": "provides individuals with the knowledge"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta có mệnh đề chính 'Education is a cornerstone of personal and societal development'.\nSau dấu phẩy cần một mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ để bổ nghĩa cho câu trước.\nA sai vì 'individuals' là số nhiều nhưng lại dùng 'provides'\nC sai vì 'individuals' là số nhiều nhưng lại dùng 'is'\nD sai vì 'provides' là động từ thì hiện tại đơn, không phù hợp sau dấu phẩy trong cấu trúc này.\nB là rút gọn của mệnh đề 'which provides…', phù hợp bổ nghĩa cho câu trước.\nTạm dịch: Giáo dục là nền tảng của sự phát triển cá nhân và xã hội, cung cấp cho cá nhân kiến thức, kỹ năng và quan điểm cần thiết để điều hướng và đóng góp cho thế giới."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to add complexity to family and societal relationships",
+            "B": "complexity to family and societal relationships to be added",
+            "C": "adding complexity to family and societal relationships",
+            "D": "add complexity to family and societal relationships"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta có cấu trúc: empower somebody + to V: trao quyền cho ai làm gì đó\nB sai cấu trúc ngữ pháp, câu đã có 'empowering individuals' nên phía sau cần động từ nguyên mẫu có 'to' thay vì một mệnh đề bị động.\nC sai 'adding' là V-ing không phù hợp.\nD sai 'add' là động từ nguyên mẫu không phù hợp.\nA là đáp án đúng với động từ 'to add'.\nTạm dịch: Giáo dục chất lượng là công cụ mạnh mẽ để phá vỡ vòng luẩn quẩn của đói nghèo, trao quyền cho cá nhân làm tăng thêm sự phức tạp cho các mối quan hệ gia đình và xã hội."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "promotes education understanding",
+            "B": "promoting education understanding",
+            "C": "education promotes understanding",
+            "D": "understanding education promotes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta có rút gọn mệnh đề quan hệ 'fostering a more harmonious world'. Ta cần một mệnh đề chính ở phía trước.\nA sai vì là cụm vị ngữ.\nB sai vì không có động từ chính.\nD sai vì sau động từ 'promotes' cần một danh từ trước 'and tolerance'.\nC là mệnh đề chính phù hợp.\nTạm dịch: Trong một xã hội toàn cầu có sự kết nối, giáo dục thúc đẩy sự hiểu biết và khoan dung, thúc đẩy một thế giới hài hòa hơn."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "is essential for building inclusive",
+            "B": "building inclusive is essential",
+            "C": "essential for building inclusive",
+            "D": "building inclusive is essential for"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta có chủ ngữ 'Recognizing the transformative potential of education', phía sau cần một động từ chính.\nB sai vì là một mệnh đề độc lập, không phụ làm cụm vị ngữ.\nC sai vì thiếu động từ chính.\nD sai vì là một mệnh đề không hoàn chỉnh và không phù hợp làm cụm vị ngữ trong câu.\nA là đáp án đúng với động từ chính là động từ to be 'is'.\nTạm dịch: Nhận ra tiềm năng chuyển đổi của giáo dục là điều cần thiết để xây dựng các cộng đồng hòa nhập, công bằng và thịnh vượng phát triển mạnh mẽ dựa trên các nguyên tắc..."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to know",
+            "B": "knowledge",
+            "C": "of knowing",
+            "D": "of knowledge"
+          },
+          "correctAnswer": "D",
+          "explanation": "the principles of + N (trừu tượng/không đếm được): nguyên tắc\nVì vậy 'of knowledge' là đáp án đúng.\nTạm dịch: Nhận ra tiềm năng chuyển đổi của giáo dục là điều cần thiết để xây dựng các cộng đồng hòa nhập, công bằng và thịnh vượng phát triển mạnh mẽ dựa trên các nguyên tắc về kiến thức, đổi mới và hợp tác."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 6 to 13.",
+      "passageTitle": "",
+      "passage": "Right now, the biggest source of energy in the world is fossil fuel. Fossil fuels are oil, gas, and coal. More than 80 percent of the world's energy comes from fossil fuel. There are many problems with fossil fuel. One problem is that when fossil fuel is burned, it pollutes the air. Also, when we take fossil fuel from the Earth, we often cause a lot of damage. Another problem is that we are running out of it. That is why we need new sources of energy. A big source of energy for many countries is nuclear power. Thirty-one countries use nuclear power. Many ships also use it.\n\nNuclear power has some advantages. First of all, we can't run out of nuclear power. Nuclear power does not make the air dirty. Also, if a country has nuclear power, it doesn't need to buy as much as oil from other countries.\n\nHowever, there are also a lot of problems that come with nuclear power. For example, nuclear accidents are very serious. In 1986, there was a nuclear accident in Ukraine. In the next 20 years, about 4,000 people got sick and died. In 2011, there was another very serious nuclear accident in Japan. Japan is still trying to clean up the nuclear waste from the accident.\n\nMany people don't want nuclear power in their countries. They say that it is not safe. A lot of people want their countries to use safer and cleaner ways to get electricity. There have been protests against nuclear energy in the United States, Russia, France, Taiwan, Japan, India, and many other countries.\n\nAlthough many people hate nuclear energy, more and more countries are using it. One reason for this is that the world is using more and more energy. We just don't have enough fossil fuel. However, if we use nuclear power, then we may have more serious problems in the future.",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Which of the following could be the best title for the passage?",
+          "context": "",
+          "options": {
+            "A": "Different sources of energy: Advantages and Disadvantages.",
+            "B": "Different sources of energy are limited.",
+            "C": "Mining fossil fuel can bring harm to the environment.",
+            "D": "We don't use much of different sources of energy."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tiêu đề nào sau đây có thể là tiêu đề hay nhất cho đoạn văn?\nĐoạn văn thảo luận về hai nguồn năng lượng chính: nhiên liệu hóa thạch và năng lượng hạt nhân. Đoạn phân tích ưu điểm và nhược điểm của cả hai loại năng lượng; đề cập đến nhu cầu tìm kiếm các nguồn năng lượng mới vì nhiên liệu hóa thạch đang dần cạn kiệt. Vì vậy, A là đáp án đúng.\nB sai vì đoạn văn không chỉ nói về sự hạn chế mà còn đề cập đến lợi ích và tác hại của các nguồn năng lượng.\nC sai vì bài viết không chỉ nói về tác hại của nhiên liệu hóa thạch mà còn đề cập đến năng lượng hạt nhân và những hệ lụy của nó.\nD sai vì bài viết nhấn mạnh rằng nhiều quốc gia đang sử dụng năng lượng hạt nhân ngày càng nhiều, chứ không phải ít."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is NOT true about fossil fuel?",
+          "context": "",
+          "options": {
+            "A": "Its sources are limited.",
+            "B": "We don't use much of it.",
+            "C": "Mining fossil fuel can bring harm to the environment.",
+            "D": "It can pollute the air."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây KHÔNG đúng về nhiên liệu hóa thạch?\nA đúng: Another problem is that we are running out of it.\nC đúng: when we take fossil fuel from the Earth, we often cause a lot of damage.\nD đúng: when fossil fuel is burned, it pollutes the air.\nMore than 80 percent of the world's energy comes from fossil fuel. (Hơn 80 phần trăm năng lượng của thế giới đến từ nhiên liệu hóa thạch.) → B sai."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "All of the following are true about nuclear accidents EXCEPT______",
+          "context": "",
+          "options": {
+            "A": "their effects can last many years",
+            "B": "it doesn't take us much time to clean up the nuclear waste from the accident",
+            "C": "there were serious nuclear accidents in Ukraine in 1986 and in Japan in 2011",
+            "D": "they have been very serious"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tất cả những điều sau đây đều đúng về các vụ tai nạn hạt nhân TRỪ:\nD đúng: nuclear accidents are very serious.\nA, C đúng: In 1986, there was a nuclear accident in Ukraine. In the next 20 years, about 4,000 people got sick and died. In 2011, there was another very serious nuclear accident in Japan.\nJapan is still trying to clean up the nuclear waste from the accident. (Nhật Bản vẫn đang cố gắng dọn sạch chất thải hạt nhân từ vụ tai nạn.) → B không đúng."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "The word \"advantages\" in paragraph 2 is OPPOSITE in meaning to________",
+          "context": "",
+          "options": {
+            "A": "dislikes",
+            "B": "benefits",
+            "C": "emergences",
+            "D": "drawbacks"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'advantages' trong đoạn 2 trái nghĩa với________\nA. dislike /dɪsˈlaɪk/ (v, n): không thích, sự không thích\nB. benefit /ˈbenɪfɪt/ (n, v): lợi ích; mang lại lợi ích\nC. emergence /ɪˈmɜːrdʒəns/ (n): sự xuất hiện, sự nổi lên\nD. drawback /ˈdrɔːbæk/ (n): bất lợi, nhược điểm\nadvantage (n): lợi ích >< drawback (n)\nTạm dịch: Nuclear power has some advantages. (Năng lượng hạt nhân có một số ưu điểm.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "The phrase \"clean up\" in paragraph 3 is closest in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "remove",
+            "B": "activate",
+            "C": "block",
+            "D": "disappear"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ 'clean up' ở đoạn 3 có nghĩa gần nhất với________.\nA. remove /rɪˈmuːv/ (v): loại bỏ, gỡ bỏ\nB. activate /ˈæktɪveɪt/ (v): kích hoạt, làm hoạt động\nC. block /blɒk/ (v): chặn, ngăn chặn\nD. disappear /ˌdɪsəˈpɪər/ (v): biến mất\nclean up: dọn sạch = remove\nTạm dịch: Japan is still trying to clean up the nuclear waste from the accident. (Nhật Bản vẫn đang cố gắng dọn sạch chất thải hạt nhân từ vụ tai nạn.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "What does the word \"They\" in paragraph 4 refer to?",
+          "context": "",
+          "options": {
+            "A": "supporters",
+            "B": "officials",
+            "C": "protesters",
+            "D": "countries"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'They' trong đoạn 4 ám chỉ điều gì?\nA. người ủng hộ B. quan chức C. người biểu tình D. các quốc gia\nTạm dịch: Many people don't want nuclear power in their countries. They say that it is not safe... There have been protests against nuclear energy in the United States, Russia, France, Taiwan, Japan, India, and many other countries. (Nhiều người không muốn có năng lượng hạt nhân ở đất nước họ. Họ nói rằng nó không an toàn... Đã có những cuộc biểu tình phản đối năng lượng hạt nhân ở Hoa Kỳ, Nga, Pháp, Đài Loan, Nhật Bản, Ấn Độ và nhiều quốc gia khác.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "According to the passage, thanks to nuclear power________.",
+          "context": "",
+          "options": {
+            "A": "some countries are in no need to buy as much as oil from other countries.",
+            "B": "no ships can use it to operate for a long time.",
+            "C": "many people can use nuclear power in their homes.",
+            "D": "some governments can exploit the natural resources in large quantities."
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn văn, nhờ có năng lượng hạt nhân________.\nA. một số quốc gia không cần phải mua nhiều dầu từ các quốc gia khác.\nTạm dịch: Also, if a country has nuclear power, it doesn't need to buy as much as oil from other countries. (Ngoài ra, nếu một quốc gia có năng lượng hạt nhân, họ không cần phải mua nhiều như dầu từ các quốc gia khác.)"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "What can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "We should consider seriously nuclear power because it has both advantages and disadvantages.",
+            "B": "Some governments are wrong when they are using nuclear energy.",
+            "C": "We can continue using nuclear energy until there is an accident.",
+            "D": "Many people don't want nuclear power in their countries and governments should follow their people."
+          },
+          "correctAnswer": "A",
+          "explanation": "Có thể suy ra điều gì từ đoạn văn?\nA. Chúng ta nên cân nhắc nghiêm túc về năng lượng hạt nhân vì nó có cả ưu điểm và nhược điểm.\nB sai vì đoạn văn không đề cập rằng chính phủ sai khi sử dụng năng lượng hạt nhân, chỉ để cập đến việc một số người dân phản đối và những rủi ro tiềm ẩn, chứ không đánh giá đúng hay sai.\nC sai: However, if we use nuclear power, then we may have more serious problems in the future.\nD sai vì đoạn văn không đề cập về việc các chính phủ nên làm theo người dân.\nNuclear power has some advantages... However, there are also a lot of problems that come with nuclear power. (Năng lượng hạt nhân có một số ưu điểm... Tuy nhiên, cũng có rất nhiều vấn đề đi kèm với năng lượng hạt nhân.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct arrangement of the sentences to make a meaningful conversation/paragraph/letter in each of the following questions from 14 to 18.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "Dear John,\na. When we look at the positive aspect of social media, we find numerous advantages.\nb. Firstly, it is a great device for education.\nc. Moreover, live lectures are now possible because of social media, so you can attend a lecture happening in America while sitting in India.\nd. Most importantly, it also provides a great platform for young budding artists to showcase their talent for free.\ne. Best wishes.\nf. Students can educate themselves on various topics using social media.\nBetty",
+          "options": {
+            "A": "a-b-c-d-e-f",
+            "B": "a-b-f-c-d-e",
+            "C": "a-f-b-c-d-e",
+            "D": "a-f-b-e-d-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đúng: a-f-b-c-d-e\nJohn thân mến,\nKhi chúng ta nhìn vào khía cạnh tích cực của phương tiện truyền thông xã hội, chúng ta thấy có rất nhiều lợi thế. Học sinh có thể tự giáo dục bản thân về nhiều chủ đề khác nhau bằng phương tiện truyền thông xã hội. Đầu tiên, đây là một thiết bị tuyệt vời cho giáo dục. Hơn nữa, các bài giảng trực tiếp hiện có thể thực hiện được nhờ phương tiện truyền thông xã hội, vì vậy bạn có thể tham dự một bài giảng diễn ra ở Mỹ trong khi ngồi ở Ấn Độ. Quan trọng nhất, nó cũng cung cấp một nền tảng tuyệt vời cho các nghệ sĩ trẻ mới vào nghề để thể hiện tài năng của mình miễn phí.\nChúc may mắn,\nBetty"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. Additionally, such intergenerational interactions promote the transfer of invaluable knowledge and experiences, enriching the overall societal tapestry.\nb. Furthermore, engaging in open dialogues across generations facilitates the exchange of diverse ideas, contributing to a more inclusive and harmonious community.\nc. Bridging the generation gap is a multifaceted journey that presents both challenges and opportunities.\nd. Firstly, bridging the generational divide fosters mutual understanding, allowing younger and older individuals to share perspectives and insights.\ne. Ultimately, embracing the generational diversity becomes a catalyst for personal growth, fostering a culture of respect and collaboration that transcends age differences.",
+          "options": {
+            "A": "c-e-d-a-b",
+            "B": "c-d-a-b-e",
+            "C": "a-c-d-b-e",
+            "D": "c-a-b-d-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: c-d-a-b-e\nThu hẹp khoảng cách thế hệ là một hành trình đa diện, vừa mang đến thách thức vừa mang đến cơ hội. Đầu tiên, thu hẹp khoảng cách thế hệ thúc đẩy sự hiểu biết lẫn nhau, cho phép những người trẻ tuổi và lớn tuổi chia sẻ quan điểm và hiểu biết sâu sắc. Ngoài ra, những tương tác giữa các thế hệ như vậy thúc đẩy việc chuyển giao kiến thức và kinh nghiệm vô giá, làm phong phú thêm bức tranh tổng thể của xã hội. Hơn nữa, tham gia vào các cuộc đối thoại cởi mở giữa các thế hệ tạo điều kiện cho việc trao đổi các ý tưởng đa dạng, góp phần tạo nên một cộng đồng hòa nhập và hòa hợp hơn. Cuối cùng, việc chấp nhận sự đa dạng giữa các thế hệ trở thành chất xúc tác cho sự phát triển cá nhân, thúc đẩy một nền văn hóa tôn trọng và hợp tác vượt qua sự khác biệt về tuổi tác."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Also, volunteering helps students connect with the community, making them aware of the needs around them.\nb. Additionally, students develop such important skills as teamwork and communication ones while they volunteer.\nc. Firstly, students who do voluntary work gain valuable real-world experience which can help in their future careers.\nd. Finally, doing volunteer work can be a rewarding experience, as students feel good about helping others.\ne. High school students benefit from doing voluntary work in many ways.",
+          "options": {
+            "A": "e-a-c-b-d",
+            "B": "c-a-b-d-e",
+            "C": "c-e-a-b-d",
+            "D": "e-c-a-b-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: e-c-a-b-d\nHọc sinh trung học được hưởng lợi từ việc làm công việc tình nguyện theo nhiều cách. Đầu tiên, học sinh làm công việc tình nguyện có được kinh nghiệm thực tế có giá trị có thể giúp ích cho sự nghiệp tương lai của họ. Ngoài ra, hoạt động tình nguyện giúp học sinh kết nối với cộng đồng, giúp các em nhận thức được những nhu cầu xung quanh mình. Ngoài ra, học sinh phát triển các kỹ năng quan trọng như làm việc nhóm và giao tiếp trong khi làm tình nguyện. Cuối cùng, làm công việc tình nguyện có thể là một trải nghiệm bổ ích, vì học sinh cảm thấy vui khi giúp đỡ người khác."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Hoa: Sure. First, select the type of event you want to attend.\nb. Hoa: Then, click on the \"Register\" button and fill in your details.\nc. Lan: OK, I've selected the event. What should I do next?\nd. Lan: Can you help me register for the conference online?\ne. Lan: Great, I'm all set! Thanks for your help.",
+          "options": {
+            "A": "c-b-d-a-e",
+            "B": "a-e-d-b-c",
+            "C": "d-b-a-e-c",
+            "D": "d-a-c-b-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: d-a-c-b-e\nLan: Bạn có thể giúp tôi đăng ký tham dự hội nghị trực tuyến không?\nHoa: Chắc chắn rồi. Trước tiên, hãy chọn loại sự kiện bạn muốn tham dự.\nLan: Được, tôi đã chọn sự kiện. Tôi nên làm gì tiếp theo?\nHoa: Sau đó, hãy nhấp vào nút 'Đăng ký' và điền thông tin của bạn.\nLan: Tuyệt, tôi đã hoàn tất! Cảm ơn sự giúp đỡ của bạn."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "a. My sister is driving me crazy! We had a big fight and now we're not talking.\nb. That's a good idea. Thank you.\nc. What's the matter?\nd. She keeps taking my things without asking me and it really bothers me.\ne. What happened?\nf. Don't worry. Just talk to her and explain how you feel.",
+          "options": {
+            "A": "a-c-e-d-f-b",
+            "B": "c-a-e-d-f-b",
+            "C": "c-b-e-d-f-a",
+            "D": "e-a-c-d-b-f"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: c-a-e-d-f-b\nCó chuyện gì vậy?\nEm gái tôi làm tôi phát điên! Chúng tôi đã cãi nhau rất nhiều và giờ chúng tôi không nói chuyện với nhau nữa.\nChuyện gì đã xảy ra?\nEm ấy cứ lấy đồ của tôi mà không hỏi tôi và điều đó thực sự làm tôi khó chịu.\nĐừng lo lắng. Chỉ cần nói chuyện với em ấy và giải thích cảm giác của bạn.\nĐó là một ý kiến hay. Cảm ơn bạn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 19 to 24.",
+      "passageTitle": "Celebrating Traditional Holidays Worldwide!",
+      "passage": "Let's explore how traditional holidays bring people together!\n\nFacts and Figures:\nA significant number of (19)______ have special holidays that showcase their history and values. For example, (20)______ people celebrate Christmas, while others participate in the Chinese New Year, which features family reunions and lively parades. These (21)______ foster a strong sense of community and belonging.\n\nPositive Action!\n♦ Discover different holidays! Gaining knowledge about various festivals, such as Diwali or Ramadan, can help us recognize and value cultural diversity. (22)______ focusing solely on our own traditions, we can broaden our perspectives and learn from others.\n♦ Take part in local festivities! Getting involved in community events can deepen friendships and encourage unity among (23)______ groups.\n♦ Share your own customs! Invite friends to join your holiday celebrations, as this promotes understanding and respect among different cultures.\n\nEmbracing traditional holidays (24)______ to our lives and brings us closer together!",
+      "questions": [
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "traditions",
+            "B": "heritage",
+            "C": "customs",
+            "D": "cultures"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. tradition /trəˈdɪʃ.ən/ (n): truyền thống, tục lệ\nB. heritage /ˈherɪtɪdʒ/ (n): di sản, gia tài văn hóa\nC. custom /ˈkʌstəm/ (n): phong tục, tập quán\nD. culture /ˈkʌltʃər/ (n): văn hóa\nTạm dịch: A significant number of cultures have special holidays that showcase their history and values. (Một số lượng lớn các nền văn hóa có những ngày lễ đặc biệt thể hiện lịch sử và giá trị của họ.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "little",
+            "B": "another",
+            "C": "much",
+            "D": "many"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về lượng từ:\nA. little + N không đếm được: ít\nB. another + N đếm được số ít: một cái/người khác\nC. much + N không đếm được: nhiều\nD. many + N đếm được số nhiều: nhiều\nTa có 'people' là danh từ đếm được số nhiều nên ta dùng 'many'.\nTạm dịch: For example, many people celebrate Christmas, while others participate in the Chinese New Year, which features family reunions and lively parades."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "celebrations",
+            "B": "developments",
+            "C": "observances",
+            "D": "donations"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. celebration /ˌselɪˈbreɪʃən/ (n): sự ăn mừng, lễ kỷ niệm\nB. development /dɪˈveləpmənt/ (n): sự phát triển, sự tiến bộ\nC. observance /əbˈzɜːrvəns/ (n): sự tuân thủ, sự tôn trọng (đặc biệt là các lễ hội, nghi thức)\nD. donation /dəʊˈneɪʃən/ (n): sự quyên góp, sự tặng cho\nTạm dịch: These celebrations foster a strong sense of community and belonging. (Những lễ kỷ niệm này nuôi dưỡng ý thức cộng đồng và sự gắn kết mạnh mẽ.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "On behalf of",
+            "C": "On account of",
+            "D": "In terms of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ nối:\nA. Instead of: thay vì\nB. On behalf of: thay mặt cho, đại diện cho\nC. On account of: vì, do, vì lý do\nD. In terms of: về mặt, xét về (khía cạnh, phương diện)\nTạm dịch: Instead of focusing solely on our own traditions, we can broaden our perspectives and learn from others. (Thay vì chỉ tập trung vào truyền thống của riêng mình, chúng ta có thể mở rộng quan điểm và học hỏi từ những người khác.)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "deposit",
+            "B": "Pollute",
+            "C": "contaminate",
+            "D": "diverse"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. deposit /dɪˈpɒzɪt/ (n, v): tiền gửi; đặt, để lại\nB. pollute /pəˈluːt/ (v): làm ô nhiễm\nC. contaminate /kənˈtæmɪneɪt/ (v): làm ô uế, làm bẩn, làm nhiễm độc\nD. diverse /daɪˈvɜːs/ (adj): đa dạng, phong phú\nTrước danh từ 'group' ta cần một tính từ nên 'diverse' là tính từ phù hợp.\nTạm dịch: Getting involved in community events can deepen friendships and encourage unity among diverse groups."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "drops back",
+            "B": "looks out",
+            "C": "gives back",
+            "D": "breaks down"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm động từ thông dụng:\nA. drop back: tụt lại phía sau, lùi lại\nB. look out: cẩn thận, chú ý, đề phòng\nC. give back: trả lại, hoàn lại, cống hiến lại\nD. break down: hỏng, đổ vỡ (máy móc, thiết bị); suy sụp (về tinh thần hoặc cảm xúc)\nTạm dịch: Embracing traditional holidays gives back to our lives and brings us closer together! (Việc đón nhận các ngày lễ truyền thống mang lại giá trị cho cuộc sống của chúng ta và giúp chúng ta xích lại gần nhau hơn!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 25 to 30.",
+      "passageTitle": "Exciting Volunteer Opportunity: Join Us!",
+      "passage": "Are you looking for a meaningful way to spend your free time? Join our upcoming Community Cleanup Event and make a difference!\n\nThis event is perfect for people of all ages who are passionate about protecting the environment. The cleanup will take place at Sunshine Park on Saturday, from 8:00 a.m. to 12:00 p.m. Volunteers will work together to remove trash, plant trees, and create a cleaner, greener community.\n\nNo experience is needed, and we provide all the necessary tools and equipment. We'll also (25)________ you with refreshments and snacks to keep you energized!\n\nWhy volunteer with us?\n• Meet new people who share the same interests.\n• Gain (26)________ experience in community service.\n• Help make the world a better place!\n\nRemember to wear (27)________ clothing and comfortable shoes suitable for outdoor activities. Don't forget to bring your (28)______ bottle to stay hydrated throughout the day.\n\nAt the end of the event, we'll have a small (29)______ to celebrate everyone's hard work and dedication.\n\nThis is your chance to share stories, enjoy light refreshments, and (30)______ new friendships!\n\nDon't wait - register today! Sign up by emailing us at volunteer@cleanup.com or calling (123) 456-7890.\n\nTogether, we can make a difference!",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "offer",
+            "B": "supply",
+            "C": "deliver",
+            "D": "provide"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về:\nA. offer somebody something\nB. supply somebody with something: cung cấp hàng hoá, vật chất (mang tính chất thương mại)\nC. deliver something to somebody: vận chuyển cái gì cho ai đó\nD. provide somebody with something: cung cấp cho ai cái gì (dịch vụ, hỗ trợ, thông tin)\nTa có giới từ 'with' nên loại đáp án A và C.\nDựa vào ngữ cảnh trong câu là cung cấp dịch vụ đồ giải khát và đồ ăn nhẹ (dịch vụ) nên ta dùng 'provide'.\nTạm dịch: We'll also provide you with refreshments and snacks to keep you energized!"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "valuable",
+            "B": "value",
+            "C": "valuing",
+            "D": "valued"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\nA. valuable /ˈvæljuəbəl/ (adj): quý giá, có giá trị lớn\nB. value /ˈvæljuː/ (n/v): giá trị (n), đánh giá cao, coi trọng (v)\nC. valuing /ˈvæljuːɪŋ/ (v-ing): hành động đánh giá, coi trọng\nD. valued /ˈvæljuːd/ (adj/v-ed): được coi trọng, được đánh giá cao\nTrước danh từ 'experience' ta cần một tính từ phù hợp để bổ nghĩa. 'valuable' là tính từ phù hợp trong ngữ cảnh này.\n'valued' không phù hợp vì 'valued experience' sẽ nhấn mạnh rằng kinh nghiệm này được người khác coi trọng, nhưng không nhất thiết ám chỉ rằng nó hữu ích hay quan trọng cho người học.\nTạm dịch: Gain valuable experience in community service. (Có được kinh nghiệm quý báu trong dịch vụ cộng đồng.)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "formal",
+            "B": "warm",
+            "C": "smart",
+            "D": "casual"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. formal /ˈfɔːrməl/ (adj): trang trọng, chính thức, theo quy cách\nB. warm /wɔːrm/ (adj): ấm áp, thân thiện\nC. smart /smɑːrt/ (adj): thông minh, lanh lợi, hoặc gọn gàng, chỉn chu (trang phục)\nD. casual /ˈkæʒuəl/ (adj): bình thường, không trang trọng, thoải mái\nTạm dịch: Remember to wear casual clothing and comfortable shoes suitable for outdoor activities. (Nhớ mặc quần áo thường ngày và giày thoải mái phù hợp với các hoạt động ngoài trời.)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "plastic",
+            "B": "water",
+            "C": "juice",
+            "D": "glass"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. plastic /ˈplæstɪk/ (n): nhựa\nB. water /ˈwɔːtər/ (n): nước\nC. juice /dʒuːs/ (n): nước ép\nD. glass /ɡlɑːs/ (n): thủy tinh, ly, cốc thủy tinh\nDựa vào ngữ cảnh 'to stay hydrated', ta dùng 'water bottle'.\nTạm dịch: Don't forget to bring your water bottle to stay hydrated throughout the day. (Đừng quên mang theo bình nước để giữ đủ nước trong suốt cả ngày.)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "party",
+            "B": "meeting",
+            "C": "picnic",
+            "D": "event"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. party /ˈpɑːrti/ (n): tiệc, bữa tiệc\nB. meeting /ˈmiːtɪŋ/ (n): cuộc họp, buổi gặp gỡ\nC. picnic /ˈpɪknɪk/ (n): buổi dã ngoại\nD. event /ɪˈvent/ (n): sự kiện\nTạm dịch: At the end of the event, we'll have a small party to celebrate everyone's hard work and dedication. (Vào cuối sự kiện, chúng tôi sẽ tổ chức một bữa tiệc nhỏ để ăn mừng sự chăm chỉ và cống hiến của mọi người.)"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "set",
+            "B": "form",
+            "C": "build",
+            "D": "create"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm từ cố định:\nform friendships: hình thành tình bạn\nTạm dịch: This is your chance to share stories, enjoy light refreshments, and form new friendships! (Đây là cơ hội để bạn chia sẻ những câu chuyện, thưởng thức đồ ăn nhẹ và hình thành những tình bạn mới!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the questions from 31 to 40.",
+      "passageTitle": "",
+      "passage": "Do you feel like your teenager is spending most of the day glued to a phone screen? You're not too far off. A new survey from the Pew Research Center reveals the surprising ways that technology intersects with teen friendships and the results show that 57 percent of teens have made at least one new friend online. Even more surprisingly, only 20 percent of those digital friends ever meet in person.\n\n(I) While teens do connect with their friends face-to-face outside of school, they spend 55 percent of their day texting with friends, and only 25 percent of teens are spending actual time with their friends on a daily basis (outside of school hallways). (II) These new forms of communication are key in maintaining friendships day-to-day- 27 percent of teens instant message their friends every day, 23 percent connect through social media every day, and 7 percent even video chat daily. (III) Text messaging remains the main form of communication - almost half of survey respondents say it's their chosen method of communication with their closest friend. (IV)\n\nWhile girls are more likely to text with their close friends, boys are meeting new friends (and maintaining friendships) in the gaming world-89 percent play with friends they know, and 54 percent play with online-only friends. Whether they're close with their teammates or not, online gamers say that playing makes them feel \"more connected\" to friends they know, or gamers they've never met.\n\nWhen making new friends, social media has also become a major part of the teenage identity- 62 percent of teens are quick to share their social media usernames when connecting with a new friend (although 80 percent still consider their phone number the best method of contact). Despite the negative consequences, 21 percent of teenage users feel worse about their lives because of posts they see on social media - teens also have found support and connection through various platforms. In fact, 68 percent of teens received support during a challenging time in their lives via social media platforms.\n\nJust as technology has become a gateway for new friendships, or a channel to stay connected with current friends, it can also make a friendship breakup more public. The study reveals that girls are more likely to block or unfriend former allies, and 68 percent of all teenage users report experiencing \"drama among their friends on social media.\"",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word \"digital\" in paragraph 1 is CLOSEST in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "analogue",
+            "B": "online",
+            "C": "numeracy",
+            "D": "numerous"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'digital' trong đoạn 1 có nghĩa GẦN NHẤT với________.\nA. analogue /ˈæn.ə.lɒɡ/ (n): vật tương tự, bản sao; (adj): thuộc về tín hiệu tương tự\nB. online /ˌɒnˈlaɪm/ (adj/adv): trực tuyến, kết nối mạng\nC. numeracy /ˈnjuːm.ə.rə.si/ (n): khả năng tính toán, sự thông thạo về số học\nD. numerous /ˈnjuːm.ə.rəs/ (adj): nhiều, đông đảo\ndigital (adj): kĩ thuật số = online\nTạm dịch: Even more surprisingly, only 20 percent of those digital friends ever meet in person. (Thậm chí còn đáng ngạc nhiên hơn, chỉ có 20 phần trăm trong số những người bạn kỹ thuật số đó từng gặp nhau ngoài đời.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which position in paragraph 2 is the most appropriate for the sentence: \"Despite the convenience, some teens feel that digital interactions lack the depth of in-person conversations.\"",
+          "context": "",
+          "options": {
+            "A": "(IV)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(I)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Vị trí nào trong đoạn 2 là phù hợp nhất với câu: 'Mặc dù tiện lợi, một số thanh thiếu niên cảm thấy rằng các tương tác kỹ thuật số thiếu chiều sâu của các cuộc trò chuyện trực tiếp.'\nCâu phù hợp ở vị trí (IV) nhất vì phù hợp liên kết với câu trước đó và là nơi kết thúc đoạn nói về các hình thức giao tiếp kỹ thuật số. Việc thêm câu này sẽ tạo một kết luận chỉ ra cả ưu điểm và nhược điểm của giao tiếp kỹ thuật số.\nTạm dịch: Text messaging remains the main form of communication - almost half of survey respondents say it's their chosen method of communication with their closest friend. Despite the convenience, some teens feel that digital interactions lack the depth of in-person conversations."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following best summarizes paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Teens spend more time texting their friends than meeting them in person.",
+            "B": "Teen friendships are rarely maintained outside of school.",
+            "C": "Face-to-face communication is a thing of the past for teens.",
+            "D": "Teens have few friends outside of their school community."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn 2?\nA. Thanh thiếu niên dành nhiều thời gian nhắn tin cho bạn bè hơn là gặp trực tiếp.\nB sai vì đoạn không nói rằng tình bạn hiếm khi được duy trì ngoài trường học, mà chỉ đề cập rằng phần lớn sự giao tiếp xảy ra qua tin nhắn hoặc các hình thức kỹ thuật số.\nC sai. Đoạn văn không nói rằng giao tiếp trực tiếp đã hoàn toàn biến mất, chỉ là nó ít phổ biến hơn so với các hình thức giao tiếp kỹ thuật số.\nD sai. Đoạn văn không đề cập đến số lượng bạn bè của thiếu niên, mà chỉ nói về cách thiếu niên giao tiếp với bạn bè hiện tại.\nA là đáp án tóm tắt đoạn 2 đúng nhất.\nTạm dịch: While teens do connect with their friends face-to-face outside of school, they spend 55 percent of their day texting with friends, and only 25 percent of teens are spending actual time with their friends on a daily basis."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"they\" in paragraph 3 refers to________.",
+          "context": "",
+          "options": {
+            "A": "online-only friends",
+            "B": "online gamers",
+            "C": "their teammates",
+            "D": "friends"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'they' trong đoạn 3 ám chỉ đến________.\nA. bạn bè chỉ trực tuyến B. game thủ trực tuyến C. đồng đội của họ D. bạn bè\nTạm dịch: Whether they're close with their teammates or not, online gamers say that playing makes them feel 'more connected' to friends they know, or gamers they've never met. (Cho dù họ có thân thiết với đồng đội của mình hay không, những game thủ trực tuyến cho biết rằng chơi game khiến họ cảm thấy 'kết nối hơn' với những người bạn mà họ biết hoặc những game thủ mà họ chưa từng gặp.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The following sentences are true, EXCEPT________.",
+          "context": "",
+          "options": {
+            "A": "According to the survey, more than half of teens have ever made new friends online",
+            "B": "Teens only meet face-to-face one fifth of online friends they have made",
+            "C": "Most teenagers use video chat to maintain a relationship with friends",
+            "D": "New forms of communication play an important role in keeping friendships"
+          },
+          "correctAnswer": "C",
+          "explanation": "Các câu sau đây là đúng, TRỪ________.\nA đúng: 57 percent of teens have made at least one new friend online.\nB đúng: only 20 percent of those digital friends ever meet in person.\nD đúng: These new forms of communication are key in maintaining friendships day-to-day.\nC sai vì chỉ có 7% chứ không phải 'most teenagers': 7 percent even video chat daily."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following best paraphrases the statement \"Despite the negative consequences, 21 percent of teenage users feel worse about their lives because of posts they see on social media - teens also have found support and connection through various platforms.\" in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Teenagers generally have a positive experience with social media.",
+            "B": "Though some teens feel negatively impacted by social media, many still find emotional support on it.",
+            "C": "Social media causes more harm than good to teens.",
+            "D": "A large percentage of teens avoid social media due to its negative impact."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải đúng nhất câu 'Mặc dù có những hậu quả tiêu cực, 21 phần trăm người dùng tuổi teen cảm thấy cuộc sống của họ tệ hơn vì những bài đăng mà họ thấy trên mạng xã hội - thanh thiếu niên cũng tìm thấy sự hỗ trợ và kết nối thông qua nhiều nền tảng khác nhau' trong đoạn 3?\nA. Sai, khác nghĩa câu gạch chân.\nB. Mặc dù một số thanh thiếu niên cảm thấy bị ảnh hưởng tiêu cực bởi mạng xã hội, nhiều người vẫn tìm thấy sự hỗ trợ về mặt cảm xúc trên đó. (Đúng, là câu diễn giải câu gạch chân phù hợp nhất.)\nC. Sai, câu gạch chân không đề cập thông tin so sánh giữa lợi và hại.\nD. Sai, không diễn đạt đúng ý câu gạch chân."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The word \"breakup\" in paragraph 4 is OPPOSITE in meaning to________",
+          "context": "",
+          "options": {
+            "A": "disagreement",
+            "B": "departure",
+            "C": "reconcilement",
+            "D": "separation"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'breakup' ở đoạn 4 có nghĩa ĐỐI LẬP với________\nA. disagreement /ˌdɪs.əˈɡriːmənt/ (n): sự bất đồng, sự không đồng ý.\nB. departure /dɪˈpɑːrtʃər/ (n): sự rời đi, sự khởi hành.\nC. reconcilement /ˈrek.ən.saɪl.mənt/ (n): sự hòa giải, sự làm lành.\nD. separation /ˌsep.əˈreɪ.ʃən/ (n): sự chia cắt, sự ly thân, sự tách biệt.\nbreakup (n): sự chia tay >< reconcilement (n)\nTạm dịch: Just as technology has become a gateway for new friendships, or a channel to stay connected with current friends, it can also make a friendship breakup more public."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "According to the passage, which of the following statements is TRUE?",
+          "context": "",
+          "options": {
+            "A": "Text messaging is the least preferred method for communicating with close friends.",
+            "B": "Girls are more likely than boys to play video games with online friends.",
+            "C": "Most teens meet their online friends in person eventually.",
+            "D": "Social media has helped teens feel supported during difficult times."
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA không đúng: Text messaging remains the main form of communication - almost half of survey respondents say it's their chosen method of communication with their closest friend.\nB không đúng: While girls are more likely to text with their close friends, boys are meeting new friends (and maintaining friendships) in the gaming world.\nC không đúng: only 20 percent of those digital friends ever meet in person.\nD đúng: In fact, 68 percent of teens received support during a challenging time in their lives via social media platforms."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "What is the main idea of the passage?",
+          "context": "",
+          "options": {
+            "A": "Teenagers are making and keeping friends in a surprising way.",
+            "B": "The difference in making new friends between girls and boys.",
+            "C": "Social media connect friendship.",
+            "D": "Social media affect friendship too much."
+          },
+          "correctAnswer": "A",
+          "explanation": "Ý chính của bài viết là gì?\nA. Thanh thiếu niên đang kết bạn và giữ bạn theo một cách đáng ngạc nhiên.\nĐoạn 1: Nhiều thiếu niên kết bạn online, nhưng ít gặp gỡ trực tiếp.\nĐoạn 2: Thiếu niên chủ yếu dùng tin nhắn và mạng xã hội để duy trì tình bạn.\nĐoạn 3: Con trai duy trì tình bạn qua chơi game, trong khi con gái thích nhắn tin.\nĐoạn 4: Mạng xã hội giúp thiếu niên kết bạn và nhận hỗ trợ, nhưng cũng gây tác động tiêu cực.\nĐoạn 5: Công nghệ làm cho mâu thuẫn và chia tay trong tình bạn trở nên công khai hơn.\nBài viết tập trung vào việc mô tả cách thiếu niên sử dụng công nghệ và mạng xã hội để kết bạn và duy trì tình bạn theo những cách bất ngờ và khác biệt so với các phương thức truyền thống nên A là đáp án đúng."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "What can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Boys are more likely to meet new friends than girls.",
+            "B": "The majority of teenage users agree that social media has negative consequences in their lives.",
+            "C": "Thanks to social media, more than two thirds of teens are supported when they face with challenges in their lives.",
+            "D": "Most teens are not easy to give others their usernames when making new friends."
+          },
+          "correctAnswer": "C",
+          "explanation": "Có thể suy ra điều gì từ đoạn văn?\nA sai: While girls are more likely to text with their close friends, boys are meeting new friends (and maintaining friendships) in the gaming world.\nB sai: Despite the negative consequences, 21 percent of teenage users feel worse about their lives.\nD sai: 62 percent of teens are quick to share their social media usernames when connecting with a new friend.\nC đúng: In fact, 68 percent of teens received support during a challenging time in their lives via social media platforms. (Trên thực tế, 68 phần trăm thanh thiếu niên đã nhận được sự hỗ trợ trong thời gian khó khăn trong cuộc sống của họ thông qua các nền tảng mạng xã hội.) → hơn 2/3 (66.7%) → C đúng."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.550028+00:00",
+  "updatedAt": "2026-06-08T10:41:58.550028+00:00",
+  "originalFileName": "THPT_Chuyen_Nguyen_Tat_Thanh_Kon_Tum_2025.json"
+}

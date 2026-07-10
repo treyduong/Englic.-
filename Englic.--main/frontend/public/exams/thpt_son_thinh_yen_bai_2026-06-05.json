@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_son_thinh_yen_bai_2026-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Sơn Thịnh, Yên Bái",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Son_Thinh_Yen_Bai_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#YênBái",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6.",
+      "passageTitle": "FINDING YOUR TRAVEL BUDDY",
+      "passage": "\"Who will I sit beside? Will they be friendly or will they be too (1)_______?\" Are these thoughts that run through your mind before a (2)_______? Now, with the latest feature from this travel app, you can select your perfect travel buddy! The new system, (3)_______ Travel Mates', allows you to check profiles of fellow travelers when booking your tickets. You can share your interests (4)_______ others on the same journey and also explore theirs. Want to bond over a shared passion for food or adventure? Pick someone with similar hobbies from their (5)_______ profile. Prefer quiet? Opt for someone who loves (6)_______ in peaceful surroundings.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "silent",
+            "B": "silenced",
+            "C": "silently",
+            "D": "silence"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại: cần tính từ đứng sau 'too' để bổ nghĩa.\nA. silent (adj): im lặng\nB. silenced (PII): bị làm cho im lặng\nC. silently (adv): một cách im lặng\nD. silence (n): sự im lặng\nTạm dịch: \"Tôi sẽ ngồi cạnh ai? Họ có thân thiện không hay sẽ quá im lặng?\""
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "long trip",
+            "B": "lengthy trip",
+            "C": "trip long",
+            "D": "long trips"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc: adj + noun. long (adj) + trip (noun). Vì phía trước có mạo từ 'a' nên ta dùng 'trip' (số ít).\nTạm dịch: Đây có phải là những suy nghĩ xuất hiện trong đầu bạn trước mỗi chuyến đi dài?"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "is calling",
+            "B": "calls",
+            "C": "called",
+            "D": "which called"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng bị động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển sang Vpp (which is called → called).\nTa thấy đây là mệnh đề quan hệ không hạn định (có dấu phẩy), nên ta không dùng that.\nTạm dịch: Hệ thống mới, được gọi là Travel Mates, cho phép bạn xem hồ sơ của những hành khách khác khi đặt vé."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "with",
+            "C": "to",
+            "D": "in"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc: share something with someone: chia sẻ điều gì với ai.\nTạm dịch: Bạn có thể chia sẻ sở thích của mình với những người đồng hành trên cùng hành trình và khám phá sở thích của họ."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "hobby",
+            "B": "traveling",
+            "C": "personal",
+            "D": "social"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. hobby (n): sở thích\nB. travelling: du lịch\nC. personal (adj): cá nhân\nD. social (adj): thuộc về xã hội\nTa cần một tính từ đứng trước 'profile' để miêu tả hồ sơ cá nhân, hợp nghĩa chọn C.\nTạm dịch: Muốn gắn kết với ai đó có cùng niềm đam mê về ẩm thực hoặc phiêu lưu? Hãy chọn người có sở thích tương đồng từ hồ sơ cá nhân của họ."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "relaxing",
+            "B": "relax",
+            "C": "relaxed",
+            "D": "relaxes"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc: love + V-ing: yêu thích việc gì đó.\nTạm dịch: Thích yên tĩnh? Hãy chọn người yêu thích thư giãn trong không gian thanh bình."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "PROMOTE MENTAL WELL-BEING AT HOME!",
+      "passage": "Nurturing Your Mind and Spirit\nTaking care of our mental health is just as important as our physical health, which helps us cope with stress, build resilience, and lead fulfilling lives.\n\nFacts and Figures\n► Nature's Impact: Studies show that spend time outdoors can significantly reduce stress levels. However, (7)_______ people feel they lack access to green spaces.\n► Screen Time Concerns: Excessive daily (8)_______ time is linked to increased anxiety and depression. (9)_______ spending too much time on the phone screen, why don't we go outside and get some fresh air?\n\nPositive Actions You Can Take\nDesignate a cozy corner in your home for reading, meditation, or simply unwinding. Make it a da with soft lighting, plants, and comfortable seating.\nStart a gratitude journal! (10)_______ three things you're thankful for each day to cultivate a positive mindset. Make time for meaningful (11)_______ with family and friends. Connect with (12)_______ regularly help strengthens your support network and combats feelings of isolation.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "many",
+            "B": "much",
+            "C": "few",
+            "D": "a little"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. many + N số nhiều, đếm được: nhiều\nB. much + N không đếm được: nhiều\nC. few + N số nhiều, đếm được: rất ít\nD. a little + N không đếm được: một chút\nTạm dịch: Tác động của thiên nhiên: Các nghiên cứu chỉ ra rằng dành thời gian ngoài trời có thể giảm đáng kể mức độ căng thẳng. Tuy nhiên, nhiều người cảm thấy họ thiếu không gian xanh."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "tea",
+            "B": "bed",
+            "C": "screen",
+            "D": "meal"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. tea (n): trà\nB. bed (n): giường\nC. screen (n): màn hình → screen time: thời gian dùng các thiết bị điện tử\nD. meal (n): bữa ăn\nTạm dịch: Lo ngại về thời gian dùng thiết bị: Thời gian sử dụng màn hình quá mức hàng ngày có liên quan đến việc gia tăng lo âu và trầm cảm."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Although",
+            "B": "Instead of",
+            "C": "On account of",
+            "D": "Irrespective of"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Although + clause: Mặc dù\nB. Instead of + V-ing: Thay vì\nC. On account of + N: Vì\nD. Irrespective of + N: Bất kể\nTạm dịch: Thay vì dành quá nhiều thời gian trên điện thoại, tại sao chúng ta không ra ngoài để tận hưởng không khí trong lành?"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Make up",
+            "B": "Work out",
+            "C": "Put up",
+            "D": "Write down"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Make up: Trang điểm, bịa chuyện\nB. Work out: Tập thể dục\nC. Put (something) up: Dơ lên\nD. Write down: Viết xuống\nTạm dịch: Bắt đầu một cuốn sổ biết ơn! Hãy viết ra ba điều bạn cảm thấy biết ơn mỗi ngày để nuôi dưỡng tư duy tích cực."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "conversations",
+            "B": "connections",
+            "C": "conservations",
+            "D": "interactions"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. conversations: các cuộc trò chuyện\nB. connections: các mối liên kết, mối quan hệ\nC. conservations: các hoạt động bảo tồn\nD. interactions: các tương tác\nTạm dịch: Dành thời gian cho những cuộc trò chuyện ý nghĩa với gia đình và bạn bè."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the others"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. another + N (số ít, đếm được): một cái/người khác\nB. other + N (số nhiều/không đếm được): những cái/người khác\nC. others: những cái/người khác (đại từ)\nD. the others: những cái/người còn lại\nTạm dịch: Kết nối thường xuyên với những người khác sẽ giúp bạn củng cố mạng lưới hỗ trợ và giảm cảm giác cô lập."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Lan: We have. I really like him because he doesn't rely on other people for help and isn't influenced by other people's opinions.\nb. Mai: I can see that you and Hoang Minh have become close friends, Lan.\nc. Mai: I see. So he's very independent.",
+          "options": {
+            "A": "a-b-c",
+            "B": "b-a-c",
+            "C": "b-c-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: Mai nhận xét về tình bạn của Lan và Hoàng Minh (b) → Lan xác nhận và giải thích lý do (a) → Mai rút ra kết luận (c).\nDịch bài: Mai: Mình thấy cậu và Hoàng Minh đã trở thành bạn thân rồi đấy, Lan. / Lan: Đúng vậy. Mình thật sự thích cậu ấy vì cậu ấy không phụ thuộc vào người khác để được giúp đỡ và không bị ảnh hưởng bởi ý kiến của người khác. / Mai: Mình hiểu rồi. Vậy là cậu ấy rất độc lập."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Tom: Why don't they like them?\nb. Tom: You look upset, Linda. What's the matter?\nc. Linda: Nothing serious. Just my parents keep complaining about my clothes.\nd. Tom: Well, it depends on where you're going. If you're going to a party, you could dress up, but I don't think you should wear flashy clothes every day.\ne. Linda: They think my trousers are too skinny and my tops are too tight. They don't like my sparkling clothes or high heels. They want me to wear more casual stuff such as jeans and T-shirts.",
+          "options": {
+            "A": "a-b-c-d-e",
+            "B": "b-c-d-a-e",
+            "C": "d-b-c-a-e",
+            "D": "b-c-a-e-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự: Tom hỏi Linda trông có vẻ buồn (b) → Linda nói bố mẹ phàn nàn về quần áo (c) → Tom hỏi tại sao họ không thích (a) → Linda giải thích chi tiết (e) → Tom đưa ra lời khuyên (d).\nDịch bài: Tom: Trông cậu có vẻ buồn đấy, Linda. Có chuyện gì vậy? / Linda: Không có gì nghiêm trọng đâu. Chỉ là bố mẹ mình cứ phàn nàn về quần áo của mình. / Tom: Tại sao họ không thích quần áo của cậu? / Linda: Họ nghĩ quần của mình quá bó và áo thì quá chật. Họ không thích quần áo lấp lánh hay giày cao gót của mình. / Tom: Ừm, nó còn tùy thuộc vào nơi cậu định đi."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. Regularly engaging in hobbies and personal interests can have a profound impact on overall well-being.\nb. These activities provide a much-needed break from the routine of daily life, offering a sense of refreshment and rejuvenation.\nc. Dear Sam, I've been reflecting on our discussion about balancing work and personal life, and I wanted to emphasize the importance of hobbies.\nd. Hobbies also allow for personal growth and skill development, which can be fulfilling and rewarding.\ne. Best regards.\nf. Whether it's gardening, painting, or playing a musical instrument, these activities can also foster creativity and boost self-esteem.",
+          "options": {
+            "A": "c-a-b-f-d-e",
+            "B": "c-f-b-d-a-e",
+            "C": "c-b-d-f-a-e",
+            "D": "c-d-f-b-a-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Đây là một bức thư có cấu trúc: Lời mở đầu (c) → Luận điểm chính (a) → Bổ sung ý (b) → Ví dụ cụ thể (f) → Ý khác (d) → Lời kết (e).\nDịch bài: Thân gửi Sam, Tôi đã suy ngẫm về cuộc thảo luận của chúng ta về việc cân bằng giữa công việc và cuộc sống cá nhân. Thường xuyên tham gia các sở thích cá nhân có thể có tác động sâu sắc đến sức khỏe tổng thể. Những hoạt động này mang lại sự giải lao rất cần thiết. Cho dù là làm vườn, vẽ tranh hay chơi nhạc cụ, sở thích cũng cho phép phát triển kỹ năng. Trân trọng."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Also, volunteering helps students connect with the community, making them aware of the needs around them.\nb. Finally, doing volunteer work can be a rewarding experience, as students feel good about helping others.\nc. High school students benefit from doing voluntary work in many ways.\nd. Additionally, students develop such important skills as teamwork and communication ones while they volunteer.\ne. Firstly, students who do voluntary work gain valuable real-world experience which can help in their future careers.",
+          "options": {
+            "A": "e-c-a-b-d",
+            "B": "e-a-c-b-d",
+            "C": "c-a-b-d-e",
+            "D": "c-e-d-a-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc đoạn văn: Câu chủ đề (c) → Ý 1: kinh nghiệm thực tế (e) → Ý 2: kỹ năng quan trọng (d) → Ý 3: kết nối cộng đồng (a) → Kết luận (b).\nDịch bài: Học sinh trung học nhận được rất nhiều lợi ích từ việc tham gia hoạt động tình nguyện. Đầu tiên, học sinh làm tình nguyện sẽ có được kinh nghiệm thực tế quý giá. Thêm vào đó, học sinh phát triển các kỹ năng quan trọng như làm việc nhóm và giao tiếp. Ngoài ra, việc làm tình nguyện giúp học sinh kết nối với cộng đồng. Cuối cùng, làm tình nguyện còn mang lại cảm giác hài lòng."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. It is reported that while Le and a few Qing officials were travelling, they came upon a Chinese poem written on a stone palette.\nb. Le Quy Don, Director of the Bureau of Recorded Events and Rector of the National University, is admired for his broad knowledge and excellent memory.\nc. After this event, the Chinese gave him a great deal of respect for it.\nd. Later, a Qing official tested him by asking him to recall what was on the stone palette.\ne. Le Quy Don read out loud in Mandarin the whole poem, word for word.",
+          "options": {
+            "A": "b-d-e-a-c",
+            "B": "b-c-a-e-d",
+            "C": "b-a-d-e-c",
+            "D": "b-e-d-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Chuỗi sự kiện: Giới thiệu nhân vật (b) → Phát hiện bài thơ (a) → Quan nhà Thanh thử thách (d) → Lê Quý Đôn đọc lại toàn bộ bài thơ (e) → Kết quả: người Trung Quốc tôn trọng ông (c).\nDịch bài: Lê Quý Đôn, quan Thượng thư bộ Công và Hiệu trưởng Quốc Tử Giám, được ngưỡng mộ vì kiến thức uyên bác và trí nhớ xuất sắc. Người ta kể rằng trong khi Lê và một số quan nhà Thanh đang đi đường, họ tình cờ thấy một bài thơ chữ Hán khắc trên một phiến đá. Sau đó, một quan nhà Thanh đã thách thức ông bằng cách yêu cầu ông đọc lại bài thơ trên phiến đá đó. Lê Quý Đôn đã đọc to bài thơ bằng tiếng Trung, từng chữ một, không sai một từ nào. Sau sự kiện này, người Trung Quốc đã dành cho ông sự tôn trọng rất lớn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "",
+      "passage": "The development of humanoid robots has captured the imagination of many. One such creation is Apollo, a highly advanced robot designed for social interaction, (18)_______. Apollo made her first public appearance in 2020, showcasing her ability to converse and express emotions. Since then, she had participated in numerous tech conferences across the globe.\n\nApollo was developed by a team of engineers and psychologists (19)_______. This collaboration aimed to create a robot that could effectively understand and respond to human emotions, making her unique presence in the field of artificial intelligence. Apollo's design is sleek and modern, (20)_______. His facial expressions and gestures are crafted to resemble those of a human, enhancing her ability to connect with people on a deeper level.\n\nEquipped with advanced speech recognition technology, (21)_______. This allows him to engage in meaningful conversations and adapt his responses based on the emotional tone of discussion. As humanoid robots like Apollo become more integrated into society, (22)_______. They hold the potential to transform the way to interact with technology and each other.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that was created to bridge the gap between humans and machines",
+            "B": "who aims to redefine human-robot relationships",
+            "C": "which was designed to enhance social communication",
+            "D": "that first stepped into the spotlight in the early 2020"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy đây là mệnh đề quan hệ không hạn định (có dấu phẩy), nên ta không dùng that. Ta dùng 'which' vì thay cho danh từ chỉ vật 'Apollo'.\nTạm dịch: Một trong những sáng tạo đó là Apollo, một robot cực kỳ tiên tiến được thiết kế để tương tác xã hội, nhằm tăng cường giao tiếp xã hội."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "whose goal was to merge technology with emotional intelligence",
+            "B": "combining expertise in robotics and behavioral science",
+            "C": "that collaborated to bring a human touch to robotics",
+            "D": "whose members specialized in AI and human interaction"
+          },
+          "correctAnswer": "B",
+          "explanation": "B. kết hợp chuyên môn trong robot học và khoa học hành vi\nA. có mục tiêu kết hợp công nghệ với trí tuệ cảm xúc → Đúng ngữ pháp nhưng chưa phù hợp với nội dung câu sau\nC. đã hợp tác để mang lại sự gần gũi của con người cho robot → Đúng ngữ pháp nhưng chưa phù hợp\nD. có các thành viên chuyên môn về trí tuệ nhân tạo và tương tác con người → Đúng ngữ pháp nhưng chưa phù hợp\nTạm dịch: Apollo được phát triển bởi một nhóm kỹ sư và nhà tâm lý học kết hợp chuyên môn về robot học và khoa học hành vi."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "designed to be visually appealing while functional",
+            "B": "inspired contemporary art and human anatomy",
+            "C": "combining elements of both futuristic and classic designs",
+            "D": "reflecting the aesthetics of modern robotics and human likeness"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta dùng mệnh đề hiện tại phân từ để chỉ kết quả. Để hợp nghĩa với câu phía sau, ta dùng D.\nD. phản ánh tính thẩm mỹ của robot học hiện đại và sự giống con người\nTạm dịch: Thiết kế của Apollo bóng bẩy và hiện đại, phản ánh tính thẩm mỹ của robot hiện đại và sự giống con người."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best completes blank (21)?",
+          "context": "",
+          "options": {
+            "A": "A variety of human languages can comprehend and respond to Apollo",
+            "B": "Users uses sophisticated algorithms to interact with Apollo",
+            "C": "Apollo understands context and nuance in human conversations",
+            "D": "Apollo is programmed to facilitate discussions on various topics"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mệnh đề phía trước dùng quá khứ phân từ (equipped) dạng bị động, nên chủ ngữ chỉ có thể dùng chủ ngữ Apollo. Hợp nghĩa ta dùng C.\nTạm dịch: Được trang bị công nghệ nhận diện giọng nói tiên tiến, Apollo hiểu được ngữ cảnh và sắc thái trong các cuộc trò chuyện của con người."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following best completes blank (22)?",
+          "context": "",
+          "options": {
+            "A": "they could lead to more personalized user experiences",
+            "B": "their integration could enhance daily about ethics and empathy",
+            "C": "their development raised questions about ethics and empathy",
+            "D": "they may change the landscape of communication in the future"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ở đây ta cần câu văn thể hiện rằng có sự thay đổi về giao tiếp để phù hợp với câu phía sau.\nD. Chúng có thể thay đổi diện mạo của giao tiếp trong tương lai\nTạm dịch: Khi các robot hình người như Apollo ngày càng được tích hợp vào xã hội, chúng có thể thay đổi cảnh quan giao tiếp trong tương lai. Chúng có tiềm năng chuyển đổi cách chúng ta tương tác với công nghệ và với nhau."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered birds and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "",
+      "passage": "There are approximately 8,000 species of birds in the world today. However, only a few of these are widely recognized: sparrows, pigeons, eagles, parrots, and others. So, what about the lesser-known bird species? According to the International Union for Conservation of Nature (IUCN), nearly one-third of the world's bird species are now at risk of extinction, with some having populations of fewer than 1,000 individuals. Over the past century, about 150 bird species have gone extinct.\n\nSadly, when we lose a bird species, we lose a piece of nature's balance. Birds play crucial roles in various ecosystems, such as controlling insect populations, pollinating plants, and dispersing seeds. One example is the honeycreeper, a brightly colored bird native to Hawaii. Honeycreepers are essential pollinators for certain tropical flowers, and their unique feeding habits demonstrate a close relationship with their habitat.\n\nEfforts are being made to save endangered bird species. In the Galapagos Islands, conservation programs focus on protecting habitats critical to birds like the Galapagos penguin. In India, special reserves help protect endangered species like the Great Indian Bustard.\n\nTechnology also offers promising tools for bird conservation. Bird-watching apps, for example, allow scientists and citizens alike to record bird sightings and monitor bird populations. These apps provide valuable data for conservation efforts and enable people worldwide to appreciate and support bird diversity.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a widely recognized bird?",
+          "context": "",
+          "options": {
+            "A": "Pigeon",
+            "B": "Parrot",
+            "C": "Eagle",
+            "D": "Honeycreeper"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Hiện nay, trên thế giới có khoảng 8.000 loài chim. Tuy nhiên, chỉ một số ít trong số đó được biết đến rộng rãi như chim sẻ, bồ câu, đại bàng, vẹt và một vài loài khác.\nD. Chim mật (Honeycreeper) không được liệt kê trong danh sách các loài chim được công nhận rộng rãi."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"extinction\" in paragraph 1 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "Survival",
+            "B": "Disappearance",
+            "C": "Scarcity",
+            "D": "Endangerment"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Survival (n): Sự sống còn\nB. Disappearance (n): Sự biến mất\nC. Scarcity (n): Sự khan hiếm\nD. Endangerment (n): Sự gặp nguy hiểm\nSurvival >< extinction: sự sống còn >< sự tuyệt chủng"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"their\" in paragraph 2 refers to:",
+          "context": "",
+          "options": {
+            "A": "Flowers",
+            "B": "Honeycreepers",
+            "C": "Pollinators",
+            "D": "Habitats"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'their' trong đoạn 2 ám chỉ Honeycreepers (chim Honeycreeper).\nThông tin: Honeycreepers are essential pollinators for certain tropical flowers, and their unique feeding habits demonstrate a close relationship with their habitat. (Chim honeycreeper là những tác nhân thụ phấn quan trọng cho một số loài hoa nhiệt đới, và thói quen ăn uống độc đáo của chúng thể hiện mối quan hệ mật thiết với môi trường sống của chúng.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"monitor\" in paragraph 4 could be best replaced by:",
+          "context": "",
+          "options": {
+            "A": "Track",
+            "B": "Ignore",
+            "C": "Eliminate",
+            "D": "Disrupt"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Track (v): Theo dõi\nB. Ignore (v): Bỏ qua\nC. Eliminate (v): Loại bỏ\nD. Disrupt (v): Gián đoạn\nTrack = monitor (v): giám sát, theo dõi"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Technology might help preserve bird diversity.",
+            "B": "Bird-watching apps can't replace traditional conservation methods.",
+            "C": "Bird conservation relies solely on technology.",
+            "D": "Only technology can protect birds from extinction."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gạch chân: 'Technology also offers promising tools for bird conservation.' (Công nghệ cũng mang đến những công cụ đầy hứa hẹn cho việc bảo tồn các loài chim.)\nA. Công nghệ có thể giúp bảo tồn sự đa dạng của các loài chim. → Đúng ý"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Honeycreepers are found only in the Galapagos Islands.",
+            "B": "The Galapagos penguin has no special conservation programs.",
+            "C": "Apps allow the public to contribute to bird conservation.",
+            "D": "Birds are less important to ecosystems than other animals."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Technology also offers promising tools for bird conservation. Bird-watching apps, for example, allow scientists and citizens alike to record bird sightings and monitor bird populations. (Công nghệ cũng mang đến những công cụ đầy hứa hẹn cho việc bảo tồn các loài chim. Các ứng dụng quan sát chim, chẳng hạn, cho phép các nhà khoa học và người dân ghi lại thông tin về những loài chim mà họ nhìn thấy và theo dõi quần thể chim.)\nC đúng: Các ứng dụng cho phép cộng đồng đóng góp vào việc bảo tồn chim."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention a bird's specific role in its ecosystem?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Đoạn 2 - Birds play crucial roles in various ecosystems, such as controlling insect populations, pollinating plants, and dispersing seeds. One example is the honeycreeper... (Chim đóng vai trò quan trọng trong các hệ sinh thái, như kiểm soát quần thể côn trùng, thụ phấn cho cây và phát tán hạt giống.)"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer discuss modern technology's role in conservation?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Đoạn 4 - Technology also offers promising tools for bird conservation. Bird-watching apps, for example, allow scientists and citizens alike to record bird sightings and monitor bird populations. (Công nghệ cũng mang đến những công cụ đầy hứa hẹn cho việc bảo tồn các loài chim.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about dependence on technology and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "DEPENDENCE ON TECHNOLOGY: TIME FOR CHANGE!",
+      "passage": "[I] Los Angeles dancer, Brian Perez, was eating out with his friends one evening when suddenly everyone went quiet. [II] To his horror, he saw that the reason for this was that people were checking their phones. [III] What if they all put their gadgets in a pile in the middle of the table until they had finished the meal? [IV] If anyone picked up their phone, that person would have to pay the whole bill. And so, it is said, the game of 'phone stacking' was born.\n\nThe necessity for action like this highlights a major problem in today's society: our inability to disconnect from technology. But while Brian's idea deals with the obsession in a social context, measures also need to be taken at home. Some people drop their smartphones into a box the moment they arrive home, which gives them the chance to interact with the people they live with. The fact that the phone cannot be heard – it is on silent – not seen the flashing lights are hidden by the box – means that they are no longer tempted to use it.\n\nA less drastic solution is to ban electronic devices at certain times of day when the whole family is likely to be together, for example at meal times. This can be hard for everyone, from teenagers desperate to text friends to parents unable to switch off from work. On a normal day, however, dinner takes less than an hour, and the benefits of exchanging opinions and anecdotes with the rest of the family certainly makes up for the time spent offline.\n\nTaking a break from technology is one thing, but knowing when to turn off a device is another. Time seems to stand still in the virtual world, and before you know it, you find that it is three o'clock in the morning. This is where a digital curfew comes in handy, a set time when all devices must be put away. Evenings without technology are usually nice and peaceful and make a more agreeable end to the day. And then it's time for bed. One of the best ways of ensuring you can sleep at night is to ban electronic devices altogether from the bedroom. Lying next to a machine bursting with information is far from relaxing, and the sounds it emits during the night can easily wake you up. With technology out of the room, a line has been drawn between daytime and sleep time, which enables us to switch off ourselves and drift off to sleep.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Realising he had to do something to stop this, Brian made a rather daring suggestion.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu cần điền nói về Brian đưa ra một gợi ý táo bạo. Câu phía sau nói rõ hơn về gợi ý 'phone stacking'. Câu này phù hợp nhất ở vị trí (III), sau khi Brian nhận ra mọi người đang kiểm tra điện thoại và trước khi đề xuất trò chơi phone stacking."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase \"the necessity for action\" in paragraph II could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "the requirement for change",
+            "B": "the importance of communication",
+            "C": "the need for technology",
+            "D": "the demand for connection"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'the necessity for action' trong đoạn 2 có thể được thay thế bằng 'the requirement for change': yêu cầu về sự thay đổi.\nthe requirement for change = the necessity for action: cần thiết để hành động"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"it\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "fact",
+            "B": "phone",
+            "C": "light",
+            "D": "box"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'it' trong đoạn 2 ám chỉ 'phone' (điện thoại).\nThông tin: The fact that the phone cannot be heard - it is on silent - not seen the flashing lights are hidden by the box - means that they are no longer tempted to use it. (Việc điện thoại không thể nghe thấy (vì đã để im lặng) và không nhìn thấy ánh sáng nhấp nháy (vì bị che khuất trong hộp) có nghĩa là họ không còn bị cám dỗ để sử dụng nó nữa.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 1, Brian Perez was shocked to find that",
+          "context": "",
+          "options": {
+            "A": "people were willing to remove all their gadgets",
+            "B": "the prices for food were too expensive",
+            "C": "people were glued to their phones",
+            "D": "everyone seemed quiet by nature"
+          },
+          "correctAnswer": "C",
+          "explanation": "Theo đoạn 1, Brian Perez đã bị sốc khi phát hiện ra mọi người đều dán mắt vào điện thoại của họ.\nThông tin: To his horror, he saw that the reason for this was that people were checking their phones. (Đến hoảng hốt, anh nhận ra lý do là mọi người đang kiểm tra điện thoại.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Banning electronic devices during family meals helps improve communication and connection.",
+            "B": "Parents find it easy to disconnect from work during meal times.",
+            "C": "Family meals should be brief to accommodate everyone's schedules.",
+            "D": "Teenagers resist limits on device use but benefit from family interaction."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: A less drastic solution is to ban electronic devices at certain times of day when the whole family is likely to be together, for example at meal times... the benefits of exchanging opinions and anecdotes with the rest of the family certainly makes up for the time spent offline.\nA đúng: Cấm các thiết bị điện tử trong các bữa ăn gia đình giúp cải thiện giao tiếp và gắn kết."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"ban\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "allow",
+            "B": "forbid",
+            "C": "prohibit",
+            "D": "prevent"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. allow (v): cho phép\nB. forbid (v): cấm\nC. prohibit (v): cấm\nD. prevent (v): ngăn ngừa\nallow >< ban (v): ngăn cấm"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following statements is true, according to the passage?",
+          "context": "",
+          "options": {
+            "A": "People choose not to use their phones at home so that they can talk to other members.",
+            "B": "Meal times are the most suitable for the whole family to use phones together.",
+            "C": "Teenagers can find it easier to turn off their phones compared to their parents.",
+            "D": "Brian's idea is not new in terms of making people less dependent on technology."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Some people drop their smartphones into a box the moment they arrive home, which gives them the chance to interact with the people they live with. (Một số người ngay khi về đến nhà liền bỏ điện thoại vào hộp, điều này giúp họ có cơ hội giao tiếp với những người sống cùng mình.) → A đúng"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "The word \"highlights\" in paragraph 2 is closest in meaning to",
+          "context": "",
+          "options": {
+            "A": "tackles",
+            "B": "expects",
+            "C": "proposes",
+            "D": "emphasizes"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. tackles (v): giải quyết\nB. expects (v): mong đợi\nC. proposes (v): đề xuất\nD. emphasizes (v): nhấn mạnh\nemphasize = highlight (v): làm nổi bật, nhấn mạnh"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following best paraphrases the sentence \"With technology out of the room, a line has been drawn between daytime and sleep time\"?",
+          "context": "",
+          "options": {
+            "A": "Removing devices from the bedroom helps distinguish between waking hours and rest.",
+            "B": "Keeping technology in the bedroom allows for better sleep quality.",
+            "C": "Limiting device usage at night makes it easier to stay awake.",
+            "D": "Having devices in the bedroom is beneficial for sleep routines."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu 'With technology out of the room, a line has been drawn between daytime and sleep time' nghĩa là 'Với việc loại bỏ công nghệ khỏi phòng, một ranh giới đã được vẽ ra giữa thời gian ban ngày và thời gian ngủ'.\nA đúng: Việc loại bỏ thiết bị khỏi phòng ngủ giúp phân biệt giữa thời gian thức và thời gian nghỉ ngơi."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Taking breaks from technology promotes family interaction, peaceful evenings, and better sleep through simple measures.",
+            "B": "Banning all technology use throughout the day significantly reduces its negative impact on daily life.",
+            "C": "Social games like 'phone stacking' are the most effective method for reducing smartphone dependence.",
+            "D": "Devices left on silent at work prevent distractions and improve professional productivity and relationships."
+          },
+          "correctAnswer": "A",
+          "explanation": "Cả bài nói về vấn đề nghiện dùng công nghệ và lợi ích của việc nghỉ ngơi khỏi công nghệ giúp thúc đẩy tương tác gia đình, mang lại buổi tối bình yên và giúp ngủ ngon hơn.\nA đúng: Nghỉ ngơi khỏi công nghệ thúc đẩy tương tác gia đình, buổi tối yên bình và ngủ ngon hơn thông qua các biện pháp đơn giản."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.619030+00:00",
+  "updatedAt": "2026-06-08T10:41:58.619030+00:00",
+  "originalFileName": "THPT_Son_Thinh_Yen_Bai_2025.json"
+}

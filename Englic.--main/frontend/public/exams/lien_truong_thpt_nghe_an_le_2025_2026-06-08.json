@@ -1,0 +1,627 @@
+{
+  "examId": "lien_truong_thpt_nghe_an_le_2025_2026-06-08",
+  "title": "Kì thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Liên trường THPT Nghệ An (Mã đề Lẻ)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Nghe_An_Lien_Truong_Le_2025_TiengAnh.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#NghệAn",
+    "#TốtNghiệp",
+    "#MãĐềLẻ"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the flipped classroom and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 8.",
+      "passageTitle": "The Flipped Classroom",
+      "passage": "The flipped classroom is an innovative teaching method where traditional learning structures are reversed. Instead of listening to lectures in class and doing homework at home, students watch recorded lessons or review materials independently at their own pace. Classroom time is then dedicated to discussions, collaborative activities, and problem-solving. This approach allows teachers to guide students more effectively and address individual challenges during face-to-face interactions.\n\nA key advantage of the flipped classroom is its emphasis on active learning. By engaging in hands-on tasks during class, students can better understand and apply new concepts. Students who actively participate in their learning process tend to retain information longer. Furthermore, independent study before class allows students to revisit difficult topics as many times as necessary, fostering a personalized learning experience.\n\nHowever, the flipped classroom also presents challenges. Not all students have access to reliable technology or a conducive learning environment at home, which can hinder their ability to prepare for class. Additionally, some students may struggle to adapt to the self-directed aspect of the approach, requiring extra support from teachers to stay on track.\n\nDespite these obstacles, the flipped classroom has gained popularity in schools and universities worldwide. It promotes student-centered learning and prepares individuals for the collaborative and independent tasks they will encounter in their professional lives. This method represents a shift from traditional education toward a more dynamic and flexible model.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Which of the following is NOT mentioned as a feature of the flipped classroom?",
+          "context": "",
+          "options": {
+            "A": "Teachers provide individual support during class.",
+            "B": "Lectures are delivered live during class.",
+            "C": "Students watch lessons at home.",
+            "D": "Classroom time is used for problem-solving activities."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin:\n+ Classroom time is then dedicated to discussions, collaborative activities, and problem-solving. This approach allows teachers to guide students more effectively and address individual challenges during face-to-face interactions. → A và D được nhắc đến.\n+ Instead of listening to lectures in class and doing homework at home, students watch recorded lessons or review materials independently at their own pace. → C được nhắc đến.\n→ B không được nhắc đến như một đặc điểm của lớp học đảo ngược. Thời gian trên lớp được dành cho các hoạt động thảo luận, hợp tác và giải quyết vấn đề."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word 'conducive' in paragraph 3 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "unfavorable",
+            "B": "encouraging",
+            "C": "beneficial",
+            "D": "unaffordable"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. unfavorable /ʌnˈfeɪvərəbəl/ (adj): không thuận lợi\nB. encouraging /ɪnˈkʌrɪdʒɪŋ/ (adj): khuyến khích, cổ vũ\nC. beneficial /ˌbenɪˈfɪʃəl/ (adj): có lợi\nD. unaffordable /ˌʌnəˈfɔːdəbəl/ (adj): không thể chi trả\nconducte /kənˈdjuːsɪv/ (adj): có lợi, thuận lợi >< unfavorable (adj)\nThông tin: Not all students have access to reliable technology or a conducive learning environment at home, which can hinder their ability to prepare for class."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The word 'their' in paragraph 3 refers to________.",
+          "context": "",
+          "options": {
+            "A": "teachers",
+            "B": "students",
+            "C": "classrooms",
+            "D": "discussions"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'their' trong đoạn 3 ám chỉ 'students'.\nThông tin: Not all students have access to reliable technology or a conducive learning environment at home, which can hinder their ability to prepare for class."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "The word 'flexible' in paragraph 4 could best be replaced by________.",
+          "context": "",
+          "options": {
+            "A": "straightforward",
+            "B": "rigid",
+            "C": "adaptable",
+            "D": "uniform"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. straightforward /ˌstreɪtˈfɔːwəd/ (adj): đơn giản, dễ hiểu\nB. rigid /ˈrɪdʒɪd/ (adj): cứng nhắc\nC. adaptable /əˈdæptəbəl/ (adj): có thể thích ứng\nD. uniform /ˈjuːnɪfɔːm/ (adj): đồng nhất\nflexible /ˈfleksɪbəl/ (adj): linh hoạt = adaptable\nThông tin: This method represents a shift from traditional education toward a more dynamic and flexible model."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Research indicates that active learners forget information more quickly.",
+            "B": "Information is always forgotten without teacher involvement.",
+            "C": "Active learning has no significant effect on information retention.",
+            "D": "Students remember information better when they actively engage in learning."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Nghiên cứu chỉ ra rằng học sinh học chủ động quên thông tin nhanh hơn → Sai về ý nghĩa câu.\nB. Thông tin luôn bị quên nếu không có sự tham gia của giáo viên → Sai vì ý nghĩa câu không liên quan.\nC. Học chủ động không có tác dụng đáng kể đối với việc ghi nhớ thông tin → Sai về ý nghĩa câu.\nD. Học sinh nhớ thông tin tốt hơn khi họ tham gia tích cực vào quá trình học → Đúng vì diễn đạt lại đúng câu gốc.\nThông tin: Students who actively participate in their learning process tend to retain information longer."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "The flipped classroom eliminates the need for teachers.",
+            "B": "All students benefit equally from flipped classrooms.",
+            "C": "Students are required to complete homework during class time.",
+            "D": "Flipped classrooms emphasize student engagement and collaboration."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Lớp học đảo ngược loại bỏ sự cần thiết của giáo viên → Sai.\nB. Tất cả học sinh đều hưởng lợi như nhau từ lớp học đảo ngược → Sai ở 'equally'.\nC. Học sinh được yêu cầu hoàn thành bài tập trong thời gian học → Sai.\nD. Lớp học đảo ngược nhấn mạnh sự tham gia và hợp tác của học sinh → Đúng.\nThông tin: Classroom time is then dedicated to discussions, collaborative activities, and problem-solving. It promotes student-centered learning and prepares individuals for the collaborative and independent tasks..."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "In which paragraph does the writer discuss the challenges of the flipped classroom?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tác giả thảo luận về các thách thức của lớp học đảo ngược ở đoạn 3.\nThông tin: However, the flipped classroom also presents challenges."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "In which paragraph does the writer explain the benefits of active learning?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả giải thích lợi ích của việc học chủ động ở đoạn 2.\nThông tin: A key advantage of the flipped classroom is its emphasis on active learning."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 9 to 13.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "a. Mary: I've been doing well. I've just finished my final exams.\nb. Jane: It's been so long! How have you been?\nc. Jane: That's great! How did they go?",
+          "options": {
+            "A": "b-c-a",
+            "B": "c-b-a",
+            "C": "b-a-c",
+            "D": "a-b-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hội thoại hợp lý: Jane hỏi thăm (b) → Mary trả lời và chia sẻ (a) → Jane hỏi thêm về kết quả (c).\nTạm dịch: Jane: Lâu lắm rồi mới gặp! Dạo này cậu thế nào? → Mary: Mình vẫn ổn. Mình vừa thi xong kỳ thi cuối kỳ. → Jane: Tuyệt quá! Bài thi thế nào?"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "a. Wendy: Exactly! It's a small change, but it makes a big difference.\nb. Lacy: That's a great idea! Plastic bags take hundreds of years to decompose.\nc. Lacy: You should also try using a reusable water bottle.\nd. Wendy: I've started using reusable bags instead of plastic ones.\ne. Wendy: Thank for your advice. I feel good knowing I'm helping reduce waste.",
+          "options": {
+            "A": "d-b-a-e-c",
+            "B": "d-b-a-c-e",
+            "C": "a-b-c-d-e",
+            "D": "d-c-e-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hội thoại hợp lý: Wendy chia sẻ thói quen mới (d) → Lacy khen ngợi và giải thích (b) → Wendy đồng ý (a) → Lacy gợi ý thêm (c) → Wendy cảm ơn (e).\nTạm dịch: d→b→a→c→e"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "Hi Mark,\na. The characters were so interesting, especially the main character.\nb. I wanted to say thank you for recommending that film. I loved it!\nc. Let's chat soon about more movie recommendations!\nd. I'm thinking of watching it again with my friends.\ne. The soundtrack was also incredible. It added so much emotion to each scene.\nYour friend,\nEmily",
+          "options": {
+            "A": "b-a-e-d-c",
+            "B": "a-e-c-d-b",
+            "C": "b-e-a-c-d",
+            "D": "a-d-c-e-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự thư hợp lý: Cảm ơn vì đã giới thiệu phim (b) → Nhận xét về nhân vật (a) → Nhận xét về nhạc phim (e) → Kế hoạch xem lại (d) → Lời kết hẹn gặp (c).\nTạm dịch: b→a→e→d→c"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "a. However, being adaptable and learning quickly are critical skills for succeeding in this fast-paced industry.\nb. In the past three years, I have developed these abilities through various challenges and projects.\nc. Therefore, I am confident that I can meet the demands of any high-pressure work environment.\nd. Having a strong foundation in problem-solving has allowed me to thrive in my career.\ne. This skillset has been essential to my progress and will be a valuable asset moving forward.",
+          "options": {
+            "A": "b-d-a-c-e",
+            "B": "d-e-b-a-c",
+            "C": "d-b-a-e-c",
+            "D": "a-b-d-c-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đoạn văn hợp lý: Nêu nền tảng về giải quyết vấn đề (d) → Kỹ năng này đóng vai trò quan trọng (e) → Trong 3 năm qua đã rèn luyện (b) → Tuy nhiên cần thêm kỹ năng thích ứng (a) → Kết luận tự tin (c).\nTạm dịch: d→e→b→a→c"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Despite its picturesque charm, the town struggles with a lack of reliable public transportation, forcing residents to rely heavily on personal vehicles.\nb. Over the past ten years, Meadowville has transformed from a sleepy agricultural community into a vibrant hub for eco-tourism.\nc. The development of hiking trails, eco-lodges, and nature reserves has drawn visitors from all over the region, boosting local businesses significantly.\nd. This growth has also led to challenges, such as increased housing demand, which has caused property prices to rise sharply.\ne. While Meadowville has seen remarkable progress, further investment in infrastructure is needed to ensure long-term sustainability.",
+          "options": {
+            "A": "b-c-d-a-e",
+            "B": "d-a-b-c-e",
+            "C": "c-b-a-d-e",
+            "D": "b-d-a-e-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đoạn văn hợp lý: Meadowville đã chuyển mình (b) → Sự phát triển du lịch sinh thái (c) → Thách thức về giá nhà (d) → Thách thức về giao thông (a) → Kết luận cần đầu tư thêm (e).\nTạm dịch: b→c→d→a→e"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 14 to 19.",
+      "passageTitle": "Unlocking Lifelong Learning",
+      "passage": "Lifelong learning is essential for both personal and professional (14)______.\n\nOur Offerings\nWhether you want to learn a new language, skill, or hobby, we provide resources that can guide you every step of the way. Our programs are designed for (15)______ ages, with flexible schedules and diverse subjects.\n\nJoin Our Community\nLearning doesn't have to be difficult. Bring along curiosity and (16)______ our community. Classes are available in libraries, schools, and online, making it easier for everyone to learn (17)______.\n\nBenefits of Learning\nBy staying open to new knowledge, you'll gain valuable understanding and connect with others who share your passion. Our courses also help you develop skills that can be used in various (18)______ of life.\n\nStart Your Journey\nJoin us and make learning a lifelong journey to enrich your (19)______!",
+      "questions": [
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "chore",
+            "B": "plan",
+            "C": "growth",
+            "D": "change"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. chore /tʃɔːr/ (n): công việc vặt\nB. plan /plæn/ (n): kế hoạch\nC. growth /ɡrəʊθ/ (n): sự phát triển\nD. change /tʃeɪndʒ/ (n): sự thay đổi\nTạm dịch: Học tập suốt đời là điều cần thiết cho cả sự phát triển cá nhân và nghề nghiệp."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "all",
+            "B": "the others",
+            "C": "other",
+            "D": "the other"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. all + N đếm được số nhiều/không đếm được: tất cả\nB. the others: những cái/người còn lại trong một nhóm\nC. other + N đếm được số nhiều/không đếm được: những cái/người khác\nD. the other + N đếm được: (những) cái/người còn lại trong 1 nhóm\nTa thấy danh từ 'ages' ở dạng danh từ đếm được số nhiều và dựa vào nghĩa, ta chọn 'all'.\nTạm dịch: Các chương trình của chúng tôi được thiết kế cho mọi lứa tuổi, với lịch học linh hoạt và chủ đề đa dạng."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "succeed in",
+            "B": "take part in",
+            "C": "come out",
+            "D": "deal with"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. succeed in: thành công trong việc gì\nB. take part in: tham gia vào\nC. come out: xuất hiện, ra mắt\nD. deal with: đối phó với\nTạm dịch: Hãy mang theo sự tò mò và tham gia vào cộng đồng của chúng tôi."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "in detail",
+            "B": "in the future",
+            "C": "in danger",
+            "D": "in their own time"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. in detail: chi tiết\nB. in the future: trong tương lai\nC. in danger: gặp nguy hiểm\nD. in their own time: vào thời gian của họ (theo lịch trình riêng)\nTạm dịch: Các lớp học có sẵn tại các thư viện, trường học và trực tuyến, giúp mọi người dễ dàng học tập hơn trong thời gian của riêng mình."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "stages",
+            "B": "styles",
+            "C": "choices",
+            "D": "positions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. stage /steɪdʒ/ (n): giai đoạn\nB. style /staɪl/ (n): phong cách\nC. choice /tʃɔɪs/ (n): sự lựa chọn\nD. position /pəˈzɪʃən/ (n): vị trí\nTạm dịch: Các khóa học của chúng tôi cũng giúp bạn phát triển những kỹ năng có thể áp dụng vào nhiều giai đoạn khác nhau trong cuộc sống."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "brain",
+            "B": "advice",
+            "C": "business",
+            "D": "knowledge"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. brain /breɪm/ (n): bộ não\nB. advice /ədˈvaɪs/ (n): lời khuyên\nC. business /ˈbɪznɪs/ (n): kinh doanh\nD. knowledge /ˈnɒlɪdʒ/ (n): kiến thức\nTạm dịch: Hãy tham gia cùng chúng tôi và biến việc học trở thành một hành trình suốt đời để làm giàu kiến thức của bạn!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about autonomous vehicles and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 20 to 24.",
+      "passageTitle": "The Future of Autonomous Vehicles",
+      "passage": "The advent of autonomous vehicles is set to redefine the concept of transportation. With rapid advancements in technology, companies are racing to bring self-driving cars to the market. In 2021, a major breakthrough occurred when an autonomous vehicle (20)_______. This achievement not only showcased the potential of self-driving technology but also sparked increased interest from consumers and investors alike.\n\nAutonomous vehicles rely on sophisticated systems (21)_______. They integrate sensors, artificial intelligence, and cloud computing to ensure safe and efficient travel. (22)_______. By optimizing driving patterns, these vehicles are designed to minimize fuel consumption and reduce environmental impact.\n\nOne of the key advantages of autonomous vehicles is their ability to enhance traffic management. (23)_______. This feature allows for smoother traffic flow and reduces the likelihood of accidents, benefiting all road users.\n\nAs research and development continue, (24)_______. The integration of autonomous vehicles into everyday life will not only change commuting patterns but also influence urban infrastructure, leading to smarter cities.",
+      "questions": [
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "demonstrating its effectiveness in a real-world environment",
+            "B": "which was successfully tested in a real-world environment",
+            "C": "that demonstrated its effectiveness in a real-world environment",
+            "D": "was successfully tested in a real-world environment"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy mệnh đã có chủ ngữ chính 'an autonomous vehicle' (một phương tiện tự lái), do vậy, ta cần một động từ chính có chia thì.\nLoại A vì sử dụng hiện tại phân từ. Loại B và C vì sử dụng mệnh đề quan hệ.\nTạm dịch: Vào năm 2021, một bước đột phá lớn đã xảy ra khi một phương tiện tự lái đã được thử nghiệm thành công trong môi trường thực tế."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that combines various technologies for improved safety",
+            "B": "integrate various technologies for optimal performance",
+            "C": "which incorporate multiple technologies for effective navigation",
+            "D": "combined different technologies for safe travel"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'Autonomous vehicles' và động từ chính 'rely'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại A vì chia sai dạng động từ (phải là 'combine'). Loại B và D vì sử dụng động từ có chia thì 'integrate' và 'combined'.\nTạm dịch: Các phương tiện tự lái dựa vào các hệ thống phức tạp, trong đó kết hợp nhiều công nghệ để định vị hiệu quả."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The design aims to enhance user experience and comfort",
+            "B": "These vehicles are programmed to learn from their surroundings",
+            "C": "These vehicles prioritize reducing travel time for users",
+            "D": "They have engineered to adapt to diverse driving conditions"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Thiết kế nhằm mục đích nâng cao trải nghiệm và sự thoải mái của người dùng\nB. Các phương tiện này được lập trình để học hỏi từ môi trường xung quanh → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh. Câu phía trước đang nói về việc xe tự lái tích hợp các công nghệ như cảm biến, trí tuệ nhân tạo và điện toán đám mây để đảm bảo an toàn và hiệu quả. Do đó, ta cần câu tiếp theo nói về cách những công nghệ này hoạt động hoặc mục đích của chúng.\nTạm dịch: Các phương tiện này được lập trình để học hỏi từ môi trường xung quanh."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Their ability to share information worsen road safety",
+            "B": "Communication between vehicles is crucial for safety",
+            "C": "They communicate with traffic management systems",
+            "D": "Autonomous vehicles rely on real-time data to operate safely"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Khả năng chia sẻ thông tin của chúng làm giảm an toàn giao thông → Sai về ý nghĩa câu.\nB. Giao tiếp giữa các phương tiện là rất quan trọng đối với an toàn → Sai vì ý nghĩa câu không liên kết với ngữ cảnh.\nC. Chúng giao tiếp với các hệ thống quản lý giao thông → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nD. Xe tự lái dựa vào dữ liệu thời gian thực để vận hành an toàn → Sai vì thông tin 'real-time data' và 'operate safely' không liên kết với ngữ cảnh đang nói về 'enhance traffic management'.\nTạm dịch: Một trong những lợi thế lớn của các phương tiện tự lái là khả năng cải thiện quản lý giao thông. Chúng giao tiếp với các hệ thống quản lý giao thông."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "we cannot expect significant changes in transportation norms",
+            "B": "the implications for society will be both profound and complex",
+            "C": "autonomous driving technology will become commonplace",
+            "D": "this technology is expected to face regulatory challenges"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một mệnh đề phù hợp về ngữ nghĩa và ngữ cảnh.\nA. chúng ta không thể mong đợi những thay đổi đáng kể trong các chuẩn mực giao thông → Sai vì xe tự lái làm thay đổi các quy chuẩn giao thông dựa theo ngữ cảnh câu tiếp theo.\nB. những tác động đối với xã hội sẽ vừa sâu sắc vừa phức tạp → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nC. công nghệ lái xe tự động sẽ trở nên phổ biến → Sai vì không phù hợp với ngữ cảnh bằng đáp án B.\nD. công nghệ này dự kiến sẽ phải đối mặt với những thách thức về mặt quy định → Sai về ý nghĩa câu vì không phù hợp với ngữ cảnh.\nTạm dịch: Khi nghiên cứu và phát triển tiếp tục, những tác động đối với xã hội sẽ vừa sâu sắc vừa phức tạp."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 25 to 30.",
+      "passageTitle": "Home of the World Pickleball Championship",
+      "passage": "Join us in the enchanting ancient town of Hoi An as it proudly (25)______ the World Pickleball Championship in January 2025!\n\nExperience the thrill of competition at the new premium court of the Hoiana Resort & Golf, (26)______ eight state-of-the-art indoor and outdoor competition areas.\n\nJan David, founder of Pickleball Global, emphasizes that with (27)______, Hoi An is perfectly equipped to welcome players and fans from around the world. Tao Viet Hai, Deputy Director of the Department of Culture, Sports and Tourism of Quang Nam Province, highlights the (28)______ potential of pickleball to enhance the province's economic and social development.\n\nDon't miss out on this exciting opportunity! Come and witness thrilling sporting events that are set (29)______ distinctive attractions, drawing more tourists to Quang Nam.\n\nBe part of the action! Mark your calendars for January 2025 and join us (30)______ Hoi An for a celebration of sport, culture, and community!",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "takes",
+            "B": "does",
+            "C": "hosts",
+            "D": "makes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. take /teɪk/ (v): lấy, tham gia\nB. do /duː/ (v): làm\nC. host /hoʊst/ (v): tổ chức, làm chủ, đăng cai\nD. make /meɪk/ (v): làm, tạo ra\nTạm dịch: Hãy tham gia cùng chúng tôi tại phố cổ Hội An khi nơi đây tự hào đăng cai Giải vô địch Pickleball thế giới vào tháng 1 năm 2025!"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "featured",
+            "B": "featuring",
+            "C": "where feature",
+            "D": "was featured"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ: Khi rút gọn mệnh đề quan hệ dạng chủ động, ta lược bỏ đại từ quan hệ và to be (nếu có), chuyển V thành V-ing (which features → featuring).\nTạm dịch: Trải nghiệm cảm giác hồi hộp của các cuộc thi tại sân thi đấu cao cấp mới của Khu nghỉ dưỡng & Golf Hoiana, với tám khu vực thi đấu trong nhà và ngoài trời hiện đại bậc nhất."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "international standard facilities",
+            "B": "facilities standard international",
+            "C": "standard international facilities",
+            "D": "facilities international standard"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự từ: Ta có 'facilities' (cơ sở vật chất) ở dạng danh từ đếm được số nhiều nên đứng cuối để đóng vai trò làm danh từ chính của cụm danh từ. Ta có danh từ 'standard' (tiêu chuẩn) nên tính từ 'international' (quốc tế) cần đứng trước cụm danh từ này để bổ sung ý nghĩa. Do vậy, cụm danh từ 'international standard' cần đứng trước danh từ chính 'facilities'.\nTạm dịch: Jan David, người sáng lập Pickleball Global, nhấn mạnh rằng với cơ sở vật chất đạt tiêu chuẩn quốc tế, Hội An được trang bị hoàn hảo để chào đón các vận động viên và người hâm mộ từ khắp nơi trên thế giới."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "significant",
+            "B": "signification",
+            "C": "significantly",
+            "D": "significance"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ loại: Ta cần một tính từ đứng sau mạo từ 'the' và đứng trước danh từ 'potential', do vậy, ta chọn 'significant'.\nA. significant /sɪɡˈnɪfɪkənt/ (adj): quan trọng, lớn\nB. signification /ˌsɪɡnɪftˈkeɪʃən/ (n): ý nghĩa\nC. significantly /sɪɡˈnɪfɪkəntli/ (adv): một cách quan trọng\nD. significance /sɪɡˈnɪfɪkəns/ (n): sự quan trọng\nTạm dịch: Tào Viết Hải, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Quảng Nam, nhấn mạnh tiềm năng lớn của môn thể thao pickleball trong việc nâng cao sự phát triển kinh tế và xã hội của tỉnh."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to become",
+            "B": "became",
+            "C": "becoming",
+            "D": "become"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc: set to do something: được dự kiến, được chuẩn bị để làm gì đó; sẽ xảy ra, sẽ diễn ra.\nTạm dịch: Hãy đến và chứng kiến những sự kiện thể thao hấp dẫn, dự kiến sẽ trở thành những điểm thu hút đặc biệt, thu hút thêm nhiều du khách đến Quảng Nam."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "at",
+            "D": "by"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về giới từ: in + thành phố, tỉnh: tại, ở.\nTạm dịch: Hãy đánh dấu lịch của bạn vào tháng 1 năm 2025 và tham gia cùng chúng tôi tại Hội An để cùng chào đón một lễ hội thể thao, văn hóa và cộng đồng!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about meme and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Memes",
+      "passage": "A meme is a cultural element that spreads rapidly among people, primarily through the internet. It often takes the form of an image, video, or piece of text that conveys a humorous or satirical message. Memes are a modern form of folk art, evolving quickly and often reflecting current events or popular culture. Their appeal lies in their ability to resonate with a wide audience, encapsulating complex ideas in simple formats that are easily shareable.\n\nThe term \"meme\" was introduced by Richard Dawkins in his 1976 book \"The Selfish Gene.\" Dawkins described a meme as an idea or behavior that spreads within a society, akin to the way genes propagate. This concept has become particularly relevant in the digital age, where the internet allows for rapid sharing and adaptation of content. In this context, memes can transcend geographical boundaries, making them a global phenomenon.\n\nMemes play a significant role in digital communication. They serve as a means of social commentary, often providing a quick and relatable way to express opinions or highlight irrationalities. Memes can be created by anyone, and their viral nature means they can reach a wide audience in a short amount of time.\n\n(I) The creation and spread of memes are facilitated by social media platforms such as Twitter, Instagram, and TikTok. (II) These platforms allow users to share content easily, which contributes to the rapid dissemination and evolution of memes. (III) As a result, memes can quickly gain traction across different audiences and regions, fostering a global exchange of ideas. (IV) Consequently, a single meme can continuously evolve, reflecting changing trends and cultural references.\n\nMemes are more than just humorous distractions; they are a powerful form of communication that reflects the collective consciousness of society. They can bring people together through shared experiences and provide insight into cultural and social dynamics. As such, understanding memes offers a glimpse into the values, concerns, and creativity of the digital age, shaping conversations and influencing perceptions in profound ways.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word 'humorous' in paragraph 1 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "entertaining",
+            "B": "serious",
+            "C": "satirical",
+            "D": "lively"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. entertaining /ˌentəˈteɪnɪŋ/ (adj): giải trí, thú vị\nB. serious /ˈsɪriəs/ (adj): nghiêm túc\nC. satirical /səˈtɪrɪkəl/ (adj): châm biếm\nD. lively /ˈlaɪvli/ (adj): sinh động\nhumorous /ˈhjuːmərəs/ (adj): hài hước >< serious (adj)\nThông tin: It often takes the form of an image, video, or piece of text that conveys a humorous or satirical message."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase 'viral nature' in paragraph 3 could best be replaced by________.",
+          "context": "",
+          "options": {
+            "A": "rapid spread",
+            "B": "minimal impact",
+            "C": "controlled sharing",
+            "D": "slow evolution"
+          },
+          "correctAnswer": "A",
+          "explanation": "viral nature: tính chất lan truyền mạnh mẽ = rapid spread (lan truyền nhanh chóng)\nThông tin: Memes can be created by anyone, and their viral nature means they can reach a wide audience in a short amount of time."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Where in paragraph 4 does the following sentence best fit?\n'This widespread reach leads to diverse interpretations, with each version of a meme adding a unique twist or perspective to the original idea.'",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(I)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (IV) vì liên kết với câu phía trước cùng nói về việc lan truyền mạnh mẽ của meme. 'This widespread reach' liên kết với 'memes can quickly gain traction across different audiences and regions' ở câu phía trước.\nThông tin: As a result, memes can quickly gain traction across different audiences and regions, fostering a global exchange of ideas. [This widespread reach leads to diverse interpretations, with each version of a meme adding a unique twist or perspective to the original idea.] Consequently, a single meme can continuously evolve, reflecting changing trends and cultural references."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "They provide social commentary, expressing opinions and highlighting irrationalities effectively.",
+            "B": "They spread easily, becoming symbols of popular culture that resonate with a wide audience.",
+            "C": "Memes evolve rapidly, influencing trends and shaping online culture in many unique ways.",
+            "D": "Memes are often shared for fun, providing a way to lighten the mood and connect with others."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Chúng cung cấp bình luận xã hội, thể hiện quan điểm và làm nổi bật những điều phi lý một cách hiệu quả → Đúng về ý nghĩa so với câu gốc.\nB. Chúng dễ dàng lan truyền, trở thành biểu tượng của văn hóa đại chúng và được đông đảo công chúng đón nhận → Sai về ý nghĩa câu so với câu gốc.\nC. Meme phát triển nhanh chóng, ảnh hưởng đến xu hướng và định hình văn hóa trực tuyến theo nhiều cách khác nhau → Sai về ý nghĩa câu so với câu gốc.\nD. Meme thường được chia sẻ để giải trí, giúp làm dịu tâm trạng và kết nối với mọi người → Sai về ý nghĩa câu so với câu gốc.\nThông tin: They serve as a means of social commentary, often providing a quick and relatable way to express opinions or highlight irrationalities."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The word 'They' in paragraph 5 refers to________.",
+          "context": "",
+          "options": {
+            "A": "memes",
+            "B": "experiences",
+            "C": "consciousness",
+            "D": "distractions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'They' trong đoạn 5 đề cập đến 'memes'.\nThông tin: Memes are more than just humorous distractions; they are a powerful form of communication that reflects the collective consciousness of society. They can bring people together through shared experiences and provide insight into cultural and social dynamics."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following best summarises paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "Memes showcase the creativity of internet users, turning concepts into viral content.",
+            "B": "Memes reflect society's consciousness, uniting people and revealing cultural insights.",
+            "C": "Memes capture societal trends, spreading ideas quickly across online communities.",
+            "D": "Memes often mirror public opinions, providing commentary on social issues or events."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Meme thể hiện sự sáng tạo của người dùng internet, biến các ý tưởng thành nội dung lan truyền mạnh mẽ → Sai vì không phải nội dung trong đoạn.\nB. Meme phản ánh ý thức xã hội, kết nối con người và tiết lộ những giá trị văn hóa → Đúng vì tóm tắt được nội dung chính của đoạn.\nC. Meme nắm bắt các xu hướng xã hội, lan truyền ý tưởng nhanh chóng trong các cộng đồng trực tuyến → Sai vì không phải nội dung trong đoạn.\nD. Meme thường phản ánh ý kiến công chúng, cung cấp bình luận về các vấn đề hoặc sự kiện xã hội → Sai vì không có thông tin ở 'providing commentary on social issues or events' trong đoạn.\nTóm tắt: Memes are more than just humorous distractions; they are a powerful form of communication that reflects the collective consciousness of society. They can bring people together through shared experiences and provide insight into cultural and social dynamics."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "According to the passage, which of the following is NOT true about memes?",
+          "context": "",
+          "options": {
+            "A": "The internet accelerates their dissemination.",
+            "B": "Memes are mostly created by professional artists.",
+            "C": "They often reflect popular culture and current events.",
+            "D": "They can evolve into various forms and perspectives."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Internet giúp chúng lan truyền nhanh hơn → Đúng.\nB. Meme chủ yếu được tạo ra bởi các nghệ sĩ chuyên nghiệp → Sai vì bài đọc đề cập 'Memes can be created by anyone'.\nC. Chúng thường phản ánh văn hóa đại chúng và các sự kiện thời sự → Đúng.\nD. Chúng có thể phát triển thành nhiều hình thức và góc nhìn khác nhau → Đúng.\nThông tin: Memes can be created by anyone, and their viral nature means they can reach a wide audience in a short amount of time."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Memes can evolve quickly, reflecting changing trends and cultural references.",
+            "B": "Memes are generally restricted to specific audiences on some certain platforms.",
+            "C": "Richard Dawkins introduced the term \"meme\" in his first book, 'The Selfish Gene'.",
+            "D": "Not all social media platforms will facilitate the creation and spread of memes."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Meme có thể phát triển nhanh chóng, phản ánh những xu hướng và các tham chiếu văn hóa đang thay đổi → Đúng.\nB. Meme thường bị giới hạn trong một số nhóm khán giả nhất định trên một số nền tảng cụ thể → Sai vì không có thông tin nào nói rằng meme bị giới hạn ở một số nền tảng cụ thể.\nC. Richard Dawkins giới thiệu thuật ngữ 'meme' trong cuốn sách đầu tiên của ông, The Selfish Gene → Sai ở 'his first book'.\nD. Không phải mọi nền tảng mạng xã hội đều thúc đẩy việc tạo ra và lan truyền meme → Sai vì bài đọc không đề cập tới nền tảng không hỗ trợ việc tạo ra và lan truyền meme.\nThông tin: Consequently, a single meme can continuously evolve, reflecting changing trends and cultural references."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Memes are a form of modern folk art that reflects societal values.",
+            "B": "Memes are generally restricted to specific audiences on some certain platforms.",
+            "C": "Memes are limited in their ability to address social issues.",
+            "D": "Memes primarily serve as entertainment with no deeper meaning."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Meme là một dạng nghệ thuật dân gian hiện đại phản ánh các giá trị xã hội → Có thể suy ra từ bài đọc.\nB. Meme có ít ý nghĩa văn hóa trong thời đại kỹ thuật số → Sai ở 'little'.\nC. Meme bị hạn chế về khả năng giải quyết các vấn đề xã hội → Sai.\nD. Meme chủ yếu phục vụ mục đích giải trí mà không có ý nghĩa sâu sắc hơn → Sai.\nThông tin: Memes are a modern form of folk art, evolving quickly and often reflecting current events or popular culture. As such, understanding memes offers a glimpse into the values, concerns, and creativity of the digital age..."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "A meme is a visual representation that changes quickly, offering entertainment and shaping social media trends among teenagers.",
+            "B": "A meme is a humorous or satirical cultural element that spreads quickly online, serving as modern folk art and social commentary.",
+            "C": "A meme is a neutral image or video that evolves rapidly, providing insight into popular culture and cyber bullying issues.",
+            "D": "A meme is a piece of content that spreads through TikTok and Facebook, often influenced by current events and humor."
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Meme là một hình thức thể hiện bằng hình ảnh thay đổi nhanh chóng, cung cấp sự giải trí và định hình xu hướng mạng xã hội của giới trẻ → Sai ở 'among teenagers' và chưa tóm tắt được đầy đủ nội dung bài.\nB. Meme là một yếu tố văn hóa hài hước hoặc châm biếm lan truyền nhanh trên mạng, đóng vai trò như một dạng nghệ thuật dân gian hiện đại và bình luận xã hội → Đúng vì tóm tắt chính xác nội dung bài.\nC. Meme là một hình ảnh hoặc video trung lập, phát triển nhanh chóng, cung cấp cái nhìn sâu sắc về văn hóa đại chúng và các vấn đề về bắt nạt trên mạng → Sai vì không có thông tin ở 'cyber bullying issues'.\nD. Meme là một nội dung được lan truyền qua TikTok và Facebook, thường chịu ảnh hưởng từ các sự kiện thời sự và yếu tố hài hước → Sai ở 'spreads through TikTok and Facebook' vì bài đọc đề cập đến nhiều nền tảng mạng xã hội, không chỉ TikTok và Facebook."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.593289+00:00",
+  "updatedAt": "2026-06-08T10:41:58.593289+00:00",
+  "originalFileName": "THPT_Nghe_An_Lien_Truong_Le_2025_TiengAnh.json"
+}

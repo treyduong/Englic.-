@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_tuyen_quang_ma_de_chan_2025-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Tuyên Quang (Mã đề chẵn)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Tuyen_Quang_Ma_De_Chan_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#TuyênQuang",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "DISCOVERING NEW FRIENDS IN CLASS",
+      "passage": "\"Who will be my partner? Will they be supportive or will they be (1)_______ supportive?\" Are these questions that cross your mind before starting a (2)_______ ? Well, that's going to change! A new app (3)_______ \"Classmates Connect\" has been created. Now, you can choose your study partner before the semester begins. When you register for your classes, you can upload your profile (4)_______ everyone in the class to see. You'll also get to view your classmates' profiles. This way, you can select someone to work with who shares your interests. If you want to (5)_______ strong study habits and do group projects, check out their academic profiles. And if you would like (6)_______ discussions rather than hobbies, look at their social media details!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "really",
+            "B": "reality",
+            "C": "realistic",
+            "D": "real"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\nA. really /ˈrɪəli/ (adv): một cách thực sự\nB. reality /rɪˈæləti/ (n): thực tế\nC. realistic /ˌrɪəˈlɪstɪk/ (adj): mang tính thực tế\nD. real /rɪəl/ (adj): thật\nSau 'to be' và trước tính từ 'supportive' ta dùng trạng từ để bổ nghĩa nên ta chọn 'really'.\nTạm dịch: Will they be supportive or will they be really supportive? (Họ sẽ ủng hộ hay họ sẽ thực sự ủng hộ?)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "session study new",
+            "B": "study session new",
+            "C": "study new session",
+            "D": "new study session"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: Dùng tính từ 'new' (mới) đứng trước cụm danh từ 'study session' (buổi học) để bổ nghĩa.\nTạm dịch: Are these questions that cross your mind before starting a new study session? (Đây có phải là những câu hỏi bạn thường tự hỏi trước mỗi buổi học mới không?)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was named",
+            "B": "naming",
+            "C": "named",
+            "D": "which name"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ: Để rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và 'to be' (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: A new app named 'Classmates Connect' has been created. (Một ứng dụng mới mang tên \"Classmates Connect\" vừa ra mắt.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "by",
+            "B": "out",
+            "C": "to",
+            "D": "for"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về giới từ chỉ mục đích 'for': S + V + for sb + to V: một hành động nào đó để ai đó làm một việc gì đó.\nTạm dịch: When you register for your classes, you can upload your profile for everyone in the class to see. (Khi đăng ký lớp học, bạn có thể tải lên hồ sơ cá nhân để mọi người trong lớp cùng xem.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "make",
+            "C": "build",
+            "D": "put"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về Collocation: build a habit: xây dựng thói quen (có chủ đích).\nTạm dịch: If you want to build strong study habits and do group projects, check out their academic profiles. (Nếu bạn muốn xây dựng thói quen học tập tốt và tham gia các dự án nhóm, hãy xem hồ sơ học tập của họ.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sharing",
+            "B": "to sharing",
+            "C": "share",
+            "D": "to share"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: would like + to V: mong muốn hoặc ý định làm một điều gì đó.\nTạm dịch: And if you would like to share discussions rather than hobbies, look at their social media details! (Còn nếu bạn muốn chia sẻ các cuộc thảo luận thay vì sở thích cá nhân, hãy tham khảo thông tin mạng xã hội của họ nhé!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "a. John: That sounds amazing! Italy is such a beautiful country to visit.\nb. Mary: Yes, I'm going to Italy next month, and I can't wait to explore the countryside.\nc. John: Have you booked your holiday for this summer yet?",
+          "options": {
+            "A": "c-b-a",
+            "B": "c-a-b",
+            "C": "b-c-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hội thoại hợp lý:\nc. John hỏi Mary đã đặt kỳ nghỉ hè chưa.\nb. Mary trả lời: đang đi Ý tháng sau, không thể chờ để khám phá vùng nông thôn.\na. John khen: Nghe tuyệt quá! Ý là một đất nước rất đẹp để du lịch.\nTạm dịch: John: Bạn đã đặt kỳ nghỉ cho mùa hè này chưa? / Mary: Rồi, mình sẽ đến Ý vào tháng sau, và mình không thể đợi để khám phá vùng nông thôn. / John: Nghe tuyệt quá! Ý là một đất nước rất đẹp để du lịch."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "a. Peter: Me too. There are too many things to think about.\nb. Mary: I want to go to university, but it's really hard to choose one.\nc. Peter: That's a really good idea.\nd. Peter: Mary, do you know what you're doing after graduation yet?\ne. Mary: Maybe we should make a list of what we think is most important and just focus on that.",
+          "options": {
+            "A": "c-e-d-b-a",
+            "B": "c-b-a-e-d",
+            "C": "d-b-a-e-c",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hội thoại hợp lý:\nd. Peter hỏi Mary đã biết mình sẽ làm gì sau khi tốt nghiệp chưa.\nb. Mary muốn vào đại học nhưng thật khó để chọn một trường.\na. Peter cũng vậy. Có quá nhiều thứ phải suy nghĩ.\ne. Mary: Có lẽ chúng ta nên lập danh sách những điều quan trọng nhất rồi chỉ tập trung vào chúng thôi.\nc. Peter: Ý kiến hay đấy!\nTạm dịch: Peter: Mary, bạn đã biết mình sẽ làm gì sau khi tốt nghiệp chưa? / Mary: Mình muốn vào đại học, nhưng thật khó để chọn một trường. / Peter: Mình cũng vậy. Có quá nhiều thứ phải suy nghĩ. / Mary: Có lẽ chúng ta nên lập danh sách những điều quan trọng nhất rồi chỉ tập trung vào chúng thôi. / Peter: Ý kiến hay đấy!"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "Dear Billy,\na. However, if you could let us know which area you are most interested in and why, we can make sure we won't disappoint you.\nb. Thank you for your email.\nc. This will make life easier for our cook.\nd. It would also be helpful to know if there is any food you don't eat.\ne. It sounds like you would be perfect for the course. We offer lessons in all types of art.\nLooking forward to your reply.\nBest wishes,\nHillary Mason",
+          "options": {
+            "A": "b-e-a-d-c",
+            "B": "a-d-b-c-e",
+            "C": "c-a-d-b-e",
+            "D": "d-b-a-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự thư hợp lý:\nb. Cảm ơn bạn đã gửi email.\ne. Nghe có vẻ khóa học này hoàn hảo với bạn. Chúng tôi cung cấp các bài học về mọi loại hình nghệ thuật.\na. Tuy nhiên, nếu bạn có thể cho chúng tôi biết lĩnh vực mà bạn quan tâm nhất và lý do vì sao, chúng tôi sẽ đảm bảo không làm bạn thất vọng.\nd. Một điều cũng sẽ rất hữu ích nếu bạn cho biết có món ăn nào bạn không ăn được hay không.\nc. Điều này sẽ giúp đầu bếp của chúng tôi chuẩn bị thuận tiện hơn.\nTạm dịch: Gửi Billy, Cảm ơn bạn đã gửi email. Nghe có vẻ khóa học này là hoàn hảo với bạn. Chúng tôi cung cấp các bài học về mọi loại hình nghệ thuật. Tuy nhiên, nếu bạn có thể cho chúng tôi biết lĩnh vực mà bạn quan tâm nhất và lý do vì sao, chúng tôi sẽ đảm bảo không làm bạn thất vọng. Một điều cũng sẽ rất hữu ích nếu bạn cho biết có món ăn nào bạn không ăn được hay không. Điều này sẽ giúp đầu bếp của chúng tôi chuẩn bị thuận tiện hơn. Mong sớm nhận được phản hồi từ bạn. Trân trọng, Hillary Mason."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "a. He taught himself to read and write, and later became a successful author.\nb. Born into poverty, Charies Dickens faced numerous challenges in his early life.\nc. Despite the odds, he worked tirelessly to pursue his passion for storytelling.\nd. His life story inspires many people to persevere and chase their dreams.\ne. Today, he is regarded as one of the most influential writers of his time.",
+          "options": {
+            "A": "b-a-c-e-d",
+            "B": "b-a-c-d-e",
+            "C": "a-b-c-d-e",
+            "D": "b-c-a-e-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự đoạn văn hợp lý:\nb. Sinh ra trong cảnh nghèo khó, Charles Dickens phải đối mặt với vô số thách thức trong những năm tháng đầu đời.\na. Ông tự học đọc và viết, sau đó trở thành một nhà văn thành công.\nc. Bất chấp mọi khó khăn, ông đã làm việc không ngừng nghỉ để theo đuổi niềm đam mê kể chuyện của mình.\nd. Câu chuyện cuộc đời ông truyền cảm hứng cho nhiều người kiên trì và theo đuổi ước mơ của họ.\ne. Ngày nay, ông được coi là một trong những nhà văn có ảnh hưởng nhất thời đại của mình."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "a. Despite these issues, the allure of exploring new places and experiencing different cultures continues to attract millions of travelers each year.\nb. This surge in tourism has also encouraged local businesses, from restaurants to souvenir shops, to flourish, thereby boosting the local economy.\nc. However, with increased foot traffic comes challenges, such as overcrowding and strain on infrastructure.\nd. Tourism has become a vital part of many economies around the world, offering countless opportunities for growth and development.\ne. In recent years, popular destinations have seen a significant increase in visitors, leading to a vibrant atmosphere filled with cultural exchanges.",
+          "options": {
+            "A": "d-c-a-b-e",
+            "B": "d-e-b-c-a",
+            "C": "d-b-c-a-e",
+            "D": "d-a-e-b-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự đoạn văn hợp lý:\nd. Du lịch đã trở thành một phần quan trọng trong nền kinh tế của nhiều quốc gia.\ne. Trong những năm gần đây, các điểm đến nổi tiếng đã chứng kiến sự gia tăng đáng kể về lượng khách du lịch.\nb. Sự bùng nổ trong ngành du lịch này cũng thúc đẩy các doanh nghiệp địa phương phát triển mạnh mẽ.\nc. Tuy nhiên, lưu lượng khách du lịch tăng lên cũng gây ra những thách thức như tình trạng quá tải và áp lực lên cơ sở hạ tầng.\na. Mặc cho những vấn đề này, sức lôi cuốn của việc khám phá những vùng đất mới vẫn tiếp tục thu hút hàng triệu du khách mỗi năm."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.",
+      "passageTitle": "Mother Teresa",
+      "passage": "Mother Teresa, one of the most admired figures of the 20th century, (12)_______ for her unwavering dedication to the poor and suffering. Born in Skopje, North Macedonia, in 1910, she felt a calling to serve humanity at a very young age. At the age of 18, she joined the Sisters of Loreto and began her journey as a missionary. She moved to Calcutta, India, in 1929, where she witnessed unimaginable poverty and suffering, which inspired her to establish the Missionaries of Charity in 1950.\n\nThe Missionaries of Charity, (13)_______, became known worldwide for their humanitarian efforts. This organization, which started with just a handful of members, expanded to over 4,500 sisters working in more than 130 countries. Their work focused on caring for \"the poorest of the poor,\" including the homeless, abandoned children, and those suffering from illnesses such as leprosy and HIV/AIDS.\n\nThroughout her life, Mother Teresa was recognized not only for her charity but also for her deep compassion and humility. Her work reminded the world (14)_______. Her efforts earned her numerous accolades, including the Nobel Peace Prize in 1979. However, she remained humble, often saying that her work was simply a way of carrying out God's will.\n\nHer legacy (15)_______, stimulating countless people across the globe. The Missionaries of Charity, founded by her in 1950, continue to operate today, serving millions of people in need. Despite facing criticism at times, Mother Teresa's commitment to alleviating suffering remains an enduring symbol of selflessness and love. (16)_______. Mother Teresa proved that one individual could make a profound difference. She showed the world that even in the face of adversity, kindness and determination have the power to transform lives.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was globally respected for her steadfast compassion",
+            "B": "being recognized as one of the most charitable figures",
+            "C": "became largely unknown for her lifelong devotion to humanitarian work",
+            "D": "has been celebrated worldwide for her dedication to helping others"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'Mother Teresa' và cụm giới từ 'for her unwavering dedication to the poor and suffering'. Do vậy, ta cần một động từ chính có chia thì. Loại B vì dùng hiện tại phân từ 'being'. Loại C và D vì ngữ nghĩa không phù hợp.\nTạm dịch: Mother Teresa, one of the most admired figures of the 20th century, was globally respected for her steadfast compassion for her unwavering dedication to the poor and suffering."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "where hope and love were the cornerstones of its mission",
+            "B": "which was a global symbol of kindness and care",
+            "C": "whose goal was to serve the poorest of the poor",
+            "D": "that was led by Mother Teresa until her passing"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'The Missionaries of Charity' và động từ chính 'became'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ. Loại A vì dùng mệnh đề quan hệ với trạng từ 'where' là không phù hợp. Loại C vì ngữ nghĩa không phù hợp (trong đoạn đã có thông tin về mục tiêu). Loại D vì đại từ quan hệ 'that' không dùng trong mệnh đề quan hệ có dấu phẩy.\nTạm dịch: The Missionaries of Charity, which was a global symbol of kindness and care, became known worldwide for their humanitarian efforts."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "her acts of kindness may be largely forgotten over future generation",
+            "B": "which highlighted her lifelong mission of serving humanity",
+            "C": "reminding humanity of the importance of selflessness",
+            "D": "that charity and love can transform even the bleakest situations"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: remind somebody that S + V: nhắc nhở ai về điều gì.\nTạm dịch: Her work reminded the world that charity and love can transform even the bleakest situations. (Công việc của bà nhắc nhở thế giới rằng lòng nhân ái và tình yêu thương có thể biến đổi ngay cả những hoàn cảnh tăm tối nhất.)"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "has continued to inspire generations to make a difference",
+            "B": "which is why her efforts are still celebrated globally",
+            "C": "inspiring people to dedicate their lives to service",
+            "D": "that her vision continues to shape humanitarian efforts worldwide"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'her legacy' (di sản của bà); do vậy, ta cần một động từ chính có chia thì. Loại B vì dùng mệnh đề quan hệ. Loại C vì dùng hiện tại phân từ. Loại D vì dùng mệnh đề danh từ.\nTạm dịch: Her legacy has continued to inspire generations to make a difference, stimulating countless people across the globe. (Di sản của bà tiếp tục truyền cảm hứng cho nhiều thế hệ tạo ra sự thay đổi, thúc đẩy vô số người trên khắp thế giới.)"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Proving through her actions, Mother Teresa showed how one person could transform lives",
+            "B": "Having dedicated her life to service, her impact is remembered today",
+            "C": "Founded on her principles, her legacy continues to grow",
+            "D": "Shown by her dedication, she left an indelible mark on humanity"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một mệnh đề phù hợp về ngữ nghĩa. A sai vì ý của câu đã được đề cập trong các câu liền sau. B đúng vì phù hợp về ngữ nghĩa: Vì đã cống hiến cả cuộc đời cho việc phục vụ, nên đến nay, ảnh hưởng của bà vẫn còn được ghi nhớ. C sai vì ý của câu đã được đề cập ở các câu liền trước. D sai vì chủ ngữ chung là 'she' thì dùng rút gọn mệnh đề dạng bị động (shown) là không phù hợp.\nTạm dịch: Having dedicated her life to service, her impact is remembered today. (Sau cả cuộc đời cống hiến cho việc phục vụ nhân loại, tầm ảnh hưởng của bà vẫn được ghi nhớ cho đến ngày nay.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Climate Change",
+      "passage": "Experts in climatology and other scientists are becoming extremely concerned about the changes to our climate which are taking place. Admittedly, climate changes have occurred on our planet before. For example, there have been several ice ages or glacial periods.\n\nThese climatic changes, however, were a far cry from the modern ones in that they occurred gradually and, as far as we know, naturally. The changes currently being monitored are said to be the result not of natural causes, but of human activity. Furthermore, the rate of change is becoming alarmingly rapid.\n\nThe major problem is that the planet appears to be warming up, which is causing widespread concern. According to some experts, this warming process, known as global warming, is occurring at a rate unprecedented in the last 10,000 years. The implications for the planet are very serious. Rising global temperatures could give rise to such ecological disasters as extremely high increases in the incidence of floods, droughts and storms. These in turn could have a harmful effect on agriculture.\n\nIt is thought that this unusual warming of the Earth has been caused by so-called greenhouse gases, such as carbon dioxide, being emitted into the atmosphere by car engines and modern industrial processes, for example. Such gases not only add to the pollution of the atmosphere, but they also create a greenhouse effect, by which the heat of the sun is trapped. This leads to the warming up of the planet.\n\n(I) Politicians are also concerned about climate change. (II) These summits are attended by representatives from around 180 of the world's industrialized countries. (III) Of these summits, the most important took place in Kyoto in Japan in 1997. (IV) There it was agreed that the most industrialized countries would try to reduce the volume of greenhouse gas emissions and were given targets for this reduction of emissions.\n\nIt was also suggested that more forests should be planted to create so-called sinks to absorb greenhouse gases. At least part of the problem of rapid climate change has been caused by too drastic deforestation. Sadly, the targets are not being met. Even more sadly, global warnings about climate changes are often still being regarded as scaremongering.",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Where in paragraph 5 does the following sentence best fit? \"Hence, there are new regular summits on the subject, where environmental issues have been taken into consideration.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(IV)",
+            "C": "(II)",
+            "D": "(I)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu cần chèn nói về việc có nhiều hội nghị diễn ra và trong đó các vấn đề về môi trường đã được xem xét, điều này phù hợp với nội dung ở vị trí (II), bổ sung thêm ý các hội nghị này có sự tham gia của các đại diện từ khoảng 180 quốc gia công nghiệp trên thế giới.\nThông tin: Politicians are also concerned about climate change. Hence, there are new regular summits on the subject, where environmental issues have been taken into consideration. These summits are attended by representatives from around 180 of the world's industrialized countries."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The phrase \"a far cry\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "different",
+            "B": "positive",
+            "C": "feasible",
+            "D": "essential"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ 'a far cry' trong đoạn 2 có thể được thay thế tốt nhất bằng từ:\nA. different /ˈdɪf.ər.ənt/ (adj): khác biệt\nB. positive /ˈpɒz.ə.tɪv/ (adj): tích cực\nC. feasible /ˈfiː.zə.bəl/ (adj): khả thi\nD. essential /ɪˈsen.ʃəl/ (adj): thiết yếu, quan trọng\na far cry: rất khác biệt, hoàn toàn khác = different (adj)\nThông tin: These climatic changes, however, were a far cry from the modern ones in that they occurred gradually and, as far as we know, naturally."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word \"they\" in paragraph 4 refers to",
+          "context": "",
+          "options": {
+            "A": "engines",
+            "B": "effects",
+            "C": "gases",
+            "D": "processes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'they' ở đoạn 4 đề cập đến 'gases' (những khí gas).\nThông tin: Such gases not only add to the pollution of the atmosphere, but they also create a greenhouse effect, by which the heat of the sun is trapped."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "According to paragraph 3, which of the following is NOT an effect of the rise in global temperature?",
+          "context": "",
+          "options": {
+            "A": "storms",
+            "B": "droughts",
+            "C": "floods",
+            "D": "glaciers"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn 3, điều nào sau đây KHÔNG phải là một tác động của sự gia tăng nhiệt độ toàn cầu?\nThông tin: Rising global temperatures could give rise to such ecological disasters as extremely high increases in the incidence of floods, droughts and storms.\nĐáp án A, B, C được đề cập. Glaciers (sông băng) không được đề cập là hậu quả của gia tăng nhiệt độ."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best summarises paragraph 6?",
+          "context": "",
+          "options": {
+            "A": "Deforestation has been caused by the demand for agricultural land.",
+            "B": "Greenhouse gases are supposed to cause the rapid change in climate and deforestation.",
+            "C": "The problem of rapid climate change should be discussed at international conferences.",
+            "D": "Planting more forests can contribute to fighting against climate change."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất nội dung của đoạn 6?\nA. Nạn phá rừng là do nhu cầu về đất nông nghiệp. → Sai vì thông tin không được đề cập.\nB. Khí nhà kính được cho là nguyên nhân gây ra biến đổi khí hậu nhanh chóng và nạn phá rừng. → Sai.\nC. Vấn đề biến đổi khí hậu nhanh chóng cần được thảo luận tại các hội nghị quốc tế. → Sai.\nD. Trồng thêm rừng có thể góp phần chống lại biến đổi khí hậu. → Đúng vì tóm tắt đầy đủ ý của đoạn văn."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word \"drastic\" in paragraph 6 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "obvious",
+            "B": "ingenious",
+            "C": "severe",
+            "D": "modest"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'drastic' ở đoạn 6 TRÁI NGHĨA với từ:\nA. obvious /ˈɒbviəs/ (adj): rõ ràng, hiển nhiên\nB. ingenious /ɪnˈdʒiːniəs/ (adj): khéo léo, tài tình, thông minh\nC. severe /sɪˈvɪə(r)/ (adj): nghiêm trọng, gay gắt, khốc liệt\nD. modest /ˈmɒdɪst/ (adj): nhẹ nhàng, khiêm tốn, giản dị\ndrastic /ˈdræstɪk/ (adj): mạnh mẽ, quyết liệt >< modest (adj)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Agriculture could be indirectly affected by the global temperature rises.",
+            "B": "The most important summits on industrialization took place in Kyoto in 1997.",
+            "C": "No scientists are concerned about the changes in our climate.",
+            "D": "Ice ages or glacial periods are not related to climate change."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Nông nghiệp có thể bị ảnh hưởng gián tiếp bởi sự gia tăng nhiệt độ toàn cầu. → Đúng.\nB. Các hội nghị quan trọng nhất về công nghiệp hóa đã diễn ra ở Kyoto vào năm 1997. → Sai vì hội nghị quan trọng nhất diễn ra ở Kyoto vào năm 1997 là về vấn đề biến đổi khí hậu, không phải công nghiệp hóa.\nC. Không có nhà khoa học nào lo ngại về sự thay đổi khí hậu. → Sai.\nD. Thời kỳ băng hà hay các kỳ băng hà là không liên quan đến biến đổi khí hậu. → Sai.\nThông tin: Rising global temperatures could give rise to such ecological disasters as extremely high increases in the incidence of floods, droughts and storms. These in turn could have a harmful effect on agriculture."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The main issue is that the planet seems to be getting warmer, leading to widespread concern.",
+            "B": "The major problem is that the planet's temperature remains stable and unchanged.",
+            "C": "The warming of the planet is seldom a significant concern for most people in the world.",
+            "D": "The planet is cooling down, which is causing serious concern for all people in the world."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: 'The major problem is that the planet appears to be warming up, which is causing widespread concern.'\nA. Vấn đề chính là hành tinh dường như đang ngày càng ấm lên, gây ra mối lo ngại rộng rãi. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nB. Vấn đề chính là nhiệt độ của hành tinh vẫn ổn định và không thay đổi. → Sai vì trái nghĩa câu gốc.\nC. Việc hành tinh ấm lên hiếm khi là mối quan tâm lớn đối với hầu hết mọi người trên thế giới. → Sai.\nD. Hành tinh đang dần lạnh đi. → Sai."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Only developed countries are responsible for global warming",
+            "B": "Countries with the warmest climate are not responsible for global warming.",
+            "C": "Developing countries are mainly responsible for global warming",
+            "D": "The most industrialized countries are mainly responsible for global warming."
+          },
+          "correctAnswer": "D",
+          "explanation": "Có thể suy ra điều nào sau đây từ bài đọc?\nA. Chỉ các quốc gia phát triển mới chịu trách nhiệm về sự nóng lên toàn cầu. → Sai.\nB. Các quốc gia có khí hậu ấm nhất không chịu trách nhiệm về sự nóng lên toàn cầu. → Sai.\nC. Các quốc gia đang phát triển chủ yếu chịu trách nhiệm về sự nóng lên toàn cầu. → Sai.\nD. Các quốc gia công nghiệp hóa nhất chủ yếu chịu trách nhiệm về sự nóng lên toàn cầu. → Đúng.\nThông tin: There it was agreed that the most industrialized countries would try to reduce the volume of greenhouse gas emissions and were given targets for this reduction of emissions."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "The rapid change in climate, which can result in many severe social impacts, is caused by human activities and in need of great concern from experts and scientists all over the world.",
+            "B": "Global warming is occurring at an unprecedented rate, leading to serious ecological consequences like increased flooding, droughts, and storms, which could harm agriculture.",
+            "C": "Despite global warnings, countries are failing to meet their climate change targets, and these warnings are often dismissed by most of the international organizations.",
+            "D": "Experts are increasingly concerned about rapid climate change caused by human activities, which causes severe ecological consequences and requires global cooperation to address."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào dưới đây tóm tắt đúng nhất bài đọc?\nA. Sai vì chỉ đề cập đến một phần thông tin của bài đọc, chưa đề cập đến hậu quả sinh thái và sự hợp tác toàn cầu.\nB. Sai vì chỉ đề cập đến một phần.\nC. Sai vì chỉ đề cập đến một phần.\nD. Đúng vì tóm tắt đầy đủ nội dung bài đọc: các chuyên gia ngày càng lo ngại về sự thay đổi khí hậu nhanh chóng được gây ra bởi các hoạt động của con người, gây ra những hậu quả sinh thái nghiêm trọng và đòi hỏi sự hợp tác toàn cầu để giải quyết."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Screen Time and Children",
+      "passage": "Young children spend a lot of time using screens: watching television, playing on touchscreen apps, or face timing with grandparents. In fact, research on global screen time guidelines has found that around 75% of children aged up to two years use some form of digital media daily, and 64% of children aged two to five years use it for more than an hour a day.\n\nDigital media is part of children's lives and is set to stay that way. This means it is crucial to understand how to use this technology so children can benefit from it, and how to maximise its educational potential. A keyway to do this is for parents and other adults to use digital media together with children. This is known as co-use, and can range from parents actively discussing the media content with their children to simply watching a show together.\n\nOur recent research with colleagues has investigated how adults using digital media with children aged up to six affects children's ability to learn from digital media. We carried out a meta-analysis: a wide-ranging examination of existing research studies to identify trends and themes. We found that, overall, parent-child co-use is helpful for supporting young children's learning from digital media. Adults using digital media together with children can help them understand and relate to the digital content better. Our research chimes with other studies which suggest that, for instance, parents using digital media with children can boost language skills.\n\nOur findings suggest that by being actively engaged, adults can help their children make the most of the educational benefits of digital media. This could involve one-to-one interactions directing their child's attention to the educational content and relating it to real-world situations.",
+      "questions": [
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following is NOT mentioned as one of the aims of using screens?",
+          "context": "",
+          "options": {
+            "A": "finding information",
+            "B": "face timing with grandparents",
+            "C": "watching television",
+            "D": "playing on touchscreen apps"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây KHÔNG được đề cập như một mục đích của việc sử dụng màn hình?\nThông tin: Young children spend a lot of time using screens: watching television, playing on touchscreen apps, or face timing with grandparents.\nĐáp án B, C, D được đề cập. 'Finding information' (tìm kiếm thông tin) không được đề cập."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"crucial\" in paragraph 2 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "important",
+            "B": "trivial",
+            "C": "necessary",
+            "D": "essential"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'crucial' ở đoạn 2 TRÁI NGHĨA với từ:\nA. important /ɪmˈpɔːtənt/ (adj): quan trọng\nB. trivial /ˈtrɪvɪəl/ (adj): tầm thường, không quan trọng\nC. necessary /ˈnesəˌseri/ (adj): cần thiết\nD. essential /ɪˈsenʃəl/ (adj): thiết yếu\ncrucial /ˈkruːʃəl/ (adj): quan trọng, thiết yếu >< trivial (adj)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The word \"it\" in paragraph 1 refers to",
+          "context": "",
+          "options": {
+            "A": "television",
+            "B": "digital media",
+            "C": "screen time",
+            "D": "touchscreen app"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'it' ở đoạn 1 đề cập đến 'digital media' (phương tiện truyền thông kỹ thuật số).\nThông tin: research on global screen time guidelines has found that around 75% of children aged up to two years use some form of digital media daily, and 64% of children aged two to five years use it for more than an hour a day."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "The word \"engaged\" in paragraph 4 could be replaced by",
+          "context": "",
+          "options": {
+            "A": "active",
+            "B": "attentive",
+            "C": "involved",
+            "D": "uninterested"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'engaged' trong đoạn 4 có thể được thay thế tốt nhất bằng từ:\nA. active /ˈæktɪv/ (adj): chủ động, tích cực\nB. attentive /əˈtentɪv/ (adj): chăm chú\nC. involved /ɪnˈvɒlvd/ (adj): tham gia, có liên quan\nD. uninterested /ˌʌnˈɪntrəstɪd/ (adj): không hứng thú\nengaged /ɪnˈɡeɪdʒd/ (adj): tham gia = involved (adj)"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "By participating in digital media activities together, adults can get better understanding and relating to what they see online",
+            "B": "Collaborating with children on digital media allows adults to grasp and relate to the material more effectively.",
+            "C": "Adults who use digital media alongside children can reduce their ability to comprehend and engage with the content.",
+            "D": "When adults share digital media experiences with children, it can improve the children's comprehension and connection to the material."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gốc (được gạch chân): 'Adults using digital media together with children can help them understand and relate to the digital content better.'\nA. Chưa phù hợp nghĩa với câu gốc (trẻ em có thể hiểu và liên hệ tốt hơn với nội dung kỹ thuật số).\nB. Chưa phù hợp nghĩa với câu gốc.\nC. Sai vì trái nghĩa với câu gốc.\nD. Khi người lớn chia sẻ trải nghiệm truyền thông kỹ thuật số với trẻ em, điều này có thể cải thiện khả năng hiểu và kết nối của trẻ em với tài liệu. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Co-use of digital media by adults and children enhances children's learning.",
+            "B": "Screen time should be completely eliminated for children under five years old.",
+            "C": "Most children aged up to two years do not use digital media daily.",
+            "D": "Children learn better from digital media when they use it without adults."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây là ĐÚNG theo bài đọc?\nA. Việc cùng sử dụng phương tiện truyền thông kỹ thuật số giữa cha mẹ và trẻ em giúp cải thiện khả năng học hỏi của trẻ em. → Đúng.\nB. Thời gian sử dụng màn hình nên được loại bỏ hoàn toàn đối với trẻ em dưới 5 tuổi. → Sai (thông tin không được đề cập).\nC. Hầu hết trẻ em dưới 2 tuổi không sử dụng phương tiện truyền thông kỹ thuật số hàng ngày. → Sai (theo nghiên cứu khoảng 75% trẻ em dưới hai tuổi sử dụng).\nD. Trẻ em học tốt hơn từ phương tiện truyền thông kỹ thuật số khi chúng sử dụng mà không có sự tham gia của người lớn. → Sai vì trái nghĩa với thông tin trong bài đọc."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "In which paragraph does the writer mention an example of using screen?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả đề cập đến một ví dụ về việc sử dụng màn hình ở đoạn 1.\nThông tin: Young children spend a lot of time using screens: watching television, playing on touchscreen apps, or face timing with grandparents."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "In which paragraph does the writer explain the advantage of parent and children collaboration?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả giải thích lợi ích của việc hợp tác giữa cha mẹ và trẻ em ở đoạn 3.\nThông tin: We found that, overall, parent-child co-use is helpful for supporting young children's learning from digital media. Adults using digital media together with children can help them understand and relate to the digital content better."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "MAKE A DIFFERENCE - VOLUNTEER WITH US!",
+      "passage": "Your time and kindness can change lives.\n\nWhy Volunteer?\n\nVolunteering opens doors to new experiences, helping you connect with (35)_______ while making a real impact. You'll meet people from different backgrounds and learn from diverse perspectives. It's a meaningful way to (36)_______ to people who are in need, making a positive difference for yourself and those around you.\n\nWays to Contribute:\n\n* Community Clean-Up\n\nBe part of our (37)_______ to restore beauty to local parks and streets. Together, we create a cleaner, more welcoming space that everyone can enjoy and feel proud of.\n\n*Elderly Care Visits\n\nSpend time with seniors in care facilities, sharing stories and listening to theirs. (38)_______ these small acts of companionship, their days become brighter and more joyful. Your presence can (39)_______ their spirits and bring them comfort when they need it most.\n\n* Mentorship for Youth\n\nStep into a rewarding role as a mentor, helping students navigate their studies and set meaningful goals. Encourage them to build confidence and grow the skills they need to thrive. Your (40)_______ can be the spark that motivates a young mind to aim higher and achieve more.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "other",
+            "C": "another",
+            "D": "others"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. the others: những người/ cái còn lại\nB. other + N (đếm được/ không đếm được): những người/ cái khác\nC. another + N (số ít): một người/ cái khác\nD. others: những người/ cái khác\nTạm dịch: Volunteering opens doors to new experiences, helping you connect with others while making a real impact. (Làm tình nguyện mở ra những trải nghiệm mới, giúp bạn kết nối với những người khác trong khi tạo ra những tác động tích cực thực sự.)"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "turn out",
+            "B": "reach out",
+            "C": "keep out",
+            "D": "make out"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. turn out: hóa ra\nB. reach out: liên hệ, kết nối (để giúp đỡ hoặc giao tiếp với ai đó)\nC. keep out: ngăn không cho vào, tránh xa\nD. make out: hiểu được điều gì đó\nTạm dịch: It's a meaningful way to reach out to people who are in need, making a positive difference for yourself and those around you. (Đây là một cách ý nghĩa để kết nối với những người đang cần giúp đỡ, mang lại sự thay đổi tích cực cho bản thân bạn và những người xung quanh.)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "assignment",
+            "B": "excuse",
+            "C": "reason",
+            "D": "mission"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. assignment /əˈsaɪnmənt/ (n): nhiệm vụ, bài tập\nB. excuse /ɪkˈskjuːs/ (n): lời xin lỗi, lý do bao biện\nC. reason /ˈriːzn/ (n): lý do\nD. mission /ˈmɪʃn/ (n): sứ mệnh, nhiệm vụ\nTạm dịch: Be part of our mission to restore beauty to local parks and streets. (Hãy trở thành một phần của sứ mệnh phục hồi vẻ đẹp cho các công viên và đường phố địa phương.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Except for",
+            "B": "Regardless of",
+            "C": "Owing to",
+            "D": "Instead of"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Except for: ngoại trừ\nB. Regardless of: bất kể\nC. Owing to: bởi vì\nD. Instead of: thay vì\nTạm dịch: Owing to these small acts of companionship, their days become brighter and more joyful. (Nhờ vào những hành động nhỏ bé của sự bầu bạn này, ngày của họ sẽ trở nên tươi sáng và hạnh phúc hơn.)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "imitate",
+            "B": "evaluate",
+            "C": "regulate",
+            "D": "elevate"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. imitate /ˈɪmɪteɪt/ (v): bắt chước, mô phỏng\nB. evaluate /ɪˈvæljueɪt/ (v): đánh giá, ước lượng\nC. regulate /ˈreɡjuleɪt/ (v): điều chỉnh, kiểm soát\nD. elevate /ˈelɪveɪt/ (v): nâng cao, nâng lên\nTạm dịch: Your presence can elevate their spirits and bring them comfort when they need it most. (Sự có mặt của bạn có thể nâng cao tinh thần của họ và mang đến sự an ủi vào những lúc họ cần nhất.)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "guidance",
+            "B": "dependence",
+            "C": "application",
+            "D": "permission"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. guidance /ˈɡaɪdns/ (n): sự hướng dẫn, chỉ đạo\nB. dependence /dɪˈpendəns/ (n): sự phụ thuộc\nC. application /ˌæplɪˈkeɪʃn/ (n): đơn xin, sự ứng dụng\nD. permission /pəˈmɪʃn/ (n): sự cho phép\nTạm dịch: Your guidance can be the spark that motivates a young mind to aim higher and achieve more. (Sự hướng dẫn của bạn có thể trở thành nguồn động lực giúp một tâm hồn trẻ hướng đến những điều lớn lao hơn và đạt được nhiều thành tựu hơn.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.631382+00:00",
+  "updatedAt": "2026-06-08T10:41:58.631382+00:00",
+  "originalFileName": "THPT_Tuyen_Quang_Ma_De_Chan_2025.json"
+}

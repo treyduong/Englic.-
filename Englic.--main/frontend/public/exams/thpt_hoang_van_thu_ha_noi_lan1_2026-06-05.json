@@ -1,0 +1,627 @@
+{
+  "examId": "thpt_hoang_van_thu_ha_noi_lan1_2026-06-05",
+  "title": "De Thi Thu Tot Nghiep THPT Nam 2025 Lan 1 - Mon Tieng Anh - THPT Hoang Van Thu, Ha Noi",
+  "category": "Tiếng Anh",
+  "source": "So GD-DT Ha Noi / THPT Hoang Van Thu",
+  "description": "Đề được import từ file thpt_hoang_van_thu_ha_noi_lan1.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HaNoi",
+    "#HoangVanThu",
+    "#ThiThu"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement/announcement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6.",
+      "passageTitle": "WANT TO BE A TOUR GUIDE?",
+      "passage": "Are you passionate about (1)_______ new places, meeting people from diverse backgrounds, and sharing fascinating stories? Apply today (2)_______ Nghe An Go.vn.com\nWork part-time or full-time, and choose your own schedule\nWe provide (3)_______ to equip you with the knowledge and skills (4)_______ to excel as a tour guide. If you desire (5)_____ and meet people of different cultures. Don't wait! Start your (6)_____ as a Tour Guide now.\nEmail: ngheango@tour, gmail.com\nAddress: 103 Dong Son street, Vinh city, Nghe An province\n(Adapted from AI - ChatGPT)",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "searching",
+            "B": "seeking",
+            "C": "exploring",
+            "D": "creating"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kien thuc tu vung:\nA. search: tim kiem, tra cuu\nB. seek: tim kiem, theo duoi\nC. explore: kham pha, tham do\nD. create: tao ra, sang tao\nTam dich: Are you passionate about exploring new places, meeting people from diverse backgrounds, and sharing fascinating stories? (Ban co dam me kham pha nhung noi moi, gap go nhung nguoi den tu cac nen van hoa khac nhau va chia se nhung cau chuyen thu vi khong?)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "At",
+            "B": "on",
+            "C": "in",
+            "D": "with"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kien thuc ve gioi tu: 'Nghe An Go.vn.com' la ten mot trang web nen ta su dung gioi tu 'on'.\nTam dich: Apply today on Nghe An Go.vn.com. (Hay dang ky ngay hom nay tai Nghe An Go.vn.com.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "comprehensive training courses",
+            "B": "courses training comprehensive",
+            "C": "training courses comprehensive",
+            "D": "courses comprehensive training"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kien thuc trat tu tu: comprehensive (adj): toan dien; training courses (np): cac khoa dao tao. Ta dung tinh tu truoc cum danh tu.\nTam dich: We provide comprehensive training courses to equip you with the knowledge and skills..."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which they needed",
+            "B": "needed",
+            "C": "need",
+            "D": "needing"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rut gon menh de quan he: Menh de quan he dang bi dong rut gon bang cach luoc bo dai tu quan he va to be, giu nguyen V3/V-ed. (which are needed -> needed)\nTam dich: ...to equip you with the knowledge and skills needed to excel as a tour guide."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to travelling",
+            "B": "to travel",
+            "C": "travel",
+            "D": "travelling"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dang dong tu: desire to do something = mong muon, khao khat lam gi.\nTam dich: If you desire to travel and meet people of different cultures, don't wait!"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "adventurous",
+            "B": "adventure",
+            "C": "advent",
+            "D": "adventurously"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kien thuc tu vung: adventurous (adj): thich phieu luu, mao hiem; adventure (n): cuoc phieu luu; advent (n): su xuat hien; adventurously (adv): mot cach mao hiem. Cho trong dung sau tinh tu so huu 'your' -> can danh tu.\nTam dich: Start your adventure as a Tour Guide now."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "GET READY TO KICK OFF THE NEW SCHOOL YEAR WITH A BANG!",
+      "passage": "We're thrilled to announce our annual School Welcome Party, and you are invited to join in the fun at The Mall at UTC's Annual Back to School Bash, presented by Florida Blue on Saturday, August 3rd from 10 am - 2 pm for a day of fun and (7)_______ for the school year as we bring the best resources for families in the Sarasota, Bradenton, Lakewood Ranch area together to make sure your kids are (8)_______ for a successful year of education and growth.\n\nYou'll have the chance to meet with (9)_______ experts such as healthcare providers, pediatricians, optometrists, and tutors. (10)_______, that's not all! Kids will enjoy meeting & greetings with their favorite characters, live entertainment, face painting, an interactive scavenger hunt for free school supplies, and (11)_______ kids' activities.\n\nLocal businesses from Sarasota and surrounding communities are (12)_______ to sign up and join the fun as an exhibitor.\n\nPlease call 727-674-1464 or email kevin@floridapenguinproductions.com to get your business involved today! School supply donations are also welcomed!\n(Adapted from https://mallatutc.com/pages/backtoschool)",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "conversation",
+            "B": "preparation",
+            "C": "encouragement",
+            "D": "accomplishment"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kien thuc tu vung: A. conversation: cuoc tro chuyen; B. preparation: su chuan bi; C. encouragement: su khich le; D. accomplishment: thanh tuu.\nTam dich: a day of fun and preparation for the school year. (mot ngay vui ve va chuan bi cho nam hoc moi.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "set up",
+            "B": "put off",
+            "C": "give up",
+            "D": "take off"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kien thuc cum dong tu: A. set up something: thanh lap, thiet lap cai gi; B. put off: hoan cai gi; C. give up: tu bo cai gi; D. take off: cat canh; bat dau thanh cong.\nTam dich: make sure your kids are set up for a successful year of education and growth. (dam bao rang cac con cua ban se san sang cho mot nam hoc thanh cong.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "much",
+            "B": "few",
+            "C": "little",
+            "D": "many"
+          },
+          "correctAnswer": "D",
+          "explanation": "Luong tu: A. much + N (khong dem duoc): nhieu; B. few + N (so nhieu): it; C. little + N (khong dem duoc): mot it; D. many + N (so nhieu): nhieu. 'experts' la danh tu so nhieu, nen ta dung 'many'.\nTam dich: You'll have the chance to meet with many experts such as healthcare providers, pediatricians, optometrists, and tutors."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "In spite of",
+            "B": "In addition",
+            "C": "Instead of",
+            "D": "In view of"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. In spite of: mac du; B. In addition: them vao do, ngoai ra; C. Instead of: thay vi; D. In view of: vi, xet ve.\nTam dich: In addition, that's not all! Kids will enjoy meeting & greetings with their favorite characters... (Ngoai ra, do chua phai la tat ca!)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "other",
+            "C": "the others",
+            "D": "another"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. others: nhung cai khac (dai tu); B. other + N (so nhieu): nhung nguoi/cai khac; C. the others: nhung cai khac (xac dinh); D. another + N (so it): mot cai khac. 'kids activities' la danh tu so nhieu, nen ta dung 'other'.\nTam dich: and other kids' activities. (va cac hoat dong khac danh cho tre em.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "increased",
+            "B": "encouraged",
+            "C": "supported",
+            "D": "strengthened"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kien thuc tu vung: A. increase: tang len; B. encourage: khuyen khich; C. support: ung ho; D. strengthen: cung co, lam manh me hon.\nTam dich: Local businesses from Sarasota and surrounding communities are encouraged to sign up and join the fun as an exhibitor."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Jim: Hmm... We should make people ride bicycles.\nb. Peter: Good idea! And we shouldn't let them drive cars.\nc. Peter: Hi, Jim. How can we reduce air pollution in our city?",
+          "options": {
+            "A": "a-b-c",
+            "B": "c-a-b",
+            "C": "c-b-a",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trat tu hop ly: Peter hoi Jim lam the nao de giam o nhiem khong khi (c) -> Jim tra loi nen khien moi nguoi di xe dap (a) -> Peter dong tinh va de xuat them (b). Thu tu: c-a-b."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Alice: People can be anonymous online and say bad things.\nb. Alice: I couldn't agree with you more.\nc. Susan: I think there's more cyberbullying than before.\nd. Susan: Why do you think that?\ne. Alice: What impact has social media had on people's lives?",
+          "options": {
+            "A": "d-c-a-b-e",
+            "B": "e-a-d-c-b",
+            "C": "e-c-b-d-a",
+            "D": "b-c-e-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trat tu hop ly: Alice mo dau cuoc hoi thoai bang cau hoi ve tac dong cua mang xa hoi (e) -> Susan neu y kien ve cyberbullying (c) -> Alice dong y (b) -> Susan hoi tai sao (d) -> Alice giai thich (a). Thu tu: e-c-b-d-a."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Dear Xuan,\na. I came back to Bangkok but I still remember your school spring fair.\nb. Dear Xuan,\nc. Thank you for having invited me to the fair. I'll never forget the event in my life.\nd. I liked the songs and games, but the dish called 'Cha Gio' made a deep impression on me.\ne. I am now staying on a farm to help my uncle collect grapes.",
+          "options": {
+            "A": "a-b-e-d-c",
+            "B": "b-e-a-c-d",
+            "C": "b-e-a-d-c",
+            "D": "a-c-e-d-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trat tu trong thu: Mo dau thu (b) -> Hien dang o trai giup chu thu hoach nho (e) -> Da tro ve Bangkok nhung van nho hoi cho mua xuan (a) -> Thich bai hat, tro choi, an tuong voi mon Cha Gio (d) -> Cam on vi da moi va se khong bao gio quen (c). Thu tu: b-e-a-d-c."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. More than 300 students attended the fair and enjoyed Vietnamese dishes, songs and games.\nb. In my view, the day was a great success. All the attendees felt happy.\nc. There were 30 stalls where various activities were offered.\nd. Yesterday, our school organized the Spring Fair in the playground.\ne. However, it would be better if we could make Banh Chung during the night.",
+          "options": {
+            "A": "d-a-c-b-e",
+            "B": "d-b-a-c-e",
+            "C": "b-d-a-e-c",
+            "D": "b-c-d-e-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trat tu: Gioi thieu su kien (d) -> Hon 300 hoc sinh tham du, thuong thuc mon an, bai hat, tro choi (a) -> Co 30 gian hang (c) -> Nhan xet tong ket (b) -> Tuy nhien, nen lam Banh Chung (e). Thu tu: d-a-c-b-e."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Lifelong learning also helps your social life. You will likely become more confident in yourself, which can lead to greater satisfaction and happiness.\nb. Overall, lifelong learning is an important part of personal and professional development.\nc. Another benefit is personal development, like taking a yoga class or learning how to cook a new dish you like. Lifelong learning can help you find new passions and hobbies.\nd. 'Lifelong learning' means continuing to acquire new knowledge and skills throughout your life.\ne. First of all, lifelong learning can offer benefits for your professional development. It will also help you be more competitive in the job market.",
+          "options": {
+            "A": "d-e-c-a-b",
+            "B": "c-d-e-a-b",
+            "C": "d-b-e-c-a",
+            "D": "a-d-b-e-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trat tu: Dinh nghia hoc tap suot doi (d) -> Loi ich nghe nghiep (e) -> Loi ich phat trien ban than (c) -> Cai thien cuoc song xa hoi (a) -> Ket luan tong ket (b). Thu tu: d-e-c-a-b."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "Benefits of Sports Participation",
+      "passage": "Regular participation in sports offers numerous advantages to individuals of all ages. Firstly, it promotes physical fitness and overall health. (18)_______, flexibility, and endurance. (19)_______ and related health issues such as diabetes and heart disease.\n\nSecondly, sports play a vital role in enhancing mental well-being. When individuals participate in sports, their bodies release endorphins, which are chemicals (20)_______. Furthermore, being part of a team or engaging in (21)_______ of camaraderie and self-confidence.\n\nIn summary, participation in sports is not just about physical activity; (22)_______. It promotes physical fitness, enhances mental well-being, and teaches valuable life skills.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Engaging in sports activities helps to develop strength",
+            "B": "When engaging in sports activities helps to develop strength",
+            "C": "When we engaging in sports activities helps to develop strength",
+            "D": "If engaging in sports activities helps to develop strength"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cho trong can mot menh de doc lap (independent clause). B, C, D deu la menh de phu thuoc.\nTam dich: Engaging in sports activities helps to develop strength, flexibility, and endurance. (Viec tham gia cac hoat dong the thao giup phat trien suc manh, su linh hoat va suc ben.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "It additionally reduces the risk of obesity",
+            "B": "In addition to, it reduces the risk of obesity",
+            "C": "Additionally, it reduces the risk of obesity",
+            "D": "It reduces the risk of obesity, additionally"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Sai vi khong dung trang tu 'additionally' bo nghia cho dong tu 'reduces'; B. Sai vi 'In addition to' + N/V-ing; D. Sai vi 'additionally' phai dung dau cau.\nTam dich: Additionally, it reduces the risk of obesity and related health issues such as diabetes and heart disease."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "they help to reduce stress and improve mood",
+            "B": "helps to reduce stress and improve mood",
+            "C": "help to reduce stress and improve mood",
+            "D": "that help to reduce stress and improve mood"
+          },
+          "correctAnswer": "D",
+          "explanation": "Phan tich thanh phan cau: Menh de chinh: 'their bodies release endorphins'; Menh de quan he: 'which are chemicals...' -> cho trong can menh de quan he bo nghia cho 'endorphins'. Dap an D: 'that help to reduce stress and improve mood'.\nTam dich: their bodies release endorphins, which are chemicals that help to reduce stress and improve mood."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "individual sports fosters a sense",
+            "B": "sports individual fosters a sense",
+            "C": "individual sports a sense is fostered",
+            "D": "individual sports foster a sense"
+          },
+          "correctAnswer": "A",
+          "explanation": "Hoa hop chu ngu - dong tu: S1 + or + S2 -> dong tu chia theo S2 (engaging). Cum danh tu: individual sports = the thao ca nhan. Loai C vi sai trat tu tu trong cau.\nTam dich: being part of a team or engaging in individual sports foster a sense of camaraderie and self-confidence."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "it provides numerous benefits for both the body and mind",
+            "B": "it provides for both the body and mind numerous benefits",
+            "C": "numerous benefits are provided for both the body and mind",
+            "D": "both the body and mind are provided numerous benefits"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. no mang lai nhieu loi ich cho ca co the va tinh than -> Phu hop vi 'it' thay the cho 'participation in sports'. B. Sai cau truc -> provide something for somebody. C, D. Sai cau truc.\nTam dich: participation in sports is not just about physical activity; it provides numerous benefits for both the body and mind."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Gap Year",
+      "passage": "More and more young people are choosing to take a gap year between finishing school and starting university. Alternatively, they may decide to take a gap year between graduating from university and starting a career, feeling the need for some time out before joining the rat race. Most students see the time as an opportunity to travel. The idea of travelling to as many foreign places as possible appeals greatly.\n\nA large percentage of gap-year students have wealthy parents who can easily subsidize their travel. Others have to save up before they go, or look for some form of employment while travelling. For example, they may work on local farms or in local hotels. By doing so, they not only earn some money, but they are likely to meet local people and acquire some understanding of their culture.\n\nThere are some students who choose to work for the whole of their gap year. A number may decide to get work experience, either at home or abroad, in an area which they hope to make their career, such as medicine or computers. A large proportion of students are now choosing to work with a charity which arranges voluntary work in various parts of the world. The projects provide hands-on experience of a very varied nature, from teaching to helping build roads or dams.\n\nThe gap year is not just an adventure. Young people can benefit greatly from encountering new and varied experiences and from communication with a wide range of people. Perhaps most importantly, gap-year students have to learn to stand on their own two feet.\n\n(Adapted from Thematic Vocabulary and Comprehension 1, Betty Kirkpatrick, Learners Publishing, 2005)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a field of career for gap-year students?",
+          "context": "",
+          "options": {
+            "A": "medicine",
+            "B": "computers",
+            "C": "teaching",
+            "D": "farming"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thong tin: A number may decide to get work experience...in an area which they hope to make their career, such as medicine or computers. (A, B duoc de cap) + from teaching to helping build roads or dams. (C duoc de cap) -> D (farming/nong nghiep) khong duoc de cap la linh vuc nghe nghiep (sinh vien chi lam viec o cac trang trai de kiem tien di du lich)."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word 'benefit' in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "harm",
+            "B": "help",
+            "C": "promote",
+            "D": "profit"
+          },
+          "correctAnswer": "A",
+          "explanation": "benefit (v): huong loi >< harm (v): gay hai.\nB. help: giup do; C. promote: thuc day, quang ba; D. profit: kiem loi nhuan.\nThong tin: Young people can benefit greatly from encountering new and varied experiences."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word 'their' in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "wealthy parents'",
+            "B": "gap-year students'",
+            "C": "others'",
+            "D": "local people's"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: A large percentage of gap-year students have wealthy parents who can easily subsidize their travel. (Mot ty le lon sinh vien 'gap-year' co cha me giau co co the de dang tro cap cho chuyen di cua ho.) -> 'their' = gap-year students'."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word 'hands-on' in paragraph 3 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "detailed",
+            "B": "theoretical",
+            "C": "practical",
+            "D": "challenging"
+          },
+          "correctAnswer": "C",
+          "explanation": "hands-on (adj): thuc hanh = practical (adj): thuc tien, thuc te.\nA. detailed: chi tiet; B. theoretical: thuoc ve ly thuyet; D. challenging: day thach thuc.\nThong tin: The projects provide hands-on experience of a very varied nature, from teaching to helping build roads or dams."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in the second paragraph? 'Others have to save up before they go, or look for some form of employment while travelling.'",
+          "context": "",
+          "options": {
+            "A": "Gap-year students receive practical training for their future careers.",
+            "B": "Gap-year students must do some jobs to earn money for their travel.",
+            "C": "Gap-year students have an opportunity to travel and meet local people.",
+            "D": "Gap-year students earn money to support their family."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: Others have to save up before they go, or look for some form of employment while travelling. (Nhung nguoi khac phai tiet kiem truoc khi di hoac tim kiem mot so hinh thuc viec lam trong khi di du lich.) -> B: Gap-year students must do some jobs to earn money for their travel."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "According to the passage, which of the following is TRUE?",
+          "context": "",
+          "options": {
+            "A": "The number of students taking a gap year between high school and university is falling.",
+            "B": "Students can take a gap year only before starting university.",
+            "C": "None of the students choose to work for the whole of their gap year to get experience.",
+            "D": "Most students consider a gap year as a chance to travel."
+          },
+          "correctAnswer": "D",
+          "explanation": "D dung: Most students see the time as an opportunity to travel.\nA sai: More and more young people are choosing to take a gap year.\nB sai: Alternatively, they may decide to take a gap year between graduating from university and starting a career.\nC sai: There are some students who choose to work for the whole of their gap year."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer discuss the work experience of gap-year students?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong doan van 3 tac gia thao luan ve kinh nghiem lam viec cua sinh vien nam 'gap-year'.\nThong tin: A number may decide to get work experience, either at home or abroad, in an area which they hope to make their career, such as medicine or computers."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer mention the benefits of gap year trip?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trong doan van 4 tac gia de cap den loi ich cua chuyen di nghi nam.\nThong tin: Young people can benefit greatly from encountering new and varied experiences and from communication with a wide range of people."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "South Korea's Military Biobots",
+      "passage": "South Korea is developing next-generation military robots that will mimic the movements and capabilities of birds, snakes, marine creatures and even insects on the battlefields of the future. The Defence Acquisition Programme Administration (DAPA), which oversees the creation of weapons systems for the military has announced plans to develop 'biobots' - robots that are based on real creatures - to be deployed as early as 2024, Yonhap News reported.\n\n[I] There is a recognition that the South Korean military will very soon need to rely more heavily on technology to defend the nation, with a falling birthrate meaning that fewer young men are available to do their mandatory national service, which ranges from 21 months in the army to 24 months in the air force. [II] In addition, there is growing resistance among many men to obligatory military service and the South Korean government has recently made it easier for some to avoid serving, such as by claiming that it contravenes their religious beliefs. [III] Another 'trick' that exempts a man from military service is tattoos that cover most of his body. [IV]\n\nIn the initial stages, bird-like androids or swimming robots will be deployed to carry out reconnaissance operations, miniature mechanical flying devices will be able to provide information on the actions of an enemy force and robots that can move like a snake will be able to access constricted spaces. As well as assisting in military operations, these devices will be able to assist in search-and-rescue operations and will have applications in areas affected by natural disasters.\n\nThe agency said it is turning to designs that have been inspired by the natural world because nature has engineered animals to survive and thrive in their environments over millions of years. The South Korean military plans to work closely with domestic technology companies, which are widely seen as among the most advanced in the world in the areas of artificial intelligence, but have less of a focus on military applications.\n\n(Adapted from https://www.telegraph.co.uk)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 2 does the following sentence best fit? 'Others have claimed to be suffering mental illness or have put on so much weight that they are above the maximum limit for recruits.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cau tren phu hop o vi tri (III) vi phu hop lien ket voi cau truoc do. Cau truoc de cap mot vi du ve cach ma nam gioi phan doi nghia vu quan su (tuyen bo ve vi pham tin nguong ton giao). Cau nay duoc dien vao vi tri (III), liet ke them mot tuyen bo khac (bi tam than, tang can) de tron tranh nghia vu quan su.\nThong tin: the South Korean government has recently made it easier for some to avoid serving, such as by claiming that it contravenes their religious beliefs. Others have claimed to be suffering mental illness or have put on so much weight... Another 'trick' that exempts a man from military service is tattoos..."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word 'engineered' in the final paragraph can be best replaced by",
+          "context": "",
+          "options": {
+            "A": "determined",
+            "B": "decided",
+            "C": "designed",
+            "D": "defined"
+          },
+          "correctAnswer": "C",
+          "explanation": "engineer (v): sap dat, thiet ke = design (v): thiet ke.\nA. determine: xac dinh; B. decide: quyet dinh; D. define: dinh nghia.\nThong tin: nature has engineered animals to survive and thrive in their environments over millions of years."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word 'which' in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "birth rate",
+            "B": "service",
+            "C": "technology",
+            "D": "nation"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thong tin: ...fewer young men are available to do their mandatory national service, which ranges from 21 months in the army to 24 months in the air force. (it nam thanh nien co the thuc hien nghia vu quan su bat buoc, keo dai tu 21 thang trong quan doi den 24 thang trong khong quan.) -> 'which' = service."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following is NOT mentioned as mimicking the movements and capabilities of military robots?",
+          "context": "",
+          "options": {
+            "A": "birds",
+            "B": "marine creatures",
+            "C": "insects",
+            "D": "rabbits"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thong tin: South Korea is developing next-generation military robots that will mimic the movements and capabilities of birds, snakes, marine creatures and even insects. -> A, B, C duoc de cap. D (rabbits/tho) khong duoc de cap."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "South Korea is developing the best military robots.",
+            "B": "Military robots can assist in military operations and natural disasters.",
+            "C": "Military robots are the most advanced artificial intelligence in the world.",
+            "D": "Robots are designed based on real creatures."
+          },
+          "correctAnswer": "B",
+          "explanation": "Tom tat doan 3: Doan thao luan ve kha nang cua robot trong giai doan dau (tham sat, cung cap thong tin, tiep can khong gian chat hep) va ung dung rong hon (ho tro quan su, cuu nan, thien tai).\nThong tin: As well as assisting in military operations, these devices will be able to assist in search-and-rescue operations and will have applications in areas affected by natural disasters. -> B dung."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word 'constricted' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "narrow",
+            "B": "massive",
+            "C": "tiny",
+            "D": "shallow"
+          },
+          "correctAnswer": "B",
+          "explanation": "constricted (adj): bi thu hep >< massive (adj): to lon, do so.\nA. narrow: hep, chat; C. tiny: nho xiu; D. shallow: nong (ve do sau), hoi hot."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Based on paragraph 3, which of the following is TRUE about the use of 'biobots' in the future?",
+          "context": "",
+          "options": {
+            "A": "Only snake robots are useful in areas affected by natural disasters.",
+            "B": "Swimming robots must always be deployed along with flying ones.",
+            "C": "Birdlike androids will only assist in reconnaissance operations.",
+            "D": "Small flying robots can be used to gather information about enemy forces."
+          },
+          "correctAnswer": "D",
+          "explanation": "D dung: miniature mechanical flying devices will be able to provide information on the actions of an enemy force.\nA sai vi 'these devices' gom 'bird-like androids, swimming robots, robots that can move like a snake' -> tat ca deu co ung dung.\nB sai o 'always'.\nC sai vi birdlike androids + swimming robots cung tham gia tham sat."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in the first paragraph? 'South Korea is developing next-generation military robots that will mimic the movements and capabilities of birds, snakes, marine creatures and even insects on the battlefields of the future.'",
+          "context": "",
+          "options": {
+            "A": "Modern military robots are created by South Korea can imitate the actions and characteristics of animals for future battlefields.",
+            "B": "South Korea are created military robots which can imitate the actions and characteristics of animals for future battlefields.",
+            "C": "Modern military robots will battle with birds, snakes, marine creatures and even insects in South Korea battlefields.",
+            "D": "The actions and characteristics of animals will mimic modern military robots of South Korea for future battlefields."
+          },
+          "correctAnswer": "A",
+          "explanation": "A dung: Han Quoc tao ra robot quan su hien dai co the bat chuoc hanh dong va dac diem cua dong vat cho chien truong trong tuong lai.\nB sai o 'are created'.\nC sai nghia - robot se chien dau voi dong vat.\nD sai vi robot bat chuoc dong vat, khong phai nguoc lai."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "What can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Military robots have been widely used by the South Korean army in various missions.",
+            "B": "Future 'biobots' will only be based on flying and swimming creatures.",
+            "C": "The South Korean army may collaborate with other technology companies in the country.",
+            "D": "The majority of Korean men does not want to join the army because of religious reason."
+          },
+          "correctAnswer": "C",
+          "explanation": "C dung: The South Korean military plans to work closely with domestic technology companies (Quan doi Han Quoc co ke hoach hop tac chat che voi cac cong ty cong nghe trong nuoc).\nA sai day chi la ke hoach.\nB khong duoc de cap.\nD sai vi ly do ton giao khong phai la ly do chinh."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Measures taken by the South Korean army to increase the country's birth rate.",
+            "B": "The development of animal-based robots for military purposes in South Korea.",
+            "C": "New technology being used in rescue operations in areas affected by disasters.",
+            "D": "Reasons why real animals are perfect models for military robots in Korea."
+          },
+          "correctAnswer": "B",
+          "explanation": "Tom tat:\n- Doan 1: Han Quoc dang phat trien cac robot quan su the he moi, mo phong chuyen dong va kha nang cua cac loai dong vat.\n- Doan 2: Quan doi Han Quoc doi mat voi su sut giam luc luong do ty le sinh thap, su phan doi nghia vu.\n- Doan 3: Robot se thuc hien nhiem vu trinh sat, ho tro cuu ho va thien tai.\n- Doan 4: Thiet ke robot lay cam hung tu tu nhien va hop tac voi cong ty cong nghe.\n=> Bai tap trung vao viec phat trien robot dua tren dong vat de phuc vu muc dich quan su. -> B dung."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.657391+00:00",
+  "updatedAt": "2026-06-08T10:41:58.657391+00:00",
+  "originalFileName": "thpt_hoang_van_thu_ha_noi_lan1.json"
+}

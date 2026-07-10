@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_dao_duy_tu_thanh_hoa_lan2_2025-06-06",
+  "title": "THPT Đào Duy Từ - Thanh Hóa (Lần 2) – Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Dao_Duy_Tu_Thanh_Hoa_Lan2_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ThanhHoa",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "GO GREEN, LIVE CLEAN!",
+      "passage": "\"Are you worried about the future of our planet? We are using too many (1)_______ materials that harm the environment. But there is hope! Start by making small changes, like switching to a (2)_______ for your shopping. There are many solutions (3)_______ by environmental experts. For example, try to walk or bike to work instead of driving. You can also help the environment (4)_______ using less plastic in your daily life. Also, remember to (5)_______ a difference by reducing waste and recycling more often. Finally, consider (6)_______ solar panels to power your home with clean energy!\"",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "recycling",
+            "B": "recycled",
+            "C": "recycle",
+            "D": "unrecyclable"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ loại:\nA. recycling /ˌriːˈsaɪklɪŋ/ (n): sự tái chế, quá trình tái chế\nB. recycled /ˌriːˈsaɪkəld/ (adj): được tái chế\nC. recycle /ˌriːˈsaɪkəl/ (v): tái chế\nD. unrecyclable /ˌʌnriːˈsaɪkləbəl/ (adj): không thể tái chế\nChỗ trống đứng sau từ hạn định \"many\" và trước danh từ \"materials\" → cần tính từ. Hợp nghĩa ta dùng unrecyclable.\nTạm dịch: We are using too many unrecyclable materials that harm the environment. (Chúng ta đang sử dụng quá nhiều vật liệu không thể tái chế gây hại cho môi trường.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "reusable bag shopping",
+            "B": "shopping bag reusable",
+            "C": "reusable shopping bag",
+            "D": "bag shopping reusable"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự từ: Dùng tính từ \"reusable\" để bổ nghĩa cho cụm từ \"shopping bag\".\nTạm dịch: Start by making small changes, like switching to a reusable shopping bag for your shopping. (Hãy bắt đầu bằng cách thực hiện những thay đổi nhỏ, như chuyển sang sử dụng túi mua sắm để tái sử dụng.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "suggests",
+            "B": "suggest",
+            "C": "suggesting",
+            "D": "suggested"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng bị động rút gọn bằng cách lược bỏ đại từ quan hệ và tobe, giữ nguyên V-pII.\nCâu đầy đủ: \"… solutions which are suggested by environmental experts\"\nTạm dịch: There are many solutions suggested by environmental experts. (Có nhiều giải pháp được các chuyên gia về môi trường đề xuất.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "for",
+            "C": "by",
+            "D": "with"
+          },
+          "correctAnswer": "C",
+          "explanation": "Giới từ: by + V-ing: bằng cách làm gì (chỉ cách thức)\nTạm dịch: You can also help the environment by using less plastic in your daily life. (Bạn cũng có thể giúp bảo vệ môi trường bằng cách sử dụng ít nhựa hơn trong cuộc sống hàng ngày.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "do",
+            "C": "put",
+            "D": "take"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ (Collocations): make a difference: tạo ra sự khác biệt\nTạm dịch: Also, remember to make a difference by reducing waste and recycling more often. (Ngoài ra, hãy nhớ tạo ra sự khác biệt bằng cách giảm chất thải và tái chế thường xuyên hơn.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "installed",
+            "B": "install",
+            "C": "to installing",
+            "D": "installing"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ: consider doing something: cân nhắc làm cái gì đó\nTạm dịch: Finally, consider installing solar panels to power your home with clean energy! (Cuối cùng, hãy cân nhắc lắp đặt tấm pin mặt trời để cung cấp năng lượng sạch cho ngôi nhà của bạn!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about single-use plastics and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 7 to 14.",
+      "passageTitle": "",
+      "passage": "Single-use plastics have become a major environmental issue in recent years. These plastics, designed to be used once and then discarded, include items like plastic bags, straws, cutlery, and water bottles. They are cheap, convenient, and durable, making them popular for various everyday applications. However, their widespread use and careless disposal have led to severe pollution. The oceans, in particular, are heavily affected by plastic waste, where millions of tons of plastic accumulate each year, harming marine life and ecosystems.\n\nA significant concern with single-use plastics is that they are not biodegradable. Instead, they break down into tiny particles known as microplastics, which persist in the environment for hundreds of years. These microplastics can enter the food chain, affecting not only marine animals but also humans who consume seafood. Research has shown that microplastics are now present in a variety of foods and beverages, raising health concerns for consumers worldwide.\n\nTo address the issue, some governments and organizations have implemented policies to reduce single-use plastic consumption. For example, many countries now impose charges on plastic bags or have banned their use entirely. Some companies are also developing eco-friendly alternatives, such as biodegradable plastics or reusable items. These measures aim to encourage people to make more sustainable choices and reduce their environmental impact.\n\nTechnology and innovation also play a role in tackling plastic pollution. Scientists are working on new ways to break down plastics more effectively or create materials that decompose naturally. For instance, enzymes that digest plastics have been discovered, and researchers are exploring how to use these enzymes on a larger scale. With continuous efforts, there is hope that the detrimental effects of single-use plastics can be mitigated in the future.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is NOT mentioned as a type of single-use plastic?",
+          "context": "",
+          "options": {
+            "A": "Water bottles",
+            "B": "Cutlery",
+            "C": "Food containers",
+            "D": "Plastic bags"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: These plastics, designed to be used once and then discarded, include items like plastic bags, straws, cutlery, and water bottles. (Những loại nhựa này được thiết kế để dùng một lần rồi bỏ, bao gồm túi ni lông, ống hút, dao kéo và chai nước.)\nFood containers (hộp đựng cơm) không được đề cập trong bài."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word \"They\" in paragraph 1 refers to________.",
+          "context": "",
+          "options": {
+            "A": "single-use plastics",
+            "B": "various applications",
+            "C": "people",
+            "D": "oceans"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: These plastics, designed to be used once and then discarded, include items like plastic bags, straws, cutlery, and water bottles. They are cheap, convenient, and durable, making them popular for various everyday applications.\n\"They\" ở đoạn 1 để cập đến những món đồ nhựa dùng một lần (single-use plastics)."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "The word \"discarded\" in paragraph 1 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "disposed",
+            "B": "wasted",
+            "C": "reused",
+            "D": "dumped"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. dispose /dɪˈspoʊz/ (v): làm cho có khuynh hướng\nB. waste /weɪst/ (v): lãng phí\nC. reuse /ˌriːˈjuːz/ (v): tái sử dụng\nD. dump /dʌmp/ (v): vứt bỏ, đổ thành đống\ndiscard /dɪˈskɑːd/ (v): loại bỏ, vứt bỏ >< reuse"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "The word \"persist\" in paragraph 2 is CLOSEST in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "diminish",
+            "B": "remain",
+            "C": "disappear",
+            "D": "emerge"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. diminish /dɪˈmɪnɪʃ/ (v): giảm bớt, thu nhỏ\nB. remain /rɪˈmeɪn/ (v): còn, giữ lại\nC. disappear /ˌdɪs.əˈpɪər/ (v): biến mất\nD. emerge /ɪˈmɜːdʒ/ (v): nổi lên, hiện ra\npersist /pəˈsɪst/ (v): khăng khăng, cố chấp = remain"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Some countries encourage reusable plastic by law.",
+            "B": "Plastic bag bans are common in some places.",
+            "C": "Companies are looking for more eco-friendly plastic options.",
+            "D": "Sustainable products have replaced single-use plastics."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: To address the issue, some governments and organizations have implemented policies to reduce single-use plastic consumption. (Để giải quyết vấn đề này, một số chính phủ và tổ chức đã thực hiện các chính sách nhằm giảm thiểu việc tiêu thụ nhựa dùng một lần.)\nCâu A diễn đạt lại đúng nhất: Một số quốc gia khuyến khích sử dụng nhựa tái chế theo quy định."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "According to the passage, which of the following is TRUE?",
+          "context": "",
+          "options": {
+            "A": "Enzymes could potentially break down plastics more efficiently.",
+            "B": "No solution exists for reducing single-use plastic consumption",
+            "C": "Plastic waste is harmless to marine life.",
+            "D": "Microplastics completely break down in a few years."
+          },
+          "correctAnswer": "A",
+          "explanation": "B sai: To address the issue, some governments and organizations have implemented policies to reduce single-use plastic consumption.\nC sai: These microplastics can enter the food chain, affecting not only marine animals but also humans who consume seafood.\nD sai: they break down into tiny particles known as microplastics, which persist in the environment for hundreds of years.\nA đúng: For instance, enzymes that digest plastics have been discovered, and researchers are exploring how to use these enzymes on a larger scale."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "In which paragraph does the writer mention the impacts of microplastics on human?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: These microplastics can enter the food chain, affecting not only marine animals but also humans who consume seafood. Research has shown that microplastics are now present in a variety of foods and beverages, raising health concerns for consumers worldwide. (Đoạn 2)"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "In which paragraph does the writer discuss scientific efforts to address plastic pollution?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 4",
+            "C": "Paragraph 2",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Scientists are working on new ways to break down plastics more effectively or create materials that decompose naturally. For instance, enzymes that digest plastics have been discovered, and researchers are exploring how to use these enzymes on a larger scale. (Đoạn 4)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 15 to 20.",
+      "passageTitle": "PREPARE FOR THE FUTURE OF WORK!",
+      "passage": "In today's fast-changing world, it's important to have skills that make you stand out. Some people prefer traditional careers, while (15)_______ are exploring new paths like freelancing and digital entrepreneurship.\n\nTo succeed, you need to (16)_______ new opportunities whenever possible. Stay updated with the latest (17)_______ in your field, whether it's technology, design, or marketing.\n\n(18)_______ relying only on your degree, consider gaining extra certifications to enhance your skills. This will increase the (19)_______ of job offers you receive.\n\nFinally, build strong professional networks. Attend conferences, join online forums, and always share your (20)_______ with others. These connections can open doors to exciting new opportunities!",
+      "questions": [
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "the others",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. others: những người khác, những cái khác\nB. the others: những người còn lại, những cái còn lại\nC. other + N (số nhiều): những người khác, những cái khác\nD. another + N (số ít): người khác, cái khác\nTạm dịch: Some people prefer traditional careers, while others are exploring new paths like freelancing and digital entrepreneurship. (Một số người thích những ngành nghề truyền thống, trong khi những người khác đang khám phá những con đường mới như làm việc tự do và kinh doanh kỹ thuật số.)"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take up to",
+            "B": "take advantage of",
+            "C": "take on",
+            "D": "take in"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. take up to something: lên đến, có thể chứa đến bao nhiêu\nB. take advantage of someone/something: tận dụng, lợi dụng ai/cái gì\nC. take on something: đảm nhận, tiếp nhận cái gì\nD. take in someone/something: lừa dối ai, bao gồm cái gì\nTạm dịch: To succeed, you need to take advantage of new opportunities whenever possible. (Để thành công, bạn cần tận dụng cơ hội bất cứ khi nào có thể.)"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "promotions",
+            "B": "replacements",
+            "C": "supplies",
+            "D": "developments"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. promotion /prəˈmoʊʃən/ (n): sự thăng chức, quảng bá\nB. replacement /rɪˈpleɪsmənt/ (n): sự thay thế, người thay thế\nC. supply /səˈplaɪ/ (n): sự cung cấp, hàng cung cấp\nD. development /dɪˈvel.əp.mənt/ (n): sự phát triển, sự mở rộng\nTạm dịch: Stay updated with the latest developments in your field, whether it's technology, design, or marketing. (Luôn cập nhật những phát triển mới nhất trong lĩnh vực của bạn, cho dù đó là công nghệ, thiết kế hay tiếp thị.)"
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Because of",
+            "B": "In spite of",
+            "C": "Due to",
+            "D": "Instead of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ nối:\nA. because of: bởi vì\nB. in spite of: mặc dù\nC. due to: bởi vì\nD. instead of: thay vì\nTạm dịch: Instead of relying only on your degree, consider gaining extra certifications to enhance your skills. (Thay vì chỉ dựa vào bằng cấp của mình, hãy cân nhắc việc lấy thêm các chứng chỉ khác để nâng cao kỹ năng của mình.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "level",
+            "B": "number",
+            "C": "amount of",
+            "D": "quality"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. level of + N (không đếm được/số ít): mức độ, cấp độ\nB. number of + N (số nhiều): số lượng, số\nC. amount of + N (không đếm được): một lượng\nD. quality of + N (đếm được, không đếm được): chất lượng, đặc tính\n\"job offers\" là danh từ số nhiều (đếm được) → dùng \"number of\"\nTạm dịch: This will increase the number of job offers you receive. (Điều này sẽ làm tăng cơ hội việc làm mà bạn nhận được.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "experiences",
+            "B": "conclusions",
+            "C": "experiments",
+            "D": "conditions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. experience /ɪkˈspɪə.ri.əns/ (n): kinh nghiệm, trải nghiệm\nB. conclusion /kənˈkluː.ʒən/ (n): kết luận, phần cuối\nC. experiment /ɪkˈsper.ɪ.mənt/ (n): thí nghiệm, thử nghiệm\nD. condition /kənˈdɪʃ.ən/ (n): điều kiện, hoàn cảnh\nTạm dịch: Attend conferences, join online forums, and always share your experiences with others. (Tham dự các hội nghị, tham gia các diễn đàn trực tuyến và luôn chia sẻ kinh nghiệm của bạn với những người khác.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about technology in education and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 21 to 30.",
+      "passageTitle": "",
+      "passage": "[I] Some people strongly support integrating technology in classrooms, while others highlight the potential negative effects on students. [II] Parents and teachers often express concerns about increased screen time, reduced face-to-face interaction, [III] and various distractions associated with technology use. [IV]\n\nSupporters of technology believe it brings enthusiasm, motivation, personalized educational experiences, and collaborative opportunities. Technology offers a plethora of resources for students, parents, and teachers. For instance, if a student struggles with math homework, platforms like Khan Academy provide useful sample problems and tutorials. Additionally, YouTube hosts many educational channels that make learning engaging. Google offers virtual reality field trips through its expeditions program, while websites like Quizlet help students review materials. Personalized learning experiences can also be found on sites like Classcraft, ensuring students have resources to support their coursework, both at home and school.\n\nTechnology enhances learning efficiency. Nowadays, attendance records, grades, and behavior referrals are often managed online, allowing for immediate sharing between students, teachers, and parents. Parent-teacher communication has become more streamlined through email. If a student misses a class, assignments are typically available on class websites or Google Classroom. By automating routine tasks, teachers can dedicate more time to developing course materials and providing individualized instruction.\n\nIn today's world, where technology is integral to nearly every aspect of life, students need digital literacy and technological fluency to succeed beyond school. Learning technology skills goes beyond just creating digital presentations or drafting emails; it fosters valuable soft skills such as communication, collaboration, problem-solving, and adaptability. These competencies are not only essential for college but are also highly sought after by employers, ensuring that students reap significant benefits as they enter the workforce.",
+      "questions": [
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"Technology is a hot topic these days in education\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(III)",
+            "C": "(IV)",
+            "D": "(II)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu trên phù hợp để làm câu giới thiệu chủ đề đoạn văn, từ chủ đề công nghệ và đi sâu vào khía cạnh công nghệ trong lớp học ở câu đứng sau.\nTechnology is a hot topic these days in education. (Công nghệ là chủ đề hot hiện nay trong giáo dục.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The phrase \"highlight\" in paragraph 1 could be best replaced by________.",
+          "context": "",
+          "options": {
+            "A": "emphasize",
+            "B": "discuss",
+            "C": "simplify",
+            "D": "ignore"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. emphasize /ˈem.fə.saɪz/ (v): nhấn mạnh, làm nổi bật\nB. discuss /dɪˈskʌs/ (v): thảo luận, tranh luận\nC. simplify /ˈsɪm.plɪ.faɪ/ (v): đơn giản hóa\nD. ignore /ɪgˈnɔːr/ (v): phớt lờ\nhighlight /ˈhaɪ.laɪt/ (v): làm nổi bật, nêu bật = emphasize"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "What does the word \"it\" in paragraph 2 refer to?",
+          "context": "",
+          "options": {
+            "A": "education",
+            "B": "a website",
+            "C": "a resource",
+            "D": "technology"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Supporters of technology believe it brings enthusiasm, motivation, personalized educational experiences, and collaborative opportunities. (Những người ủng hộ công nghệ tin rằng nó mang lại động lực, trải nghiệm giáo dục được cá nhân hóa và cơ hội hợp tác.)\n\"it\" ở đoạn 2 để cập đến công nghệ (technology)."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "According to paragraph 2, which of the following is NOT mentioned as a resource provided by technology?",
+          "context": "",
+          "options": {
+            "A": "personalized learning experiences",
+            "B": "educational channels",
+            "C": "virtual reality field trips",
+            "D": "in-person tutoring"
+          },
+          "correctAnswer": "D",
+          "explanation": "A được đề cập: Personalized learning experiences can also be found on sites like Classcraft.\nB được đề cập: YouTube hosts many educational channels that make learning engaging.\nC được đề cập: Google offers virtual reality field trips through its expeditions program.\nD (gia sư trực tiếp) không được đề cập trong bài."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Online tools are essential for efficient learning processes.",
+            "B": "Teachers must adapt to using technology for lesson planning.",
+            "C": "Technology eliminates the need for traditional classroom attendance.",
+            "D": "Technology simplifies teachers' workloads and enhances communication."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn văn nói về ảnh hưởng tích cực của công nghệ đến hiệu quả trong học tập.\nDựa vào 2 câu nêu luận điểm chính của đoạn:\n+ Parent-teacher communication has become more streamlined through email. → Công nghệ giúp nâng cao giao tiếp giáo viên - phụ huynh\n+ By automating routine tasks, teachers can dedicate more time to developing course materials and providing individualized instruction. → Công nghệ giúp tự động hóa các công việc của giáo viên"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"essential\" in paragraph 4 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "insignificant",
+            "B": "crucial",
+            "C": "important",
+            "D": "vital"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. insignificant /ˌɪn.sɪgˈnɪf.ɪ.kənt/ (adj): không quan trọng, tầm thường\nB. crucial /ˈkruː.ʃəl/ (adj): quan trọng, thiết yếu\nC. important /ɪmˈpɔː.tənt/ (adj): quan trọng, trọng đại\nD. vital /ˈvaɪ.təl/ (adj): quan trọng, sống còn\nessential /ɪˈsen.ʃəl/ (adj): cần thiết, thiết yếu >< insignificant"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Digital literacy is essential for future career success.",
+            "B": "All students benefit equally from technology in education.",
+            "C": "Parents and teachers universally support technology in classrooms.",
+            "D": "Technology will eventually replace traditional teaching methods."
+          },
+          "correctAnswer": "A",
+          "explanation": "B: Không đề cập → Loại B\nC sai: Parents and teachers often express concerns about increased screen time, reduced face-to-face interaction, and various distractions associated with technology use.\nD sai: Không có thông tin này trong bài.\nA đúng: In today's world, where technology is integral to nearly every aspect of life, students need digital literacy and technological fluency to succeed beyond school."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Teachers can reduce their workload by automating tasks, allowing them to focus more on course content and individualized teaching.",
+            "B": "Teachers can only automate tasks without gaining more time for other important activities.",
+            "C": "By automating tasks, teachers no longer need to focus on course materials or individualized instruction.",
+            "D": "Automating routine tasks is a waste of time for teachers and does not contribute to improving course materials."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: By automating routine tasks, teachers can dedicate more time to developing course materials and providing individualized instruction. (Bằng cách tự động hóa các nhiệm vụ, giáo viên có thể dành nhiều thời gian hơn để phát triển tài liệu khóa học và cung cấp hướng dẫn theo từng cá nhân.)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Students' reliance on technology may hinder their interpersonal skills.",
+            "B": "Technology will continue to dominate educational practices.",
+            "C": "Education systems must evolve to incorporate more technology.",
+            "D": "All teachers are trained to use technology effectively in the classroom."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Parents and teachers often express concerns about increased screen time, reduced face-to-face interaction, and various distractions associated with technology use. (Phụ huynh và giáo viên thường bày tỏ mối quan ngại về việc tiếp xúc với màn hình quá lâu, giảm sự tương tác, gây ra sự xao nhãng khác liên quan đến việc sử dụng công nghệ.)\nCó thể suy ra: Sự phụ thuộc vào công nghệ của học sinh có thể cản trở kỹ năng giao tiếp của họ."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "The integration of technology in classrooms is controversial but almost all people believe that it is ultimately beneficial for students.",
+            "B": "As technology evolves, students must adapt to new tools to remain competitive in their careers.",
+            "C": "While technology provides benefits in education, concerns about its effects on students persist.",
+            "D": "Technology offers valuable resources and skills that enhance the educational experience and prepare students for future success."
+          },
+          "correctAnswer": "C",
+          "explanation": "Toàn đoạn văn đề cập đến cả những lợi ích của công nghệ (ví dụ: enhanced learning, digital literacy, personalized resources) và những lo ngại (ví dụ: increased screen time, reduced face-to-face interaction, distractions).\nCâu C tóm tắt tốt nhất: Trong khi công nghệ mang lại lợi ích trong giáo dục, vẫn còn nhiều lo ngại về tác động của nó đối với học sinh."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about teenagers and social media and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 31 to 35.",
+      "passageTitle": "",
+      "passage": "Safety for teens on social media, a crucial concern in today's digital age, requires awareness and responsibility. Social media, whose popularity among young users continues to grow, (31)_______. Having become widely accessible, (32)_______.\n\nOne key aspect of safety is privacy settings, (33)_______. Teens should understand how to manage these settings, protecting themselves from potential threats. Educators and parents, playing vital roles in this process, can teach young users the importance of online boundaries and the risks of oversharing.\n\n(34)_______. By developing responsible habits, such as critical thinking about content and avoiding unknown connections, they can enjoy social media while minimising risks. Equipped with knowledge and guidance, (35)_______, ensuring their safety and well-being online.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that brings opportunities to connect but presents risks of exposure to harmful content",
+            "B": "offers both opportunities for connection and risks of exposure to harmful content",
+            "C": "bringing both opportunities for connection and risks of exposure to harmful content",
+            "D": "which provides both connection opportunities and risks of exposure to harmful content"
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân tích thành phần câu:\n+ Chủ ngữ: \"Social media\" (Mạng xã hội)\n+ Mệnh đề quan hệ: \"whose popularity among young users continues to grow\" (vốn ngày càng phổ biến trong số những người dùng trẻ tuổi)\n→ Cần vị ngữ (động từ được chia)\nA. điều đó mang lại cơ hội kết nối nhưng lại có nguy cơ tiếp xúc với nội dung có hại → Sai vì dùng mệnh đề quan hệ\nB. cung cấp cả cơ hội kết nối và rủi ro khi tiếp xúc với nội dung có hại ✓\nC. mang lại cả cơ hội kết nối và rủi ro khi tiếp xúc với nội dung có hại → Sai vì dùng gerund\nD. cung cấp cả cơ hội kết nối và rủi ro tiếp xúc với nội dung có hại → Sai vì mệnh đề quan hệ"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "challenges posed by these platforms make it harder for teens to realise",
+            "B": "these platforms present challenges that teens may not always recognise",
+            "C": "presenting challenges for teens isn't always evident in these platforms",
+            "D": "teens may fail to comprehend what challenges these platforms pose"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mệnh đề phân từ: Câu có mệnh đề phân từ dạng bị động \"Having become widely accessible\" → mệnh đề phân từ và mệnh đề chính phải chỉ cùng đối tượng\nA. những thách thức mà những nền tảng này đặt ra khiến thanh thiếu niên khó nhận ra → Sai vì \"challenges posed by these platforms\" không phù hợp để làm chủ ngữ ở vế trước\nB. những nền tảng này đặt ra những thách thức mà thanh thiếu niên không phải lúc nào cũng nhận ra ✓\nC. việc đưa ra những thách thức cho thanh thiếu niên không phải lúc nào cũng rõ ràng trên các nền tảng này → Sai\nD. thanh thiếu niên có thể không hiểu được những thách thức mà các nền tảng này đặt ra → Sai vì \"teens\" không phù hợp để làm chủ ngữ ở vế trước"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "restricted the visibility of personal information",
+            "B": "which can limit the visibility of personal information",
+            "C": "whose limitation of the visibility of personal information",
+            "D": "made the visibility of personal information restricted"
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân tích thành phần câu: Cần mệnh đề quan hệ để bổ nghĩa cho cụm từ \"privacy settings\"\n+ Chủ ngữ: \"One key aspect of safety\" (Một khía cạnh quan trọng của sự an toàn)\n+ Vị ngữ: \"is privacy settings\" (à cài đặt quyền riêng tư)\n→ Cần mệnh đề quan hệ\nA. hạn chế khả năng hiển thị thông tin cá nhân → Sai vì dùng động từ có chia thì\nB. có thể hạn chế khả năng hiển thị thông tin cá nhân ✓\nC. có giới hạn về khả năng hiển thị thông tin cá nhân → Sai vì mệnh đề quan hệ thiếu động từ\nD. làm cho khả năng hiển thị thông tin cá nhân bị hạn chế → Sai vì dùng động từ có chia thì"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Teens can build a positive online presence to learn to navigate social media safely",
+            "B": "Learning to navigate social media safely helps teens build a positive online presence",
+            "C": "Building a positive online presence, it is important to navigate social media safely",
+            "D": "Navigating social media safely can be developed without a positive online presence"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tạm dịch: Learning to navigate social media safely helps teens build a positive online presence. (Học cách sử dụng phương tiện truyền thông an toàn giúp thanh thiếu niên xây dựng hình ảnh trực tuyến tích cực.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "teens are better prepared to handle the digital world responsibly",
+            "B": "responsibly handling the digital world requires better preparation",
+            "C": "preparing to handle the digital world responsibly is easier for teens",
+            "D": "preparation for teens to handle the digital world responsibly is easier"
+          },
+          "correctAnswer": "A",
+          "explanation": "Mệnh đề phân từ: Câu có mệnh đề phân từ dạng bị động \"Equipped with knowledge and guidance\" → mệnh đề phân từ và mệnh đề chính phải chỉ cùng đối tượng\nA. thanh thiếu niên chuẩn bị tốt hơn để xử lý kỹ thuật số một cách có trách nhiệm ✓\nB. sử dụng kỹ thuật số một cách có trách nhiệm đòi hỏi sự chuẩn bị tốt hơn → Sai vì \"responsibly handling the digital world\" không phù hợp để làm chủ ngữ ở vế trước\nC. chuẩn bị để sử dụng kỹ thuật số một cách có trách nhiệm thì dễ dàng hơn đối với thanh thiếu niên → Sai\nD. việc chuẩn bị cho thanh thiếu niên sử dụng kỹ thuật số một cách có trách nhiệm trở nên dễ dàng hơn → Sai\nTạm dịch: Equipped with knowledge and guidance, teens are better prepared to handle the digital world responsibly, ensuring their safety and well-being online."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 36 to 40.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "a. Mai: No, I don't. Shall we do something together?\nb. Ann: Yes, I'd love to. How about going to a music show? Let me check the weekend programme at the Modem Arts Centre.\nc. Ann: Do you have any plans for this Saturday evening?",
+          "options": {
+            "A": "b-a-c",
+            "B": "a-c-b",
+            "C": "c-b-a",
+            "D": "c-a-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dịch bài:\nc. Ann: Bạn có kế hoạch gì cho tối thứ bảy này không?\na. Mai: Không, mình không có. Hay làm gì đó cùng nhau nhé?\nb. Ann: Được. Hay mình đi xem chương trình ca nhạc? Để mình kiểm tra xem chương trình cuối tuần tại Trung tâm nghệ thuật Modem.\nThứ tự đúng: c → a → b"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "a. Trainer: Good morning. Can I help you with that?\nb. Tam: Oh, it's working. Thank you very much.\nc. Tam: Oh, please. I want to change the speed on this treadmill, but I don't know how.\nd. Trainer: You can just press this button. Here, let me show you.",
+          "options": {
+            "A": "a-c-d-b",
+            "B": "a-d-c-b",
+            "C": "c-a-d-b",
+            "D": "a-c-b-d"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dịch bài:\na. Huấn luyện viên: Chào buổi sáng. Tôi có thể giúp gì cho cô không?\nc. Tâm: Tôi muốn chỉnh tốc độ của máy chạy bộ này, nhưng tôi không biết cách.\nd. Huấn luyện viên: Chỉ cần nhấn nút này. Đây, để tôi chỉ cho cô thấy.\nb. Tâm: Ồ, được rồi. Cảm ơn anh rất nhiều.\nThứ tự đúng: a → c → d → b"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "Dear Sir/Madam,\na. I am writing to apply for the position of Marketing Assistant at your company, as advertised on your website.\nb. Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team.\nc. My strong communication skills and experience with social media campaigns make me a good fit for this role.\nd. I am excited about the possibility of joining your dynamic team and helping to drive your marketing initiatives.\ne. I have attached my resume for your review.\nBest regards,\n(Your Name)",
+          "options": {
+            "A": "a-e-c-d-b",
+            "B": "a-c-e-d-b",
+            "C": "a-d-c-e-b",
+            "D": "a-c-d-e-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dịch bài:\nKính gửi Ông/Bà,\na. Tôi viết thư này để ứng tuyển vào vị trí Trợ lý Tiếp thị tại công ty, như đã quảng cáo trên trang web.\nd. Tôi rất mong được tham gia vào nhóm và góp phần thúc đẩy các sáng kiến tiếp thị của công ty.\nc. Kỹ năng giao tiếp tốt và kinh nghiệm của tôi với các chiến dịch truyền thông xã hội, tôi tin mình phù hợp với vị trí này.\ne. Tôi đã đính kèm sơ yếu lý lịch của mình để ông/bà xem xét.\nb. Cảm ơn đã xem xét đơn ứng tuyển của tôi. Tôi mong có cơ hội thảo luận về cách tôi có thể đóng góp cho nhóm của công ty.\nThứ tự đúng: a → d → c → e → b"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "a. While tasks like cleaning enclosures and preparing food are quite repetitive, the reward of seeing the animals thrive makes it all worthwhile.\nb. My long-standing passion for animal welfare has led me to volunteer at the shelter, where I find immense fulfillment.\nc. Beyond daily care, I assist in coordinating adoption events to help match animals with loving, permanent homes.\nd. Over the past year, I have cherished every opportunity at this place, where I contribute to creating a safe and nurturing environment for each animal.\ne. Altogether, this experience has instilled in me patience, a strong sense of responsibility, and a deeper appreciation for the welfare of animals.",
+          "options": {
+            "A": "a-c-d-b-e",
+            "B": "d-c-a-b-e",
+            "C": "c-d-a-b-e",
+            "D": "b-d-a-c-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dịch bài:\nb. Niềm đam mê đối với quyền lợi động vật đã dẫn tôi đến với công việc tình nguyện tại trạm cứu hộ, nơi tôi cảm thấy rất hạnh phúc.\nd. Trong năm qua, tôi đã trân trọng mọi cơ hội tại nơi này, nơi tôi góp phần tạo nên một môi trường an toàn và chăm sóc cho từng loài động vật.\na. Mặc dù các công việc như dọn dẹp chuồng trại và chuẩn bị thức ăn cứ lặp đi lặp lại, nhưng phần thưởng khi nhìn thấy những con vật phát triển khỏe mạnh là xứng đáng.\nc. Ngoài việc chăm sóc hàng ngày, tôi còn hỗ trợ điều phối, nhận nuôi giúp động vật đến tổ ấm mới.\ne. Nhìn chung, trải nghiệm này đã dạy tôi sự kiên nhẫn, ý thức trách nhiệm mạnh mẽ và sự trân trọng sâu sắc hơn đối với quyền lợi của động vật.\nThứ tự đúng: b → d → a → c → e"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "a. The expansion of agriculture and cattle ranching has destroyed vast areas of forest, leading to significant deforestation.\nb. Home to diverse species, the Amazon rainforest has undergone substantial changes in recent years.\nc. In addition to forest loss, the development of new roads has narrowed wildlife habitats, affecting biodiversity and migration patterns.\nd. This rapid deforestation has not only contributed to habitat destruction but also accelerated carbon emissions, impacting global climate.\ne. Although conservation efforts have increased, the Amazon continues to face threats from illegal logging, mining, and land clearing.",
+          "options": {
+            "A": "b-c-a-e-d",
+            "B": "b-a-d-c-e",
+            "C": "b-e-d-a-c",
+            "D": "b-d-c-a-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dịch bài:\nb. Rừng mưa nhiệt đới Amazon là nơi sinh sống của nhiều loài sinh vật đa dạng, đã trải qua những thay đổi đáng kể trong những năm gần đây.\na. Sự mở rộng của nông nghiệp và chăn nuôi gia súc đã phá hủy nhiều diện tích rừng rộng lớn, dẫn đến nạn phá rừng.\nd. Tình trạng phá rừng nhanh chóng không chỉ góp phần phá hủy môi trường sống mà còn đẩy nhanh quá trình phát thải carbon, tác động đến khí hậu toàn cầu.\nc. Ngoài việc mất rừng, việc phát triển các con đường mới đã thu hẹp môi trường sống của động vật hoang dã, ảnh hưởng đến đa dạng sinh học và sự di cư.\ne. Mặc dù các nỗ lực bảo tồn đã tăng lên, Amazon vẫn tiếp tục phải đối mặt với các mối đe dọa từ nạn khai thác gỗ, khai thác mỏ và khai hoang trái phép.\nThứ tự đúng: b → a → d → c → e"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.570994+00:00",
+  "updatedAt": "2026-06-08T10:41:58.570994+00:00",
+  "originalFileName": "THPT_Dao_Duy_Tu_Thanh_Hoa_Lan2_2025.json"
+}

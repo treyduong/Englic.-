@@ -1,0 +1,626 @@
+{
+  "examId": "so_giao_duc_va_dao_tao_yen_bai_2026_06_06",
+  "title": "10. Sở giáo dục và đào tạo Yên Bái (Mã lẻ) (Tốt nghiệp THPT 2025 môn Tiếng Anh)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file So Yen Bai Ma Le.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#YênBái",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following proposal and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "Preserving Cuc Phuong ecosystem",
+      "passage": "To: Vietnam Wildlife Conservation Committee\nDate: February 25th, 2023\nPrepared by: Vu Hoang Ha\n\nIntroduction\nCuc Phuong is famous for its wonderfully rich ecosystem. (1)_______ the National Park has been threatened by human activities such as illegal hunting, logging and littering. Therefore, we would like to propose some ideas for protecting its ecosystem.\n\nDetails\nWe would like to create an online photo album of the area on the park (2)_______. The photos will show eco-friendly activities such as (3)_______ litter, going on ecotours, planting trees, and activities that can harm the ecosystem in Cuc Phuong, e.g, cutting down trees, or littering in the forest. Anyone interested, especially (4)_______ to Cuc Phuong, will be able to take photos and post them on the website for everyone to see. This initiative will last for at least (5)_______ year.\n\nGoals and benefits\nOur goals are to raise awareness of the need to protect Cuc Phuong ecosystem, and to promote environmentally friendly activities. (6)_______ campaign will also help people identify any activity which can damage the ecosystem and report it when they see it.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Furthermore",
+            "B": "Moreover",
+            "C": "However",
+            "D": "Therefore"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cuc Phuong is famous for its wonderfully rich ecosystem. However, the National Park has been threatened by human activities such as illegal hunting, logging and littering. (Cúc Phương nổi tiếng với hệ sinh thái vô cùng phong phú. Tuy nhiên, Vườn quốc gia này đang bị đe dọa bởi các hoạt động của con người như săn bắt, khai thác gỗ và xả rác trái phép.)\nA. Furthermore (adv): hơn nữa\nB. Moreover (adv): hơn nữa\nC. However (adv): tuy nhiên\nD. Therefore (adv): do đó"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "story",
+            "B": "blog",
+            "C": "website",
+            "D": "network"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nstory (n): câu chuyện\nblog (n): blog (nhật ký web)\nwebsite (n): trang web\nnetwork (n): mạng lưới\nTạm dịch: We would like to create an online photo album of the area on the park website. (Chúng tôi muốn tạo một album ảnh trực tuyến về khu vực này trên trang web của công viên.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "cutting down",
+            "B": "picking up",
+            "C": "throwing away",
+            "D": "putting out"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\ncut down: đốn hạ\npick something up: nhặt cái gì lên\nthrow something away: vứt cái gì\nput something out: dập tắt cái gì (lửa, thuốc lá ...)\nTạm dịch: The photos will show eco-friendly activities such as picking up litter, going on ecotours, planting trees, and activities that can harm the ecosystem in Cuc Phuong, e.g, cutting down trees, or littering in the forest. (Chúng tôi muốn tạo một album ảnh trực tuyến về khu vực này trên trang web của công viên. Các bức ảnh sẽ cho thấy các hoạt động thân thiện với môi trường như nhặt rác, tham gia các tour du lịch sinh thái, trồng cây và các hoạt động có thể gây hại cho hệ sinh thái ở Cúc Phương, ví dụ như chặt cây hoặc xả rác trong rừng.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "tourists",
+            "B": "shoppers",
+            "C": "customers",
+            "D": "consumers"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\ntourist (n): khách du lịch\nshopper (n): người mua sắm\ncustomer (n): khách hàng\nconsumer (n): người tiêu dùng\nTạm dịch: Anyone interested, especially tourists to Cuc Phuong, will be able to take photos and post them on the website for everyone to see. (Bất kỳ ai quan tâm, đặc biệt là khách du lịch đến Cúc Phương, đều có thể chụp ảnh và đăng lên trang web để mọi người cùng xem. Sáng kiến này sẽ kéo dài ít nhất một năm.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "one",
+            "B": "some",
+            "C": "many",
+            "D": "all"
+          },
+          "correctAnswer": "A",
+          "explanation": "Lượng từ:\none + danh từ đếm được số ít: một\nsome + danh từ đếm được số nhiều: một vài\nmany + danh từ đếm được số nhiều: nhiều\nall + danh từ đếm được số nhiều, danh từ không đếm được: tất cả\nSau chỗ cần điền là danh từ đếm được số ít \"year\", ta chọn A.\nTạm dịch: This initiative will last for at least one year. (Sáng kiến này sẽ kéo dài ít nhất một năm.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "A",
+            "B": "The",
+            "C": "An",
+            "D": "No article"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức mạo từ:\nChiến dịch đã được đề cập trong đoạn văn đối tượng đã được xác định, ta sử dụng mạo từ xác định \"the\"\nTạm dịch: The campaign will also help people identify any activity which can damage the ecosystem and report it when they see it. (Chiến dịch này cũng sẽ giúp mọi người xác định bất kỳ hoạt động nào có thể gây hại cho hệ sinh thái và báo cáo khi họ nhìn thấy.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the green energy and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 7 to 16.",
+      "passageTitle": "",
+      "passage": "As we continue to face the impacts of climate change, having a green environment has become increasingly important to the future of our society. To achieve this, the world is shifting towards green energy, and two particular types of energy at the centre of this movement are solar power and wind power.\n(I) Solar power is all about harnessing the energy of the sun by using solar panels to convert sunlight into usable electricity. (II) Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan. (III) However, the ability to generate solar power depends on the time of day and weather conditions. (IV) This means that solar panels are often less useful if they are installed in places where sunny weather is not typical.\nWind power, on the other hand, involves converting the energy of the wind into electricity using large turbines. Wind power doesn't produce any greenhouse gases, but it is not ideal for private use since turbines require consistent care. However, wind farms can be installed on a large scale and are able to produce electricity continuously regardless of the time of day. This means that if there were more investments in wind power, it could be a viable way to provide energy for major cities and even for whole regions.\nWind and solar power contribute significantly to a green environment by reducing our reliance on fossil fuels, helping us cut down on pollution and slow climate change. Additionally, using renewable energy sources helps promote spending on sustainable development by creating new career opportunities in the green energy sector.\nFor now, the biggest challenge of adopting green energy is the costs associated with installation and infrastructure, but the benefits unquestionably outweigh the downsides. If we want to stop the climate crisis and create a better and more sustainable future, green energy sources will undoubtedly be the key.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Where in paragraph 2 does the following sentence best fit?\n\"This highly efficient form of energy produces zero emissions, so it can significantly reduce our carbon footprint.\"",
+          "context": "",
+          "options": {
+            "A": "(IV)",
+            "B": "(II)",
+            "C": "(I)",
+            "D": "(III)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu sau đây phù hợp nhất ở đâu trong đoạn 2\n“Dạng năng lượng hiệu quả cao này không tạo ra khí thải, do đó có thể giảm đáng kể lượng khí thải carbon của chúng ta.\"\nThông tin:\nSolar power is all about harnessing the energy of the sun by using solar panels to convert sunlight into usable electricity. This highly efficient form of energy produces zero emissions, so it can significantly reduce our carbon footprint. (Năng lượng mặt trời là tất cả về việc khai thác năng lượng của mặt trời bằng cách sử dụng các tấm pin mặt trời để chuyển đổi ánh sáng mặt trời thành điện năng có thể sử dụng. Dạng năng lượng hiệu quả cao này không tạo ra khí thải, do đó có thể giảm đáng kể lượng khí thải carbon của chúng ta.)\n→ Sau khi giới thiệu về năng lượng mặt trời, ta đề cập đến đặc điểm của nó.\n→ Chọn đáp án B"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The phrase harnessing the energy in paragraph 2 could best be replaced by",
+          "context": "",
+          "options": {
+            "A": "saving the energy",
+            "B": "containing the energy",
+            "C": "exploiting the power",
+            "D": "storing the power"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ \"harnessing the energy\" trong đoạn 2 có thể được thay thế tốt nhất bằng\nA. tiết kiệm năng lượng\nB. chứa năng lượng\nC. khai thác năng lượng\nD. lưu trữ năng lượng\nharnessing the energy: khai thác năng lượng = exploiting the power"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "The word they in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "energy sources",
+            "B": "solar panels",
+            "C": "weather conditions",
+            "D": "private homes"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ \"they\" trong đoạn 2 đề cập đến\nA. những nguồn năng lượng\nB. những tấm pin mặt trời\nC. những điều kiện thời tiết\nD. những nhà riêng\nThông tin:\nThis means that solar panels are often less useful if they are installed in places where sunny weather is not typical. (Điều này có nghĩa là các tấm pin mặt trời thường ít hữu ích hơn nếu chúng được lắp đặt ở những nơi không có thời tiết nắng đẹp.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "According to paragraph 2, which of the following is NOT a benefit of solar power?",
+          "context": "",
+          "options": {
+            "A": "Ability to generate power at all times",
+            "B": "Suitability for small-scale installations",
+            "C": "Long lifespan",
+            "D": "Low maintenance requirements"
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn 2, lợi ích nào sau đây không phải là lợi ích của năng lượng mặt trời?\nA. Khả năng tạo ra điện mọi lúc\nB. Phù hợp để lắp đặt ở quy mô nhỏ\nC. Tuổi thọ cao\nD. Yêu cầu bảo trì thấp\nThông tin:\n+ Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan. (Hơn nữa, các tấm pin mặt trời hoàn hảo để lắp đặt ở quy mô nhỏ, chẳng hạn như trong nhà riêng, vì chúng cần rất ít bảo trì và có tuổi thọ cao.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Wind power is eco-friendly but unsuitable for private use due to turbine maintenance needs.",
+            "B": "Wind power produces greenhouse gases and cannot supply cities on a large scale.",
+            "C": "Wind power requires private turbines to supply electricity continuously for cities and regions.",
+            "D": "Large wind farms could sustainably power entire cities with investment in wind technology."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất đoạn 3?\nA. Điện gió thân thiện với môi trường nhưng không phù hợp để sử dụng riêng do nhu cầu bảo dưỡng tua bin.\nB. Điện gió tạo ra khí nhà kính và không thể cung cấp cho các thành phố trên quy mô lớn.\nC. Điện gió đòi hỏi các tua bin riêng để cung cấp điện liên tục cho các thành phố và khu vực.\nD. Các trang trại gió lớn có thể cung cấp điện bền vững cho toàn bộ các thành phố bằng cách đầu tư vào công nghệ gió.\nTóm tắt:\nĐoạn 3 thảo luận về tiềm năng của năng lượng gió, nhấn mạnh rằng các trang trại gió có thể được lắp đặt trên quy mô lớn để cung cấp điện liên tục, trở thành giải pháp bền vững cho các thành phố và khu vực rộng lớn nếu được đầu tư đầy đủ."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "The word continuously in paragraph 3 is CLOSEST in meaning to",
+          "context": "",
+          "options": {
+            "A": "regularly",
+            "B": "endlessly",
+            "C": "periodically",
+            "D": "briefly"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ \"continuously ở đoạn 3 gần nghĩa nhất với\nA. regularly (adv): thường xuyên\nB. endlessly (adv): vô tận\nC. periodically (adv): định kỳ\nD. briefly (adv): một cách ngắn gọn\nKiến thức từ vựng:\ncontinuously (adv): liên tục = endlessly"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "The word reducing in paragraph 4 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "minimizing",
+            "B": "limiting",
+            "C": "increasing",
+            "D": "decreasing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ “reducing ở đoạn 4 trái nghĩa với từ\nA. minimize (v): giảm thiểu\nB. limit (v): giới hạn\nC. increase (v): tăng\nD. decrease (v): giảm\nKiến thức từ vựng:\nreduce (v): giảm >< increase"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Solar power can be generated at any time of day or night.",
+            "B": "Solar energy cannot be used in homes because of high maintenance costs.",
+            "C": "Solar and wind energy reduce our reliance on fossil fuels.",
+            "D": "Wind power is suitable for private homes due to its low maintenance needs."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây đúng theo đoạn văn?\nA. Năng lượng mặt trời có thể được tạo ra bất cứ lúc nào trong ngày hoặc đêm.\nB. Năng lượng mặt trời không thể được sử dụng trong nhà vì chi phí bảo trì cao.\nC. Năng lượng mặt trời và gió làm giảm sự phụ thuộc của chúng ta vào nhiên liệu hóa thạch.\nD. Năng lượng gió phù hợp cho nhà riêng vì nhu cầu bảo trì thấp.\nThông tin:\n+ However, the ability to generate solar power depends on the time of day and weather conditions. (Tuy nhiên, khả năng tạo ra năng lượng mặt trời phụ thuộc vào thời điểm trong ngày và điều kiện thời tiết.) → A sai\n+ Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan. (Hơn nữa, các tấm pin mặt trời hoàn hảo để lắp đặt ở quy mô nhỏ, chẳng hạn như trong nhà riêng, vì chúng cần rất ít bảo trì và có tuổi thọ cao.) → B sai\n+ Wind power doesn't produce any greenhouse gases, but it is not ideal for private use since turbines require consistent care. (Năng lượng gió không tạo ra bất kỳ khí nhà kính nào, nhưng không lý tưởng để sử dụng cho mục đích cá nhân vì tua bin cần được bảo dưỡng thường xuyên.) → D sai\n+ Wind and solar power contribute significantly to a green environment by reducing our reliance on fossil fuels, helping us cut down on pollution and slow climate change. (Năng lượng gió và mặt trời đóng góp đáng kể vào môi trường xanh bằng cách giảm sự phụ thuộc của chúng ta vào nhiên liệu hóa thạch, giúp chúng ta cắt giảm ô nhiễm và làm chậm quá trình biến đổi khí hậu.) → C đúng"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?\n\"...but the benefits unquestionably outweigh the downsides.\"",
+          "context": "",
+          "options": {
+            "A": "Green energy offers very few benefits compared to its disadvantages.",
+            "B": "The drawbacks are too significant to make green energy worthwhile.",
+            "C": "Although green energy has some disadvantages, the positives far exceed them.",
+            "D": "The disadvantages of green energy will always outbalance the benefits."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây diễn giải lại câu gạch chân trong đoạn 5 một cách đúng nhất?\nA. Năng lượng xanh mang lại rất ít lợi ích so với những bất lợi của nó.\nB. Những bất lợi quá lớn để khiến năng lượng xanh trở nên đáng giá.\nC. Mặc dù năng lượng xanh có một số bất lợi, nhưng những mặt tích cực thì vượt xa chúng.\nD. Những bất lợi của năng lượng xanh sẽ luôn vượt trội hơn những lợi ích.\nThông tin:\n...but the benefits unquestionably outweigh the downsides. (...nhưng lợi ích chắc chắn lớn hơn nhiều so với nhược điểm.)"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Solar and wind power reduce electricity costs and work best when installed together in every region.",
+            "B": "Solar and wind power have limited potential due to installation costs and inconsistent energygeneration.",
+            "C": "Wind power is a more efficient renewable energy source than solar power due to its continuous electricity production.",
+            "D": "Solar and wind power are green energy sources with distinct features and essential roles in fighting climate change."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất đoạn văn?\nA. Điện mặt trời và điện gió giúp giảm chi phí điện và hoạt động tốt nhất khi được lắp đặt cùng nhau ở mọi khu vực.\nB. Năng lượng mặt trời và năng lượng gió có tiềm năng hạn chế do chi phí lắp đặt và sản xuất năng lượng không đồng đều.\nC. Năng lượng gió là nguồn năng lượng tái tạo hiệu quả hơn năng lượng mặt trời do sản xuất điện liên tục.\nD. Năng lượng mặt trời và năng lượng gió là nguồn năng lượng xanh có các đặc điểm riêng biệt và vai trò thiết yếu trong cuộc chiến chống biến đổi khí hậu.\nTóm tắt:\nĐoạn văn thảo luận về tầm quan trọng của năng lượng xanh trong việc giảm thiểu biến đổi khí hậu, tập trung vào hai nguồn năng lượng chính là năng lượng mặt trời và năng lượng gió, đồng thời phân tích những đặc điểm, lợi ích và thách thức riêng của từng loại năng lượng.\n=> Năng lượng mặt trời và năng lượng gió là nguồn năng lượng xanh có các đặc điểm riêng biệt và vai trò thiết yếu trong cuộc chiến chống biến đổi khí hậu."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about fast fashion and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 17 to 24.",
+      "passageTitle": "",
+      "passage": "The phrase fast fashion describes the trendiest clothes available at the lowest prices. The prices are low because the stores want their customers to return very soon maybe even the next week to buy more of the newest fashions. Some of these fast fashion stores display new clothes weekly or even twice a week!\nIn the traditional fashion industry, new styles come out four times a year. This schedule follows the four seasons: spring, summer, fall, and winter. In the fast fashion industry, a new \"season\" happens every month or so. Fast fashion makes a lot of money because there are more selling seasons within one year.\nOne important reason why fast fashion is less expensive than traditional fashion is that the quality is worse. A trendy shirt from a fast fashion store doesn't need to last for years because it won't be stylish next season. Trendy clothes usually won't last because the materials used to make them are cheap and not as good quality. For example, in a fast fashion store, you are more likely to find a sweater made of acrylic, a synthetic material, than wool.\nSome people think fast fashion is good because it means they can buy stylish clothes at low prices. Others disagree. They think that fast fashion creates a lot of waste. Since the early 2000s, when the fast fashion trend started, the production of clothes has doubled. Now people are buying more clothes, and are wearing them for shorter amounts of time.\nFinally, clothing manufacturing can be bad for the environment. Producing many materials, even natural ones such as cotton, requires huge amounts of water. Making synthetic materials can involve oil and other chemicals. And dyes used to color clothes are also a source of pollution.",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "The word trendiest in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "stylish",
+            "B": "popular",
+            "C": "fashionable",
+            "D": "out-of-date"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ \"trendiest\" ở đoạn 1 trái nghĩa với từ\nA. stylish (adj): sành điệu\nB. popular (adj): nổi tiếng, phổ biến\nC. fashionable (adj): thời thượng\nD. out-of-date (adj): lỗi thời\nKiến thức từ vựng:\ntrendy (adj): thời trang >< out-of-date"
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following is NOT mentioned as a characteristic of fast fashion?",
+          "context": "",
+          "options": {
+            "A": "Stores release new styles often",
+            "B": "Clothing is made to last long",
+            "C": "Clothes are sold at low prices",
+            "D": "The industry creates a lot of waste"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây không được đề cập đến như một đặc điểm của thời trang nhanh?\nA. Các cửa hàng thường xuyên tung ra những kiểu dáng mới\nB. Quần áo được sản xuất để sử dụng lâu dài\nC. Quần áo được bán với giá thấp\nD. Ngành công nghiệp này tạo ra rất nhiều chất thải\nThông tin:\n+ Some of these fast fashion stores display new clothes weekly or even twice a week! (Một số cửa hàng thời trang nhanh này trưng bày quần áo mới hàng tuần hoặc thậm chí là hai lần một tuần!) → A đúng\n+ The prices are low because the stores want their customers to return very soon maybe even the next week to buy more of the newest fashions. (Giá thấp vì các cửa hàng muốn khách hàng quay lại rất sớm - thậm chí có thể là tuần sau để mua thêm những bộ thời trang mới nhất.) → C đúng\n+ They think that fast fashion creates a lot of waste. (Họ cho rằng thời trang nhanh tạo ra rất nhiều chất thải.) → D đúng\n+ One important reason why fast fashion is less expensive than traditional fashion is that the quality is worse. A trendy shirt from a fast fashion store doesn't need to last for years because it won't be stylish next season. (Một lý do quan trọng khiến thời trang nhanh rẻ hơn thời trang truyền thống là chất lượng kém hơn. Một chiếc áo sơ mi hợp thời trang từ một cửa hàng thời trang nhanh không cần phải mặc trong nhiều năm vì nó sẽ không hợp thời trang vào mùa tiếp theo.) → B sai"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word synthetic in paragraph 3 could best be replaced by",
+          "context": "",
+          "options": {
+            "A": "cheap",
+            "B": "fake",
+            "C": "natural",
+            "D": "artificial"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ \"synthetic\" ở đoạn 3 trái nghĩa với từ\nA. cheap (adj): rẻ\nB. fake (adj): giả\nC. natural (adj): tự nhiên\nD. artificial (adj): nhân tạo\nKiến thức từ vựng:\nsynthetic (adj): tổng hợp = artificial"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?\n\"They think that fast fashion creates a lot of waste.\"",
+          "context": "",
+          "options": {
+            "A": "Fast fashion critics believe it reduces the amount of clothing waste.",
+            "B": "People argue that fast fashion has increased the amount of clothing waste.",
+            "C": "Some people believe fast fashion helps reduce unnecessary waste.",
+            "D": "Fast fashion supporters claim it doesn't lead to more waste production."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải lại câu gạch chân trong đoạn 4 một cách đúng nhất?\nA. Những người chỉ trích thời trang nhanh tin rằng nó làm giảm lượng quần áo thải ra\nB. Mọi người cho rằng thời trang nhanh đã làm tăng lượng rác thải quần áo.\nC. Một số người tin rằng thời trang nhanh giúp giảm lượng quần áo thải ra không cần thiết.\nD. Những người ủng hộ thời trang nhanh cho rằng nó không dẫn đến sự sản sinh nhiều rác thải hơn.\nThông tin:\nThey think that fast fashion creates a lot of waste. (Họ cho rằng thời trang nhanh tạo ra rất nhiều chất thải.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "The word ones in paragraph 5 refers to",
+          "context": "",
+          "options": {
+            "A": "amounts",
+            "B": "clothes",
+            "C": "materials",
+            "D": "chemicals"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ \"ones\" trong đoạn 5 đề cập đến\nA. số lượng\nB. quần áo\nC. những chất liệu\nD. những hóa chất\nThông tin:\nProducing many materials, even natural ones such as cotton, requires huge amounts of water. (Sản xuất nhiều loại chất liệu, ngay cả những loại tự nhiên như cotton, đòi hỏi một lượng nước rất lớn.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Traditional fashion releases styles every month.",
+            "B": "Acrylic sweaters are common in fast fashion stores.",
+            "C": "Cotton production does not require much water.",
+            "D": "Fast fashion clothes are designed to last for years."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây đúng theo đoạn văn?\nA. Thời trang truyền thống tung ra các kiểu dáng mới mỗi tháng.\nB. Áo len vải acrylic phổ biến ở các cửa hàng thời trang nhanh.\nC. Sản xuất bông không cần nhiều nước.\nD. Quần áo thời trang nhanh được thiết đề để sử dụng trong nhiều năm.\nThông tin:\n+ In the traditional fashion industry, new styles come out four times a year. (Trong ngành thời trang truyền thống, các kiểu dáng mới ra mắt bốn lần một năm.) → A sai\n+ Producing many materials, even natural ones such as cotton, requires huge amounts of water. (Sản xuất nhiều loại vật liệu, ngay cả những loại tự nhiên như cotton, đòi hỏi một lượng nước rất lớn.) → C sai\n+ A trendy shirt from a fast fashion store doesn't need to last for years because it won't be stylish next season. (Một chiếc áo sơ mi hợp thời trang từ một cửa hàng thời trang nhanh không cần phải mặc trong nhiều năm vì nó sẽ không hợp thời trang vào mùa tiếp theo.) → D sai\n+ For example, in a fast fashion store, you are more likely to find a sweater made of acrylic, a synthetic material, than wool. (Ví dụ, trong một cửa hàng thời trang nhanh, bạn có nhiều khả năng tìm thấy một chiếc áo len làm bằng acrylic, một chất liệu tổng hợp, hơn là len.) → B đúng"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "In which paragraph does the writer mention the environmental impact of clothing manufacturing?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 5",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong đoạn văn nào tác giả đề cập đến tác động môi trường của sản xuất quần áo?\nA. Đoạn 4\nB. Đoạn 1\nC. Đoạn 5\nD. Đoạn 2\nThông tin:\nFinally, clothing manufacturing can be bad for the environment. Producing many materials, even natural ones such as cotton, requires huge amounts of water. Making synthetic materials can involve oil and other chemicals. And dyes used to color clothes are also a source of pollution. (Cuối cùng, sản xuất quần áo có thể gây hại cho môi trường. Sản xuất nhiều loại vật liệu, ngay cả những loại tự nhiên như cotton, đòi hỏi một lượng nước rất lớn. Sản xuất vật liệu tổng hợp có thể liên quan đến dầu và các hóa chất khác. Và thuốc nhuộm dùng để nhuộm quần áo cũng là một nguồn gây ô nhiễm.)"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "In which paragraph does the writer mention the increase in clothing production since the start of fast fashion?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 5",
+            "C": "Paragraph 3",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trong đoạn văn nào tác giả đề cập đến sự gia tăng sản lượng quần áo kể từ khi thời trang nhanh bắt đầu?\nA. Đoạn 4\nB. Đoạn 5\nC. Đoạn 3\nD. Đoạn 1\nThông tin:\nSince the early 2000s, when the fast fashion trend started, the production of clothes has doubled. Now people are buying more clothes, and are wearing them for shorter amounts of time. (Kể từ đầu những năm 2000, khi xu hướng thời trang nhanh bắt đầu, sản lượng quần áo đã tăng gấp đôi. Bây giờ mọi người mua nhiều quần áo hơn và mặc chúng trong thời gian ngắn hơn.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about crime prediction technology and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 25 to 29.",
+      "passageTitle": "",
+      "passage": "Police forces have always used technology to help them combat crime, but as collecting data and storing it becomes much easier, more and more police forces (25)_______ and therefore to predict crime before it happens.\nCrime prevention software called PredPol helps the police predict where crimes are likely to occur. (26)_______ It predicts where and when crime is most likely to occur in the future. Police officers receive this information on the computers in their cars and they then spend more time in these areas. As a result, the increased police presence in these neighbourhoods has cut crime significantly.\nCrime figures for one area of Los Angeles, USA, were reduced by 12% in 2011 when police officers used crime prediction software. (27)_______ As well as software that predicts crime, companies are also developing technology that will help police patrols catch criminals before they can leave town. By combining information such as the places where crimes frequently take place with the routes that allow the fastest escape, (28)_______\nHowever, although the makers of this technology claim it will help reduce crime rates, some people are not so sure. Not all crime is reported. If the police just focus on the neighbourhoods (29)_______ they will neglect others.",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "are using it to improve crime prevention",
+            "B": "that use it as a method to prevent crime",
+            "C": "on whom it depends for decreased crime rate",
+            "D": "having utilised it to stop criminal activities"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu có chủ ngữ \"more and more police forces\"→ chỗ trống cần vị ngữ\nTạm dịch: Police forces have always used technology to help them combat crime, but as collecting data and storing it becomes much easier, more and more police forces are using it to improve crime prevention and therefore to predict crime before it happens. (Lực lượng cảnh sát luôn sử dụng công nghệ để giúp họ chống lại tội phạm, nhưng khi việc thu thập và lưu trữ dữ liệu trở nên dễ dàng hơn nhiều, ngày càng nhiều lực lượng cảnh sát sử dụng công nghệ để cải thiện công tác phòng ngừa tội phạm và do đó dự đoán tội phạm trước khi nó xảy ra.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The analysis of the software helps locate the committed crimes as well as time and data",
+            "B": "Analysing years of data on the location, the software can determine time and nature of crimes",
+            "C": "Location, time and crimes committed are included in the software with years of data",
+            "D": "The software analyses years of data on the location, time and nature of crimes committed"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Việc phân tích phần mềm giúp xác định vị trí các tội phạm đã phạm cũng như thời gian và dữ liệu\nB. Việc phân tích nhiều năm dữ liệu về địa điểm, phần mềm có thể xác định thời gian và bản chất của tội phạm\nC. Địa điểm, thời gian và tội đã phạm phải được bao gồm trong phần mềm với dữ liệu nhiều năm\nD. Phần mềm phân tích nhiều năm dữ liệu về địa điểm, thời gian và bản chất của các vụ phạm tội\n→ Đúng vì bổ sung thêm thông tin về \"Crime prevention software called PredPol được nhắc đến ở câu trước\nTạm dịch:\nCrime prevention software called PredPol helps the police predict where crimes are likely to occur. The software analyses years of data on the location, time and nature of crimes committed. It predicts where and when crime is most likely to occur in the future. (Phần mềm phòng ngừa tội phạm có tên là PredPol giúp cảnh sát dự đoán nơi có khả năng xảy ra tội phạm. Phần mềm này phân tích dữ liệu nhiều năm về địa điểm, thời gian và bản chất của các vụ phạm tội. Nó dự đoán nơi và thời điểm tội phạm có khả năng xảy ra nhất trong tương lai.)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The following year, Manchester had 26% of burglaries, \"with\" similar methods applied in the UK",
+            "B": "In the previous year, Manchester, UK, adopted the same methods to predict 26% of burglars",
+            "C": "The year after, 26% of similar methods were employed for burglaries in Manchester, UK",
+            "D": "In the same year, burglaries were cut by 26% in Manchester, UK, using the same methods"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Năm sau, Manchester có 26% vụ trộm cắp, “với các phương pháp tương tự được áp dụng ở Vương quốc Anh\nB. Năm trước, Manchester, Vương quốc Anh, đã áp dụng các phương pháp tương tự để dự đoán 26% vụ trộm cắp\nC. Năm sau, 26% các phương pháp tương tự đã được sử dụng cho các vụ trộm cắp ở Manchester, Vương quốc Anh\nD. Trong cùng năm đó, các vụ trộm cắp đã giảm 26% ở Manchester, Vương quốc Anh, sử dụng các phương pháp tương tự\nTạm dịch:\nCrime figures for one area of Los Angeles, USA, were reduced by 12% in 2011 when police officers used crime prediction software. In the same year, burglaries were cut by 26% in Manchester, UK, using the same methods. (Số liệu tội phạm tại một khu vực của Los Angeles, Hoa Kỳ, đã giảm 12% vào năm 2011 khi cảnh sát sử dụng phần mềm dự đoán tội phạm. Cùng năm đó, các vụ trộm cắp đã giảm 26% ở Manchester, Vương quốc Anh, bằng cách sử dụng các phương pháp tương tự.)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "computers will direct patrols to where they can arrest criminals",
+            "B": "patrols will connect computers to where criminals can be found",
+            "C": "criminals will be arrested using computers controlled by patrols",
+            "D": "directions from computers will be of great help to arresting patrols"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. máy tính sẽ chỉ đạo đội tuần tra đến nơi họ có thể bắt giữ tội phạm Đúng cho cùng chủ ngữ với mệnh đề trạng ngữ rút gọn\nB. đội tuần tra sẽ kết nối máy tính đến nơi có thể tìm thấy tội phạm\nC. tội phạm sẽ bị bắt giữ bằng máy tính do đội tuần tra kiểm soát\nD. chỉ dẫn từ máy tính sẽ giúp ích rất nhiều cho việc bắt giữ đội tuần tra\nTạm dịch:\nBy combining information such as the places where crimes frequently take place with the routes that allow the fastest escape, computers will direct patrols to where they can arrest criminals. (Bằng cách kết hợp thông tin như địa điểm thường xảy ra tội phạm với các tuyến đường cho phép thoát thân nhanh nhất, máy tính sẽ chỉ đạo các đội tuần tra đến nơi họ có thể bắt giữ tội phạm.)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "fights a rise in crime",
+            "B": "by which crime involves",
+            "C": "where most crime occurs",
+            "D": "have crime everywhere"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trạng từ quan hệ:\nTa dùng trạng từ quan hệ where để thay cho cụm trạng ngữ chỉ nơi chốn 'the neighbourhoods\". Cấu trúc: N + where + S + V\nTạm dịch:\nIf the police just focus on the neighbourhoods where most crime occurs, they will neglect others. (Nếu cảnh sát chỉ tập trung vào các khu phố nơi xảy ra nhiều tội phạm nhất, họ sẽ bỏ bê những khu vực khác.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 30 to 35.",
+      "passageTitle": "",
+      "passage": "HOME a film by Yann Arthus-Bertrand\nHome (2009) is a 90-minute documentary about human threats to the Earth's ecological balance. It is made up of aerial shots of various places across the globe. Aiming (30)_______ people's awareness of the alarming environmental destruction, this French movie shows human huge impacts on the Earth and the consequences of climate change. Viewers (31)_______ the documentary particularly enjoy the footage of human origins, the Earth's water cycle, population growth, the melted Arctic ice cap and the coral reef.\nThe film was completed in eighteen months and the film crew did their filming of 488-hour raw footage by flying in a helicopter over (32)_______ regions in more than fifty countries. At a press conference in Paris on March 9, 2009, its director, Yann Arthus-Bertrand, (33)_______ that its released versions would include theatre, television, DVD and the internet. About two months later, the film's worldwide (34)_______ date was confirmed to be June 5, 2009. Despite its availability in various forms, Home (2009) had its world festival premiere at the Dawn Breakers (35)_______ in 2012.",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to raise",
+            "B": "raise",
+            "C": "to raising",
+            "D": "raising"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dạng động từ:\naim to do something: hướng mục tiêu làm gì\nTạm dịch: Aiming to raise people's awareness of the alarming environmental destruction, this French movie shows human huge impacts on the Earth and the consequences of climate change. (Với mục đích nâng cao nhận thức của mọi người về sự tàn phá môi trường đáng báo động, bộ phim Pháp này cho thấy tác động to lớn của con người lên Trái đất và hậu quả của biến đổi khí hậu.)"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "at",
+            "B": "of",
+            "C": "to",
+            "D": "for"
+          },
+          "correctAnswer": "B",
+          "explanation": "Giới từ:\nviewers of something: người xem cái gì\nTạm dịch: Viewers of the documentary particularly enjoy the footage of human origins, the Earth's water cycle, population growth, the melted Arctic ice cap and the coral reef. (Người xem bộ phim tài liệu này đặc biệt thích các cảnh quay về nguồn gốc của con người, chu trình nước của Trái đất, sự gia tăng dân số, băng tan ở Bắc Cực và rạn san hô.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "variously",
+            "B": "variety",
+            "C": "vary",
+            "D": "various"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\n- variety (n): sự đa dạng\n- vary (v): thay đổi\n- various (adj): nhiều cái khác nhau\nChỗ trống đứng trước danh từ (regions) → cần tính từ.\nTạm dịch: The film was completed in eighteen months and the film crew did their filming of 488-hour raw footage by flying in a helicopter over various regions in more than fifty countries. (Bộ phim được hoàn thành trong mười tám tháng và đoàn làm phim đã quay cảnh quay thô dài 488 giờ bằng cách bay trực thăng qua nhiều khu vực khác nhau ở hơn năm mươi quốc gia.)"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was announced",
+            "B": "announced",
+            "C": "announcing",
+            "D": "which announced"
+          },
+          "correctAnswer": "B",
+          "explanation": "Chia thì:\n\"on March 9, 2009\" dấu hiệu nhận biết thì quá khứ đơn\nTạm dịch: At a press conference in Paris on March 9, 2009, its director, Yann Arthus-Bertrand, announced that its released versions would include theatre, television, DVD and the internet. (Tại một cuộc họp báo ở Paris vào ngày 9 tháng 3 năm 2009, đạo diễn của bộ phim, Yann Arthus-Bertrand, đã thông báo rằng các phiên bản phát hành của bộ phim sẽ bao gồm rạp chiếu phim, truyền hình, DVD và internet.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "debut",
+            "B": "print",
+            "C": "report",
+            "D": "release"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\n- debut (n): màn ra mắt\n- print (n): bản in\n- report (n): báo cáo\n- release (n): sự phát hành\nTạm dịch: About two months later, the film's worldwide release date was confirmed to be June 5, 2009. (Khoảng hai tháng sau, ngày phát hành toàn cầu của bộ phim được xác nhận là ngày 5 tháng 6 năm 2009.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Film International Festival",
+            "B": "International Festival Film",
+            "C": "International Film Festival",
+            "D": "Festival International Film"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự của từ:\nỞ đây \"festival\" là danh từ chính, \"film là danh từ phụ bổ nghĩa cho danh từ chính Đứng trước cụm danh từ \"film festival\" là tính từ \"international\".\nTạm dịch: Despite its availability in various forms, Home (2009) had its world festival premiere at the Dawn Breakers International Film Festival in 2012. (Mặc dù có nhiều phiên bản khác nhau, Home (2009) đã có buổi ra mắt tại Liên hoan phim quốc tế Dawn Breakers năm 2012.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 36 to 40.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "1. Lisa: Hey, Sam. How's it going?\n2. Lisa: I'm fine. Hey, what's that?\n3. Sam: Hi, Lisa. I'm great. How are you doing?",
+          "options": {
+            "A": "1-3-2",
+            "B": "2-3-1",
+            "C": "3-2-1",
+            "D": "3-1-2"
+          },
+          "correctAnswer": "A",
+          "explanation": "DỊCH BÀI:\nLisa: Hey, Sam. How's it going? (Chào, Sam. Dạo này bạn thế nào?)\nSam: Hi, Lisa. I'm great. How are you doing? (Chào, Lisa. Mình ổn. Bạn thế nào?)\nLisa: I'm fine. Hey, what's that? (Mình ổn. Này, cái gì thế?)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "1. Lan's mother: Oh, I'm afraid not. You must come back home before 10 p.m.\n2. Lan's mother: Certainly. Whose birthday is it?\n3. Lan: Mum, can I go to my friend's birthday party this Saturday evening?\n4. Lan: OK, Mum. I'll be home before 10 p.m. then\n5. Lan: It's Mai's birthday, Mum. Is it OK if I stay the night at her house after the party?",
+          "options": {
+            "A": "4-5-1-2-3",
+            "B": "4-2-1-5-3",
+            "C": "3-5-4-2-1",
+            "D": "3-2-5-1-4"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nLan: Mum, can I go to my friend's birthday party this Saturday evening? (Mẹ ơi, con có thể đi dự tiệc sinh nhật của bạn con vào tối thứ bảy này không?)\nLan's mother: Certainly. Whose birthday is it? (Được chứ. Sinh nhật của ai vậy?)\nLan: It's Mai's birthday, Mum. Is it OK if I stay the night at her house after the party? (Dạ là sinh nhật của Mai, mẹ ạ. Con có thể ở lại nhà bạn ấy qua đêm sau bữa tiệc không?)\nLan's mother: Oh, I'm afraid not. You must come back home before 10 p.m. (Ôi, mẹ e là không được. Con phải về nhà trước 10 giờ tối.)\nLan: OK, Mum. I'll be home before 10 p.m. then. (Vâng, mẹ. Vậy thì con sẽ về nhà trước 10 giờ tối.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "Dear Sir or Madam,\n1. I am interested in your community development projects because I really care about the life of people in the community and want to offer my services to you.\n2. I am writing to apply for a volunteer position at the local centre for community development.\n3. I am available for an interview on any weekdays after 4.30 p.m or at weekends. I look forward to hearing from you.\n4. I have already filled in the online application form and sent it in as requested.\n5. I heard about this opportunity in a public announcement last Monday.\nYours faithfully,\nNguyen Ha Vi",
+          "options": {
+            "A": "1-3-4-2-5",
+            "B": "1-4-2-3-5",
+            "C": "4-2-1-3-5",
+            "D": "2-5-1-4-3"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dear Sir or Madam,\nI am writing to apply for a volunteer position at the local centre for community development. I heard about this opportunity in a public announcement last Monday. I am interested in your community development projects because I really care about the life of people in the community and want to offer my services to you. I have already filled in the online application form and sent it in as requested. I am available for an interview on any weekdays after 4.30 p.m or at weekends. I look forward to hearing from you.\nYours faithfully,\nNguyen Ha Vi\n(Kính gửi Ông/Bà,\nTôi viết thư này để ứng tuyển vào vị trí tình nguyện tại trung tâm phát triển cộng đồng địa phương. Tôi đã nghe về cơ hội này trong một thông báo công khai vào thứ Hai tuần trước. Tôi quan tâm đến các dự án phát triển cộng đồng của ông bà vì tôi thực sự quan tâm đến cuộc sống của mọi người trong cộng đồng và muốn giúp đỡ cho ông/bà. Tôi đã điền vào mẫu đơn trực tuyến và gửi theo yêu cầu. Tôi có thể phỏng vấn vào bất kỳ ngày nào trong tuần sau 4:30 chiều hoặc vào những ngày cuối tuần. Tôi mong nhận được hồi âm từ ông/bà. Trân trọng, Nguyễn Hà Vi)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "1. All in all, I believe that working mothers help with the family finances and are good examples for their children.\n2. Firstly, mothers who go to work can provide an extra income for their families. With children, families need more money to pay for their education and everyday needs.\n3. That means a working mother can contribute to the household finances and help the family afford more.\n4. I feel that mothers should be able to work if they want to.\n5. Secondly, working mothers are good role models. They show their children that if they work hard, they can have both a family and a career.",
+          "options": {
+            "A": "4-2-3-5-1",
+            "B": "3-1-4-2-5",
+            "C": "2-3-4-1-5",
+            "D": "1-2-3-4-5"
+          },
+          "correctAnswer": "A",
+          "explanation": "I feel that mothers should be able to work if they want to. Firstly, mothers who go to work can provide an extra income for their families. With children, families need more money to pay for their education and everyday needs. That means a working mother can contribute to the household finances and help the family afford more. Secondly, working mothers are good role models. They show their children that if they work hard, they can have both a family and a career. All in all, I believe that working mothers help with the family finances and are good examples for their children.\n(Tôi cảm thấy rằng các bà mẹ nên có thể làm việc nếu họ muốn. Đầu tiên, những bà mẹ đi làm có thể cung cấp thêm thu nhập cho gia đình họ. Với những đứa trẻ, các gia đình cần nhiều tiền hơn để chi trả cho việc học hành và các nhu cầu hàng ngày của chúng. Điều đó có nghĩa là một bà mẹ đi làm có thể đóng góp vào tài chính gia đình và giúp gia đình có đủ khả năng chi trả nhiều hơn. Thứ hai, những bà mẹ đi làm là những tấm gương tốt. Họ cho con cái thấy rằng nếu họ làm việc chăm chỉ, họ có thể có cả gia đình và sự nghiệp. Nhìn chung, tôi tin rằng những bà mẹ đi làm giúp đỡ tài chính gia đình và là tấm gương tốt cho con cái của họ.)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "1. The good news is that biomass fuel is carbon neutral because it only releases the same amount of carbon into the atmosphere as the plants, the source of biomass fuel, absorb in their life cycle.\n2. The biomass is dried and then burnt as biomass fuel to create heat or generate electricity.\n3. Biomass fuel is easy to store for use when we need it.\n4. Biomass is material that comes from trees, recycled paper, animal waste, food waste and some crops, such as corn, soy and sugar cane.\n5. However, burning biomass produces carbon dioxide, a greenhouse gas, so it is not completely environmentally friendly.",
+          "options": {
+            "A": "4-2-3-5-1",
+            "B": "4-5-2-3-1",
+            "C": "4-5-1-2-3",
+            "D": "4-3-1-2-5"
+          },
+          "correctAnswer": "A",
+          "explanation": "Biomass is material that comes from trees, recycled paper, animal waste, food waste and some crops, such as corn, soy and sugar cane. The biomass is dried and then burnt as biomass fuel to create heat or generate electricity. Biomass fuel is easy to store for use when we need it. However, burning biomass produces carbon dioxide, a greenhouse gas, so it is not completely environmentally friendly. The good news is that biomass fuel is carbon neutral because it only releases the same amount of carbon into the atmosphere as the plants, the source of biomass fuel, absorb in their life cycle.\n(Sinh khối là vật liệu có nguồn gốc từ cây cối, giấy tái chế, chất thải động vật, chất thải thực phẩm và một số loại cây trồng như ngô, đậu nành và mía. Sinh khối được sấy khô và sau đó đốt cháy như nhiên liệu sinh khối để tạo ra nhiệt hoặc tạo ra điện. Nhiên liệu sinh khối dễ dàng lưu trữ để sử dụng khi chúng ta cần. Tuy nhiên, đốt sinh khối tạo ra cacbon dioxit, một loại khí nhà kính, vì vậy nó không hoàn toàn thân thiện với môi trường. Tin tốt là nhiên liệu sinh khối trung hòa carbon vì nó chỉ thải ra khí quyển cùng một lượng carbon mà thực vật, nguồn nhiên liệu sinh khối, hấp thụ trong vòng đời của chúng.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.519362+00:00",
+  "updatedAt": "2026-06-08T10:41:58.519362+00:00",
+  "originalFileName": "So Yen Bai Ma Le.json"
+}

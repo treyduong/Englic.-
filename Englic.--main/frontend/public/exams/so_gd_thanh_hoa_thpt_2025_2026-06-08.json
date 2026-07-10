@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_thanh_hoa_thpt_2025_2026-06-08",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở Giáo Dục và Đào Tạo Thanh Hóa",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file So_GD_Thanh_Hoa_THPT_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ThanhHoa",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "DISCOVER THE STUNNING BEAUTY OF MOC CHAU, SON LA!",
+      "passage": "Looking for a (1)________ destination to escape from the busy city life? Moc Chau, (2)______ in Son La province, is a paradise for nature lovers!\n\nFrom December to February, the hills are covered in stunning (3)________, creating a dreamy landscape. (4)________ autumn, golden persimmons hang from the trees, making the scenery even more magical. Visit Pa Phach Village, Na Ka Valley, and Heart Tea Hill, where you can immerse yourself in the peaceful countryside and (5)________ unforgettable photos.\n\nBesides enjoying the scenery, don't forget to taste the local specialties and experience the warm hospitality of the Thai and H'Mong ethnic groups. Whether you enjoy (6)_________ nature or relaxing in a peaceful place, Moc Chau has something special for everyone!\n\nBook your trip now and let Moc Chau surprise you!\n\n(Adapted from Vietnam Tourism)",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "fascinated",
+            "B": "fascinating",
+            "C": "fascination",
+            "D": "fascinate"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ loại:\nA. fascinated /'fæsnertɪd/ (adj): bị mê hoặc\nB. fascinating /'fæsnertɪŋ/ (adj): hấp dẫn, lôi cuốn\nC. fascination /ˌfæstˈneɪʃn/ (n): sự mê hoặc\nD. fascinate /'fæsnert/ (v): mê hoặc, quyến rũ\nTa cần một tính từ mang nghĩa phù hợp đứng sau mạo từ 'a' và trước danh từ 'destination', do vậy ta chọn 'fascinating'.\nTạm dịch: Looking for a fascinating destination to escape from the busy city life? (Bạn đang tìm kiếm một điểm đến đầy cuốn hút để thoát khỏi nhịp sống hối hả của thành phố?)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "locating",
+            "B": "to locate",
+            "C": "located",
+            "D": "which located"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ:\n- be located in: nằm ở\n- Ta thấy câu đã có chủ ngữ 'Moc Chau' và động từ chính 'is'. Do vậy, ta có thể dùng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\n- Để rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và to be (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: Moc Chau, located in Son La province, is a paradise for nature lovers! (Mộc Châu, nằm ở tỉnh Sơn La, là thiên đường dành cho những người yêu thiên nhiên!)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "blossoms plum white",
+            "B": "white plum blossoms",
+            "C": "white blossoms plum",
+            "D": "plum white blossoms"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự từ:\n- Ta có cụm danh từ 'plum blossoms' (hoa mận) nên tính từ 'white' (màu trắng) cần đứng trước cụm danh từ này để bổ sung ý nghĩa.\nTạm dịch: From December to February, the hills are covered in stunning white plum blossoms, creating a dreamy landscape. (Từ tháng 12 đến tháng 2, những ngọn đồi được bao phủ bởi hoa mận trắng tuyệt đẹp, tạo nên một khung cảnh như mơ.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On",
+            "B": "At",
+            "C": "In",
+            "D": "By"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về giới từ:\n- In + mùa: vào\nTạm dịch: In autumn, golden persimmons hang from the trees, making the scenery even more magical. (Vào mùa thu, những quả hồng vàng treo lủng lẳng trên cành, khiến khung cảnh càng thêm huyền ảo.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "take",
+            "C": "do",
+            "D": "get"
+          },
+          "correctAnswer": "B",
+          "explanation": "Collocations:\n- take photo: chụp hình\nTạm dịch: Visit Pa Phach Village, Na Ka Valley, and Heart Tea Hill, where you can immerse yourself in the peaceful countryside and take unforgettable photos. (Hãy ghé thăm bản Pa Phách, thung lũng Nà Ka và đồi chè Trái Tim, nơi bạn có thể đắm mình trong khung cảnh thôn quê yên bình và chụp những bức ảnh đáng nhớ.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "explore",
+            "B": "explored",
+            "C": "exploring",
+            "D": "to exploring"
+          },
+          "correctAnswer": "C",
+          "explanation": "Danh động từ:\n- enjoy doing something: thích làm gì\nTạm dịch: Whether you enjoy exploring nature or relaxing in a peaceful place, Moc Chau has something special for everyone! (Dù bạn yêu thích khám phá thiên nhiên hay muốn thư giãn ở một nơi yên bình, Mộc Châu đều có điều đặc biệt dành cho bạn!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "HOW TO STAY ALIVE IN THE JOB MARKET?",
+      "passage": "From 2025 onwards, career trends in Vietnam will fluctuate. Various professions may disappear, while (7)________ new opportunities will emerge. To stay competitive, you must develop essential skills.\n\n1. Self-management and self-learning\nMore and more businesses are using (8)________ human resources, working remotely. Companies (9)________ disciplined employees who can self-manage and adapt to change. Staying updated with technology also requires continuous learning.\n\n2. Emotional Intelligence\nStress in remote work is common. Employers prefer those who can adapt, collaborate, and resolve conflicts (10)________ communication styles. Emotional intelligence is a skill that no machine can replace.\n\n3. Ability to apply technological knowledge\nA/An (11)______ of businesses rely on digital tools. By 2030, all companies may optimize operations this way. (12)________ technology is crucial-without it, you risk being fired.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "many",
+            "B": "much",
+            "C": "little",
+            "D": "another"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về lượng từ:\nA. many + N (đếm được số nhiều): nhiều\nB. much + N (không đếm được): nhiều\nC. little + N (không đếm được): rất ít\nD. another + N (đếm được số ít): một cái/người khác\n'opportunities' là danh từ đếm được số nhiều nên ta dùng 'many'.\nTạm dịch: Various professions may disappear, while many new opportunities will emerge. (Nhiều ngành nghề có thể biến mất, trong khi nhiều cơ hội mới sẽ xuất hiện.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "imported",
+            "B": "outsourced",
+            "C": "utilized",
+            "D": "orchestrated"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. imported /ɪmˈpɔːr.tɪd/ (adj): nhập khẩu\nB. outsourced /ˈaʊt.sɔːrst/ (v): thuê ngoài, gia công bên ngoài\nC. utilized /ˈjuːˌtəl.aɪzd/ (v): tận dụng, sử dụng hiệu quả\nD. orchestrated /ˈɔːr.kə.streɪt.ɪd/ (v): dàn dựng, sắp xếp một cách có tổ chức\nTạm dịch: More and more businesses are using outsourced human resources, working remotely. (Ngày càng có nhiều doanh nghiệp sử dụng nguồn nhân lực thuê ngoài, làm việc từ xa.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "avoid",
+            "B": "seek",
+            "C": "ignore",
+            "D": "reject"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. avoid /əˈvɔɪd/ (v): tránh, né tránh\nB. seek /siːk/ (v): tìm kiếm, theo đuổi\nC. ignore /ɪɡˈnɔːr/ (v): phớt lờ, bỏ qua\nD. reject /rɪˈdʒekt/ (v): từ chối, bác bỏ\nTạm dịch: Companies seek disciplined employees who can self-manage and adapt to change. (Các công ty tìm kiếm những nhân viên có kỷ luật, có thể tự quản lý và thích nghi với sự thay đổi.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "because of",
+            "B": "instead of",
+            "C": "regardless of",
+            "D": "in spite of"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm giới từ:\nA. because of: bởi vì\nB. instead of: thay vì\nC. regardless of: bất kể, không quan tâm đến\nD. in spite of: mặc dù\nTạm dịch: Employers prefer those who can adapt, collaborate, and resolve conflicts regardless of communication styles. (Nhà tuyển dụng thích những người có thể thích nghi, hợp tác và giải quyết xung đột bất kể phong cách giao tiếp nào.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "number",
+            "B": "deal",
+            "C": "amount",
+            "D": "piece"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm từ chỉ lượng:\nA. a number of + N (số nhiều): nhiều\nB. a great/good deal of + N (không đếm được): một lượng lớn\nC. amount of + N (không đếm được): lượng\nD. a piece of + N (không đếm được): một phần, một lượng\nTa có 'businesses' là danh từ số nhiều nên ta dùng 'a number of'.\nTạm dịch: A number of businesses rely on digital tools. (Nhiều doanh nghiệp dựa vào các công cụ kỹ thuật số.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Going down with",
+            "B": "Keeping up with",
+            "C": "Putting up with",
+            "D": "Living up to"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ thông dụng:\nA. Go down with: mắc bệnh\nB. Keep up with: theo kịp, bắt kịp\nC. Put up with: chịu đựng\nD. Live up to: đáp ứng, đạt đến (kỳ vọng, tiêu chuẩn)\nTạm dịch: Keeping up with technology is crucial-without it, you risk being fired. (Việc theo kịp công nghệ là rất quan trọng - nếu không có nó, bạn có nguy cơ bị sa thải.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Linda: Not recently, but I'm really interested in the upcoming Mid-Autumn Festival.\nb. Nam: Me too! I love the mooncakes and the lantern parade.\nc. Nam: Hi Linda! Have you been to any cultural festivals lately?\n\n(Adapted from i-Learn Smart World)",
+          "options": {
+            "A": "a-b-c",
+            "B": "c-a-b",
+            "C": "c-b-a",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "DỊCH BÀI:\nNam: Chào Linda! Gần đây bạn có tham gia lễ hội văn hóa nào không?\nLinda: Dạo này thì không, nhưng mình rất háo hức với Tết Trung Thu sắp tới.\nNam: Mình cũng vậy! Mình rất thích bánh trung thu và rước đèn lồng."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Lan: Come in, Mark. Did you find my place easily?\nb. Lan: He goes to bed right after he comes home in the morning when there's no one at home.\nc. Mark: Yes, I actually met your dad in the street and he showed me the way. He said he was on his way to work.\nd. Mark: Working night shifts must be really hard. When does he sleep?\ne. Lan: That's right. My dad is a factory worker, so he works in shifts. Today he's on the night shift.\n\n(Adapted from Global Success)",
+          "options": {
+            "A": "e-c-b-a-d",
+            "B": "a-c-d-e-b",
+            "C": "a-c-e-d-b",
+            "D": "c-a-b-d-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nLan: Vào đi Mark. Cậu tìm nhà mình dễ không?\nMark: Ừ, thực ra tớ gặp bố cậu trên đường, bác chỉ giúp tớ đường đi. Bác bảo bác đang đi làm.\nLan: Đúng rồi. Bố tớ làm công nhân nhà máy nên hay làm theo ca. Hôm nay bố làm ca đêm.\nMark: Làm ca đêm chắc mệt lắm. Thế bác ngủ lúc nào?\nLan: Bố mình ngủ ngay sau khi về nhà vào buổi sáng, lúc cả nhà không có ai."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Dear Sir or Madam,\na. My wife and I are very grateful for his kindness. Please convey our thanks to him. We truly appreciate your company for having such a dedicated employee.\nb. I am writing to sincerely thank Mr. Baker, the cashier of your company.\nc. I hope your company will reward Mr. Baker for his noble deed.\nd. Every day, I take bus Route 133 to work. Last Friday, as I was about to get off, I suddenly felt dizzy and lost consciousness. When I woke up, I was in St. Mary's Hospital with my wife.\ne. The doctor told me that Mr. Baker had sent me to the hospital and informed my wife. Though we have never met, he was on the same bus.\nYours faithfully,\n\n(Adapted from Basic IELTS writing)",
+          "options": {
+            "A": "d-b-e-a-c",
+            "B": "b-d-a-e-c",
+            "C": "b-d-e-a-c",
+            "D": "e-b-d-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nKính gửi Quý công ty,\nTôi viết thư này để chân thành cảm ơn anh Baker, nhân viên thu ngân của quý công ty. Hàng ngày, tôi đi xe buýt tuyến 133 đi làm. Thứ Sáu tuần trước, khi chuẩn bị xuống xe, tôi đột nhiên chóng mặt và ngất đi. Khi tỉnh lại, tôi đã ở bệnh viện St. Mary cùng vợ mình. Bác sĩ cho biết anh Baker đã đưa tôi vào viện và thông báo cho vợ tôi. Dù chưa từng gặp nhau, anh ấy chỉ đi chung chuyến xe hôm đó. Vợ chồng tôi vô cùng biết ơn sự tử tế của anh ấy. Mong quý công ty chuyển lời cảm ơn của chúng tôi đến anh. Chúng tôi đánh giá cao việc công ty có một nhân viên tận tâm như vậy. Tôi hy vọng quý công ty sẽ khen thưởng hành động cao đẹp của anh Baker.\nTrân trọng,"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Cross-cultural learning has three main benefits.\nb. Secondly, it allows us to learn new ways of thinking and problem-solving by exchanging ideas with others.\nc. Finally, it encourages us to appreciate diversity and work together with people from various cultures.\nd. Firstly, it helps understand and respect different backgrounds, making us more open-minded.\ne. So it is important to learn about different cultures around the world.",
+          "options": {
+            "A": "e-b-d-a-c",
+            "B": "a-d-b-c-e",
+            "C": "a-c-d-b-e",
+            "D": "e-d-b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "DỊCH BÀI:\nHọc tập liên văn hóa có ba lợi ích chính. Đầu tiên, nó giúp chúng ta hiểu và tôn trọng các nền tảng khác nhau, khiến chúng ta cởi mở hơn. Thứ hai, nó cho phép chúng ta học những cách suy nghĩ và giải quyết vấn đề mới bằng cách trao đổi ý tưởng với người khác. Cuối cùng, nó khuyến khích chúng ta đánh giá cao sự đa dạng và làm việc cùng nhau với những người từ nhiều nền văn hóa khác nhau. Vì vậy, việc tìm hiểu về các nền văn hóa khác nhau trên thế giới là điều quan trọng."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Additionally, local food festivals celebrate culinary diversity, offering a chance to taste various dishes while enjoying music and community.\nb. Culinary culture connects people and reflects the identity of nations. Each dish tells a story about its history and traditions, offering a delicious way to explore different lifestyles.\nc. In summary, exploring culinary cultures enriches our understanding of the world. Each experience, from tasting to cooking, helps create lasting memories and connections with different traditions.\nd. Cooking classes provide a hands-on way to learn about these cultures, allowing participants to understand the origins of ingredients and the techniques used.\ne. For instance, Italian pasta and Japanese sushi showcase the unique ingredients and flavors shaped by their environments.",
+          "options": {
+            "A": "e-a-b-d-c",
+            "B": "a-d-e-b-c",
+            "C": "e-b-a-d-c",
+            "D": "b-e-d-a-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nVăn hóa ẩm thực kết nối mọi người và phản ánh bản sắc của các quốc gia. Mỗi món ăn kể một câu chuyện về lịch sử và truyền thống của nó, mang đến một cách ngon miệng để khám phá những lối sống khác nhau. Ví dụ, mì ống Ý và sushi Nhật Bản thể hiện những nguyên liệu và hương vị độc đáo được hình thành bởi môi trường xung quanh chúng. Các lớp học nấu ăn cung cấp một cách thực hành để tìm hiểu về các nền văn hóa này, cho phép người tham gia hiểu được nguồn gốc của các thành phần và kỹ thuật được sử dụng. Ngoài ra, các lễ hội ẩm thực địa phương tôn vinh sự đa dạng ẩm thực, mang đến cơ hội nếm thử nhiều món ăn khác nhau trong khi thưởng thức âm nhạc và cộng đồng. Tóm lại, khám phá các nền văn hóa ẩm thực làm phong phú thêm sự hiểu biết của chúng ta về thế giới."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Nellie Bly and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "NELLIE BLY",
+      "passage": "Nellie Bly was an American journalist, best known for her investigative reporting. She also made the fastest trip around the world. She was born in 1864 in Pennsylvania, the United States. Her parents named her Elizabeth Jane Cochran. She (18)________. She started her career in 1885 after writing an angry response to an article called What Girls Are Good For in the Pittsburgh Dispatch. They were impressed and gave her a job. In her first article, she argued that not all women needed to get married, and that they should have better opportunities. She then used the name Nellie Bly for the rest of her career.\n\nAfter leaving the Pittsburgh Dispatch, Nellie was rejected from jobs because newspapers wouldn't hire a woman. She finally got a job at the New York World (19)________. Her report exposed the asylum's conditions, and it was forced to improve its patient care. During her career, she wrote about many difficult issues, and most of them are in support of women's lives.\n\nIn 1889, inspired by Jules Verne's novel Around the World in Eighty Days, (20)________ The idea was rejected by her newspaper at first because \"no one but a man can do this,\" but finally, her editor agreed. She traveled alone for most of it, an unusual thing for women to do at the time. She actually met Jules Verne in France and completed the trip after 72 days, setting a world record.\n\nIn her later years, Nellie Bly returned to journalism. (21)__________. Nellie Bly died in 1922 at the age of 57. Her life has inspired dozens of movies, TV series, and books. (22)________.\n\n(Adapted from i-Learn Smart World)",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was originally named Elizabeth Jane Cochran by her parents.",
+            "B": "originally named her Elizabeth Jane Cochran by her parents.",
+            "C": "was her original name, given by her parents as Elizabeth Jane Cochran.",
+            "D": "had been named Elizabeth Jane Cochran from her parents."
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ 'she' nên ta cần điền một động từ có chia thì phù hợp. Ta xét từng đáp án:\n- Loại B vì 'originally named' đang ở dạng chủ động nhưng ta cần dùng dạng bị động 'was originally named' (được đặt tên).\n- Loại C vì 'was her original name' (là tên ban đầu của bà) không phù hợp về ngữ nghĩa khi kết hợp với chủ ngữ 'she' phía trước.\n- Loại D vì 'had been named' dùng thì quá khứ hoàn thành nên không phù hợp về ngữ cảnh, ta cần dùng thì quá khứ đơn để diễn tả một sự việc đã xảy ra và kết thúc trong quá khứ.\nTạm dịch: She was originally named Elizabeth Jane Cochran by her parents. (Ban đầu bà được cha mẹ đặt tên là Elizabeth Jane Cochran.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which investigative journalism on mental asylums gained national recognition.",
+            "B": "whose investigative journalism on mental asylums gained national recognition.",
+            "C": "that her investigative journalism on mental asylums gained national recognition.",
+            "D": "of which the investigative journalism on mental asylums led to national recognition."
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy câu đã có chủ ngữ 'she' và động từ 'got'; do vậy, ta có thể dùng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ để bổ nghĩa cho 'the New York World'. Ta xét từng đáp án:\n- Loại A vì đại từ quan hệ 'which' không thể dùng để thay cho tính từ sở hữu trong mệnh đề quan hệ.\n- Loại C vì ý nghĩa của mệnh đề quan hệ 'báo chí điều tra về trại tâm thần của bà ấy đã nhận được sự công nhận của cả nước' không phù hợp về ngữ nghĩa.\n- Loại D vì dùng 'led to national recognition' (đã dẫn đến sự công nhận của cả nước) nên không phù hợp về ngữ nghĩa.\n- B đúng vì đại từ quan hệ 'whose' cho thấy 'investigative journalism on mental asylums' (báo chí điều tra về trại tâm thần) là của 'the New York World'.\nTạm dịch: She finally got a job at the New York World whose investigative journalism on mental asylums gained national recognition. (Cuối cùng, bà đã nhận được một công việc tại New York World, báo chí điều tra về trại tâm thần của tờ báo đã nhận được sự công nhận của cả nước.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Jules Verne took a daring trip around the world to prove that women could travel alone",
+            "B": "Nellie traveled with a group of women to prove that group travel was safer",
+            "C": "Nellie took a daring trip around the world to prove that women could travel alone.",
+            "D": "Jules Verne planned a fictional journey to demonstrate the possibility of fast travel"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy mệnh đề phía trước dùng quá khứ phân từ 'inspired' (được truyền cảm hứng). Ta xét từng đáp án:\n- A: Jules Verne thực hiện chuyến đi táo bạo vòng quanh thế giới để chứng minh phụ nữ có thể đi du lịch một mình → Sai vì chủ ngữ chung 'Jules Verne' không phù hợp về ngữ nghĩa khi kết hợp với 'inspired' ở mệnh đề phía trước.\n- B: Nellie đi du lịch cùng một nhóm phụ nữ để chứng minh rằng du lịch theo nhóm an toàn hơn → Sai vì không phù hợp về ngữ nghĩa.\n- C: Nellie đã thực hiện một chuyến đi táo bạo vòng quanh thế giới để chứng minh rằng phụ nữ có thể đi du lịch một mình → Đúng vì phù hợp về ngữ nghĩa và ngữ pháp khi kết hợp với 'inspired' ở mệnh đề phía trước.\n- D: Jules Verne đã lên kế hoạch cho một chuyến hành trình hư cấu để chứng minh khả năng du hành nhanh → Sai.\nTạm dịch: In 1889, inspired by Jules Verne's novel Around the World in Eighty Days, Nellie took a daring trip around the world to prove that women could travel alone."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "She covered reports about World War I and social issues affecting women",
+            "B": "Her later reports focused on the war and significant social movements",
+            "C": "She continued to write about women's struggles and major world events",
+            "D": "Nellie's career later shifted towards global conflicts and gender equality"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một câu hoàn chỉnh phù hợp về ngữ nghĩa và ngữ cảnh. Ta xét từng đáp án:\n- A: Bà đưa tin về Thế chiến thứ nhất và các vấn đề xã hội ảnh hưởng đến phụ nữ → Phù hợp nhất về ngữ nghĩa và ngữ cảnh vì cho thấy các bài báo của bà vẫn tập trung vào các vấn đề xã hội ảnh hưởng đến cuộc sống của phụ nữ.\n- B: Sai ở 'significant social movements' chưa có thông tin được nhắc đến trong suốt bài đọc.\n- C: Sai ở 'major world events' chưa có thông tin được nhắc đến.\n- D: Sai ở 'global conflicts and gender equality' chưa có thông tin được nhắc đến.\nTạm dịch: She covered reports about World War I and social issues affecting women. (Bà đưa tin về Thế chiến thứ nhất và các vấn đề xã hội ảnh hưởng đến phụ nữ.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "She was rarely mentioned in discussions about investigative journalism.",
+            "B": "Few people today recognize her role in shaping modern journalism.",
+            "C": "Her impact on journalism faded as other reporters gained more recognition.",
+            "D": "Her legacy remains strong, inspiring films, books, and TV adaptations."
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu hoàn chỉnh phù hợp về ngữ nghĩa và ngữ cảnh để kết luận bài đọc và nhấn mạnh di sản của Nellie Bly:\n- A: Bà ấy hiếm khi được nhắc đến trong các cuộc thảo luận về báo chí điều tra → Sai vì trái với thông tin đề cập trong bài đọc.\n- B: Ngày nay rất ít người nhận ra vai trò của bà trong việc định hình nền báo chí hiện đại → Sai vì trái với thông tin đề cập.\n- C: Tác động của cô ấy đối với nghề báo giảm dần khi các phóng viên khác được công nhận nhiều hơn → Sai vì trái với thông tin đề cập.\n- D: Di sản của bà vẫn còn vững chắc, truyền cảm hứng cho các bộ phim, sách và phim truyền hình chuyển thể → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh, liên kết ý với câu liền trước về việc cuộc đời của Nellie Bly đã truyền cảm hứng cho rất nhiều bộ phim, loạt phim truyền hình và sách.\nTạm dịch: Her legacy remains strong, inspiring films, books, and TV adaptations. (Di sản của bà vẫn còn vững chắc, truyền cảm hứng cho các bộ phim, sách và phim truyền hình chuyển thể.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about being a responsible digital citizen and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "BEING A RESPONSIBLE DIGITAL CITIZEN",
+      "passage": "These days, digital technology is a major part of everyday life for all of us, and we use it for almost everything, from work to school and entertainment. Therefore, with everyone spending so much time connected to the Internet and using digital devices, it's important that we all understand how to be responsible digital citizens in the modern world. But what exactly does that mean?\n\nA responsible digital citizen is someone who uses technology in a sensible way and encourages others to do the same. They are careful about their online behavior and always try to be as polite as possible, which helps others to avoid having negative experiences online. Responsible digital citizens respect other people's privacy, too. They don't post pictures of others or discuss people's personal lives without their permission because that could harm their online security. In this way, digital citizens help others to feel safer and more comfortable in the digital world.\n\nResponsible digital citizens are also aware of the potential risks of being online. They understand that there are fake websites and online scams which try to access people's personal information to hack into their social media accounts or even bank accounts. When a digital citizen encounters one of these online scams, they should report it to the cyber police to stop this behavior from happening. By doing this, digital citizens play an important role in making the Internet a safer place for all users.\n\nWhile many of us know how to use digital technology safely these days, we should remember that there are many other people who are still at risk. By being responsible digital citizens, we can help everyone gain the benefits of the digital world without putting themselves at risk.\n\n(Adapted from Bright)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "According to the passage, which of the following is NOT mentioned as a characteristic of a responsible digital citizen?",
+          "context": "",
+          "options": {
+            "A": "They always respect other people's privacy.",
+            "B": "They are careful about their online behaviour.",
+            "C": "They avoid using social media to protect themselves.",
+            "D": "They try to be polite in online interactions."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\nThey are careful about their online behavior and always try to be as polite as possible, which helps others to avoid having negative experiences online. Responsible digital citizens respect other people's privacy, too.\n→ A, B, D được đề cập.\n→ C không được đề cập.\nTạm dịch: Theo bài đọc, điều nào sau đây KHÔNG được đề cập đến như là đặc điểm của một công dân kỹ thuật số có trách nhiệm?\nC. Họ tránh sử dụng phương tiện truyền thông xã hội để bảo vệ bản thân."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"encounters\" in paragraph 3 is CLOSEST in meaning to:",
+          "context": "",
+          "options": {
+            "A": "faces",
+            "B": "avoids",
+            "C": "protects",
+            "D": "reports"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'encounters' ở đoạn 3 ĐỒNG NGHĨA với:\nA. face /feɪs/ (v): đối mặt\nB. avoid /əˈvɔɪd/ (v): tránh né\nC. protect /prəˈtekt/ (v): bảo vệ\nD. report /rɪˈpɔːrt/ (v): báo cáo\n- encounter /ɪnˈkaʊntər/ (v): gặp phải, đối mặt = face\nThông tin: When a digital citizen encounters one of these online scams, they should report it to the cyber police to stop this behavior from happening."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"sensible\" in paragraph 2 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "thoughtful",
+            "B": "intelligent",
+            "C": "reasonable",
+            "D": "unwise"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'sensible' trong đoạn 2 TRÁI NGHĨA với:\nA. thoughtful /ˈθɔːtfəl/ (adj): chu đáo, sâu sắc\nB. intelligent /ɪnˈtelɪdʒənt/ (adj): thông minh\nC. reasonable /ˈriːznəbl/ (adj): hợp lý, phải chăng\nD. unwise /ˌʌnˈwaɪz/ (adj): không khôn ngoan, dại dột\n- sensible /ˈsensəbl/ (adj): hợp lý, có lý, khôn ngoan >< unwise\nThông tin: A responsible digital citizen is someone who uses technology in a sensible way and encourages others to do the same."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Digital citizens must possess advanced technical knowledge to be responsible.",
+            "B": "Fake websites and scams do not pose serious threats to personal information.",
+            "C": "Responsible digital citizens should report online scams to the cyber police.",
+            "D": "Everyone using digital technology today is fully aware of online risks."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây là ĐÚNG theo bài đọc?\n+ A responsible digital citizen is someone who uses technology in a sensible way → A sai vì bài đọc chỉ yêu cầu công dân số sử dụng công nghệ một cách hợp lý, không cần kiến thức kỹ thuật nâng cao.\n+ They understand that there are fake websites and online scams which try to access people's personal information to hack into their social media accounts or even bank accounts → B sai vì bài đọc nhấn mạnh rằng các trang web giả mạo và trò lừa đảo trực tuyến là một mối đe dọa nghiêm trọng.\n+ When a digital citizen encounters one of these online scams, they should report it to the cyber police to stop this behavior from happening → C đúng với thông tin được đề cập.\n+ While many of us know how to use digital technology safely these days, we should remember that there are many other people who are still at risk → D sai vì bài đọc chỉ ra rằng không phải ai cũng nhận thức đầy đủ về các rủi ro."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1?",
+          "context": "",
+          "options": {
+            "A": "These days, people mainly depend on digital technology for studying and working, not much for fun.",
+            "B": "Digital technology is widely used in various aspects of modern life, including work, education, and leisure.",
+            "C": "The role of digital technology in daily life is not very significant, and people do not rely on it often.",
+            "D": "Nowadays, digital technology is used mostly for career and educational purposes rather than entertainment."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân trong đoạn 1 tốt nhất?\nA. Ngày nay, mọi người chủ yếu phụ thuộc vào công nghệ số để học tập và làm việc, không dùng nhiều vào mục đích giải trí → Sai vì câu gốc nói rằng chúng ta sử dụng công nghệ cho hầu hết mọi thứ, không chỉ riêng học tập, công việc mà còn cho mục đích giải trí.\nB. Công nghệ số được sử dụng rộng rãi trong nhiều khía cạnh của cuộc sống hiện đại, bao gồm công việc, giáo dục và giải trí → Đúng với nghĩa của câu gốc.\nC. Vai trò của công nghệ số trong cuộc sống hàng ngày không quá quan trọng → Sai.\nD. Ngày nay, công nghệ số chủ yếu được sử dụng cho mục đích nghề nghiệp và giáo dục hơn là giải trí → Sai.\nThông tin: These days, digital technology is a major part of everyday life for all of us, and we use it for almost everything, from work to school and entertainment."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"their\" in paragraph 2 refers to:",
+          "context": "",
+          "options": {
+            "A": "other people",
+            "B": "lives",
+            "C": "pictures",
+            "D": "experiences"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'their' trong đoạn 2 đề cập đến:\nA. những người khác\nB. cuộc sống\nC. hình ảnh\nD. những trải nghiệm\nTừ 'their' trong đoạn 2 đề cập đến 'other people'.\nThông tin: They don't post pictures of others or discuss people's personal lives without their permission because that could harm their online security."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer discuss the risks of being online?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong đoạn văn nào, tác giả thảo luận về những rủi ro về trực tuyến?\nTác giả thảo luận về những rủi ro về trực tuyến ở đoạn 3.\nThông tin: They understand that there are fake websites and online scams which try to access people's personal information to hack into their social media accounts or even bank accounts."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer mention a present causal relationship of digital behavior?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trong đoạn văn nào tác giả đề cập đến mối quan hệ nhân quả hiện tại của hành vi kỹ thuật số?\nTác giả đề cập đến mối quan hệ nhân quả hiện tại của hành vi kỹ thuật số ở đoạn 2.\nThông tin: They don't post pictures of others or discuss people's personal lives without their permission because that could harm their online security."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the fitness trends and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "FITNESS TRENDS",
+      "passage": "(I) Reformer Pilates is an advanced and more intense variation of traditional Pilates. (II) It includes similar pushing and stretching exercises but is performed using special equipment that resembles a rowing machine. Since this type of equipment isn't something you would typically have at home, you'll need to visit a specialized Pilates center to try it. (III) While it might look easy at first, don't be fooled—by the end of the session, your thighs will be burning, and you might struggle to walk up or down stairs for a few days afterward. (IV) This workout pushes your body to its limits, providing a more challenging experience than standard Pilates, and many find it an effective way to build both strength and flexibility.\n\nTrampolining is another popular fitness trend, and although it may seem like child's play, it's actually a highly effective workout. Jumping up and down on a trampoline can leave you feeling exhausted after just a few minutes. Surprisingly, it's even better for heart health than running, while also improving coordination and helping to reduce stress levels. Trampolining is gaining widespread popularity, with new centers popping up that feature as many as 150 trampolines. These facilities offer options for everyone: you can enjoy 'freejumping,' where you bounce without an instructor, or pay for professional lessons to learn the best techniques and get the most out of your workout. Many people are discovering that trampolining combines fun and fitness in a way that makes staying active much more enjoyable.\n\nIf you're someone who is typically active but feeling down or emotionally drained, Dynamic Running Therapy might be just what the doctor ordered. This trend involves running with a therapist, combining the benefits of physical exercise with talk therapy. Though these sessions are often more expensive than typical therapy sessions because of the professional fees, they offer significant advantages. Running while talking helps distract you from any discomfort, allowing you to cover longer distances, and creates a relaxed, open environment that can make it easier to talk compared to the usual therapist's office setting.\n\n(Adapted from Friends Global)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph I does the following sentence best fit?\n\"It includes similar pushing and stretching exercises but is performed using special equipment that resembles a rowing machine.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu sau đây phù hợp nhất ở vị trí nào trong đoạn I?\n'Nó bao gồm các bài tập đẩy và kéo giãn tương tự nhưng được thực hiện bằng thiết bị đặc biệt giống như máy chèo thuyền.'\nCâu này phù hợp ở vị trí (II) vì phù hợp liên kết với câu trước đó, giải thích cụ thể hơn về Reformer Pilates. Đồng thời liên kết phù hợp với câu sau đó, 'this type of equipment' chính là 'special equipment'."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word \"drained\" in the last paragraph could be best replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "exhausted",
+            "B": "Confused",
+            "C": "relieved",
+            "D": "motivated"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'drained' trong đoạn văn cuối cùng có thể được thay thế tốt nhất bằng ________.\nA. exhausted /ɪɡˈzɔːstɪd/ (adj): kiệt sức, mệt lử\nB. confused /kənˈfjuːzd/ (adj): bối rối, hoang mang\nC. relieved /rɪˈliːvd/ (adj): nhẹ nhõm, an tâm\nD. motivated /ˈmoʊtɪveɪtɪd/ (adj): có động lực, được thúc đẩy\ndrained /dreɪnd/ (adj): kiệt sức, cạn kiệt năng lượng = exhausted (adj)\nTạm dịch: If you're someone who is typically active but feeling down or emotionally drained, Dynamic Running Therapy might be just what the doctor ordered."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"they\" in paragraph 3 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "typical therapy sessions",
+            "B": "professional fees",
+            "C": "Dynamic Running Therapy sessions",
+            "D": "longer distances"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'they' trong đoạn 3 ám chỉ đến ________.\nA. các buổi trị liệu thông thường\nB. phí chuyên môn\nC. Các buổi trị liệu chạy năng động\nD. khoảng cách xa hơn\nTạm dịch: Though these sessions are often more expensive than typical therapy sessions because of the professional fees, they offer significant advantages. (Mặc dù các buổi này thường đắt hơn các buổi trị liệu thông thường do chi phí chuyên nghiệp, nhưng chúng mang lại những lợi ích đáng kể.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 2, which of the following is NOT a benefit of Trampolining?",
+          "context": "",
+          "options": {
+            "A": "improving coordination",
+            "B": "enhancing heart health",
+            "C": "reducing stress levels",
+            "D": "building muscle strength"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn 2, lợi ích nào sau đây KHÔNG phải là lợi ích của Trampolining?\nTạm dịch: Surprisingly, it's even better for heart health than running, while also improving coordination and helping to reduce stress levels.\n→ A, B, C được đề cập\n→ D không được đề cập"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Dynamic Running Therapy combines exercise with talk therapy in a comfortable setting.",
+            "B": "Running therapy is a modern fitness trend that blends affordability with long-distance training.",
+            "C": "Running with a therapist improves emotional well-being but does not enhance physical endurance.",
+            "D": "Running therapy is an effective workout designed for active individuals who enjoy exercising outdoors."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn 3?\nTạm dịch đoạn: If you're someone who is typically active but feeling down or emotionally drained, Dynamic Running Therapy might be just what the doctor ordered. This trend involves running with a therapist, combining the benefits of physical exercise with talk therapy...\nĐoạn văn đề cập đến việc chạy cùng nhà trị liệu, kết hợp lợi ích của vận động thể chất với trị liệu tâm lý. Đoạn cũng nhấn mạnh rằng môi trường thoải mái, cởi mở giúp người tham gia dễ chia sẻ hơn so với phòng tư vấn thông thường.\n→ A là đáp án tóm tắt đoạn 3 tốt nhất.\nB sai vì đoạn không đề cập về luyện tập đường dài.\nC sai vì không có thông tin trong đoạn về việc liệu pháp này không giúp tăng cường thể chất.\nD sai vì đoạn không đề cập về những người thích tập thể dục ngoài trời."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"popping up\" in paragraph 2 is OPPOSITE in meaning to ________.",
+          "context": "",
+          "options": {
+            "A": "falling down",
+            "B": "showing up",
+            "C": "closing down",
+            "D": "springing up"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'popping up' trong đoạn 2 TRÁI NGHĨA với ________.\nA. fall down: ngã xuống, sụp đổ\nB. show up: xuất hiện, có mặt\nC. close down: đóng cửa, ngừng hoạt động\nD. spring up: xuất hiện, mọc lên nhanh chóng\npop up: xuất hiện bất ngờ, mọc lên nhanh chóng >< close down\nTạm dịch: Trampolining is gaining widespread popularity, with new centers popping up that feature as many as 150 trampolines. (Nhảy bạt lò xo đang ngày càng phổ biến, với các trung tâm mới xuất hiện với tới 150 chiếc bạt lò xo.)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Reformer Pilates is primarily designed for beginners and requires no specialized equipment.",
+            "B": "Trampolining has been shown to have minimal benefits for coordination and cardiovascular health.",
+            "C": "Engaging in trampolining can lead to significant fatigue after only a few minutes of activity.",
+            "D": "Dynamic Running Therapy focuses solely on physical exercise without addressing emotional aspects."
+          },
+          "correctAnswer": "C",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA: Since this type of equipment isn't something you would typically have at home → A không đúng\nB: Surprisingly, it's even better for heart health than running, while also improving coordination → B không đúng\nC: Jumping up and down on a trampoline can leave you feeling exhausted after just a few minutes → C đúng\nD: This trend involves running with a therapist, combining the benefits of physical exercise with talk therapy → D không đúng"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1?",
+          "context": "",
+          "options": {
+            "A": "Although it appears simple at first, be cautious—by the end of the session, your thighs will hurt, and you might find it difficult to go up or down stairs for a few days.",
+            "B": "It may seem easy at first, but you'll feel relaxed afterward and find walking up and down stairs easy for days.",
+            "C": "While it looks uncomplicated initially, be warned— by the end of the session, your thighs will swell, and you could struggle with stair climbing for several days.",
+            "D": "Even though it seems effortless at first, don't underestimate it by the end of the session, you'll feel fine, and moving up or down stairs will be easy."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây diễn giải lại câu gạch chân trong đoạn 1 hay nhất?\nA. Mặc dù thoạt đầu có vẻ đơn giản, nhưng hãy thận trọng—đến cuối buổi tập, đùi của bạn sẽ bị đau và bạn có thể thấy khó khăn khi lên hoặc xuống cầu thang trong vài ngày => Đúng, phù hợp diễn giải câu gạch chân.\nB. Lúc đầu có vẻ dễ, nhưng sau đó bạn sẽ cảm thấy thoải mái và thấy việc lên xuống cầu thang dễ dàng trong nhiều ngày => Sai, trái ngược ý nghĩa câu gạch chân.\nC. Mặc dù thoạt đầu có vẻ đơn giản, nhưng hãy cẩn thận—đến cuối buổi tập, đùi của bạn sẽ sưng lên... => Sai vì thêm chi tiết không có trong bài ('your thighs will swell').\nD. Mặc dù lúc đầu có vẻ dễ dàng, nhưng đừng đánh giá thấp nó, đến cuối buổi tập, bạn sẽ thấy ổn => Sai, trái ngược ý nghĩa câu gạch chân."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "People who engage in fitness activities are generally less likely to experience emotional distress.",
+            "B": "The popularity of trampolining indicates a growing interest in innovative and enjoyable forms of exercise.",
+            "C": "Individuals who prefer traditional workouts may find it challenging to adapt to newer fitness trends like Dynamic Running Therapy.",
+            "D": "Specialized fitness centers are more beneficial than home workouts for achieving significant physical improvements."
+          },
+          "correctAnswer": "B",
+          "explanation": "Có thể suy ra điều nào sau đây từ đoạn văn?\nA: Bài không đề cập đến việc tập thể dục giúp giảm stress nói chung mà chỉ đề cập đến lợi ích của Dynamic Running Therapy trong một ngữ cảnh cụ thể → A sai.\nB: Trampolining is gaining widespread popularity, with new centers popping up that feature as many as 150 trampolines. Many people are discovering that trampolining combines fun and fitness in a way that makes staying active much more enjoyable → B đúng.\nC: Không có thông tin trong bài nói rằng những người thích tập luyện truyền thống sẽ gặp khó khăn khi thử các xu hướng mới → C sai.\nD: Không có thông tin về việc so sánh lợi ích của trung tâm thể hình và tập luyện tại nhà → D sai."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarize the passage?",
+          "context": "",
+          "options": {
+            "A": "The passage introduces three fitness trends but highlights the drawbacks of each, showing that none provide a balanced approach to both physical and mental health.",
+            "B": "Various fitness programs, including trampolining and Reformer Pilates, provide effective workout options, though their suitability depends on individual fitness levels and goals.",
+            "C": "While Dynamic Running Therapy emphasizes emotional support, other trends like trampolining and Reformer Pilates focus primarily on physical endurance and coordination.",
+            "D": "Modern fitness trends cater to diverse needs by integrating fun, therapy, and structured workouts, making exercise more accessible and engaging for different individuals."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn văn?\nĐoạn 1: Reformer Pilates là phiên bản nâng cao của Pilates truyền thống, đòi hỏi thiết bị chuyên dụng và mang lại thử thách lớn hơn, giúp tăng cường sức mạnh và độ linh hoạt.\nĐoạn 2: Nhảy bạt lò xo không chỉ vui mà còn là bài tập hiệu quả, tốt cho tim mạch, cải thiện sự phối hợp cơ thể và giúp giảm căng thẳng.\nĐoạn 3: Liệu pháp chạy bộ kết hợp giữa vận động và trị liệu tâm lý, giúp cải thiện sức khỏe tinh thần.\nBài đọc đề cập về Reformer Pilates, Nhảy bạt lò xo, Liệu pháp chạy năng động. Cả ba hình thức đều thể hiện sự đa dạng của các xu hướng tập luyện hiện đại, đáp ứng nhiều nhu cầu khác nhau.\n→ D là đáp án tóm tắt bài đọc đúng nhất.\nA sai vì bài không nhấn mạnh vào nhược điểm của các phương pháp tập luyện.\nB sai vì bài không đề cập đến mức độ phù hợp của từng phương pháp với từng nhóm người cụ thể.\nC sai vì không chỉ Dynamic Running Therapy mới có lợi ích tinh thần, mà trampolining cũng giúp giảm căng thẳng."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.524667+00:00",
+  "updatedAt": "2026-06-08T10:41:58.524667+00:00",
+  "originalFileName": "So_GD_Thanh_Hoa_THPT_2025.json"
+}

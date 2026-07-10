@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_nguyen_khuyen_tphcm_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Nguyễn Khuyến TP.HCM",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Nguyen_Khuyen_TPHCM_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#TPHCM",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "AI INNOVATORS SUMMIT: STEP INTO THE FUTURE!",
+      "passage": "Are you one of the many students passionate about Artificial Intelligence? Whether you're a beginner or advanced, this event is an extraordinary opportunity to (1)_______ the world of AI at the AI Innovators Summit, which will take place next month! Not only will this full-day event inspire you, but it will also offer the (2)_______ of experiences for students eager to learn, explore, and connect within the fast-evolving (3)_______ of AI.\n\nEvent Highlights:\n\n• Inspiring Keynotes: Learn from (4)_______ respected AI experts and industry leaders, as well as innovators across various industries, including healthcare, finance, and education, who will share their insights on trends and the future potential of AI.\n\n• Hands-On Workshops: Engage in interactive sessions, getting to experiment with machine learning models, neural networks, and data analysis. (5)_______ your experience level, these workshops will enhance your skills.\n\n• Networking Opportunities: Connect with students, university faculty, and industry professionals, opening up a world of guidance, internships, and career (6)_______ in AI.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "hand out",
+            "B": "split up",
+            "C": "get ahead",
+            "D": "dive into"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. hand something out: phân phát cái gì\nB. split something up: chia/tách cái gì ra\nC. get ahead: tiến bộ, thành công\nD. dive into: chìm vào điều gì đó; lao vào, bắt đầu làm điều gì đó với sự nhiệt tình (thường liên quan đến công việc hoặc một nhiệm vụ cụ thể).\nTạm dịch: Dù bạn mới bắt đầu hay đã thành thạo, sự kiện này là cơ hội tuyệt vời để đắm mình vào thế giới AI tại Hội nghị Đổi mới AI."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "number",
+            "B": "amount",
+            "C": "minority",
+            "D": "deal"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. the number of + N (số nhiều): những\nB. the amount of + N (không đếm được): lượng\nC. minority of + N (số nhiều): thiểu số\nD. a great/good deal of + N (không đếm được): rất nhiều\nDùng 'the number of experiences' (experiences là danh từ đếm được số nhiều).\nTạm dịch: sự kiện còn cung cấp những trải nghiệm đáng giá dành cho các sinh viên muốn học hỏi, khám phá và kết nối."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "anatomy",
+            "B": "discipline",
+            "C": "contender",
+            "D": "field"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. anatomy /əˈnæt.ə.mi/ (n): giải phẫu học\nB. discipline /ˈdɪs.ə.plɪn/ (n): kỷ luật\nC. contender /kənˈten.dər/ (n): đối thủ\nD. field /fiːld/ (n): lĩnh vực, phạm vi → field of something: lĩnh vực gì\nTạm dịch: trong lĩnh vực AI đang phát triển nhanh chóng."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "others",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. the others: những cái còn lại/những người còn lại\nB. others: những cái khác/những người khác\nC. other + N (số nhiều/không đếm được): những cái khác/những người khác\nD. another + N (số ít): một cái khác/một người khác\nDùng 'other respected AI experts' vì 'experts' là danh từ số nhiều.\nTạm dịch: Học hỏi từ các chuyên gia AI và lãnh đạo ngành đáng kính khác."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On account of",
+            "B": "Regardless of",
+            "C": "In terms of",
+            "D": "In light of"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. On account of: bởi vì\nB. Regardless of: bất kể\nC. In terms of: về phương diện\nD. In light of: xét đến, do, bởi vì\nDùng 'Regardless of your experience level' = Bất kể trình độ của bạn.\nTạm dịch: Bất kể trình độ kinh nghiệm của bạn, những hội thảo này sẽ nâng cao kỹ năng của bạn."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "ways",
+            "B": "tracks",
+            "C": "paths",
+            "D": "trails"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\n- way (n): cách\n- track (n): con đường, lối đi (hẹp, không bằng phẳng, do con người/động vật tạo ra)\n- path (n): con đường (cố tình tạo ra), con đường kế hoạch (thường dài hạn để đạt được thành công) → career path: con đường sự nghiệp\n- trail (n): đường mòn (thường gồ ghề, băng qua quốc gia hoặc khu rừng)\nTạm dịch: mở ra thế giới hướng dẫn, cơ hội thực tập và con đường sự nghiệp trong AI."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 7 to 11.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "a. Hazel: It's my first media studies assignment, and I'm not sure how to go about it. You must have done it last year.\nb. Hazel: Tom, could I ask you for some advice, please?\nc. Tom: Yes, of course, if you think I can help. What's it about?",
+          "options": {
+            "A": "a-c-b",
+            "B": "b-c-a",
+            "C": "c-a-b",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: b (Hazel xin lời khuyên) → c (Tom đồng ý và hỏi về chủ đề) → a (Hazel giải thích vấn đề).\nTạm dịch:\nb. Hazel: Tom, tớ có thể xin cậu một vài lời khuyên được không?\nc. Tom: Ừ, tất nhiên rồi, nếu cậu nghĩ tớ có thể giúp được. Về chuyện gì vậy?\na. Hazel: Đó là bài tập nghiên cứu truyền thông đầu tiên của tớ, và tớ không chắc phải làm nó như thế nào. Chắc chắn là cậu đã làm bài đó năm ngoái rồi."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "a. Then, we checked in at the hotel which was very comfortable and modern.\nb. After landing in Seoul, my family went for some tasty local dishes that were really amazing.\nc. My favorite place was Gyeongbokgung Palace, which was spectacular and famous for its architecture.\nd. The following morning, my dad likes visiting historical sites, so we went to some ancient palaces.\ne. We really enjoyed the breathtaking city view from our room.",
+          "options": {
+            "A": "b-a-e-d-c",
+            "B": "b-c-a-d-e",
+            "C": "a-d-b-c-e",
+            "D": "d-b-a-e-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: b (hạ cánh, ăn đồ địa phương) → a (nhận phòng khách sạn) → e (thưởng thức tầm nhìn từ phòng) → d (sáng hôm sau đi tham quan) → c (nơi yêu thích là Gyeongbokgung).\nTạm dịch: Sau khi hạ cánh ở Seoul, gia đình tôi đã đi thưởng thức một vài món ăn địa phương ngon tuyệt vời. Sau đó, chúng tôi nhận phòng tại khách sạn, nơi rất thoải mái và hiện đại. Chúng tôi thực sự thích tầm nhìn ngoạn mục ra thành phố từ phòng của mình. Sáng hôm sau, vì bố tôi thích tham quan các di tích lịch sử, vì vậy chúng tôi đã đến một vài cung điện cổ. Nơi yêu thích của tôi là Cung điện Gyeongbokgung, nơi rất tráng lệ và nổi tiếng với kiến trúc của nó."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "a. Matthew: Which ones are you thinking about?\nb. Kim: Yeah, I think I'll go with the city one. Thanks!\nc. Matthew: If you want new experiences, the city one might be a good choice.\nd. Kim: One's in the city, and the other is closer to home. I like the one near home, but the city one has more opportunities.\ne. Kim: Matthew, I can't decide which university to choose.",
+          "options": {
+            "A": "a-d-e-b-c",
+            "B": "d-c-b-a-e",
+            "C": "e-a-d-c-b",
+            "D": "b-a-e-c-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: e (Kim không thể quyết định) → a (Matthew hỏi trường nào) → d (Kim mô tả hai lựa chọn) → c (Matthew gợi ý trường ở thành phố) → b (Kim đồng ý).\nTạm dịch:\ne. Kim: Matthew, tớ không thể quyết định nên chọn trường đại học nào.\na. Matthew: Cậu đang nghĩ đến những trường nào?\nd. Kim: Một trường ở trong thành phố, và trường còn lại thì gần nhà hơn. Tớ thích trường gần nhà, nhưng trường ở thành phố có nhiều cơ hội hơn.\nc. Matthew: Nếu cậu muốn có những trải nghiệm mới, thì trường ở thành phố có thể là một lựa chọn tốt.\nb. Kim: Ừ, tớ nghĩ tớ sẽ chọn trường ở thành phố. Cảm ơn cậu!"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "Hi Alice,\na. That would be a perfect opportunity for us to escape from the city and breathe in some fresh mountain air!\nb. I have been thinking about planning a small, relaxing trip to the mountains this weekend to unwind a bit.\nc. Let me know if you're interested in joining; I think it could be a lot of fun!\nd. The weather forecast looks absolutely ideal for some hiking and exploring.\ne. It's been quite some time since our last outdoor adventure together, don't you think?\nWrite back soon,\nSam",
+          "options": {
+            "A": "a-e-b-d-c",
+            "B": "e-d-a-b-c",
+            "C": "c-b-d-a-e",
+            "D": "b-d-e-a-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: b (giới thiệu kế hoạch đi núi) → d (dự báo thời tiết lý tưởng) → e (đã lâu chưa phiêu lưu cùng nhau) → a (cơ hội hoàn hảo để trốn khỏi thành phố) → c (mời Alice tham gia).\nTạm dịch: Tớ đã nghĩ đến việc lên kế hoạch cho một chuyến đi nhỏ, thư giãn lên núi vào cuối tuần này. Dự báo thời tiết trông cực kỳ lý tưởng. Đã khá lâu rồi kể từ chuyến phiêu lưu ngoài trời cuối cùng của chúng ta, cậu không nghĩ vậy sao? Đó sẽ là một cơ hội hoàn hảo để trốn khỏi thành phố và hít thở không khí trong lành của núi rừng! Hãy cho tớ biết nếu cậu muốn tham gia nhé."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "a. We played ice hockey and watched some cool ice hockey games.\nb. We took a tour in Toronto, Canada for five days.\nc. We were exhausted when we reached the top, but the viewpoint was absolutely amazing.\nd. The best thing about Toronto is to climb the CN Tower, one of the world's tallest buildings.\ne. We also tried different kinds of pancakes with maple syrup that were delicious.",
+          "options": {
+            "A": "a-e-c-d-b",
+            "B": "b-c-a-d-e",
+            "C": "c-a-d-b-e",
+            "D": "b-a-e-d-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: b (đến Toronto 5 ngày) → a (chơi khúc côn cầu trên băng) → e (thử bánh kép với siro cây phong) → d (điều tuyệt vời nhất là leo CN Tower) → c (kiệt sức khi lên đến đỉnh nhưng tầm nhìn tuyệt vời).\nTạm dịch: Chúng tôi đã có một chuyến tham quan ở Toronto, Canada trong 5 ngày. Chúng tôi đã chơi khúc côn cầu trên băng và xem một vài trận đấu khúc côn cầu trên băng rất hay. Chúng tôi cũng đã thử nhiều loại bánh kép khác nhau với siro cây phong rất ngon. Điều tuyệt vời nhất ở Toronto là leo lên Tháp CN, một trong những tòa nhà cao nhất thế giới. Chúng tôi đã kiệt sức khi lên đến đỉnh, nhưng khung cảnh từ trên cao thì thật sự tuyệt vời."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 12 to 21.",
+      "passageTitle": "SOUND FROM THE PAST",
+      "passage": "Much of the music we listen to today is a mixture of styles from various countries and time periods. A lot of music has roots in older traditional songs heard in many different countries around the world. Traditional, or folk, music is collected over decades, if not centuries. Younger generations learn these songs from their elders through practice and repetition.\n\nSince music can tell us a lot about different cultures through its lyrics, melodies, and the instruments used, researchers and music fans see it as an essential part of history. They fear that traditional and older types of music are slowly disappearing, partly because they are less likely to be written down or recorded, or because the format in which they are recorded is no longer in use. Also, younger generations may not find such music very appealing, so once older generations pass away, the music may die out with them. Whole genres of music may go extinct.\n\nThere is a growing effort to preserve music in its many forms. Some researchers create field recordings- recordings made outside of a recording studio - to capture live performances. For example, in the early 1900s, social scientist Frances Densmore made recordings of Native American songs that had been sung for many generations but were in danger of falling by the wayside. Researchers also transcribe old music by listening to old recordings - sometimes the only one of its kind left. They try to write out the music so that it can be studied and played by modern musicians.\n\n(I) Collecting music is another form of music preservation. (II) Some collectors are extremely passionate about their music and will spend a lot of time and money looking for things that have not been produced or sold for many years. (III) Their efforts help to document the music of different cultures, genres, time periods, and places. (IV) There are also associations and societies to preserve and celebrate very specific kinds of music.\n\nNow, modern technology makes it much easier to preserve music. Smartphones can be used to record music, while the Internet lets us share these recordings and find people with similar interests. Soon, losing a piece of music may be a thing of the past.\n\n(Adapted from Active Skill for Reading 2 by Neil J Anderson)",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "The word \"They\" in paragraph 2 refers to_______.",
+          "context": "",
+          "options": {
+            "A": "different cultures",
+            "B": "researchers and music fans",
+            "C": "lyrics, melodies",
+            "D": "the instruments"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'They' trong câu 'They fear that traditional and older types of music are slowly disappearing' đề cập đến chủ ngữ gần nhất trước đó: 'researchers and music fans'.\nTạm dịch: Vì âm nhạc có thể tiết lộ nhiều điều về các nền văn hóa khác nhau qua lời bài hát, giai điệu và các loại nhạc cụ được sử dụng, các nhà nghiên cứu và người yêu nhạc coi nó là một phần quan trọng của lịch sử. Họ lo ngại rằng các thể loại nhạc truyền thống và cổ xưa đang dần biến mất."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Since the younger generations are not attracted to older music, it may one day stop being performed.",
+            "B": "Young people do not care much for traditional music, even though it is popular with older generations.",
+            "C": "When older generations are gone, their music may disappear due to a lack of interest among younger listeners.",
+            "D": "If older generations are no longer around, the interest in certain music types may lessen over time."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu gạch chân: 'younger generations may not find such music very appealing, so once older generations pass away, the music may die out with them.'\nC đúng vì: Khi các thế hệ lớn tuổi không còn, âm nhạc của họ có thể biến mất do thiếu sự quan tâm từ thính giả trẻ — đây là diễn đạt lại đúng nhất của câu gốc.\nA sai: câu gốc không nói âm nhạc sẽ 'không còn được biểu diễn'\nD sai: câu gốc không nói sự quan tâm 'giảm dần theo thời gian' mà âm nhạc có thể 'chết đi cùng với' thế hệ lớn tuổi."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The phrase \"falling by the wayside\" in paragraph 3 could be best replaced by_______.",
+          "context": "",
+          "options": {
+            "A": "becoming eminent",
+            "B": "being forgotten",
+            "C": "gaining popularity",
+            "D": "remaining preserved"
+          },
+          "correctAnswer": "B",
+          "explanation": "falling by the wayside: bị lãng quên = being forgotten.\nTạm dịch: vào đầu những năm 1900, nhà khoa học xã hội Frances Densmore đã thu âm các bài hát của người Mỹ bản địa, những bài hát đã được truyền qua nhiều thế hệ nhưng đang có nguy cơ bị lãng quên."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Field recordings have been made of Native American songs to preserve them for future generations.",
+            "B": "Many musicians today are trying to revive old music by studying recordings from past generations.",
+            "C": "Researchers focus on recording Native American songs to prevent them from being forgotten.",
+            "D": "Researchers are making efforts to preserve music by recording live performances and transcribing old music for modern musicians."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 3 nói về những nỗ lực bảo tồn âm nhạc bằng nhiều cách khác nhau, bao gồm ghi âm thực địa, thu âm lại các bài nhạc xưa, hoặc ghi chép lại nhạc cho các nhạc sĩ hiện đại nghiên cứu.\nD tóm tắt đúng nhất toàn bộ đoạn (không chỉ tập trung vào bài hát người Mỹ bản địa như A và C)."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Where in paragraph 4 does the following sentence best fit? \"For example, some folk musicians from the island of Madagascar punk rock fans still collect cassette tapes from the 70s, while many jazz fans prefer to listen to old vinyl records.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu trên phù hợp nhất ở vị trí (III) vì đưa ra ví dụ để làm cung cấp luận cứ cho ý 'looking for things that have not been produced or sold for many years' ở câu liền trước vị trí (III).\nThông tin: Some collectors are extremely passionate about their music and will spend a lot of time and money looking for things that have not been produced or sold for many years. [ví dụ về collectors tìm nhạc cũ] Their efforts help to document the music of different cultures, genres, time periods, and places."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "The word \"similar\" in paragraph 5 is OPPOSITE in meaning to_______.",
+          "context": "",
+          "options": {
+            "A": "lenient",
+            "B": "separate",
+            "C": "repulsive",
+            "D": "monotonous"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. lenient /ˈliː.ni.ənt/ (adj): khoan dung, nhân từ\nB. separate /ˈsep.ər.ət/ (adj): tách biệt, riêng rẽ\nC. repulsive /rɪˈpʌl.sɪv/ (adj): ghê tởm, gớm ghiếc\nD. monotonous /məˈnɒt.ən.əs/ (adj): đơn điệu, buồn tẻ\nsimilar /ˈsɪm.ɪ.lər/ (adj): tương đồng >< separate\nTạm dịch: Điện thoại thông minh có thể được sử dụng để thu âm nhạc, trong khi Internet cho phép chúng ta chia sẻ những bản ghi này và kết nối với những người có sở thích tương tự."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following is NOT mentioned in the passage as a way researchers are trying to preserve music?",
+          "context": "",
+          "options": {
+            "A": "Creating field recordings of live performances",
+            "B": "Transcribing old music by listening to old recordings",
+            "C": "Collecting rare and hard-to-find music",
+            "D": "Bring music into the teaching program"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin:\n+ A sai (đề cập): Some researchers create field recordings to capture live performances.\n+ B sai (đề cập): Researchers also transcribe old music by listening to old recordings.\n+ C sai (đề cập): Collecting music is another form of music preservation.\n+ D đúng (không đề cập): Việc đưa âm nhạc vào chương trình giảng dạy không được đề cập trong đoạn văn."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "Which of the following statements is NOT TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Some researchers focus on recording live music performances in order to preserve them.",
+            "B": "The preservation of music primarily relies on written transcription rather than live recordings",
+            "C": "There is a concern that older forms of music might disappear because they are not commonly recorded or written down.",
+            "D": "There are organizations specifically focused on maintaining certain types of traditional music."
+          },
+          "correctAnswer": "B",
+          "explanation": "A đúng: Some researchers create field recordings to capture live performances.\nC đúng: traditional and older types of music are slowly disappearing, partly because they are less likely to be written down or recorded.\nD đúng: There are also associations and societies to preserve and celebrate very specific kinds of music.\nB sai: Đoạn văn không nói bảo tồn âm nhạc CHỦ YẾU dựa vào ghi chép chứ không phải ghi âm trực tiếp — thực tế cả hai phương pháp đều được đề cập như nhau."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The loss of traditional music is inevitable because younger generations are not interested in it.",
+            "B": "Traditional music is easier to preserve than modern music due to its historical significance.",
+            "C": "Technology may completely replace traditional music preservation methods in the future.",
+            "D": "Music preservation efforts have grown because people increasingly value traditional music as a historical resource."
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai: việc âm nhạc truyền thống biến mất hoàn toàn là 'may' (có thể), không phải 'inevitable'\nB sai: không có thông tin về sự so sánh này\nC sai: công nghệ chỉ giúp việc gìn giữ dễ dàng hơn, không phải thay thế hoàn toàn\nD đúng: 'There is a growing effort to preserve music' + 'researchers and music fans see it as an essential part of history' → Các nỗ lực bảo tồn âm nhạc đã tăng lên vì ngày càng nhiều người coi âm nhạc truyền thống là một nguồn tài nguyên lịch sử quý giá."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Music from different cultures is disappearing due to the lack of recordings, but some researchers are preserving it through field recordings and collections.",
+            "B": "Music is an important part of history, and efforts are being made to preserve traditional and older forms of music through various methods.",
+            "C": "The preservation of traditional music relies solely on the efforts of passionate collectors who search for old recordings and write down music for future generations.",
+            "D": "Researchers and music enthusiasts believe that the best way to preserve music is by promoting new music formats and encouraging younger generations to listen to them."
+          },
+          "correctAnswer": "B",
+          "explanation": "Tóm tắt các đoạn:\n- Đoạn 1: Nhiều loại nhạc hiện nay là sự pha trộn, với nhiều gốc rễ từ các bài hát truyền thống cũ.\n- Đoạn 2: Âm nhạc là một phần quan trọng của lịch sử, nhưng các loại nhạc truyền thống đang dần biến mất.\n- Đoạn 3: Có nỗ lực ngày càng tăng để bảo tồn âm nhạc, bao gồm việc tạo ra các bản ghi âm hiện trường và chép lại nhạc cũ.\n- Đoạn 4: Sưu tầm nhạc cũng là một hình thức bảo tồn.\n- Đoạn 5: Công nghệ hiện đại giúp việc bảo tồn âm nhạc trở nên dễ dàng hơn.\nB tóm tắt đúng nhất toàn bộ đoạn văn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 22 to 26.",
+      "passageTitle": "FROM THE BUSTLING CITIES THAT",
+      "passage": "The Red River, flowing through the north of Vietnam, (22)_______. From the bustling cities that line its banks to the ancient temples and historic sites that dot the landscape, the Red River is a must-see destination for any traveler who wants to experience the rich history and vibrant culture of Vietnam. The Red River originates in China and flows into Vietnam, eventually emptying into the Gulf of Tonkin. It enters Vietnam at A Mu Sung commune in Bat Xat District and continues through Hanoi. The river then flows into the East Sea at the Ba Lat Estuary (23)_______. The Vietnam Red River is not only crucial for agriculture and fisheries but also contributes to the scenic beauty of the North Vietnamese landscape. The river's silt provides nutrients for farmland and helps expand the coastal delta region. (24) _______. Known for its breathtaking scenery and rich biodiversity, (25)_________. The surrounding riverbanks are home to numerous species of plants and animals, some of which are unique to the region. (26)_______. As a cultural and economic lifeline, the Red River continues to shape the identity of northern Vietnam, making it an essential part of the country's heritage.\n\n(Adapted from https://vinpearl.com)",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "where a stunning blend of natural beauty and cultural heritage is offered",
+            "B": "offering a stunning blend of natural beauty and cultural heritage",
+            "C": "which offers a stunning blend of natural beauty and cultural heritage",
+            "D": "offers a stunning blend of natural beauty and cultural heritage"
+          },
+          "correctAnswer": "D",
+          "explanation": "Phân tích thành phần câu:\n- Chủ ngữ: 'The Red River'\n- Mệnh đề quan hệ rút gọn: 'flowing through the north of Vietnam' (which flows → flowing)\n→ Câu thiếu vị ngữ → Chỗ trống cần động từ có chia thì\nA. Sai vì sử dụng mệnh đề quan hệ\nB. Sai vì sử dụng hiện tại phân từ\nC. Sai vì sử dụng mệnh đề quan hệ\nD. Đúng: 'offers a stunning blend of natural beauty and cultural heritage' — động từ chính của câu\nTạm dịch: Sông Hồng, chảy qua miền Bắc Việt Nam, mang đến một sự kết hợp tuyệt đẹp giữa vẻ đẹp thiên nhiên và di sản văn hóa."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which is located between the provinces of Thai Binh and Nam Dinh",
+            "B": "is located between the provinces of Thai Binh and Nam Dinh",
+            "C": "has its location between the provinces of Thai Binh and Nam Dinh",
+            "D": "of which the location between the provinces of Thai Binh and Nam Dinh"
+          },
+          "correctAnswer": "A",
+          "explanation": "Phân tích thành phần câu:\n- Chủ ngữ: 'The river'\n- Vị ngữ: 'then flows into the East Sea at the Ba Lat Estuary'\n→ Chỗ trống cần mệnh đề phụ thuộc (mệnh đề trạng ngữ/mệnh đề danh ngữ/mệnh đề quan hệ)\nA. Đúng: mệnh đề quan hệ bổ sung thông tin cho 'the Ba Lat Estuary'\nB. Sai vì sử dụng vị ngữ (không có đại từ quan hệ nối)\nC. Sai vì sử dụng vị ngữ\nD. Sai vì mệnh đề quan hệ thiếu động từ\nTạm dịch: Sau đó, sông chảy ra biển Đông tại cửa Ba Lạt, nằm giữa hai tỉnh Thái Bình và Nam Định."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Being a significant source of fish, freshwater aquaculture in the Red River Delta also grows",
+            "B": "It is also a significant source of fish for freshwater aquaculture in the Red River Delta",
+            "C": "Freshwater aquaculture in the Red River Delta is also a significant source of fish",
+            "D": "The Red River Delta also helps it become a significant source of fish for freshwater aquaculture"
+          },
+          "correctAnswer": "B",
+          "explanation": "Chủ ngữ của câu này phải phù hợp với mệnh đề phân từ quá khứ tiếp theo 'Known for its breathtaking scenery...'\n→ Chủ ngữ phải là sông Hồng → 'It' chỉ 'The river'\nB đúng: 'It is also a significant source of fish for freshwater aquaculture in the Red River Delta' — 'It' chỉ 'The river'\nTạm dịch: Phù sa của sông cung cấp chất dinh dưỡng cho đất canh tác và giúp mở rộng vùng đồng bằng ven biển. Nó cũng là một nguồn cung cấp cá quan trọng cho nuôi trồng thủy sản nước ngọt ở Đồng bằng sông Hồng."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "local communities and the environment can benefit from the Red River as a vital resource",
+            "B": "the environment and local communities consider the Red River as a vital source",
+            "C": "the Red River is a vital resource for both the local communities and the environment",
+            "D": "residents can make use of it as a vital resource for them as well as the environment"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mệnh đề phân từ: 'Known for its breathtaking scenery and rich biodiversity' → mệnh đề phân từ và mệnh đề chính phải chỉ cùng đối tượng (cùng chủ ngữ)\nA. Sai vì 'local communities and the environment' không phù hợp để làm chủ ngữ ở mệnh đề phân từ\nB. Sai vì 'the environment and local communities' không phù hợp\nC. Đúng: Sông Hồng là nguồn tài nguyên thiết yếu cho cả cộng đồng địa phương và môi trường\nD. Sai vì 'residents' không phù hợp để làm chủ ngữ ở mệnh đề phân từ\nTạm dịch: Nổi tiếng với cảnh quan tuyệt đẹp và hệ sinh thái đa dạng, sông Hồng là nguồn tài nguyên thiết yếu cho cả cộng đồng địa phương và môi trường."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The river also plays a significant role in the daily lives of the people, providing water for drinking, irrigation, and transportation",
+            "B": "Offering water for drinking, irrigation, and transportation, the daily lives of the people also depend on the role of the river",
+            "C": "Even though it provides water for drinking, irrigation, and transportation, the river also plays a significant role in the daily lives of the people",
+            "D": "The role of the river is also significant in the daily lives of the people so that it provides water for drinking, irrigation, and transportation"
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: Con sông cũng đóng một vai trò quan trọng trong cuộc sống hàng ngày của người dân, cung cấp nước để uống, tưới tiêu và giao thông — phù hợp với ngữ cảnh trước đó nói về đa dạng sinh học và sau đó là vai trò văn hóa/kinh tế.\nTạm dịch: Con sông cũng đóng vai trò quan trọng trong đời sống hàng ngày của người dân, cung cấp nước để uống, tưới tiêu và vận chuyển."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 27 to 32.",
+      "passageTitle": "WORKSHOP: DISCOVER GLOBAL CULTURES - YOUR FIRST STEP TO BECOMING A GLOBAL CITIZEN!",
+      "passage": "Are you curious (27)_______ the unique cultures of the world and how they shape global connections? Join our \"Discover Global Cultures\" Workshop and take your first step toward becoming a global citizen! In this workshop, you'll immerse in the rich traditions, stories, and lifestyles of various countries through interactive activities, (28)_______ cultural quizzes, traditional costume displays, and tasting sessions of iconic global dishes. Learn how people from different parts of the world celebrate life, overcome challenges, and (29)_______ connections. Beyond exploring diversity, you'll also develop essential skills like cross-cultural communication, empathy, and (30)________ - all crucial for thriving in today's interconnected world. In addition, our admissions team will be available on-site to provide expert advice on (31) _______ helping you map out your academic and career goals. Whether you desire (32)________ abroad, this workshop is your gateway to the global stage!",
+      "questions": [
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with",
+            "B": "about",
+            "C": "on",
+            "D": "at"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dạng tính từ: be curious about something: tò mò về cái gì\nTạm dịch: Bạn có tò mò về những nền văn hóa độc đáo trên thế giới và cách chúng định hình các mối quan hệ toàn cầu?"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which included",
+            "B": "including",
+            "C": "was included",
+            "D": "included"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển sang V-ing (which include → including)\nTạm dịch: Trong hội thảo này, bạn sẽ đắm mình trong những truyền thống phong phú, câu chuyện, và lối sống của nhiều quốc gia thông qua các hoạt động tương tác, bao gồm trả lời câu đố văn hóa, trình diễn trang phục truyền thống, và thưởng thức các món ăn biểu tượng từ khắp nơi trên thế giới."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "build",
+            "B": "pout",
+            "C": "tread",
+            "D": "found"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ (Collocations): build connection: xây dựng mối quan hệ\nTạm dịch: Hãy học cách con người ở các vùng đất khác nhau trên thế giới kỷ niệm cuộc sống, vượt qua thử thách, và xây dựng các mối quan hệ."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "adaptable",
+            "B": "adaptively",
+            "C": "adaptive",
+            "D": "adaptability"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. adaptable /əˈdæp.tə.bəl/ (adj): có thể thích nghi\nB. adaptively /əˈdæp.trv.li/ (adv): một cách thích nghi\nC. adaptive /əˈdæp.trv/ (adj): có tính thích nghi\nD. adaptability /ə.dæp.təˈbɪl.ə.ti/ (n): khả năng thích nghi\nChỗ trống đứng sau liên từ 'and' và trước đó đang liệt kê các danh từ → cần danh từ\nTạm dịch: Bên cạnh việc khám phá sự đa dạng, bạn cũng sẽ phát triển những kỹ năng quan trọng như giao tiếp liên văn hóa, sự đồng cảm và khả năng thích nghi – những yếu tố cần thiết để thành công trong thế giới kết nối ngày nay."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "study programs overseas",
+            "B": "programs overseas study",
+            "C": "overseas study programs",
+            "D": "study overseas programs"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\n- overseas (adj): ở nước ngoài\n- study (n): sự học tập\n- program (n): chương trình → study program: chương trình học tập\nKiến thức về trật tự từ: adj + N → overseas study programs (chương trình học tập ở nước ngoài)\nTạm dịch: Ngoài ra, đội ngũ tư vấn tuyển sinh của chúng tôi sẽ có mặt trực tiếp tại sự kiện để cung cấp lời khuyên chuyên sâu về các chương trình du học, giúp bạn lên kế hoạch học tập và định hướng sự nghiệp."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to study",
+            "B": "study",
+            "C": "to studying",
+            "D": "studying"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dạng động từ: desire to do something: khao khát làm gì\nTạm dịch: Dù bạn mong muốn du học hay không, hội thảo này sẽ là cánh cửa đưa bạn đến với sân chơi toàn cầu!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 33 to 40.",
+      "passageTitle": "STUDYING ABROAD",
+      "passage": "Studying abroad has become an increasingly popular choice for students worldwide. With globalization shaping the modern world, many young people view studying in another country as a stepping stone to better career prospects and personal development. Universities in countries like the US, UK, Canada, and Australia are seeing rising numbers of international students every year. This trend reflects the growing ambition of students to gain exposure to diverse cultures and advanced education systems.\n\nOne of the greatest benefits of studying abroad is the access to high-quality education and world-class facilities. Students often have the opportunity to learn from leading experts in their fields and experience innovative teaching methods. Additionally, studying abroad fosters cultural awareness and personal growth, as students interact with people from different backgrounds. Living in a foreign country also helps in today's globalized job market.\n\nDespite its many advantages, studying abroad is not without its challenges. One major drawback is the high cost of tuition and living expenses, which can create financial burdens for students and their families. Cultural differences and language barriers can also make it difficult for some students to adjust to their new environment. Homesickness and loneliness are common issues faced by international students, especially in the early stages of their journey.\n\nTo overcome these challenges, students can seek scholarships, part-time work opportunities or financial aid to ease the burden of expenses. Universities should also provide strong support systems, such as mentorship programs and counseling services, to help students adapt. If these obstacles are addressed effectively, studying abroad becomes an enriching experience that offers not only academic excellence but also invaluable life skills and cultural insight. It is truly a journey that can shape a brighter future.",
+      "questions": [
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following is NOT mentioned as one of the popular destinations for studying abroad in the passage?",
+          "context": "",
+          "options": {
+            "A": "US",
+            "B": "Canada",
+            "C": "Australia",
+            "D": "UAE"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Universities in countries like the US, UK, Canada, and Australia are seeing rising numbers of international students every year.\nUAE không được đề cập → Chọn đáp án D."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"diverse\" in paragraph 1 is OPPOSITE in meaning to_______.",
+          "context": "",
+          "options": {
+            "A": "various",
+            "B": "similar",
+            "C": "different",
+            "D": "divergent"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. various /ˈver.i.əs/ (adj): đa dạng\nB. similar /ˈsɪm.ɪ.lər/ (adj): tương tự\nC. different /ˈdɪf.ər.ənt/ (adj): khác nhau\nD. divergent /daɪˈvɜː.dʒənt/ (adj): khác biệt\ndiverse /daɪˈvɜːs/ (adj): đa dạng, khác nhau >< similar\nTạm dịch: Xu hướng này phản ánh tham vọng ngày càng lớn của sinh viên trong việc tiếp cận các nền văn hóa đa dạng và hệ thống giáo dục tiên tiến."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The word \"their\" in paragraph 2 refers to_______.",
+          "context": "",
+          "options": {
+            "A": "students",
+            "B": "methods",
+            "C": "experts",
+            "D": "fields"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tạm dịch: Sinh viên thường có cơ hội học hỏi từ những chuyên gia hàng đầu trong lĩnh vực của họ (their = của các chuyên gia = experts) và trải nghiệm các phương pháp giảng dạy đổi mới."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"invaluable\" in paragraph 4 could be best replaced by_______.",
+          "context": "",
+          "options": {
+            "A": "priceless",
+            "B": "needless",
+            "C": "worthless",
+            "D": "valueless"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. priceless /ˈpraɪs.ləs/ (adj): vô giá, không thể định giá\nB. needless /ˈniːd.ləs/ (adj): không cần thiết\nC. worthless /ˈwɜːθ.ləs/ (adj): không có giá trị\nD. valueless /ˈvæl.juː.ləs/ (adj): không có giá trị\ninvaluable (adj): vô giá, không thể định giá = priceless\nTạm dịch: Nếu những trở ngại này được giải quyết hiệu quả, du học sẽ trở thành một trải nghiệm phong phú, không chỉ mang lại thành tựu học thuật mà còn cả những kỹ năng sống và cái nhìn sâu sắc về văn hóa vô giá."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Reducing costs while studying abroad requires students to rely on scholarships, part-time work, and financial support from universities.",
+            "B": "Students can reduce financial burdens by finding scholarships or relying entirely on their families for support while studying abroad.",
+            "C": "Financial difficulties for students studying abroad can be solved by seeking loans instead of looking for scholarships or part-time jobs.",
+            "D": "Scholarships, financial assistance, or work opportunities are recommended for students to reduce the financial difficulties of studying abroad."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gạch chân: 'To overcome these challenges, students can seek scholarships, part-time work opportunities or financial aid to ease the burden of expenses.'\nD đúng: Học bổng, hỗ trợ tài chính hoặc cơ hội làm việc được khuyến nghị để giúp sinh viên giảm bớt khó khăn tài chính khi du học.\nA sai: câu gốc không nói đến 'tài trợ tài chính từ các trường đại học'\nB sai: câu gốc không đề cập đến việc 'hoàn toàn dựa vào gia đình'\nC sai: câu gốc không nói đến 'vay tiền'"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Globalization has reduced the trend of studying abroad for better career prospects.",
+            "B": "Students interact less with peers abroad mainly due to fear of cultural differences.",
+            "C": "Living in a foreign country equips students with essential skills for today's job-market.",
+            "D": "Students studying abroad do not worry about financial burdens such as tuition and living expenses."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai: Toàn cầu hóa đã làm TĂNG xu hướng du học, không phải giảm.\nB sai: Sinh viên TƯƠNG TÁC với bạn bè từ các nền văn hóa khác nhau, không phải tương tác ít hơn.\nC đúng: 'Living in a foreign country also helps in today's globalized job market.' → Việc sống ở một quốc gia xa lạ cũng giúp ích rất nhiều trong thị trường việc làm toàn cầu hóa ngày nay.\nD sai: 'One major drawback is the high cost of tuition and living expenses, which can create financial burdens' → Sinh viên có lo lắng về gánh nặng tài chính."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "In which paragraph does the writer mention a concession relationship?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Mối quan hệ nhượng bộ (concession relationship) dùng các từ nối như: despite, although, even though, however, nevertheless...\nĐoạn 3: 'Despite its many advantages, studying abroad is not without its challenges.' → Mặc dù có nhiều lợi ích to lớn, du học không phải không có thách thức.\n'Despite' biểu thị mối quan hệ nhượng bộ."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "In which paragraph does the writer propose methods to overcome difficulties?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Đoạn 4: 'To overcome these challenges, students can seek scholarships, part-time work opportunities or financial aid to ease the burden of expenses. Universities should also provide strong support systems, such as mentorship programs and counseling services, to help students adapt.'\n→ Tác giả đề xuất phương pháp để vượt qua những khó khăn trong đoạn 4."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.603033+00:00",
+  "updatedAt": "2026-06-08T10:41:58.603033+00:00",
+  "originalFileName": "THPT_Nguyen_Khuyen_TPHCM_2025.json"
+}

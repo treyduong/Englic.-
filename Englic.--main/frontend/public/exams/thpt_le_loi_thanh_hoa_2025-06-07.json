@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_le_loi_thanh_hoa_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Lê Lợi, Thanh Hóa",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT Le Loi Thanh Hoa 2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ThanhHóa",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6.",
+      "passageTitle": "WANT TO BE A PRODUCT REVIEWER?",
+      "passage": "Tech World Magazine Online is hiring for two positions in our technology section. We're looking for individuals who are (1)_______ about electronic products and can express their opinions clearly. Ideal candidates should (2)_________ a strong understanding of tech trends and products. A background in writing or reviewing technology is a plus.\nWe offer (3)_______ and a bonus (4)_______ on the number of times people view, share, and comment on your reviews.\nIf you have a knack (5)_______ tech writing and want to be part of an exciting team, we'd love to hear from you! (6)_______, please contact us at info@techworldmagazine.com.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "passionate",
+            "B": "passionateness",
+            "C": "passion",
+            "D": "passionately"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\nA. passionate /ˈpæʃənət/ (adj): đam mê ✓\nB. passionateness /ˈpæʃənətnəs/ (n): (ít dùng) niềm đam mê (thường dùng 'passion' hơn)\nC. passion /ˈpæʃn/ (n): niềm đam mê\nD. passionately /ˈpæʃənətli/ (adv): một cách đam mê\n- passionate about: đam mê về cái gì đó\nTạm dịch: Chúng tôi đang tìm kiếm những cá nhân đam mê về các sản phẩm điện tử và có khả năng diễn đạt ý kiến một cách rõ ràng."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take",
+            "B": "make",
+            "C": "get",
+            "D": "have"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: have an understanding of: có sự hiểu biết về\nTạm dịch: Ứng viên lý tưởng nên có sự hiểu biết vững chắc về các xu hướng và sản phẩm công nghệ."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "working flexible hours",
+            "B": "working hours flexible",
+            "C": "hours flexible working",
+            "D": "flexible working hours"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: Ta dùng tính từ 'flexible' (linh hoạt) đứng trước danh từ 'working hours' (các giờ làm việc).\nTạm dịch: Chúng tôi cung cấp các giờ làm việc linh hoạt và một khoản tiền thưởng được dựa trên số lượng mọi người xem, chia sẻ và bình luận về bài đánh giá của bạn."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "based",
+            "B": "which based",
+            "C": "basing",
+            "D": "to base"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ: Để rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và 'to be' (nếu có), giữ nguyên quá khứ phân từ (V3/ed) (which is based → based).\nTạm dịch: Chúng tôi cung cấp các giờ làm việc linh hoạt và một khoản tiền thưởng được dựa trên số lượng mọi người xem, chia sẻ và bình luận về bài đánh giá của bạn."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with",
+            "B": "in",
+            "C": "for",
+            "D": "at"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về giới từ: have a knack for: có năng khiếu về\nTạm dịch: Nếu bạn có năng khiếu về viết lách công nghệ và muốn trở thành một phần của đội ngũ đầy thú vị, chúng tôi rất mong nhận được tin từ bạn!"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Apply",
+            "B": "To be applied",
+            "C": "Applying",
+            "D": "To apply"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to' chỉ mục đích: to V: để làm gì đó\nTạm dịch: Để ứng tuyển, vui lòng liên hệ với chúng tôi qua info@techworldmagazine.com."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 7 to 14.",
+      "passageTitle": "Urbanisation in Vietnam",
+      "passage": "The urbanization process in Vietnam has yielded many significant achievements. The urbanization rate has now reached approximately 40%, with 870 urban areas distributed relatively evenly across the country. This has contributed to the promotion of GDP growth and the long-term transformation of growth models. Moreover, it has fostered advancements in science, technology, innovation, culture, the arts, education, training, and healthcare. Urbanization has also played a key role in creating balanced regional development and addressing issues in agriculture and rural areas.\n\nHowever, urban development in Vietnam faces several challenges. The quality of urban areas has been neglected, and both technical and social infrastructures are not synchronized leading to overcrowding. Environmental pollution, inefficient resource use, and energy consumption are also pressing issues. Furthermore, the urban system in Vietnam is confronting new obstacles, such as the impacts of climate change and the ongoing Covid-19 pandemic. These factors are generating fresh problems for urban planning, construction, and development.\n\nThe Vietnamese government has given great importance to urban planning and development. Many projects and programs for the 2021-2030 period have been approved, including the Sustainable Smart City Development Plan, the Project for Developing Cities to Respond to Climate Change, and the National Urban Upgrading Plan. In the near future, the Politburo will issue a Resolution on \"Urbanization, Urban Development, and Urban Economic Development in Vietnam until 2030, with a Vision to 2045.\" This Resolution will serve as a foundation for the Government to concretize policies on urban development and urban reconstruction, ensuring that appropriate resources are allocated for these goals.\n\nIf these measures are implemented effectively, urban development in Vietnam will be better coordinated, sustainable, and resilient to future challenges.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is NOT mentioned as one of the achievements of Vietnam's urbanisation process?",
+          "context": "",
+          "options": {
+            "A": "the promotion of GDP growth",
+            "B": "advancements in many aspects",
+            "C": "the balanced development among regions",
+            "D": "the synchronized infrastructures"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin:\n+ This has contributed to the promotion of GDP growth → A được đề cập.\n+ it has fostered advancements in science, technology, innovation, culture, the arts, education, training, and healthcare → B được đề cập.\n+ Urbanization has also played a key role in creating balanced regional development → C được đề cập.\nD (cơ sở hạ tầng đồng bộ) không được đề cập là thành tựu; thực tế bài đọc nêu đây là thách thức: 'both technical and social infrastructures are not synchronized'."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word 'pressing' in paragraph 2 is OPPOSITE in meaning to ___.",
+          "context": "",
+          "options": {
+            "A": "unimportant",
+            "B": "burning",
+            "C": "urgent",
+            "D": "obligatory"
+          },
+          "correctAnswer": "A",
+          "explanation": "pressing /ˈpresɪŋ/ (adj): cấp bách, khẩn thiết >< unimportant (adj): không quan trọng\nA. unimportant /ˌʌnɪmˈpɔːrtnt/ (adj): không quan trọng ✓\nB. burning /ˈbɜːrnɪŋ/ (adj): cấp bách, nóng bỏng (đồng nghĩa)\nC. urgent /ˈɜːrdʒənt/ (adj): khẩn cấp (đồng nghĩa)\nD. obligatory /əˈblɪɡətri/ (adj): bắt buộc"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "The word 'it' in paragraph 1 refers to ___.",
+          "context": "",
+          "options": {
+            "A": "the urbanization rate",
+            "B": "the urbanization process",
+            "C": "the promotion of GDP growth",
+            "D": "the Vietnamese government"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: The urbanization process in Vietnam has yielded many significant achievements... Moreover, it has fostered advancements in science, technology, innovation, culture...\nTừ 'it' ở đoạn 1 đề cập đến 'the urbanization process' - chủ ngữ của câu đầu tiên trong đoạn."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "The word 'concretize' in paragraph 3 could be best replaced by ___.",
+          "context": "",
+          "options": {
+            "A": "actualize",
+            "B": "fulfill",
+            "C": "recognize",
+            "D": "understand"
+          },
+          "correctAnswer": "A",
+          "explanation": "concretize /ˈkɒŋkriːtaɪz/ (v): cụ thể hóa = actualize (v): hiện thực hóa\nA. actualize /ˈækʃuəlaɪz/ (v): hiện thực hóa ✓\nB. fulfill /fʊlˈfɪl/ (v): hoàn thành, đáp ứng\nC. recognize /ˈrekəɡnaɪz/ (v): nhận ra, công nhận\nD. understand /ˌʌndəˈstænd/ (v): hiểu"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The Vietnamese government has been actively involved in urban planning and development.",
+            "B": "Urban planning and development have been a minor concern for the Vietnamese government.",
+            "C": "The Vietnamese government has largely ignored urban planning and development in recent years.",
+            "D": "Urban planning and development have not been prioritized by the Vietnamese government."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: The Vietnamese government has given great importance to urban planning and development.\nDịch: Chính phủ Việt Nam rất coi trọng quy hoạch và phát triển đô thị.\nA. Chính phủ Việt Nam đã tích cực tham gia vào quy hoạch và phát triển đô thị. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc ✓\nB, C, D đều trái ngược nghĩa câu gốc."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Environmental pollution is not considered a challenge in urban development in Vietnam.",
+            "B": "The government has approved a plan to develop Vietnam's cities to respond to climate change.",
+            "C": "Approximately 40% of 870 urban areas in Vietnam have been urbanized already.",
+            "D": "The Vietnamese urban system is fully equipped with synchronized technical and social infrastructure."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Many projects and programs for the 2021-2030 period have been approved, including the Sustainable Smart City Development Plan, the Project for Developing Cities to Respond to Climate Change, and the National Urban Upgrading Plan.\n→ B đúng: Chính phủ đã phê duyệt kế hoạch phát triển các thành phố của Việt Nam ứng phó với biến đổi khí hậu.\nA sai vì ô nhiễm môi trường là vấn đề cấp bách được đề cập.\nC sai vì tỷ lệ đô thị hóa đạt khoảng 40% tổng diện tích, không phải 40% của 870 đô thị.\nD sai vì cơ sở hạ tầng chưa đồng bộ."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "In which paragraph does the writer mention the problems of urbanisation in Vietnam?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tác giả đề cập đến các vấn đề của đô thị hóa ở Việt Nam ở đoạn 2.\nThông tin: However, urban development in Vietnam faces several challenges. The quality of urban areas has been neglected, and both technical and social infrastructures are not synchronized leading to overcrowding. Environmental pollution, inefficient resource use, and energy consumption are also pressing issues..."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "In which paragraph does the writer mention the orientation of urban development in Vietnam?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 2",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả đề cập đến định hướng phát triển đô thị ở Việt Nam ở đoạn 3.\nThông tin: The Vietnamese government has given great importance to urban planning and development. Many projects and programs for the 2021-2030 period have been approved, including the Sustainable Smart City Development Plan, the Project for Developing Cities to Respond to Climate Change, and the National Urban Upgrading Plan. In the near future, the Politburo will issue a Resolution on \"Urbanization, Urban Development, and Urban Economic Development in Vietnam until 2030, with a Vision to 2045.\""
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 15 to 24.",
+      "passageTitle": "Sweden's Green Living",
+      "passage": "Sweden is widely recognized as a global leader in environmental sustainability and green living. The country's commitment to preserving its natural environment and reducing its carbon footprint has become an integral part of its national identity. Swedish citizens are not only conscientious about recycling and waste management but are also active in reducing energy consumption and promoting eco-friendly lifestyles. The Swedish government has implemented progressive policies and initiatives aimed at fostering a sustainable society, encouraging both individuals and corporations to adopt greener practices. The concept of \"green living\" in Sweden is seen as a comprehensive approach that encompasses energy efficiency, renewable energy, waste reduction, and the promotion of environmentally friendly products and services.\n\nA key element of Sweden's environmental strategy is its reliance on renewable energy. (I) The country has significantly reduced its dependence on fossil fuels by investing in wind, solar, and hydroelectric power. (II) Almost half of Sweden's energy consumption is derived from renewable sources, and the country aims to achieve carbon neutrality by 2045. (III) In addition to renewables, nuclear energy provides a low-carbon alternative to fossil fuels, while energy efficiency measures such as advanced building standards and smart grids help lower overall energy demand. (IV)\n\nSweden also excels in waste management and recycling, with one of the highest recycling rates globally. Nearly 99% of the country's waste is recycled, and non-recyclable waste is incinerated to generate energy. This waste-to-energy strategy reduces landfill use and contributes to Sweden's renewable energy supply. The country has also implemented measures to tackle plastic waste, including banning single-use plastics and promoting reusable alternatives. These efforts support a circular economy, where resources are continuously reused, reducing environmental impact.\n\nSustainable transportation is another cornerstone of Sweden's green initiatives. The Swedish government has invested in public transportation, cycling infrastructure, and electric vehicles (EVs). Sweden is a leader in EV adoption, with widespread use among citizens, supported by government incentives. Additionally, cycling lanes and car-free zones in cities encourage eco-friendly travel. Sweden's focus on biofuels and sustainable aviation technologies further reduces the carbon emissions from transportation, aligning with its broader environmental goals.\n\nIn summary, Sweden's commitment to green living through renewable energy, waste management, and sustainable transportation exemplifies its dedication to environmental sustainability. The country's holistic approach provides a valuable model for others aiming to reduce their environmental impact and foster a cleaner, more sustainable future.",
+      "questions": [
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following is the synonym of 'reducing' as used in the first paragraph?",
+          "context": "",
+          "options": {
+            "A": "getting away with",
+            "B": "cutting in on",
+            "C": "running out of",
+            "D": "cutting down on"
+          },
+          "correctAnswer": "D",
+          "explanation": "reduce /rɪˈdjuːs/ (v): giảm bớt = cut down on\nA. get away with: thoát khỏi sự trừng phạt hoặc hậu quả\nB. cut in on: chen ngang (vào cuộc trò chuyện)\nC. run out of: hết, cạn kiệt\nD. cut down on: cắt giảm thứ gì ✓\nThông tin: The country's commitment to preserving its natural environment and reducing its carbon footprint..."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Where in paragraph 2 does the following sentence best fit?\n\"Sweden's success in transitioning to clean energy offers a model for other nations seeking sustainability.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(II)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu này phù hợp nhất ở vị trí (III) vì liên kết mạch lạc và logic với ý của câu liền trước. Câu liền trước đang đề cập về mục tiêu trung hòa carbon vào năm 2045 của Thụy Điển. Đây là minh chứng cho thấy Thụy Điển đang thành công trong việc chuyển đổi sang năng lượng sạch, vì vậy câu cần điền đề cập về việc Thụy Điển làm hình mẫu cho các quốc gia khác sẽ phù hợp nhất khi chèn vào vị trí này.\nThông tin: Almost half of Sweden's energy consumption is derived from renewable sources, and the country aims to achieve carbon neutrality by 2045. [III] Sweden's success in transitioning to clean energy offers a model for other nations seeking sustainability."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "The word 'its' in paragraph 2 refers to ___.",
+          "context": "",
+          "options": {
+            "A": "element",
+            "B": "Sweden",
+            "C": "strategy",
+            "D": "energy"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: A key element of Sweden's environmental strategy is its reliance on renewable energy.\nTừ 'its' ở đoạn 2 đề cập đến 'Sweden' - chủ thể sở hữu chiến lược môi trường."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following is NOT true about Sweden's energy consumption?",
+          "context": "",
+          "options": {
+            "A": "Sweden relies mainly on fossil fuels for its energy needs.",
+            "B": "Nuclear energy plays a key role in Sweden's energy use.",
+            "C": "Sweden plans to become carbon neutral by 2045.",
+            "D": "Sweden heavily invests in renewable energy sources."
+          },
+          "correctAnswer": "A",
+          "explanation": "A sai vì trái với thông tin bài đọc, đề cập Thụy Điển đã giảm đáng kể sự phụ thuộc vào nhiên liệu hóa thạch.\nB đúng: In addition to renewables, nuclear energy provides a low-carbon alternative to fossil fuels.\nC đúng: the country aims to achieve carbon neutrality by 2045.\nD đúng: The country has significantly reduced its dependence on fossil fuels by investing in wind, solar, and hydroelectric power."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "Which sentence best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Sweden focuses on recycling and incinerating waste to generate energy.",
+            "B": "Sweden uses waste-to-energy and encourages a circular economy, but does not ban single-use plastics.",
+            "C": "Sweden recycles nearly all its waste and uses the rest for energy, while banning single-use plastics.",
+            "D": "Sweden promotes recycling and bans single-use plastics to reduce environmental impact."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 3 đề cập: Thụy Điển tái chế gần như toàn bộ rác thải (99%) và rác thải không thể tái chế được đốt để tạo ra năng lượng. Bên cạnh đó, đất nước còn có các biện pháp giải quyết rác thải nhựa, bao gồm cấm nhựa sử dụng một lần.\nC: Thụy Điển tái chế gần như toàn bộ rác thải và sử dụng phần còn lại làm năng lượng, đồng thời cấm các loại nhựa sử dụng một lần. → Đúng vì tóm tắt đầy đủ ý của đoạn văn ✓"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Which of the following is TRUE about Sweden's green living efforts?",
+          "context": "",
+          "options": {
+            "A": "Sweden focuses solely on renewable energy, ignoring waste management.",
+            "B": "Sweden has implemented policies promoting sustainable transportation, energy efficiency, and recycling.",
+            "C": "Sweden has not made significant progress in promoting environmental sustainability.",
+            "D": "Sweden continues to rely heavily on not only fossil fuels but also hydroelectric power for energy production."
+          },
+          "correctAnswer": "B",
+          "explanation": "B đúng vì:\n+ Sustainable transportation is another cornerstone of Sweden's green initiatives.\n+ In addition to renewables, nuclear energy provides a low-carbon alternative to fossil fuels, while energy efficiency measures... help lower overall energy demand.\n+ Sweden also excels in waste management and recycling, with one of the highest recycling rates globally."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following sentences best paraphrases the highlighted sentence of paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Sweden's green initiatives heavily depend on sustainable transportation.",
+            "B": "Sustainable transportation is a minor aspect of Sweden's green efforts.",
+            "C": "Another key part of Sweden's green initiatives is the focus on sustainable transportation.",
+            "D": "Sustainable transportation in Sweden mainly focuses on creating cornerstones."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu gốc: Sustainable transportation is another cornerstone of Sweden's green initiatives.\nDịch: Giao thông bền vững là một nền tảng khác trong các sáng kiến xanh của Thụy Điển.\nC: Một phần quan trọng khác trong sáng kiến xanh của Thụy Điển là sự tập trung vào giao thông bền vững. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc ✓"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word 'holistic' in paragraph 4 is OPPOSITE in meaning to ___.",
+          "context": "",
+          "options": {
+            "A": "unlimited",
+            "B": "sufficient",
+            "C": "incomplete",
+            "D": "all-inclusive"
+          },
+          "correctAnswer": "C",
+          "explanation": "holistic /həˈlɪstɪk/ (adj): toàn diện >< incomplete (adj): chưa hoàn thành, không đầy đủ\nA. unlimited /ʌnˈlɪmɪtɪd/ (adj): không giới hạn\nB. sufficient /səˈfɪʃnt/ (adj): đủ\nC. incomplete /ˌɪnkəmˈpliːt/ (adj): chưa hoàn thành, không đầy đủ ✓\nD. all-inclusive /ˌɔːl ɪnˈkluːsɪv/ (adj): bao gồm tất cả (đồng nghĩa)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Sweden's transportation infrastructure is outdated and needs improvement.",
+            "B": "Swedish people are encouraged to cycle to help reduce the carbon emissions.",
+            "C": "Sweden has no interest in biofuels and sustainable aviation technologies.",
+            "D": "Sweden plans to eliminate the cycling lanes and car-free zones in cities by 2045."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Additionally, cycling lanes and car-free zones in cities encourage eco-friendly travel.\n→ B có thể được suy ra từ bài đọc: Người dân Thụy Điển được khuyến khích đạp xe để giúp giảm lượng khí thải carbon ✓\nA sai vì không có đủ thông tin trong bài đọc để suy ra.\nC sai vì trái ngược với thông tin bài đọc.\nD sai vì không có đủ thông tin trong bài đọc."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following sentences best summarizes the main idea of the entire passage?",
+          "context": "",
+          "options": {
+            "A": "Sweden has taken substantial measures in renewable energy, waste management, and sustainable transport to lead the way in environmental sustainability.",
+            "B": "Despite its efforts, Sweden still faces significant challenges in adopting renewable energy and sustainable transportation.",
+            "C": "Sweden's green living policies have been effective in the areas of waste management and public transport, being a global leader in environmental sustainability.",
+            "D": "Sweden has a complex waste management system, but its success is evident in its high recycling rate, making it a globally leading country in environmental sustainability."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tóm tắt bài đọc: Bài đọc đề cập về Thụy Điển, quốc gia được công nhận là dẫn đầu toàn cầu về tính bền vững môi trường. Để đạt được điều này, đất nước đã thực hiện nhiều biện pháp quan trọng trong năng lượng tái tạo, quản lý chất thải và giao thông bền vững.\nA: Thụy Điển đã thực hiện các biện pháp quan trọng trong năng lượng tái tạo, quản lý chất thải và giao thông bền vững để dẫn đầu về tính bền vững môi trường. → Đúng vì tóm tắt đầy đủ nội dung bài đọc ✓"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 25 to 29.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "a. David: That's good! What kind of work will you be doing?\nb. Sophie: I'm a bit nervous but excited to take a new role.\nc. Sophie: I'm about to start my internship next week.\nd. David: Sounds like a fantastic opportunity! Are you feeling prepared?\ne. Sophie: I'll be assisting in marketing and social media projects.",
+          "options": {
+            "A": "c-e-d-b-a",
+            "B": "e-a-c-d-b",
+            "C": "e-d-a-b-c",
+            "D": "c-a-e-d-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trình tự hội thoại:\nc (Sophie thông báo sắp bắt đầu kỳ thực tập) → a (David hỏi sẽ làm loại công việc gì) → e (Sophie trả lời: hỗ trợ các dự án tiếp thị và truyền thông xã hội) → d (David khen và hỏi có cảm thấy sẵn sàng chưa) → b (Sophie: hơi lo lắng nhưng hào hứng)."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "Dear Sir,\na. As a friendly, hard-working person with a passion for food and people, I am also fluent in English, which will allow me to assist foreign customers effectively.\nb. I would be happy to meet for an interview at your convenience and am available any afternoon during the week, with my CV attached for your reference.\nc. I am in my final year of secondary school and have previous experience in the hospitality industry, having worked as a waiter at a fast-food restaurant last summer, where I greeted customers, took orders, and served food and drinks.\nd. I am writing to apply for the part-time server position advertised on your website on 10 October, as I believe a part-time job is an excellent opportunity to gain valuable skills.\ne. If selected, I can begin working after 24 October.\nYours faithfully,\nMai Thanh Nga",
+          "options": {
+            "A": "d-b-c-a-e",
+            "B": "d-b-c-e-a",
+            "C": "d-c-a-b-e",
+            "D": "d-c-b-a-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự thư xin việc:\nd (lý do viết thư: ứng tuyển vị trí phục vụ bán thời gian) → c (giới thiệu bản thân: năm cuối cấp hai, có kinh nghiệm ngành khách sạn) → a (phẩm chất cá nhân: thân thiện, chăm chỉ, thông thạo tiếng Anh) → b (sẵn sàng phỏng vấn, đính kèm CV) → e (nếu được chọn, có thể bắt đầu làm việc sau 24 tháng 10)."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "a. Minh: Hi, Mark! Long time no see. You look so good!\nb. Minh: Yes, I have. I exercise every morning and eat more healthy food.\nc. Mark: Hi, Minh! Thanks. You look so fit, too. Have you worked out a lot recently?",
+          "options": {
+            "A": "a-c-b",
+            "B": "b-c-a",
+            "C": "c-b-a",
+            "D": "c-a-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự hội thoại:\na (Minh chào Mark: đã lâu không gặp, trông rất tuyệt!) → c (Mark đáp: cảm ơn, Minh cũng trông cân đối, gần đây có tập nhiều không?) → b (Minh xác nhận: có tập thể dục mỗi sáng và ăn nhiều thực phẩm lành mạnh hơn)."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "a. More and more companies are embracing this model since they have realised that it reduces operational costs and offers a better work-life balance for staff.\nb. Despite its advantages, some challenges remain, such as maintaining team collaboration and ensuring clear communication.\nc. It allows employees to work from anywhere, as long as they have an Internet connection, which increases flexibility and productivity.\nd. However, remote work is still a great option and has the potential to change the labour market positively.\ne. The rise of remote work has completely changed modern working environments and practices.",
+          "options": {
+            "A": "e-b-d-c-a",
+            "B": "a-c-d-b-e",
+            "C": "e-c-a-b-d",
+            "D": "a-e-c-b-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự đoạn văn:\ne (giới thiệu chủ đề: sự gia tăng của công việc từ xa) → c (nó cho phép nhân viên làm việc ở mọi nơi, tăng tính linh hoạt) → a (ngày càng nhiều công ty áp dụng vì giảm chi phí, cân bằng công việc-cuộc sống) → b (tuy nhiên, vẫn có thách thức như hợp tác nhóm và giao tiếp rõ ràng) → d (tuy nhiên, làm việc từ xa vẫn là lựa chọn tuyệt vời và có tiềm năng thay đổi thị trường lao động)."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "a. This trend reflects a shift in the population distribution in Vietnam over the 60-year period.\nb. Meanwhile, the urban population, which started at just 15% in 1960, gradually rose, reaching 37% by 2020.\nc. From 1990, the urban population increased steadily, while the rural population continued to decline.\nd. The line graph illustrates the urban and rural populations in Vietnam from 1960 to 2020, showing an overall increase in urban population and a decrease in rural population.\ne. In 1960, most people lived in rural areas, but the rural population decreased slightly to 81% by 1980, remained stable for the next decade, and then fell further to 63% by 2020.",
+          "options": {
+            "A": "d-c-a-b-e",
+            "B": "d-b-c-e-a",
+            "C": "d-e-b-c-a",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự đoạn văn mô tả biểu đồ:\nd (giới thiệu biểu đồ: minh họa dân số thành thị và nông thôn ở Việt Nam 1960-2020) → e (năm 1960, hầu hết sống ở nông thôn, dân số nông thôn giảm dần) → b (trong khi đó, dân số thành thị bắt đầu từ 15% năm 1960, tăng dần đến 37% năm 2020) → c (từ 1990, dân số thành thị tăng đều, nông thôn tiếp tục giảm) → a (xu hướng này phản ánh sự thay đổi phân bố dân cư trong 60 năm)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about humanoid robots and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 30 to 34.",
+      "passageTitle": "Pham Nhat Vuong and Vingroup",
+      "passage": "Pham Nhat Vuong is a prominent Vietnamese businessman, be the founder of Vingroup, one of the largest conglomerates in Vietnam. Born in 1968 in Hai Phong, he (30)_______. Initially, Vuong studied engineering in Ukraine, where he started a small business that produced instant noodles. His entrepreneurial skills were recognized early, (31)_______, eventually leading to the establishment of Vingroup in 1993. Over the years, Vingroup has diversified its portfolio, investing in sectors such as real estate, retail, healthcare, and technology. Vuong, (32)_______, has guided the company to become a market leader, with significant contributions to urban development in Vietnam.\nNotably, (33)_________. VinFast, the company's electric car brand, was launched with the aim of revolutionizing the global auto market. By focusing on cutting-edge technology and sustainability, (34)_________. His success is attributed to his ability to adapt to global trends while maintaining a deep understanding of the local market, making Vuong one of the wealthiest individuals in Vietnam. Through his ventures, a lasting impact on Vietnam's economic landscape has been created, driving forward modernization and innovation across the country.",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "known for his determination and strategic vision on his journey to success",
+            "B": "has been knowing for his determination and strategic vision on his journey to success",
+            "C": "knows his determination and strategic vision on his journey to success",
+            "D": "has been known for his determination and strategic vision on his journey to success"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'he' (ông ấy); do vậy, dựa vào ngữ nghĩa và ngữ cảnh của câu ta cần sử dụng một động từ chính có chia thì với dạng bị động (be + V3/ed).\n- Loại A vì sử dụng quá khứ phân từ.\n- Loại B vì sử dụng sai cấu trúc bị động (has been knowing → has been known).\n- Loại C vì sử dụng động từ chia thì hiện tại đơn ở dạng chủ động.\n- D: has been known for... → hiện tại hoàn thành bị động ✓\nTạm dịch: Sinh năm 1968 tại Hải Phòng, ông được biết đến với sự quyết tâm và tầm nhìn chiến lược trên con đường thành công của ông ấy."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "and his company soon expanded",
+            "B": "for his company soon expanded",
+            "C": "but his company soon expanded",
+            "D": "or his company soon expanded"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có đầy đủ chủ ngữ và động từ; do vậy, ta cần điền một mệnh đề phụ bắt đầu bằng liên từ phù hợp về ngữ nghĩa và ngữ cảnh để tăng thêm sự mạch lạc và logic của câu.\nDựa vào ngữ cảnh, ta thấy mệnh đề cần điền có chức năng bổ sung thêm ý nhấn mạnh về kỹ năng kinh doanh của ông Phạm Nhật Vượng → ta chọn 'and his company soon expanded' là đáp án đúng.\nTạm dịch: Kỹ năng kinh doanh của ông sớm được công nhận, và công ty của ông đã nhanh chóng mở rộng, cuối cùng dẫn đến việc thành lập Vingroup vào năm 1993."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "his leadership style is often described as visionary.",
+            "B": "of which leadership style is often described as visionary",
+            "C": "which leadership style is often described as visionary",
+            "D": "whose leadership style is often described as visionary"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'Vuong' (Vượng) và động từ chính 'has guided' (đã dẫn dắt); do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\n- Loại A vì sử dụng mệnh đề độc lập.\n- Loại B vì 'of which' không thể dùng để chỉ sự sở hữu của danh từ chỉ người phía trước (Vuong).\n- Loại C vì 'which' không thể đứng trước danh từ trong mệnh đề quan hệ (leadership style).\n- D: whose leadership style is often described as visionary → mệnh đề quan hệ sở hữu chỉ người ✓"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Vingroup's venture into the automotive sector has captured international attention",
+            "B": "the move by Vingroup into the automotive industry has gained no global interest",
+            "C": "Vietnam's foray into the automotive industry has gained international attention",
+            "D": "Vingroup's expansion into the automotive field has garnered nationwide attention"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần điền một mệnh đề phù hợp về ngữ nghĩa và ngữ cảnh.\nA. việc mạo hiểm tham gia vào lĩnh vực ô tô của Vingroup đã thu hút sự chú ý quốc tế → Đúng vì ý nghĩa câu phù hợp về ngữ nghĩa và ngữ cảnh ✓\nB sai vì ý nghĩa của câu không phù hợp về ngữ cảnh, các câu liên sau đề cập về thành công vươn tầm quốc tế của VinFast.\nC sai vì bài đọc đang tập trung nói về ông Phạm Nhật Vượng và tập đoàn Vingroup.\nD sai vì ý nghĩa của câu không phù hợp về ngữ cảnh, các câu liên sau đề cập về thành công vươn tầm quốc tế của VinFast chứ không chỉ là sự chú ý của cả nước."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "VinFast quickly became the first Vietnamese car manufacturer to reach the international stage",
+            "B": "VinFast quickly became the first Vietnamese car maker reaching the international stage",
+            "C": "Vietnam quickly became the first car producer to reach the international stage",
+            "D": "Vietnam quickly became the first car manufacturer reaching the international stage"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần điền một mệnh đề phù hợp về ngữ nghĩa và ngữ cảnh.\n- Loại C và D vì ý nghĩa của câu không phù hợp về ngữ cảnh, câu đang tập trung nói về VinFast.\n- Loại B vì sử dụng sai cấu trúc ngữ pháp (the first ... + to V) (reaching → to reach).\nA: VinFast nhanh chóng trở thành nhà sản xuất ô tô Việt Nam đầu tiên vươn tầm quốc tế ✓\nTạm dịch: Bằng cách tập trung vào công nghệ tiên tiến và tính bền vững, VinFast nhanh chóng trở thành nhà sản xuất ô tô Việt Nam đầu tiên vươn tầm quốc tế."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 35 to 40.",
+      "passageTitle": "Your Gateway to a Healthier Lifestyle!",
+      "passage": "Are you ready to (35)_______ the challenge of living healthier? (36)_______ our innovative fitness solutions, achieving your goals is easier than ever. Whether you're looking to build strength, improve endurance, or simply (37)_______ active, we have the perfect plan for you.\nOur gym memberships include access to state-of-the-art equipment, personalized training sessions, and wellness workshops-all at affordable (38)_______. Some members focus on strength training, while (39)_______ enjoy yoga and relaxation classes. Whatever your preference, we tailor your journey to suit your lifestyle.\nDon't let (40)_______ hold you back! Join a community of like-minded individuals who are committed to transforming their lives. Start today and feel the difference in your energy, health, and happiness. Your fitness journey begins now-let us help you every step of the way!",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "get on",
+            "B": "take up",
+            "C": "account for",
+            "D": "make out"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. get on: lên (xe, tàu, máy bay,...)\nB. take up: chấp nhận (thử thách, lời đề nghị, ý tưởng,...); bắt đầu theo đuổi một sở thích, hoạt động ✓\nC. account for: giải thích, chiếm\nD. make out: hiểu ra\nTạm dịch: Bạn đã sẵn sàng chấp nhận thử thách để sống khỏe mạnh hơn chưa?"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "Because of",
+            "C": "Irrespective of",
+            "D": "In case of"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm giới từ:\nA. Instead of: thay vì\nB. Because of: vì, nhờ ✓\nC. Irrespective of: bất kể, bất chấp\nD. In case of: trong trường hợp\nTạm dịch: Nhờ có những giải pháp về thể dục, thể hình sáng tạo của chúng tôi, việc đạt được mục tiêu của bạn trở nên dễ dàng hơn bao giờ hết."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "exist",
+            "B": "reside",
+            "C": "live",
+            "D": "stay"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: stay + ADJ: giữ nguyên, tiếp tục ở một trạng thái nào đó\nstay active: duy trì năng động ✓\nTạm dịch: Dù bạn muốn xây dựng sức mạnh, cải thiện sức bền hay đơn giản chỉ muốn duy trì năng động, chúng tôi có kế hoạch hoàn hảo dành cho bạn."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "costs",
+            "B": "pensions",
+            "C": "profits",
+            "D": "wages"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. cost /kɔːst/ (n): chi phí ✓\nB. pension /ˈpenʃn/ (n): lương hưu\nC. profit /ˈprɒfɪt/ (n): lợi nhuận\nD. wage /weɪdʒ/ (n): tiền lương (thường trả theo giờ hoặc ngày)\nTạm dịch: Thẻ hội viên phòng gym của chúng tôi bao gồm quyền sử dụng thiết bị hiện đại, các buổi huấn luyện được cá nhân hóa và hội thảo chăm sóc sức khỏe - tất cả với chi phí phải chăng."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "another",
+            "C": "other",
+            "D": "the others"
+          },
+          "correctAnswer": "A",
+          "explanation": "Sau chỗ trống không có danh từ và dựa vào ngữ nghĩa, ta chọn 'others' là đáp án đúng.\nA. others: những người/cái khác (đại từ, không kèm danh từ) ✓\nB. another + N (đếm được số ít): một người/cái khác\nC. other + N (đếm được số nhiều/không đếm được): những người/cái khác\nD. the others: những người/cái còn lại trong một nhóm\nTạm dịch: Một số hội viên tập trung vào rèn luyện sức mạnh, trong khi những người khác lại yêu thích các lớp yoga và thư giãn."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "complaints",
+            "B": "regrets",
+            "C": "excuses",
+            "D": "words"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. complaint /kəmˈpleɪnt/ (n): lời phàn nàn\nB. regret /rɪˈɡret/ (n): sự hối tiếc\nC. excuse /ɪkˈskjuːz/ (n): lời bào chữa, lời viện cớ ✓\nD. word /wɜːrd/ (n): từ, lời nói, lời hứa\nTạm dịch: Đừng để những lời viện cớ cản trở bạn! (Don't let excuses hold you back!)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.527519+00:00",
+  "updatedAt": "2026-06-08T10:41:58.527519+00:00",
+  "originalFileName": "THPT Le Loi Thanh Hoa 2025.json"
+}

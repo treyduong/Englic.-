@@ -1,0 +1,14 @@
+{
+  "name": "englic-vercel-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm run start",
+    "lint": "cd frontend && npm run lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^7.0.12",
+    "@google/genai": "^1.50.1"
+  }
+}

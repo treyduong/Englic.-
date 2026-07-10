@@ -1,0 +1,627 @@
+{
+  "examId": "thpt_vinh_phuc_902_2025-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Vĩnh Phúc - Mã đề 902",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Vinh_Phuc_902_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#VĩnhPhúc",
+    "#TốtNghiệp",
+    "#MãĐề902"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 10.",
+      "passageTitle": "",
+      "passage": "(I) Freelancing has emerged as a popular career choice, allowing individuals to take the reins of their professional journeys while balancing personal aspirations. (II) For many, it serves as an escape from the rigidity of the conventional 9-to-5 routine, granting them the autonomy to define their work-life balance and explore their potential on their own terms. (III) The flexibility associated with freelancing is perhaps its most attractive feature. (IV)\n\nThe flexibility associated with freelancing is perhaps its most attractive feature. Freelancers can work from virtually anywhere, whether it's the comfort of their home, a bustling café, or even a serene beach. They also have the liberty to select clients and projects that align with their interests and professional goals. However, this freedom comes with its challenges. Freelancers must manage their own finances, negotiate contracts, and market their skills effectively to attract clients. Additionally, the lack of a steady paycheck and job security can be daunting, particularly during the initial stages when building a reputation and client base requires considerable effort.\n\nDespite its advantages, freelancing can be unpredictable and challenging. Income is often irregular, with periods of abundance followed by dry spells. Freelancers are responsible for juggling multiple roles, such as acting as their own accountant, project manager, and customer service representative. Moreover, the absence of traditional employment benefits, like health insurance or paid leave, demands careful financial planning and self-discipline. Nevertheless, for those who thrive on creativity, adaptability, and independence, freelancing can be an immensely satisfying career path, offering both professional fulfillment and personal growth.\n\nIn recent years, freelancing has become more accessible thanks to the rise of remote work and online platforms. Websites like Upwork, Fiverr, and Toptal connect freelancers with clients worldwide, creating diverse opportunities in fields ranging from graphic design to software development. While freelancing requires resilience and adaptability, it offers unparalleled freedom to build a career tailored to individual strengths and passions. For many, the risks are outweighed by the rewards—a flexible, fulfilling, and self-directed professional life that empowers them to achieve their goals.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"This form of self-employment enables people to choose their projects, set flexible schedules, and work independently.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(IV)",
+            "C": "(II)",
+            "D": "(III)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Vị trí (III) phù hợp nhất vì nó trực tiếp giải thích về tính linh hoạt được đề cập trong câu trước đó. Câu này nhấn mạnh các khía cạnh cốt lõi của nghề tự do, đó là quyền tự chủ và quyền kiểm soát công việc của một người, phù hợp với ý tưởng về tính linh hoạt là một đặc điểm quan trọng của nghề tự do.\nThông tin: For many, it serves as an escape from the rigidity of the conventional 9-to-5 routine, granting them the autonomy to define their work-life balance and explore their potential on their own terms. This form of self-employment enables people to choose their projects, set flexible schedules, and work independently."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The phrase \"take the reins of\" in paragraph 1 could be best replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "accept the terms of",
+            "B": "struggle with",
+            "C": "lose control of",
+            "D": "take control of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cụm từ 'take the reins of' ở đoạn 1 có thể được thay thế tốt nhất bằng:\nA. accept the terms of: chấp nhận các điều khoản\nB. struggle with: đấu tranh với\nC. lose control of: mất kiểm soát\nD. take control of: nắm quyền kiểm soát\n- take the reins of: nắm quyền kiểm soát = take control of\nThông tin: Freelancing has emerged as a popular career choice, allowing individuals to take the reins of their professional journeys while balancing personal aspirations."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The word \"their\" in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "contracts",
+            "B": "clients",
+            "C": "finances",
+            "D": "freelancers"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'their' trong đoạn 2 đề cập đến 'freelancers'.\nTừ 'their' ám chỉ đến 'freelancers'.\nThông tin: Freelancers must manage their own finances, negotiate contracts, and market their skills effectively to attract clients."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "According to paragraph 2, which of the following is NOT true about freelancing?",
+          "context": "",
+          "options": {
+            "A": "Freelancers are guaranteed a steady income and secure job opportunities in their careers.",
+            "B": "Freelancers have to manage both their professional and financial responsibilities on their own.",
+            "C": "Freelancers can set their own schedules and work from virtually anywhere they prefer.",
+            "D": "It allows many individuals to avoid the rigidity of the 9-to-5 work routine."
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn 2, câu nào sau đây KHÔNG đúng về làm việc tự do?\nA. Những người làm việc tự do được đảm bảo thu nhập ổn định và cơ hội việc làm chắc chắn trong sự nghiệp của họ. → SAI vì đoạn văn đề cập 'thiếu mức lương ổn định', không phải 'đảm bảo thu nhập ổn định'.\nB. Người làm nghề tự do phải tự quản lý cả trách nhiệm nghề nghiệp và tài chính của mình. → ĐÚNG\nC. Người làm nghề tự do có thể tự sắp xếp lịch trình và làm việc ở bất cứ nơi nào họ muốn. → ĐÚNG\nD. Nó cho phép nhiều cá nhân tránh được sự cứng nhắc của thói quen làm việc từ 9 giờ sáng đến 5 giờ chiều. → ĐÚNG\nThông tin: Additionally, the lack of a steady paycheck and job security can be daunting..."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Freelancers thrive on adaptability and resourcefulness despite the absence of traditional employment benefits.",
+            "B": "Freelancing offers independence and flexibility but demands careful financial planning due to its inherent unpredictability.",
+            "C": "Freelancers face challenges like irregular income, self-management, and lack of benefits, despite the career's flexibility.",
+            "D": "Both the advantages and disadvantages of freelancing depend on the individual's ability to manage unpredictability."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn 3?\nA. Những người làm nghề tự do phát triển mạnh nhờ khả năng thích nghi và tháo vát mặc dù không có các chế độ phúc lợi khi việc làm truyền thống. → SAI vì thiếu ý những thách thức khi làm việc tự do như thu nhập không ổn định hoặc tự quản lý.\nB. Làm nghề tự do mang lại sự độc lập và linh hoạt nhưng đòi hỏi phải lập kế hoạch tài chính cẩn thận do không dự tính được. → SAI vì thiếu ý những thách thức trong việc làm tự do.\nC. Những người làm nghề tự do phải đối mặt với những thách thức như thu nhập không ổn định, tự quản lý và thiếu các chế độ phúc lợi, mặc dù nghề nghiệp này có tính linh hoạt. → ĐÚNG, tóm tắt đầy đủ các ý trong đoạn.\nD. Cả ưu điểm và nhược điểm của nghề tự do đều phụ thuộc vào khả năng quản lý tính không thể đoán trước của cá nhân. → SAI vì đoạn văn không đề cập đến thông tin này.\nThông tin: Despite its advantages, freelancing can be unpredictable and challenging. Income is often irregular... Freelancers are responsible for juggling multiple roles... the absence of traditional employment benefits... demands careful financial planning and self-discipline."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "The word \"daunting\" in paragraph 2 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "overwhelming",
+            "B": "thoughtful",
+            "C": "encouraging",
+            "D": "stressful"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'daunting' ở đoạn 2 TRÁI NGHĨA với:\nA. overwhelming /ˌəʊ.vəˈwel.mɪŋ/ (adj): quá mạnh, choáng ngợp\nB. thoughtful /ˈθɔːt.fəl/ (adj): sâu sắc\nC. encouraging /ɪnˈkʌr.ɪ.dʒɪŋ/ (adj): khuyến khích, khích lệ\nD. stressful /ˈstres.fəl/ (adj): căng thẳng\n- daunting /ˈdɔːn.tɪŋ/ (adj): làm nản lòng >< encouraging\nThông tin: Additionally, the lack of a steady paycheck and job security can be daunting, particularly during the initial stages when building a reputation and client base requires considerable effort."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Freelancers often struggle to find work and rely heavily on a single client for long-term job stability.",
+            "B": "Freelancing demands careful financial planning and self-discipline due to irregular income and the absence of traditional benefits.",
+            "C": "Freelancing is an easy and low-risk career choice that offers immediate high income with minimal effort.",
+            "D": "The most significant downside of freelancing is the inability to work on projects that match personal goals and interests."
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA. SAI vì đoạn văn đề cập những người làm việc tự do có quyền tự do lựa chọn khách hàng của mình hơn là sự phụ thuộc vào một khách hàng.\nB. ĐÚNG - Thu nhập thường không ổn định... Hơn nữa, việc không có các chế độ phúc lợi lao động truyền thống, đòi hỏi phải lập kế hoạch tài chính cẩn thận và tự giác.\nC. SAI vì đoạn văn đề cập làm việc tự do không thể dự tính trước và đầy thách thức.\nD. SAI vì đoạn văn đề cập những người làm việc tự do có thể làm việc với các dự án phù hợp với sở thích và mục tiêu nghề nghiệp của mình.\nThông tin: Income is often irregular... Moreover, the absence of traditional employment benefits, like health insurance or paid leave, demands careful financial planning and self-discipline."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?\n\"While freelancing requires resilience and adaptability, it offers unparalleled freedom to build a career tailored to individual strengths and passions.\"",
+          "context": "",
+          "options": {
+            "A": "Freelancing eliminates the need for hard work while ensuring consistent success in a chosen career path without challenges.",
+            "B": "Freelancing demands perseverance and flexibility but allows individuals to design careers that align with their unique skills and interests.",
+            "C": "Freelancing guarantees financial stability and provides individuals with easy career choices that require minimal effort or commitment.",
+            "D": "Freelancing restricts career options to a narrow range of skills but provides a predictable work-life balance for most people."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải đúng nhất câu gạch chân trong đoạn 4?\nMặc dù làm nghề tự do đòi hỏi sự kiên trì và khả năng thích ứng, nhưng nó mang lại sự tự do để xây dựng sự nghiệp phù hợp với thế mạnh và đam mê của từng cá nhân.\nA. SAI vì câu gốc không đề cập 'loại bỏ nhu cầu làm việc chăm chỉ'.\nB. ĐÚNG với nghĩa của câu gốc - Làm việc tự do đòi hỏi sự kiên trì và linh hoạt nhưng cho phép cá nhân thiết kế sự nghiệp phù hợp với kỹ năng và sở thích riêng của họ.\nC. SAI vì câu gốc không đề cập thông tin này.\nD. SAI vì câu gốc không đề cập thông tin này."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Most freelancers avoid tasks like managing finances and negotiating contracts because online platforms handle everything for them.",
+            "B": "Freelancers rarely need to market their skills because online platforms guarantee a steady stream of clients.",
+            "C": "Freelancers enjoy consistent income after their first year of freelancing due to growing demand for remote work.",
+            "D": "Freelancing offers freedom and flexibility but comes with significant challenges that require self-discipline and adaptability."
+          },
+          "correctAnswer": "D",
+          "explanation": "Có thể suy ra điều nào sau đây từ đoạn văn?\nA. SAI vì đoạn văn đề cập những người làm việc tự do phải đảm nhận nhiều công việc như kế toán, quản lý dự án và đại diện dịch vụ khách hàng của riêng họ.\nB. SAI vì đoạn văn đề cập những người làm việc tự do phải tiếp thị kỹ năng của mình một cách hiệu quả để thu hút khách hàng.\nC. SAI vì đoạn văn chỉ đề cập người làm nghề tự do có thu nhập không ổn định và phải tự quản lý tài chính của mình một cách cẩn thận, đặc biệt là trong giai đoạn đầu.\nD. ĐÚNG - Có thể suy ra từ thông tin này. Mặc dù làm nghề tự do đòi hỏi sự kiên trì và khả năng thích ứng, nhưng nó mang lại sự tự do để xây dựng sự nghiệp phù hợp với thế mạnh và đam mê của từng cá nhân.\nThông tin: Freelancers must manage their own finances, negotiate contracts, and market their skills effectively... the lack of a steady paycheck and job security can be daunting... While freelancing requires resilience and adaptability, it offers unparalleled freedom..."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Freelancing provides opportunities for creativity and flexibility, but freelancers can overcome financial instability easily and take on multiple roles at the same time.",
+            "B": "Freelancing combines the benefits of autonomy and self-direction with challenges like financial instability and lack of job security.",
+            "C": "With available platforms, freelancing has become accessible, offering opportunities for personal and professional growth.",
+            "D": "Freelancers are guaranteed full-time job benefits, including paid vacation and health insurance."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn văn này?\nA. SAI vì đoạn văn nhấn mạnh rằng thu nhập không ổn định và quản lý tài chính là những thách thức mà những người làm nghề tự do phải đối mặt.\nB. ĐÚNG - Làm việc tự do kết hợp lợi ích của tính tự chủ và tự định hướng với những thách thức như sự không ổn định về tài chính và thiếu sự bảo đảm trong công việc.\nC. SAI vì tóm tắt thiếu ý, chẳng hạn như những thách thức khi làm việc tự do.\nD. SAI vì đoạn văn đề cập những người làm việc tự do không có các chế độ phúc lợi truyền thống trong công việc, chẳng hạn như chế độ nghỉ phép có lương hoặc bảo hiểm y tế.\nTóm tắt:\n+ Đoạn 1: Làm việc tự do đã trở thành con đường sự nghiệp phổ biến vì tính linh hoạt, cho phép mọi người cân bằng giữa công việc với mục tiêu và trách nhiệm cá nhân.\n+ Đoạn 2: Những người làm việc tự do được hưởng quyền tự chủ, sự linh hoạt trong việc lựa chọn khách hàng và khả năng làm việc ở bất cứ đâu. Tuy nhiên, sự tự do này đi kèm với những thách thức, chẳng hạn như thu nhập không ổn định và nhu cầu quản lý tài chính và đàm phán hợp đồng.\n+ Đoạn 3: Mặc dù có tính linh hoạt, việc làm tự do liên quan đến thu nhập không ổn định, tự quản lý nhiều công việc khác nhau và thiếu các phúc lợi truyền thống như bảo hiểm y tế.\n+ Đoạn 4: Sự phát triển của các nền tảng trực tuyến như Upwork và Fiverr đã giúp cho nghề tự do dễ tiếp cận hơn. Làm việc tự do là một nghề linh hoạt và bổ ích cho những người sẵn sàng thích nghi."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 11 to 15.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "a. Online education has grown in popularity due to its flexibility, allowing students to balance their studies with personal and professional responsibilities.\nb. This means that students can attend classes from anywhere in the world, without being tied to a specific location.\nc. In addition to convenience, online courses often provide a wide range of resources, such as recorded lectures, discussion forums, and interactive assignments.\nd. In short, online education offers students the flexibility and resources they need to succeed, especially in today's fast – paced world.\ne. Online platforms are accessible at any time, allowing learners to study at their own pace, which is particularly beneficial for those with busy schedules.",
+          "options": {
+            "A": "a-b-e-c-d",
+            "B": "a-c-e-b-d",
+            "C": "d-a-c-e-b",
+            "D": "a-e-b-c-d"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: a (câu chủ đề: giáo dục trực tuyến phổ biến vì tính linh hoạt) → b (giải thích tính linh hoạt: học từ bất kỳ đâu) → e (bổ sung: các nền tảng trực tuyến có thể truy cập bất kỳ lúc nào) → c (thêm lợi ích: cung cấp nhiều tài nguyên) → d (kết luận: giáo dục trực tuyến cung cấp sự linh hoạt và tài nguyên cần thiết)."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "a. Jenny: I'll be working as a graphic designer for an advertising agency.\nb. Jenny: Yes, I'm really excited about it.\nc. Tom: That sounds like a fantastic opportunity.\nd. Tom: What will you be doing there?\ne. Tom: I heard you're starting a new job next week!",
+          "options": {
+            "A": "e-b-d-a-c",
+            "B": "d-b-e-a-c",
+            "C": "d-a-e-b-c",
+            "D": "e-a-d-b-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý của cuộc hội thoại:\ne (Tom: Mình nghe nói bạn sẽ bắt đầu công việc mới vào tuần tới!) → b (Jenny: Đúng vậy, mình rất hào hứng với công việc này.) → d (Tom: Bạn sẽ làm gì ở đó?) → a (Jenny: Mình sẽ làm thiết kế đồ họa cho một công ty quảng cáo.) → c (Tom: Có vẻ là một cơ hội tuyệt vời đấy.)"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Anna: I mostly do Hatha yoga; it's perfect for beginners and really focuses on breathing and relaxation.\nb. Anna: I've started doing yoga every morning, and it's amazing how much it helps with my stress levels.\nc. Sarah: That sounds great! What kind of yoga do you practice?",
+          "options": {
+            "A": "a-c-b",
+            "B": "a-b-c",
+            "C": "b-c-a",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý:\nb (Anna: Mình đã bắt đầu tập yoga mỗi sáng, và thật tuyệt khi thấy nó giúp giảm căng thẳng rất nhiều.) → c (Sarah: Tuyệt đấy! Bạn tập loại yoga nào vậy?) → a (Anna: Mình chủ yếu tập Hatha yoga, nó rất phù hợp cho người mới bắt đầu và thực sự chú trọng vào việc thở cũng như được thư giãn.)"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Over the past few years, I've journeyed to various parts of the world, from the bustling streets of Tokyo to the serene beaches of Bali.\nb. My love for adventure and curiosity about different ways of life have fueled my desire to explore, making each trip more rewarding than the last.\nc. Traveling to new countries and experiencing diverse cultures has always been my greatest passion.\nd. Each destination offers unique adventures, whether it's sampling street food, exploring historical sites, or connecting with locals who share their stories.\ne. In conclusion, being a globetrotter not only enriches my life but also broadens my perspective, reminding me of the beauty of our diverse world.",
+          "options": {
+            "A": "a-b-c-d-e",
+            "B": "b-c-d-e-a",
+            "C": "c-a-d-b-e",
+            "D": "d-b-a-c-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý:\nc (câu chủ đề: du lịch đến các quốc gia mới luôn là niềm đam mê lớn nhất của tôi) → a (cụ thể: trong vài năm qua, tôi đã đi đến nhiều nơi trên thế giới) → d (chi tiết: mỗi điểm đến mang lại những cuộc phiêu lưu độc đáo) → b (lý do: tình yêu phiêu lưu và sự tò mò thúc đẩy tôi khám phá) → e (kết luận: trở thành người yêu du lịch không chỉ làm phong phú cuộc sống mà còn mở rộng tầm nhìn)"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Hi Susan,\na. I hope you had a great time with everyone, and I promise to make it up to you soon.\nb. Please forgive me for not being there. I've been overwhelmed with work and completely lost track of time.\nc. I feel terrible about missing your birthday party last weekend.\nd. It was really irresponsible of me not to let you know earlier that I couldn't make it.\ne. Let's catch up sometime this week if you're free.\nAlex",
+          "options": {
+            "A": "b-e-a-d-c",
+            "B": "c-a-d-b-e",
+            "C": "a-d-b-c-e",
+            "D": "d-b-a-e-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý của bức thư xin lỗi:\nc (Tôi cảm thấy thật tệ khi đã bỏ lỡ bữa tiệc sinh nhật của bạn cuối tuần qua.) → a (Hy vọng bạn đã có một thời gian tuyệt vời bên mọi người, và tôi hứa sẽ bù đắp cho bạn sớm thôi.) → d (Thật sự là tôi đã rất thiếu trách nhiệm khi không thông báo sớm với bạn rằng tôi không thể tham gia được.) → b (Xin hãy tha thứ cho tôi vì đã không có mặt ở đó. Dạo này công việc quá tải khiến tôi hoàn toàn mất cảm giác về thời gian.) → e (Nếu bạn rảnh, chúng ta hãy gặp nhau vào tuần này nhé.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 16 to 20.",
+      "passageTitle": "",
+      "passage": "The future of electric vehicles (EVs) is promising, as technological advancements and environmental concerns (16)_____ As governments worldwide implement stricter emissions regulations and offer incentives for EV adoption, manufacturers are investing heavily in research and development. (17)_____, resulting in longer ranges and faster charging times. For instance, new solid-state batteries have the potential to enhance energy density and safety, making EVs more practical for everyday use.\n\nAdditionally, the rise of autonomous driving technology is set to revolutionize the way we interact with vehicles. Many electric models are now equipped with advanced driver-assistance systems (18)_______. Furthermore, the integration of smart technology allows for seamless connectivity, enabling drivers to monitor their vehicle's performance and locate charging stations through mobile apps.\n\n(19)_______, with more public charging stations being installed, the convenience of owning an EV is increasing. This transition to electric vehicles not only promises a reduction in carbon emissions but also fosters a cleaner, healthier environment. Overall, (20)______ and sustainable transportation.",
+      "questions": [
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "driving the automotive industry toward a sustainable transformation",
+            "B": "from which drive the automotive industry toward a sustainable transformation",
+            "C": "drive the automotive industry toward a sustainable transformation",
+            "D": "that drive the automotive industry toward a sustainable transformation"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy trong mệnh đề phụ thuộc đã có chủ ngữ chính là 'technological advancements and environmental concerns', nên chỗ cần điền là một động từ chính.\nA. Sai vì dùng hiện tại phân từ.\nB. Sai vì dùng mệnh đề quan hệ.\nC. Đúng với động từ chính 'drive'.\nD. Sai vì dùng mệnh đề quan hệ.\nTạm dịch: The future of electric vehicles (EVs) is promising, as technological advancements and environmental concerns drive the automotive industry toward a sustainable transformation."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Significant improvements have led to this focus on battery technology",
+            "B": "Having led to significant improvements in battery technology",
+            "C": "This focus of significant improvements in battery technology",
+            "D": "This focus has led to significant improvements in battery technology"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một mệnh đề độc lập liên kết mạch lạc với ý của câu trước: 'Khi các chính phủ trên toàn thế giới thực hiện các quy định về khí thải chặt chẽ hơn và đưa ra các ưu đãi để áp dụng EV, các nhà sản xuất đang đầu tư mạnh vào nghiên cứu và phát triển.', và mệnh đề quan hệ liền sau: 'mang lại phạm vi hoạt động dài hơn và thời gian sạc nhanh hơn.'\nA. Những cải tiến đáng kể đã dẫn đến sự tập trung vào công nghệ pin → SAI vì không liên kết mạch lạc với ý của câu trước và ý liền sau.\nB. Sai vì thiếu vị ngữ để tạo mệnh đề hoàn chỉnh.\nC. Sai vì thiếu vị ngữ để tạo mệnh đề hoàn chỉnh.\nD. Sự tập trung này đã dẫn đến những cải tiến đáng kể trong công nghệ pin → ĐÚNG vì liên kết mạch lạc với ý của câu trước và ý liền sau.\nTạm dịch: As governments worldwide implement stricter emissions regulations and offer incentives for EV adoption, manufacturers are investing heavily in research and development. This focus has led to significant improvements in battery technology, resulting in longer ranges and faster charging times."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "whom not only enhance safety but also pave the way for fully autonomous driving",
+            "B": "who not only enhance safety but also pave the way for fully autonomous driving",
+            "C": "whose not only enhance safety but also pave the way for fully autonomous driving",
+            "D": "which not only enhance safety but also pave the way for fully autonomous driving"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một mệnh đề quan hệ để bổ nghĩa cho cụm từ 'advanced driver-assistance systems', mà 'advanced driver-assistance systems' là vật nên dùng đại từ quan hệ chỉ vật là 'which', nên chọn D.\nA, B, C sai vì dùng đại từ quan hệ chỉ người.\nTạm dịch: Many electric models are now equipped with advanced driver-assistance systems which not only enhance safety but also pave the way for fully autonomous driving."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "As charging infrastructure continuing to expand",
+            "B": "As charging infrastructure have continued to expand",
+            "C": "As charging infrastructure continues to expand",
+            "D": "As charging infrastructure continue to expand"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một mệnh đề độc lập để liên kết mạch lạc với ý liền sau: 'với nhiều trạm sạc công cộng được lắp đặt, sự tiện lợi khi sở hữu xe điện ngày càng tăng.'\nA. Sai vì mệnh đề chưa có động từ chính.\nB. Sai vì 'charging infrastructure' là số ít nên không dùng 'have'.\nC. Hợp lý nhất vì đúng ngữ pháp và liên kết mạch lạc với ý liền sau.\nD. Sai vì 'charging infrastructure' là số ít nên động từ 'continue' phải chia.\nTạm dịch: As charging infrastructure continues to expand, with more public charging stations being installed, the convenience of owning an EV is increasing."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the future of electric vehicles holds immense potential for innovation",
+            "B": "the future for innovation holds immense potential of electric vehicles",
+            "C": "immense potential for innovation holds the future of electric vehicles",
+            "D": "electric vehicles for innovation hold immense potential for the future"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một mệnh đề độc lập để liên kết mạch lạc với ý liền trước: 'Quá trình chuyển đổi sang xe điện này không chỉ hứa hẹn sẽ giảm lượng khí thải carbon mà còn thúc đẩy một môi trường sạch hơn, lành mạnh hơn.'\nA. Tương lai của xe điện có tiềm năng to lớn cho sự đổi mới → HỢP LÝ NHẤT vì liên kết mạch lạc với câu trước.\nB. Tương lai của sự đổi mới nắm giữ tiềm năng to lớn của xe điện → Sai vì không liên kết mạch lạc với câu trước.\nC. Tiềm năng to lớn cho sự đổi mới nắm giữ tương lai của xe điện → Sai vì không liên kết mạch lạc với câu trước.\nD. Xe điện cho sự đổi mới có tiềm năng to lớn cho tương lai → Sai vì không liên kết mạch lạc với câu trước.\nTạm dịch: This transition to electric vehicles not only promises a reduction in carbon emissions but also fosters a cleaner, healthier environment. Overall, the future of electric vehicles holds immense potential for innovation and sustainable transportation."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 21 to 26.",
+      "passageTitle": "SMARTPHONES",
+      "passage": "Smartphones have become an essential part of our daily lives, (21)_____ a variety of apps that can help us with various tasks. One particularly (22)_____ is Giant. It allows users to create to-do lists and set reminders for (23)_______ deadlines. The app provides users (24)_________ a well-organized way to organize tasks effectively.\n\nWith this app, users can easily set their schedules, making it simpler to (25)_________ track of what needs to be done. Many people also enjoy the feature that allows them (26)________ their progress daily, which can be very motivating. It's a useful way to ensure that nothing gets overlooked.",
+      "questions": [
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "offering",
+            "B": "is offering",
+            "C": "offered",
+            "D": "to offer"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ:\nMệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và 'to be' (nếu có), chuyển V sang V-ing.\nTạm dịch: Smartphones have become an essential part of our daily lives, offering a variety of apps that can help us with various tasks. (Điện thoại thông minh đã trở thành một phần thiết yếu trong cuộc sống hàng ngày của chúng ta, cung cấp nhiều ứng dụng có thể giúp chúng ta thực hiện nhiều nhiệm vụ khác nhau.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "app useful smartphone",
+            "B": "smartphone useful app",
+            "C": "useful app smartphone",
+            "D": "useful smartphone app"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về trật tự từ:\n- useful /ˈjuːs.fəl/ (adj): lợi ích, hữu ích\n- smartphone app (np): ứng dụng điện thoại thông minh\nTa dùng tính từ trước cụm danh từ: useful smartphone app.\nTạm dịch: One particularly useful smartphone app is Giant. (Một ứng dụng điện thoại thông minh đặc biệt hữu ích là Giant.)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "importantly",
+            "B": "import",
+            "C": "important",
+            "D": "importance"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại:\nA. importantly /ɪmˈpɔːr.tənt.li/ (adv): quan trọng\nB. import /ɪmˈpɔːt/ (v): nhập khẩu\nC. important /ɪmˈpɔːr.tənt/ (adj): quan trọng\nD. importance /ɪmˈpɔːr.təns/ (n): tầm quan trọng\nTa dùng tính từ 'important' để bổ nghĩa cho danh từ 'deadlines'.\nTạm dịch: It allows users to create to-do lists and set reminders for important deadlines. (Nó cho phép người dùng tạo danh sách việc cần làm và đặt lời nhắc cho các thời hạn quan trọng.)"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "for",
+            "D": "with"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về giới từ:\nprovide somebody with something: cung cấp cho ai cái gì.\nTạm dịch: The app provides users with a well-organized way to organize tasks effectively. (Ứng dụng cung cấp cho người dùng cách sắp xếp các nhiệm vụ một cách hiệu quả.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "keep",
+            "B": "take",
+            "C": "set",
+            "D": "pay"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ cố định:\nkeep track of somebody/something: theo dõi ai/cái gì.\nTạm dịch: With this app, users can easily set their schedules, making it simpler to keep track of what needs to be done. (Với ứng dụng này, người dùng có thể dễ dàng thiết lập lịch trình của mình, giúp theo dõi những việc cần làm dễ dàng hơn.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to checking",
+            "B": "to check",
+            "C": "check",
+            "D": "checking"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về dạng động từ:\nallow somebody/something to do something: cho phép ai/cái gì làm gì.\nTạm dịch: Many people also enjoy the feature that allows them to check their progress daily, which can be very motivating. (Nhiều người cũng thích tính năng cho phép họ kiểm tra tiến độ hàng ngày, điều này tạo động lực cho họ.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about human life expectancy and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 27 to 34.",
+      "passageTitle": "",
+      "passage": "Nomophobia, short for \"no-mobile-phone phobia,\" is a modern phenomenon that affects many people in today's digital age.\n\nWhat is nomophobia? It is the irrational fear of being without one's mobile phone or being unable to use it. This condition can cause anxiety and distress, and it highlights the profound impact mobile devices have on our lives. The fear losing or being separated from one's phone is a growing concern. Some common situations that trigger nomophobia include misplacing one's phone, running out of battery, or losing network signal. The fear intensifies when people imagine not having their phones to contact friends and family, access the internet, or use GPS for navigation.\n\nWho easily suffers from nomophobia? Nomophobia is not limited to any age group and can affect individuals of all backgrounds. It often becomes evident when people experience panic or anxiety when they forget their phones at home or are unable to use them temporarily. Symptoms may include restlessness, rapid heartbeat, sweating, and a sense of insecurity.\n\nThe roots of nomophobia lie in the convenience and connectedness that mobile phones provide. These devices have become integral to our daily lives, serving as not just communication tools but also cameras, entertainment hubs, personal organizers, and more. This dependence on mobile phones can lead to a feeling of vulnerability when separated from them.",
+      "questions": [
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following is not mentioned as nomophobia?",
+          "context": "",
+          "options": {
+            "A": "The irrational fear of being unable to operate a mobile phone.",
+            "B": "The irrational fear of not being with a mobile phone.",
+            "C": "The irrational fear of being unable to afford a mobile phone.",
+            "D": "The irrational fear of losing or being separated from one's phone."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây không được nhắc đến là chứng sợ nomophobia?\nA. Nỗi sợ vô lý khi không thể sử dụng điện thoại di động. → CÓ đề cập\nB. Nỗi sợ vô lý khi không có điện thoại di động bên mình. → CÓ đề cập\nC. Nỗi sợ vô lý khi không đủ khả năng mua điện thoại di động. → KHÔNG đề cập\nD. Nỗi sợ vô lý khi bị mất hoặc bị tách khỏi điện thoại. → CÓ đề cập\nThông tin: It is the irrational fear of being without one's mobile phone or being unable to use it... The fear losing or being separated from one's phone is a growing concern."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"anxiety\" is OPPOSITE in paragraph 2 in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "meaninglessness",
+            "B": "fearlessness",
+            "C": "uselessness",
+            "D": "carelessness"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'anxiety' ở đoạn 2 TRÁI NGHĨA với:\nA. meaninglessness /ˈmiː.nɪŋ.ləs.nəs/ (n): vô nghĩa\nB. fearlessness /ˈfɪə.ləs.nəs/ (n): tính can cảm, không sợ hãi\nC. uselessness /ˈjuː.s.ləs.nəs/ (n): sự vô dụng, vô ích\nD. carelessness /ˈkeə.ləs.nəs/ (n): sự bất cẩn, thiếu thận trọng\n- anxiety /æŋˈzaɪ.ə.ti/ (n): nỗi lo lắng, bất an >< fearlessness\nThông tin: This condition can cause anxiety and distress, and it highlights the profound impact mobile devices have on our lives."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The pronoun \"it\" in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "the irrational fear",
+            "B": "distress",
+            "C": "the mobile phone",
+            "D": "the digital age"
+          },
+          "correctAnswer": "A",
+          "explanation": "Đại từ 'it' ở đoạn 2 đề cập đến:\nA. nỗi sợ vô lý\nB. sự đau khổ\nC. điện thoại di động\nD. thời đại kỹ thuật số\nTừ 'it' ám chỉ 'irrational fear'.\nThông tin: It is the irrational fear of being without one's mobile phone or being unable to use it. This condition can cause anxiety and distress, and it highlights the profound impact mobile devices have on our lives."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "The word \"vulnerability\" in paragraph 4 is CLOSEST in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "depression",
+            "B": "weaknesses",
+            "C": "sickness",
+            "D": "loss"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'vulnerability' trong đoạn 4 ĐỒNG NGHĨA với:\nA. depression /dɪˈpreʃ.ən/ (n): sự chán nản, phiền muộn\nB. weakness /ˈwiː.k.nəs/ (n): tình trạng yếu đuối, yếu ớt\nC. sickness /ˈsɪk.nəs/ (n): sự ốm, bệnh\nD. loss /lɒs/ (n): sự mất mát, thất bại\n- vulnerability /ˌvʌl.nər.əˈbɪl.ə.ti/ (n): tính dễ bị tổn thương, bị làm hại = weakness\nThông tin: This dependence on mobile phones can lead to a feeling of vulnerability when separated from them."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?\n\"Nomophobia is not limited to any age group and can affect individuals of all backgrounds.\"",
+          "context": "",
+          "options": {
+            "A": "Hardly anyone remains unaffected by nomophobia.",
+            "B": "Naturally, everyone is easily immune to nomophobia.",
+            "C": "Only some people can avoid nomophobia while others easily get stuck in it.",
+            "D": "Nomophobia affects everyone in the world, but some people can easily get over it."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân trong đoạn 3 một cách hay nhất?\nNomophobia không giới hạn ở bất kỳ nhóm tuổi nào và có thể ảnh hưởng đến những cá nhân thuộc mọi hoàn cảnh.\nA. Hầu như không ai không bị ảnh hưởng bởi chứng sợ nomophobia. → ĐÚNG với câu gốc.\nB. Đương nhiên, mọi người đều dễ dàng miễn nhiễm với chứng sợ nomophobia. → SAI vì đoạn văn không đề cập 'khả năng miễn nhiễm'.\nC. Chỉ một số người có thể tránh được chứng sợ nomophobia trong khi những người khác dễ dàng mắc phải nó. → SAI vì câu này không có ý nói rằng một số người được miễn trừ hoặc có khả năng chống lại, mà nói rằng nó có thể ảnh hưởng đến bất kỳ ai.\nD. Hội chứng Nomophobia ảnh hưởng đến mọi người trên thế giới, nhưng một số người có thể dễ dàng vượt qua nó. → SAI vì câu gốc không đề cập đến việc một số người dễ dàng khắc phục tình trạng này."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following is TRUE according to paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "People in today's cyberworld shouldn't bring along a mobile phone to avoid nomophobia.",
+            "B": "People feel more scared when imagining not having their phones to contact friends and family.",
+            "C": "People do not use their phones to contact others, access the internet, or use GPS for navigation.",
+            "D": "Nomophobia is so dangerous that people should stop using mobile phones to avoid it."
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo đoạn 2, câu nào sau đây là ĐÚNG?\nA, D không được đề cập.\nB. Mọi người cảm thấy sợ hãi hơn khi tưởng tượng đến cảnh không còn điện thoại để liên lạc với bạn bè và gia đình. → ĐÚNG\nC. SAI vì đoạn văn này đề cập rõ ràng rằng điện thoại được sử dụng có mục đích, đó là lý do tại sao việc xa rời chúng lại gây ra nỗi sợ hãi.\nThông tin: The fear intensifies when people imagine not having their phones to contact friends and family, access the internet, or use GPS for navigation."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "In which paragraph does the writer mention the people who get nomophobia easily?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 1",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trong đoạn văn nào tác giả đề cập đến những người dễ mắc chứng sợ thiết bị điện tử?\nTác giả đề cập đến những người dễ mắc chứng sợ thiết bị điện tử ở đoạn 3.\nThông tin: Who easily suffers from nomophobia? Nomophobia is not limited to any age group and can affect individuals of all backgrounds. It often becomes evident when people experience panic or anxiety when they forget their phones at home or are unable to use them temporarily."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "In which paragraph does the writer mention the fear of being without mobile phones?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 4",
+            "C": "Paragraph 3",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ở đoạn văn nào tác giả đề cập đến nỗi sợ hãi khi không có điện thoại di động?\nTác giả đề cập đến nỗi sợ hãi khi không có điện thoại di động ở đoạn 2.\nThông tin: What is nomophobia? It is the irrational fear of being without one's mobile phone or being unable to use it... The fear losing or being separated from one's phone is a growing concern."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 35 to 40.",
+      "passageTitle": "Stay Safe: Preventing the Flu Epidemic",
+      "passage": "What is the flu epidemic?\n\nThe flu epidemic is a contagious viral (35)________ that affects the respiratory system. Every year, millions of people worldwide are impacted, leading to severe health issues and hospitalizations.\n\nWhy it matters\n\nWhen flu season arrives, it's essential to take precautions. If not managed effectively, the flu can (36)__________ into a widespread epidemic, putting vulnerable populations at risk. The (37)__________ of flu cases can surge dramatically during peak season, leading to increased hospital visits and strain on healthcare systems. It's vital to stay informed and take preventative measures.\n\nHow to prevent the flu\n\n• Get vaccinated: The flu vaccine is the most effective way to protect yourself and (38)__________. It's recommended to get vaccinated annually.\n• Stay home when sick: If you experience flu (39)__________, stay home to prevent spreading the virus to those around you.\n• Follow guidelines: (40)__________ your health status, everyone should follow health guidelines to minimize the risk of flu transmission.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sickness",
+            "B": "infection",
+            "C": "ailment",
+            "D": "injury"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. sickness /ˈsɪk.nəs/ (n): sự ốm, bệnh\nB. infection /ˈɪk.nəs/ (n): sự nhiễm, bệnh lây nhiễm\nC. ailment /ˈeɪl.mənt/ (n): sự đau đớn, sự lo lắng\nD. injury /ˈɪn.dʒər.i/ (n): chỗ bị thương, điều tổn hại\nTạm dịch: The flu epidemic is a contagious viral infection that affects the respiratory system. (Dịch cúm là một bệnh truyền nhiễm do vi-rút gây ra, ảnh hưởng đến hệ hô hấp.)"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take over",
+            "B": "bring up",
+            "C": "break out",
+            "D": "call off"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm động từ:\nA. take over (from somebody) something: kiểm soát, tiếp quản (từ ai) cái gì\nB. bring up somebody/something: nuôi nấng ai, đề cập cái gì\nC. break out: nổ ra, bùng phát\nD. call off somebody/something: ra lệnh cho ai ngừng tìm kiếm, hủy bỏ cái gì\nTạm dịch: If not managed effectively, the flu can break out into a widespread epidemic, putting vulnerable populations at risk. (Nếu không được kiểm soát hiệu quả, bệnh cúm có thể bùng phát thành dịch bệnh trên diện rộng, gây nguy hiểm cho những nhóm dân số dễ bị tổn thương.)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amount",
+            "B": "number",
+            "C": "level",
+            "D": "quality"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm từ chỉ số lượng:\nA. an amount of + N (không đếm được): một lượng\nB. the number of + N (số nhiều): số lượng\nC. a level of + N (không đếm được): lượng, mức độ\nD. the quality of + N: chất lượng của cái gì\nDựa vào cấu trúc và nghĩa, ta chọn 'number'.\nTạm dịch: The number of flu cases can surge dramatically during peak season, leading to increased hospital visits and strain on healthcare systems. (Số ca mắc cúm có thể tăng đột biến trong mùa cao điểm, dẫn đến tăng lượt khám đến bệnh viện và gây áp lực lên hệ thống chăm sóc sức khỏe.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "the other",
+            "C": "another",
+            "D": "other"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về 'others/another/other/the other':\nA. others: những người khác, những cái khác\nB. the other + N (đếm được): (những) người còn lại, (những) cái còn lại\nC. another + N (số ít): người khác, cái khác\nD. other + N (số nhiều/không đếm được): những người khác, những cái khác\nTạm dịch: The flu vaccine is the most effective way to protect yourself and others. (Vắc-xin cúm là cách hiệu quả nhất để bảo vệ bản thân và những người khác.)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "features",
+            "B": "signals",
+            "C": "symptoms",
+            "D": "patterns"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. feature /ˈfiː.tʃər/ (n): đặc điểm, đặc trưng\nB. signal /ˈsɪg.nəl/ (n): tín hiệu, dấu hiệu\nC. symptom /ˈsɪmp.təm/ (n): triệu chứng, dấu hiệu bệnh\nD. pattern /ˈpæt.ən/ (n): gương mẫu, mẫu hình\nTạm dịch: If you experience flu symptoms, stay home to prevent spreading the virus to those around you. (Nếu bạn có các triệu chứng cúm, hãy ở nhà để tránh lây lan vi-rút cho những người xung quanh.)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Rather than",
+            "B": "On behalf of",
+            "C": "Regardless of",
+            "D": "In view of"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm giới từ/liên từ:\nA. rather than: thay vì\nB. on behalf of: đại diện cho, thay cho\nC. regardless of: bất chấp\nD. in view of: bởi vì\nTạm dịch: Regardless of your health status, everyone should follow health guidelines to minimize the risk of flu transmission. (Bất kể tình trạng sức khỏe, mọi người đều nên tuân thủ các hướng dẫn về sức khỏe để giảm thiểu nguy cơ lây truyền bệnh cúm.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.636591+00:00",
+  "updatedAt": "2026-06-08T10:41:58.636591+00:00",
+  "originalFileName": "THPT_Vinh_Phuc_902_2025.json"
+}

@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_vinh_phuc_ma_de_904_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục Và Đào Tạo Vĩnh Phúc - Mã Đề 904",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Vinh_Phuc_904_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#VinhPhuc",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 1 to 5.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "a. Lisa: Hi, Anna! It's been a while. You look fantastic!\nb. Lisa: Thanks! I've started jogging every morning and eating more vegetables.\nc. Anna: Hi, Lisa! Thank you. You look great, too. Have you been doing something new lately?",
+          "options": {
+            "A": "c-a-b",
+            "B": "b-c-a",
+            "C": "a-c-b",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: a (Lisa chào và khen Anna) → c (Anna đáp lại và hỏi lại Lisa) → b (Lisa trả lời câu hỏi của Anna).\nTạm dịch: Lisa: Chào Anna! Lâu rồi không gặp. Trông cậu tuyệt lắm! / Anna: Chào Lisa! Cảm ơn nhé. Cậu cũng trông rất tuyệt. Dạo này cậu có làm gì mới không? / Lisa: Cảm ơn! Tớ bắt đầu chạy bộ mỗi sáng và ăn nhiều rau hơn."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "a. Jake: Have you heard about the new café downtown?\nb. Sarah: Hey Jake, what are you up to this afternoon?\nc. Sarah: Sure! I've been meaning to check it out. What time should we meet?\nd. Jake: Not much. I was thinking of going somewhere for a coffee. Do you want to join me?\ne. Sarah: That sounds great! Do you have a place in mind?",
+          "options": {
+            "A": "b-c-e-a-d",
+            "B": "a-e-c-d-b",
+            "C": "e-d-b-a-c",
+            "D": "b-d-e-a-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: b (Sarah hỏi Jake) → d (Jake trả lời và mời) → e (Sarah đồng ý và hỏi địa điểm) → a (Jake gợi ý quán cà phê mới) → c (Sarah xác nhận và hỏi giờ gặp).\nTạm dịch: Sarah: Chào Jake, chiều nay cậu định làm gì? / Jake: Tớ cũng chưa biết lắm. Tớ đang nghĩ đến việc đi đâu đó uống cà phê. Cậu có muốn đi cùng không? / Sarah: Nghe hay đấy! Cậu đã nghĩ ra chỗ nào chưa? / Jake: Cậu có nghe về quán cà phê mới ở trung tâm thành phố chưa? / Sarah: Có chứ! Tớ cũng định đến đó thử xem. Mấy giờ mình gặp nhau nhỉ?"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "Hi Sarah,\na. It's so exciting to try something new, but I've been really busy with my photography class recently.\nb. Thanks so much for recommending those painting tutorial videos last week!\nc. Maybe we could work on a creative project together sometime. What do you think?\nd. Also, the website you suggested for free art classes is incredible way better than the ones I've used before.\ne. I haven't started painting yet, but I've watched a few videos, and they're super inspiring.\nWrite back soon,\nEmily",
+          "options": {
+            "A": "e-b-a-d-c",
+            "B": "b-a-e-d-c",
+            "C": "d-b-e-a-c",
+            "D": "b-e-a-d-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: b (cảm ơn về video) → a (thú vị nhưng đang bận với lớp nhiếp ảnh) → e (chưa bắt đầu vẽ nhưng đã xem video) → d (trang web gợi ý rất tuyệt) → c (đề nghị làm dự án sáng tạo cùng nhau).\nTạm dịch: Chào Sarah, Cảm ơn cậu rất nhiều vì đã giới thiệu mấy video hướng dẫn vẽ tranh tuần trước nhé! Thử một điều gì đó mới mẻ thật thú vị, nhưng dạo này mình bận rộn với lớp học nhiếp ảnh quá. Mình chưa bắt đầu vẽ đâu, nhưng mình đã xem vài video rồi, và chúng thực sự rất truyền cảm hứng. Hơn nữa, trang web cậu gợi ý để học vẽ miễn phí đúng là tuyệt vời hơn hẳn các trang web mình từng dùng trước đây. Có lẽ lúc nào đó chúng ta có thể cùng làm một dự án sáng tạo chung. Cậu thấy sao? Mong sớm nhận được thư từ cậu, Emily"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "a. However, despite these challenges, many young individuals remain hopeful and are actively seeking out networking opportunities to enhance their prospects.\nb. Many young people in Vietnam are experiencing significant difficulties in finding suitable employment.\nc. This struggle is exacerbated by a lack of internships and practical experience, which many companies prioritize when hiring.\nd. Moreover, the mismatch between their qualifications and the demands of employers further complicates their job search.\ne. The competitive job market, especially in urban areas, has made it increasingly challenging for recent graduates to secure positions.",
+          "options": {
+            "A": "e-b-d-c-a",
+            "B": "b-e-d-c-a",
+            "C": "b-c-a-e-d",
+            "D": "c-e-a-d-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: b (giới thiệu vấn đề chung) → e (cụ thể hóa thị trường lao động cạnh tranh) → d (thêm vấn đề không phù hợp bằng cấp) → c (thêm vấn đề thiếu thực tập) → a (tuy nhiên vẫn có hy vọng).\nTạm dịch: Nhiều thanh niên Việt Nam đang gặp nhiều khó khăn trong việc tìm kiếm việc làm phù hợp. Thị trường lao động cạnh tranh, đặc biệt ở các khu vực đô thị, khiến cho việc tìm kiếm việc làm của sinh viên mới tốt nghiệp trở nên thách thức hơn. Hơn nữa, sự không phù hợp giữa trình độ của họ và yêu cầu của nhà tuyển dụng càng làm phức tạp thêm quá trình tìm việc làm. Tình trạng này còn bị làm cho trầm trọng hơn do thiếu các quá trình thực tập và kinh nghiệm thực tiễn. Tuy nhiên, bất chấp những thách thức này, nhiều bạn trẻ vẫn lạc quan và đang tích cực tìm kiếm các cơ hội kết nối để nâng cao triển vọng của mình."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "a. Discoveries made through space exploration fuel curiosity and inspire future generations to pursue careers in science and engineering.\nb. Additionally, space exploration often leads to advancements in technology, which eventually find applications in daily life.\nc. As a result, everyday devices like GPS systems, weather satellites, and satellite television owe their existence to space technology.\nd. Such technology has greatly improved life on Earth, offering solutions to global challenges like communication, navigation, and climate monitoring.\ne. The benefits of space research extend beyond the cosmos, providing us with essential tools that shape modern society.",
+          "options": {
+            "A": "d-a-e-b-c",
+            "B": "b-d-e-a-c",
+            "C": "e-a-b-c-d",
+            "D": "e-c-a-d-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: e (lợi ích vượt ra ngoài vũ trụ - câu chủ đề) → a (khám phá khơi dậy tò mò) → b (thám hiểm không gian dẫn đến tiến bộ công nghệ) → c (kết quả: các thiết bị hàng ngày) → d (công nghệ đó cải thiện cuộc sống).\nTạm dịch: Lợi ích của nghiên cứu không gian vượt ra ngoài vũ trụ, mang đến cho chúng ta những công cụ thiết yếu định hình xã hội hiện đại. Những khám phá từ việc thám hiểm không gian khơi dậy sự tò mò và truyền cảm hứng cho các thế hệ tương lai theo đuổi sự nghiệp trong lĩnh vực khoa học và kỹ thuật. Thêm vào đó, thám hiểm không gian thường dẫn đến những tiến bộ trong công nghệ, thứ mà sau này được ứng dụng trong cuộc sống hàng ngày. Kết quả là các thiết bị như hệ thống GPS, vệ tinh thời tiết và truyền hình vệ tinh đều ra đời nhờ công nghệ không gian. Công nghệ này đã cải thiện đáng kể cuộc sống trên Trái Đất, mang lại giải pháp cho các thách thức toàn cầu như liên lạc, định vị và giám sát khí hậu."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 6 to 11.",
+      "passageTitle": "FUTURE TRANSPORTATION SYSTEMS",
+      "passage": "Have you considered (6)________ in our futuristic transportation projects? As technology advances, (7)________ in cities are expected to become more efficient and sustainable. The concept of future transportation is appealing to those who dream (8)________ reducing traffic congestion and lowering carbon emissions. Engineers and designers are highly skilled and (9)________ when it comes to creating smart vehicles. Future transportation systems will include options for electric vehicles, self-driving cars, and efficient public transport. These innovations are designed to (10)________ travel smoother and reduce environmental impacts.\n\nOne key development will be the rise of autonomous vehicles. These vehicles are expected to reduce accidents and eliminate the need for human drivers, (11)________ to safer roads. We all hope to travel more quickly, with less pollution and greater convenience. New technologies will improve efficiency, reduce costs, and enhance the overall travel experience.",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to invest",
+            "B": "to investing",
+            "C": "invested",
+            "D": "investing"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng thức của động từ: consider doing something: cân nhắc làm cái gì đó.\nTạm dịch: Bạn đã từng cân nhắc đến việc đầu tư vào các dự án giao thông tương lai của chúng tôi chưa?"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "transportation eco-friendly systems",
+            "B": "transportation systems eco-friendly",
+            "C": "eco-friendly transportation systems",
+            "D": "systems transportation eco-friendly"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự từ: Dùng tính từ 'eco-friendly' để bổ nghĩa cho cụm danh từ 'transportation systems' (hệ thống giao thông). Tính từ đứng trước danh từ trong tiếng Anh.\nTạm dịch: Khi công nghệ tiến bộ, các hệ thống giao thông thân thiện với môi trường ở các thành phố được kỳ vọng sẽ trở nên hiệu quả và bền vững hơn."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "on",
+            "D": "of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về giới từ: dream of doing something: mơ ước làm gì đó.\nTạm dịch: Khái niệm giao thông tương lai rất hấp dẫn đối với những ai mơ ước giảm tắc nghẽn giao thông và cắt giảm khí thải carbon."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "innovation",
+            "B": "innovator",
+            "C": "innovative",
+            "D": "innovatively"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại: A. innovation (n): sự đổi mới, sự sáng tạo / B. innovator (n): người đổi mới / C. innovative (adj): có tính đổi mới, sáng tạo / D. innovatively (adv): một cách đổi mới, sáng tạo.\nTheo phép song hành, chỗ trống trước và sau liên từ 'and' cần điền từ loại giống nhau. Trước 'and' là tính từ 'skilled' → chỗ trống cần điền tính từ → innovative.\nTạm dịch: Các kỹ sư và nhà thiết kế vô cùng khéo léo và sáng tạo khi đề cập đến việc tạo ra các phương tiện thông minh."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take",
+            "B": "build",
+            "C": "create",
+            "D": "make"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: make something + adj: khiến việc gì đó trở nên như thế nào.\nTạm dịch: Những đổi mới này được thiết kế để khiến việc đi lại trở nên thuận tiện hơn và giảm tác động đến môi trường."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "led",
+            "B": "which lead",
+            "C": "to lead",
+            "D": "leading"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu đã có đầy đủ chủ ngữ và động từ chính. Do vậy ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại B vì sử dụng đại từ quan hệ 'which' để quy chiếu cho cả câu, ta cần dùng động từ chia số ít → leads.\nLoại C vì sử dụng dạng to V.\nLoại A vì dùng dạng rút gọn mệnh đề quan hệ bị động không phù hợp trong câu này.\nD đúng: leading (V-ing rút gọn mệnh đề quan hệ chủ động).\nTạm dịch: Những phương tiện này được kỳ vọng sẽ giảm tai nạn và loại bỏ sự cần thiết của tài xế, dẫn đến việc các con đường sẽ an toàn hơn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 12 to 19.",
+      "passageTitle": "",
+      "passage": "In a world increasingly shaped by technological advancement, the concept of a \"career path\" has evolved dramatically. Traditionally, a career path was seen as a linear progression within a single industry or profession. Today, however, it is often nonlinear and characterized by multiple shifts across fields. This shift has been driven by globalization, automation, and the rise of the gig economy. For instance, a professional may start as an engineer, transition into data analysis, and later become a consultant.\n\nOne of the key challenges of navigating modern career paths is dealing with uncertainty. Unlike in the past, when long-term employment in one organization was common, today's workforce must be prepared to continually upskill and reskill to increase their adaptability. According to a report by the World Economic Forum, nearly half of all employees will need significant retraining by 2030 due to advancements in artificial intelligence and automation. This has given rise to the concept of \"lifelong learning,\" where individuals proactively pursue education and training throughout their lives.\n\nAnother emerging trend is the emphasis on purpose-driven careers. Younger generations, particularly millennials and Gen Z, increasingly prioritize roles that align with their values and contribute to societal or environmental change. For example, careers in renewable energy, non-profit organizations, and social entrepreneurship are gaining popularity. However, chasing a meaningful goal often requires sacrifices, such as accepting lower starting salaries or taking non-traditional career paths.\n\nDespite the challenges, modern career paths offer unparalleled opportunities for personal and professional growth. With the right attitude and resources, people can build careers that are rewarding and flexible in a fast-changing world.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is NOT mentioned as a factor influencing modern career paths?",
+          "context": "",
+          "options": {
+            "A": "Globalization",
+            "B": "Automation",
+            "C": "Organizational policies",
+            "D": "The gig economy"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'This shift has been driven by globalization, automation, and the rise of the gig economy.' → Đáp án A, B, D được nhắc tới. Organizational policies (Những chính sách thuộc về tổ chức) không được nhắc tới trong bài."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "The word 'advancement' in paragraph 1 could best be replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "decline",
+            "B": "development",
+            "C": "reduction",
+            "D": "production"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. decline (n): sự suy giảm / B. development (n): sự phát triển / C. reduction (n): sự giảm bớt / D. production (n): sự sản xuất.\nadvancement /ədˈvɑːnsmənt/ (n): sự phát triển, sự tiến bộ = development (n).\nTạm dịch: Trong một thế giới ngày càng bị ảnh hưởng bởi sự tiến bộ công nghệ, khái niệm 'con đường sự nghiệp' đã tiến triển một cách đáng kể."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The word 'their' in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "advancements",
+            "B": "organizations",
+            "C": "professionals",
+            "D": "individuals"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'This has given rise to the concept of \"lifelong learning,\" where individuals proactively pursue education and training throughout their lives.' → 'their' quy chiếu đến 'individuals' (những cá nhân)."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "The phrase 'long-term' in paragraph 2 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "lasting",
+            "B": "temporary",
+            "C": "loyal",
+            "D": "unchangeable"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. lasting (adj): lâu dài / B. temporary (adj): tạm thời / C. loyal (adj): trung thành / D. unchangeable (adj): không thay đổi.\nlong-term /ˌlɒŋ ˈtɜːm/ (adj): lâu dài, dài hạn >< temporary (adj).\nTạm dịch: Khác với quá khứ, khi mà việc làm lâu dài trong một tổ chức là phổ biến, ngày nay lực lượng lao động phải chuẩn bị để liên tục nâng cao kỹ năng và học hỏi lại để tăng khả năng thích nghi."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3? \"Younger generations, particularly millennials and Gen Z, increasingly prioritize roles that align with their values and contribute to societal or environmental change.\"",
+          "context": "",
+          "options": {
+            "A": "Millennials and Gen Z prioritize societal and environmental change over job opportunities.",
+            "B": "Younger generations focus more on jobs with better contribution to societal or environmental change than on roles that are suitable with their values.",
+            "C": "Younger generations prefer jobs that match their principles and have a positive impact on society or the environment.",
+            "D": "Younger generations avoid roles that do not offer societal or environmental benefits."
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Sai vì trong câu gốc không nói tới cơ hội việc làm.\nB. Sai so với nghĩa câu gốc nói về đề cao giá trị cá nhân.\nC. Diễn đạt đúng ý câu gốc: các thế hệ trẻ ưa thích công việc phù hợp với các nguyên tắc của họ và có tác động tích cực đến xã hội hoặc môi trường.\nD. Trái ngược với câu gốc."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Lifelong learning is becoming essential due to rapid technological advancements.",
+            "B": "Long-term employment with a single organization is more common today than in the past.",
+            "C": "Career paths today are typically linear and confined to a single industry.",
+            "D": "Millennials and Gen Z prioritize higher salaries over purpose in their careers."
+          },
+          "correctAnswer": "A",
+          "explanation": "B sai: 'Unlike in the past, when long-term employment in one organization was common' → ngày nay không còn phổ biến.\nC sai: 'Today, however, it is often nonlinear and characterized by multiple shifts across fields'.\nD sai: 'Younger generations, particularly millennials and Gen Z, increasingly prioritize roles that align with their values' → ưu tiên giá trị, không phải lương cao.\nA đúng: 'According to a report by the World Economic Forum, nearly half of all employees will need significant retraining by 2030 due to advancements in artificial intelligence and automation. This has given rise to the concept of \"lifelong learning\".' → học tập suốt đời đang trở nên cần thiết do sự tiến bộ nhanh chóng của công nghệ."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "In which paragraph does the writer discuss the relationship between career purpose and generational values?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả thảo luận về mối quan hệ giữa mục đích nghề nghiệp và giá trị thế hệ ở đoạn 3: 'Another emerging trend is the emphasis on purpose-driven careers. Younger generations, particularly millennials and Gen Z, increasingly prioritize roles that align with their values and contribute to societal or environmental change.'"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "In which paragraph does the writer highlight the adaptability required in modern career paths?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 1",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả nhấn mạnh khả năng thích ứng cần thiết trong các con đường sự nghiệp hiện đại ở đoạn 2: 'Unlike in the past, when long-term employment in one organization was common, today's workforce must be prepared to continually upskill and reskill to increase their adaptability.'"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 20 to 25.",
+      "passageTitle": "Hanoi Awaits. Your Guide to the City",
+      "passage": "Hanoi, the capital city of Vietnam, is bustling and full of energy. It's also rich in history and culture, with (20)________ of attractions to see and (21)________ to experience. Why not stay a bit longer?\n\nWhere to stay: The Old Quarter is a must-visit, but it can be crowded and hectic. For a more peaceful option, (22)________ Tay Ho District as (23)________ place to stay. Tay Ho offers tranquil views of West Lake, cozy cafes, and a quieter atmosphere.\n\nGetting around: Hanoi's traffic is infamous. (24)________ renting a motorbike, you should consider taking a cyclo ride through the Old Quarter or walking to nearby attractions. For longer distances, grab a taxi or use the city's new metro system.\n\nWhere to eat: Hanoi is a street food paradise. Try Pho or Bun Cha for under $5. Don't miss Dong Xuan Market for diverse food (25)________.\n\nAfter visiting Ho Chi Minh's Mausoleum and the Hanoi Opera House, enjoy a traditional water puppet show.",
+      "questions": [
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "several",
+            "B": "number",
+            "C": "plenty",
+            "D": "quantity"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. several + N (số nhiều): một vài, một số / B. a number of + N (số nhiều): nhiều; the number of + N (số nhiều): số lượng / C. plenty of + N (số nhiều/ không đếm được): nhiều / D. a quantity of + N (không đếm được/đếm được): lượng.\nDựa vào ngữ nghĩa, chọn 'plenty' (plenty of attractions).\nTạm dịch: Nơi đây cũng giàu lịch sử và văn hóa, với nhiều điểm tham quan để khám phá và hoạt động để trải nghiệm."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "pursuits",
+            "B": "destinations",
+            "C": "moments",
+            "D": "activities"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. pursuit (n): sự theo đuổi, mưu cầu / B. destination (n): điểm đến / C. moment (n): khoảnh khắc / D. activity (n): hoạt động.\nTạm dịch: Nơi đây cũng giàu lịch sử và văn hóa, với nhiều điểm tham quan để khám phá và hoạt động để trải nghiệm."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "look at",
+            "B": "check out",
+            "C": "give off",
+            "D": "take in"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs): A. look at something: nhìn vào, xem xét hoặc quan sát điều gì đó / B. check out something: xem hoặc tìm hiểu về điều gì đó / C. give off something: phát ra, tỏa ra (mùi hương, ánh sáng, nhiệt độ, etc.) / D. take in something/someone: hấp thụ; nhận ai đó vào nhà hoặc chăm sóc; lừa gạt.\nTạm dịch: Để có lựa chọn yên tĩnh hơn, hãy xem xét Quận Tây Hồ là một nơi khác để lưu trú."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "others",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. the others: những người còn lại/ những cái còn lại / B. others: những người khác/ những cái khác / C. other + N (số nhiều/ không đếm được): những người khác/ những cái khác / D. another + N (số ít): một người khác/ cái khác.\nTạm dịch: Để có lựa chọn yên tĩnh hơn, hãy xem xét Quận Tây Hồ là một nơi khác để lưu trú."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Regardless of",
+            "B": "Instead of",
+            "C": "On account of",
+            "D": "On behalf of"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Regardless of: bất chấp / B. Instead of: thay vì / C. On account of: bởi vì / D. On behalf of: đại diện cho.\nTạm dịch: Thay vì thuê xe máy, bạn nên cân nhắc đi xích lô qua Phố Cổ hoặc đi bộ đến các điểm tham quan gần đó."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "examples",
+            "B": "features",
+            "C": "options",
+            "D": "patterns"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. example (n): ví dụ / B. feature (n): đặc điểm / C. option (n): lựa chọn / D. pattern (n): khuôn mẫu, mô hình, kiểu.\nTạm dịch: Đừng bỏ lỡ Chợ Đồng Xuân để thưởng thức nhiều lựa chọn món ăn đa dạng."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the best answer to each of the following questions from 26 to 35.",
+      "passageTitle": "",
+      "passage": "[I] Cultural diversity has long been a defining trait of human societies, and in recent years, the world has witnessed a significant surge in cultural exchanges. [II] Various factors, including globalization, migration, and technological innovations, have facilitated this intensifying interconnection among cultures. [III] Experts anticipate that by 2050, the global cultural landscape will be even more closely connected than it is today. [IV] This rapid cultural exchange offers great benefits but also presents significant challenges for societies worldwide.\n\nA primary driver of cultural exchange is the increasing prevalence of migration. As individuals relocate across national borders in pursuit of enhanced career prospects, education, or a more secure environment, they inevitably transport their cultural customs, languages, and values. This often leads to the blending of different cultural practices, enriching the social life of the host country. Furthermore, advancements in communication technologies have revolutionized the way people disseminate and celebrate cultural distinctions. The internet, social media platforms, and accessible global travel enable individuals to immerse themselves in cultures from distant corners of the world without necessitating physical relocation.\n\nHowever, cultural exchange is not without its complexities. Interactions between individuals from different cultural backgrounds can sometimes give rise to misunderstandings or value-based conflicts. For example, certain cultural practices may be at odds with local norms, resulting in social conflict. Additionally, the widespread dissemination of globalized culture, particularly Western culture, often threatens to overlook or replace indigenous traditions and heritage, leading to the erosion of unique cultural identities.\n\nDespite these impediments, cultural exchange remains an invaluable mechanism for fostering mutual comprehension and respect among diverse communities. To ensure that cultural diversity thrives while minimizing conflict, it is essential for societies to develop inclusive policies that both honor and celebrate differences, while promoting constructive dialogue and integration. By cultivating cultural awareness and tolerance, communities can harness the wealth of diverse traditions and perspectives, ultimately creating a more harmonious and enriched global society.",
+      "questions": [
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Over the years, people from different parts of the world have become more connected through various cultural exchanges.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(IV)",
+            "C": "(II)",
+            "D": "(III)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu này đề cập đến việc con người từ các vùng khác nhau trên thế giới ngày càng kết nối hơn thông qua các trao đổi văn hóa, phù hợp với nội dung ở vị trí (II), nơi giải thích các yếu tố thúc đẩy sự kết nối này. Câu đặt sau (I) giải thích về sự tăng mạnh trong trao đổi văn hóa gần đây và trước (II) nêu các yếu tố cụ thể như toàn cầu hóa, di cư, đổi mới công nghệ."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "According to paragraph 1, which of the following is NOT a reason for cultural exchange?",
+          "context": "",
+          "options": {
+            "A": "technological advancements",
+            "B": "globalization",
+            "C": "migration",
+            "D": "global conflicts"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'Various factors, including globalization, migration, and technological innovations, have facilitated this intensifying interconnection among cultures.' → Đáp án A, B, C được nhắc tới. Global conflicts (những xung đột toàn cầu) không được đề cập là lý do cho trao đổi văn hóa."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The phrase 'distinctions' in paragraph 2 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "problems",
+            "B": "differences",
+            "C": "similarities",
+            "D": "influences"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. problem (n): vấn đề / B. difference (n): sự khác nhau / C. similarity (n): sự giống nhau / D. influence (n): sự ảnh hưởng.\ndistinction /dɪˈstɪŋkʃn/ (n): sự khác biệt >< similarity (n).\nThông tin: 'advancements in communication technologies have revolutionized the way people disseminate and celebrate cultural distinctions.'"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The word 'they' in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "cultural practices",
+            "B": "societies",
+            "C": "languages",
+            "D": "migrants"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'As individuals relocate across national borders in pursuit of enhanced career prospects, education, or a more secure environment, they inevitably transport their cultural customs, languages, and values.' → 'they' quy chiếu đến 'individuals' (những cá nhân), tức là những người di cư (migrants)."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following best summarizes paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Migration and technology are major drivers of cultural exchange, enabling individuals to share and experience diverse cultures.",
+            "B": "People migrate primarily to escape conflict, and technology helps them maintain their original cultural practices.",
+            "C": "Technological advancements are the sole factor in increasing cultural exchange, without the need for migration.",
+            "D": "While migration promotes the blending of cultures, technology has no role to play in the facilitation of cultural exchange."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn 2 thảo luận về hai yếu tố chính thúc đẩy việc trao đổi văn hóa: di cư và tiến bộ công nghệ.\nB. Sai vì không có thông tin nói rằng mọi người di cư để tránh xung đột.\nC. Sai vì tiến bộ công nghệ không phải yếu tố duy nhất.\nD. Sai ở 'công nghệ không đóng vai trò'.\nA đúng: tóm tắt đầy đủ nội dung đoạn 2."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word 'dissemination' in paragraph 3 could be best replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "limit",
+            "B": "end",
+            "C": "control",
+            "D": "spread"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. limit (n): giới hạn / B. end (n): kết thúc / C. control (n): sự kiểm soát / D. spread (n): sự lan rộng, sự phổ biến.\ndissemination /dɪˌsemɪˈneɪʃn/ (n): sự lan truyền, sự phổ biến = spread (n).\nTạm dịch: Ngoài ra, sự lan truyền rộng rãi của văn hóa toàn cầu hóa, đặc biệt là văn hóa phương Tây, thường có thể bỏ qua hoặc thay thế các truyền thống và di sản bản địa, dẫn đến sự mai một của các bản sắc văn hóa độc đáo."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Migration brings negative effects to the societies that host migrants.",
+            "B": "Cultural exchange can sometimes result in the complete loss of cultural identities.",
+            "C": "Globalized culture often poses a threat to indigenous traditions and heritage.",
+            "D": "Misunderstandings in cultural exchange are rare and easily resolved."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai: 'This often leads to the blending of different cultural practices, enriching the social life of the host country.' → di cư mang lại tác động tích cực.\nB sai: đoạn văn chỉ ra rằng trao đổi văn hóa có thể dẫn đến sự xói mòn các bản sắc văn hóa độc đáo, nhưng không đề cập đến việc mất hoàn toàn bản sắc văn hóa.\nD sai: 'Interactions between individuals from different cultural backgrounds can sometimes give rise to misunderstandings or value-based conflicts.' → những hiểu lầm trong trao đổi văn hóa đôi khi có thể xảy ra.\nC đúng: 'the widespread dissemination of globalized culture, particularly Western culture, often threatens to overlook or replace indigenous traditions and heritage'."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4? \"Despite these impediments, cultural exchange remains an invaluable mechanism for fostering mutual comprehension and respect among diverse communities.\"",
+          "context": "",
+          "options": {
+            "A": "Cultural exchange is difficult but necessary for creating lasting connections between diverse communities.",
+            "B": "Cultural exchange is important because it helps us learn about other communities, regardless of the obstacles it faces.",
+            "C": "Because of its challenges, cultural exchange is not an effective means of fostering understanding and respect between different communities.",
+            "D": "Cultural exchange, despite its difficulties, is a powerful way to promote understanding and respect among different groups."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Sai vì câu gốc không đề cập tới các kết nối bền vững.\nB. Chưa đủ ý so với câu gốc.\nC. Trái nghĩa với câu gốc.\nD. Diễn đạt đúng và đầy đủ ý nghĩa câu gốc: trao đổi văn hóa, mặc dù có những khó khăn, là một cách mạnh mẽ để thúc đẩy sự hiểu biết và tôn trọng giữa các nhóm người khác nhau."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The more people are exposed to and experience other cultures, the less they value their own cultural identity.",
+            "B": "Migration and technology have made the world more interconnected, but they also pose challenges.",
+            "C": "Cultural exchange is only beneficial if it does not affect local traditions.",
+            "D": "Western culture is the primary cause of cultural clashes and misunderstandings globally."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai: bài đọc không đề cập đến mối quan hệ giữa việc trải nghiệm các nền văn hóa khác và việc coi trọng bản sắc văn hóa cá nhân.\nC sai: bài văn thực tế đang nhấn mạnh tầm quan trọng của việc tôn trọng và hòa nhập các khác biệt văn hóa.\nD sai: bài đọc đề cập rằng văn hóa toàn cầu hóa, đặc biệt là văn hóa phương Tây, có thể đe dọa các truyền thống và di sản bản địa, nhưng không khẳng định đó là nguyên nhân chính gây ra xung đột và hiểu lầm văn hóa trên toàn cầu.\nB có thể được suy ra từ bài đọc: di cư và công nghệ đã làm cho thế giới trở nên kết nối hơn, nhưng chúng cũng đặt ra những thách thức."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Technology and migration are the main drivers of cultural clashes, undermining the benefits of cultural diversity.",
+            "B": "Migration and technology boost cultural exchange but can erode traditions and increase tensions.",
+            "C": "Cultural exchange, driven by migration and technology, not only offers benefits but also presents challenges to maintaining cultural identities.",
+            "D": "Global cultural exchange offers opportunities to promote understanding, but it requires careful management to avoid social conflicts."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai: bài văn không tập trung vào việc chỉ trích công nghệ và di cư là nguyên nhân chính gây ra xung đột văn hóa, làm suy yếu lợi ích của sự đa dạng văn hóa mà thảo luận về cả lợi ích và thách thức.\nB sai: đáp án phản ánh một phần nội dung của bài văn, chưa đề cập đến lợi ích của trao đổi văn hóa.\nD sai: đáp án phản ánh một phần nội dung của bài văn, không đề cập đến vai trò của di cư và công nghệ trong trao đổi văn hóa.\nC đúng: Trao đổi văn hóa, được thúc đẩy bởi di cư và công nghệ, không chỉ mang lại lợi ích mà còn đặt ra những thách thức trong việc duy trì bản sắc văn hóa → đúng vì tóm tắt đầy đủ nội dung bài văn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 36 to 40.",
+      "passageTitle": "",
+      "passage": "Cultural festivals, celebrated in various parts of the world, reflect the traditions and values of communities. Diwali, for instance, (36)________. The festival lasts for five days, during which people light oil lamps, decorate their homes, and exchange gifts. In 2021, the United Nations recognized the importance of such festivals in promoting cultural diversity and harmony. Another example is the Rio Carnival in Brazil, (37)________. This vibrant event attracts millions of visitors each year and showcases Brazil's rich heritage of music and dance. (38)________.\n\nOne remarkable aspect of cultural festivals is how they bring people together, regardless of background. Traditional attire, food, and performances are integral to these celebrations. (39)________. In some regions, unique rituals and practices form a central part of the festivities, such as the intricate designs of Rangoli during Diwali or the samba parades during Carnival.\n\nModern technology has further amplified the reach of cultural festivals. With the help of social media and live-streaming platforms, (40)________. This has made it possible for people from different corners of the world to experience and appreciate the beauty of diverse cultures.",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "having been celebrated annually for centuries in India and beyond",
+            "B": "is celebrated by Hindus worldwide to honor the triumph of good over evil",
+            "C": "marked the victory of light over darkness in Hindu mythology",
+            "D": "that symbolizes hope and prosperity in Hindu culture"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đã có chủ ngữ: 'Diwali' → cần động từ được chia thì.\nA. Sai vì dùng phân từ hoàn thành.\nB. Đúng vì động từ được chia thì và ngữ nghĩa phù hợp.\nC. Sai vì ngữ nghĩa không phù hợp.\nD. Sai vì dùng mệnh đề quan hệ.\nTạm dịch: Ví dụ như là Diwali, lễ hội được người Hindu trên toàn cầu tổ chức để tôn vinh chiến thắng của cái thiện trước cái ác."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "holding every February to mark the start of Lent in Christian tradition",
+            "B": "which celebrate the blend of indigenous, African, and Portuguese influences in its culture",
+            "C": "which combines colorful costumes, lively music, and traditional dances into a grand celebration",
+            "D": "that highlights the spirit of unity and joy among Brazilians"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu đã có đầy đủ chủ ngữ và động từ chính → chỗ trống cần mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nA. Sai vì sử dụng hiện tại phân từ không phù hợp. Phải dùng 'held' (dạng rút gọn which is held).\nB. Sai vì động từ 'celebrate' phải chia số ít.\nC. Kết hợp các trang phục sặc sỡ, âm nhạc sống động và các điệu nhảy truyền thống thành một lễ hội hoành tráng → Đúng về mặt ngữ pháp và phù hợp về ngữ nghĩa.\nD. Sai vì đại từ quan hệ 'that' không dùng trong mệnh đề quan hệ có dấu phẩy.\nTạm dịch: Một ví dụ khác là Lễ hội đường phố Rio ở Brazil, lễ hội mà kết hợp các trang phục sặc sỡ, âm nhạc sống động và các điệu nhảy truyền thống thành một lễ hội hoành tráng."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Festivals like these do not emphasize the interconnectedness of culture and identity",
+            "B": "People from around the world admire the beauty and energy of these festivals",
+            "C": "These events play a crucial role in preserving traditions and fostering a sense of belonging",
+            "D": "The importance of such celebrations is limited to the borders of the nation"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu liền trước chỗ trống: 'This vibrant event attracts millions of visitors each year and showcases Brazil's rich heritage of music and dance.' (Sự kiện đầy sắc màu này thu hút hàng triệu du khách mỗi năm và phô bày di sản về âm nhạc và điệu nhảy phong phú của Brazil.)\nA. Không phù hợp vì không liên kết với ý ở câu liền trước.\nB. Chưa phù hợp vì câu phía trước đã đề cập lễ hội sôi động thu hút nhiều khách du lịch.\nC. Những sự kiện này đóng vai trò quan trọng trong việc bảo tồn truyền thống và thúc đẩy cảm giác thuộc về cộng đồng → Phù hợp.\nD. Không phù hợp vì không liên kết với ý ở câu liền trước.\nTạm dịch: Những sự kiện này đóng vai trò quan trọng trong việc bảo tồn truyền thống và thúc đẩy cảm giác thuộc về cộng đồng."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Participants often dress in traditional clothing that reflects their cultural heritage",
+            "B": "Local customs and global influences combine to create unique experiences",
+            "C": "Celebrations like these fail to promote an appreciation for history and tradition",
+            "D": "These cultural symbols cannot fully reflect the creativity of each community"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu liền trước chỗ trống: 'Traditional attire, food, and performances are integral to these celebrations.' (Trang phục truyền thống, ẩm thực và các màn biểu diễn là những yếu tố không thể thiếu trong những lễ hội này.)\nA. Những người tham gia thường mặc trang phục truyền thống phản ánh di sản văn hóa của họ → Đúng vì phù hợp về ngữ nghĩa.\nB. Không phù hợp vì không liên kết với ý ở câu liền trước.\nC. Không phù hợp vì không liên kết với ý ở câu liền trước.\nD. Không phù hợp vì không liên kết với ý ở câu liền trước.\nTạm dịch: Những người tham gia thường mặc trang phục truyền thống phản ánh di sản văn hóa của họ."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the significance of cultural events is no longer spreading as quickly as before",
+            "B": "viewers across the globe can experience the joy and vibrancy of these events",
+            "C": "cultural exchange has become a common feature of international festivals",
+            "D": "people can no longer connect with or fully experience festivals in real-time"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. tầm quan trọng của các sự kiện văn hóa không còn lan rộng nhanh chóng như trước → Sai vì không phù hợp về ngữ nghĩa.\nB. khán giả từ khắp nơi trên thế giới có thể trải nghiệm niềm vui và sự sôi động của các sự kiện này → Đúng vì phù hợp về ngữ nghĩa.\nC. sự trao đổi văn hóa đã trở thành một đặc điểm chung của các lễ hội quốc tế → Sai vì không phù hợp về ngữ nghĩa.\nD. mọi người không còn có thể kết nối hoặc trải nghiệm đầy đủ các lễ hội theo thời gian thực → Sai vì không phù hợp về ngữ nghĩa.\nTạm dịch: Nhờ sự hỗ trợ của mạng xã hội và các nền tảng phát trực tuyến, khán giả từ khắp nơi trên thế giới có thể trải nghiệm niềm vui và sự sôi động của các sự kiện này."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.639478+00:00",
+  "updatedAt": "2026-06-08T10:41:58.639478+00:00",
+  "originalFileName": "THPT_Vinh_Phuc_904_2025.json"
+}

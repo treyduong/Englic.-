@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_ngo_gia_tu_vinh_phuc_2026-06-05",
+  "title": "THPT Ngô Gia Tự - Vĩnh Phúc - Lần 1 - Tốt Nghiệp THPT 2025 - Môn: Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Ngo_Gia_Tu_Vinh_Phuc_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#VĩnhPhúc",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 10.",
+      "passageTitle": "The Rise of Green Technology",
+      "passage": "(I) The rise of green technology has been remarkable in recent years, primarily driven by the urgent need to combat climate change. (II) As awareness of environmental issues increases, more businesses and individuals are adopting sustainable practices, leading to a significant transformation in various industries. (III) Many factors contribute to this global trend, which brings about both challenges and opportunities. (IV)\n\nThere are numerous incentives that encourage companies to embrace green technology. For example, many companies are implementing energy-efficient systems because they reduce operating costs. Furthermore, governments are offering tax breaks and grants to encourage businesses to invest in renewable energy sources, which can be financially beneficial. Conversely, implementing new technologies may require substantial initial investment and training for staff, which can be a barrier for some organizations.\n\nThe adoption of green technology has far-reaching impacts on both the environment and society. First, using renewable energy sources helps reduce carbon emissions, which is essential for combating global warming. Second, businesses that adopt sustainable practices often find themselves at a competitive advantage, attracting eco-conscious consumers and improving their brand image. However, not all companies can afford the transition to green technology, leading to disparities between those that can and cannot adapt.\n\nGreen technology is a multifaceted concept, and understanding its implications is crucial. By focusing on innovation and sustainable practices, we can work towards a future where economic growth and environmental preservation coexist harmoniously.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Where in paragraph I does the following sentence best fit? \"The demand for green technology is growing rapidly as the impacts of climate change become more evident.\"",
+          "context": "",
+          "options": {
+            "A": "II",
+            "B": "III",
+            "C": "I",
+            "D": "IV"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu văn này phù hợp nhất với vị trí I vì câu phía sau làm rõ hơn cho 'nhu cầu gia tăng nhanh của công nghệ xanh'. Câu ở vị trí (I) giới thiệu sự gia tăng của công nghệ xanh, và câu chèn vào bổ sung lý do cụ thể: nhu cầu đang tăng nhanh khi tác động của biến đổi khí hậu trở nên rõ ràng hơn."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The phrase brings about in paragraph I could be best replaced by _______",
+          "context": "",
+          "options": {
+            "A": "results in",
+            "B": "produces",
+            "C": "leads to",
+            "D": "originates from"
+          },
+          "correctAnswer": "A",
+          "explanation": "bring about (phV): dẫn đến = result in. Cả hai đều mang nghĩa 'gây ra / tạo ra kết quả'. Tạm dịch: Nhiều yếu tố góp phần vào xu hướng toàn cầu này, mang lại cả thách thức và cơ hội."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The word they in paragraph 2 refers to _______",
+          "context": "",
+          "options": {
+            "A": "incentives",
+            "B": "companies",
+            "C": "governments",
+            "D": "energy-efficient systems"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gốc: '...companies are implementing energy-efficient systems because they reduce operating costs.' 'They' thay thế cho 'energy-efficient systems' vì chính các hệ thống tiết kiệm năng lượng là thứ giúp giảm chi phí vận hành."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "According to paragraph 2, which of the following is NOT an incentive for adopting green technology?",
+          "context": "",
+          "options": {
+            "A": "initial investment costs",
+            "B": "government grants",
+            "C": "tax breaks",
+            "D": "energy-efficient systems"
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn 2, các động lực được đề cập là: hệ thống tiết kiệm năng lượng, trợ cấp và giảm thuế từ chính phủ. 'Chi phí đầu tư ban đầu' (initial investment costs) được nêu là rào cản, không phải động lực. Tạm dịch đoạn 2 xác nhận: 'implementing new technologies may require substantial initial investment... which can be a barrier.'"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The adoption of green technology has significant benefits for the environment and businesses but creates disparities among companies based on their ability to transition.",
+            "B": "The use of renewable energy leads to increased emissions and higher operating costs.",
+            "C": "Disparities between companies that can and cannot transition to green technology are minimal.",
+            "D": "Adopting green technology is beneficial only for larger organizations with significant resources."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn 3 nói về lợi ích của việc áp dụng công nghệ xanh (giảm khí thải carbon, lợi thế cạnh tranh), nhưng cũng nhấn mạnh rằng công nghệ xanh không dành cho tất cả các cơ sở kinh doanh, dẫn đến sự chênh lệch. Đáp án A tóm tắt chính xác cả hai ý này."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "The word eco-conscious in paragraph 3 is OPPOSITE in meaning to _______",
+          "context": "",
+          "options": {
+            "A": "harmful",
+            "B": "ecological aware",
+            "C": "ecologically careless",
+            "D": "eco-beneficial"
+          },
+          "correctAnswer": "C",
+          "explanation": "eco-conscious (adj): có ý thức về môi trường. Từ trái nghĩa là 'ecologically careless' (bất cẩn với môi trường). Đáp án B 'ecological aware' là từ đồng nghĩa, không phải trái nghĩa."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Green technology has no impact on consumer behavior.",
+            "B": "Businesses adopting sustainable practices face minimal challenges.",
+            "C": "There are both benefits and drawbacks to implementing green technology.",
+            "D": "Governments are solely responsible for the transition to green technology."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'Many factors contribute to this global trend, which brings about both challenges and opportunities.' Đoạn văn đề cập đến cả lợi ích (giảm khí thải, lợi thế cạnh tranh) và bất lợi (chi phí đầu tư ban đầu lớn, không phải tất cả công ty đều có khả năng chuyển đổi). Đáp án C là đúng."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4? (\"Green technology is a multifaceted concept, and understanding its implications is crucial.\")",
+          "context": "",
+          "options": {
+            "A": "A clear understanding of green technology's implications is unnecessary for innovation.",
+            "B": "Without understanding green technology, companies cannot achieve sustainable growth.",
+            "C": "Understanding the impact of green technology is straightforward and requires minimal effort.",
+            "D": "It is essential to understand the many dimensions of green technology and its effects."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gốc: 'Green technology is a multifaceted concept, and understanding its implications is crucial.' (Công nghệ xanh là một khái niệm đa chiều phức tạp, và hiểu được ý nghĩa của nó là rất quan trọng.) Đáp án D diễn đạt lại đúng nhất: cần thiết phải hiểu nhiều khía cạnh của công nghệ xanh và tác động của nó."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The cost of transitioning to green technology is the only barrier for businesses.",
+            "B": "Innovative practices can help overcome the challenges of transitioning to green technology.",
+            "C": "Green technology is solely focused on reducing carbon emissions without economic considerations.",
+            "D": "All companies are equally capable of adopting green technology."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin suy luận từ câu: 'By focusing on innovation and sustainable practices, we can work towards a future where economic growth and environmental preservation coexist harmoniously.' (Bằng cách tập trung vào đổi mới và các phương pháp bền vững, chúng ta có thể hướng tới một tương lai nơi tăng trưởng kinh tế và bảo vệ môi trường cùng tồn tại hài hòa.) → Các phương pháp đổi mới có thể giúp vượt qua thách thức."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "The demand for green technology is decreasing as businesses revert to traditional practices.",
+            "B": "Green technology is driven by environmental necessity, offering benefits and challenges for businesses.",
+            "C": "Sustainable practices in businesses are often costly and do not provide any competitive advantage.",
+            "D": "The growth of green technology is irrelevant to climate change and environmental issues."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'The rise of green technology has been remarkable in recent years, primarily driven by the urgent need to combat climate change…this global trend… brings about both challenges and opportunities.' (Sự phát triển của công nghệ xanh đã đáng chú ý trong những năm gần đây, chủ yếu được thúc đẩy bởi nhu cầu cấp bách để chống lại biến đổi khí hậu… xu hướng toàn cầu này… mang lại cả thách thức và cơ hội.) Đáp án B tóm tắt chính xác nhất."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 11 to 15.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "a. Alex: \"Hey Sam, how's your semester going so far?\"\nb. Sam: \"It's going pretty well, thanks! How about you?\"\nc. Alex: \"It's been challenging. I have early classes every day and I'm not a morning person\"",
+          "options": {
+            "A": "c-b-a",
+            "B": "b-c-a",
+            "C": "a-b-c",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự hợp lý: Alex hỏi Sam trước (a), Sam trả lời và hỏi lại (b), Alex trả lời câu hỏi ngược lại của Sam (c).\nTạm dịch:\nAlex: 'Chào Sam, học kỳ của bạn đến giờ thế nào rồi?'\nSam: 'Cũng khá tốt, cảm ơn! Còn bạn thì sao?'\nAlex: 'Nó khá là thử thách. Mình có lớp sớm mỗi ngày và mình không phải là người dậy sớm.'"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "a. Mark: Why online learning?\nb. Ann: I think, I'll try online learning.\nc. Mark: What are you going to do to get IELTS 7.0?\nd. Mark: I think online platforms are too expensive. I don't think I'll try them.\ne. Ann: Teachers are all native speakers, and they have flexible schedules.",
+          "options": {
+            "A": "c-b-a-e-d",
+            "B": "d-b-a-e-c",
+            "C": "d-e-a-b-c",
+            "D": "c-e-d-b-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự: Mark hỏi Ann định làm gì để đạt IELTS 7.0 (c), Ann nói sẽ thử học trực tuyến (b), Mark hỏi tại sao lại học trực tuyến (a), Ann giải thích lý do (e), Mark phản đối vì quá đắt (d).\nTạm dịch:\nMark: 'Bạn định làm gì để đạt IELTS 7.0?'\nAnn: 'Mình nghĩ là sẽ thử học trực tuyến.'\nMark: 'Tại sao lại học trực tuyến?'\nAnn: 'Các giáo viên đều là người bản xứ và họ có lịch trình linh hoạt.'\nMark: 'Mình nghĩ các nền tảng trực tuyến quá đắt. Mình không nghĩ là sẽ thử chúng.'"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. I hope this letter finds you well. It's been a while since we last spoke, and I wanted to reach out to catch up.\nb. Best wishes, Sarah\nc. Dear Tom,\nd. I'd love to hear back from you when you have the chance. Perhaps we could arrange a video call soon?\ne. Life has been quite busy here. I've started a new job at a local tech company, and it's been both challenging and exciting. The team is great, and I'm learning so much every day.\nf. How have you been? I heard through the grapevine that you've moved to a new city. How are you finding it? I hope the transition has been smooth for you.",
+          "options": {
+            "A": "f-c-a-d-e-b",
+            "B": "c-f-a-e-b-d",
+            "C": "c-a-f-e-d-b",
+            "D": "a-c-e-f-d-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc thư: Lời chào (c) → Mở đầu/lý do viết thư (a) → Hỏi thăm người nhận (f) → Kể về bản thân (e) → Kết thúc/đề xuất gặp mặt (d) → Lời chào cuối (b).\nTạm dịch: Tom thân mến, / Mong lá thư này đến tay bạn trong tình trạng tốt... / Bạn dạo này thế nào?... / Cuộc sống ở đây khá bận rộn... / Mong nhận được hồi âm của bạn... / Chúc mọi điều tốt đẹp, Sarah"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. In 1927, at the age of 16, he joined the Communist Party of Viet Nam, setting the stage for a lifelong commitment to the revolutionary cause.\nb. General Vo Nguyen Giap was a military genius and was born in Quang Binh Province in 1911.\nc. In 1954, he achieved a historic victory at the Battle of Dien Bien Phu and continued to showcase his military prowess in the final Ho Chi Minh campaign in 1975.\nd. In 2013, General Vo Nguyen Giap passed away in Ha Noi but his contributions remain deeply embedded in the nation's history.\ne. The years 1946-1975 were regarded as a remarkable period of his military leadership.",
+          "options": {
+            "A": "b-a-e-c-d",
+            "B": "a-b-d-c-e",
+            "C": "d-c-e-b-a",
+            "D": "b-c-c-a-d"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự theo thời gian: Giới thiệu (b: sinh 1911) → Gia nhập Đảng (a: 1927) → Giai đoạn lãnh đạo quân sự (e: 1946-1975) → Chiến thắng Điện Biên Phủ và chiến dịch Hồ Chí Minh (c: 1954, 1975) → Qua đời (d: 2013)."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. The highlight of the festival was the performance by the famous rock band \"Thunder Strike\" on Saturday night.\nb. Last weekend, thousands of music fans gathered in Central Park for the annual Summer Beats Festival.\nc. Despite the large crowds, the event was well-organized, with plenty of food stalls and clean facilities.\nd. Visitors enjoyed a variety of music genres, from pop and rock to jazz and electronic dance music.\ne. The three-day event featured both local and international artists performing on four different stages.",
+          "options": {
+            "A": "b-e-d-a-c",
+            "B": "a-b-c-d-e",
+            "C": "b-d-e-c-a",
+            "D": "e-b-d-c-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự: Giới thiệu sự kiện (b) → Thông tin chung về sự kiện 3 ngày (e) → Các thể loại âm nhạc (d) → Điểm nhấn (a: ban nhạc Thunder Strike) → Nhận xét tổ chức (c).\nTạm dịch: Cuối tuần trước, hàng ngàn người hâm mộ âm nhạc đã tập trung tại Công viên Trung tâm... Sự kiện kéo dài ba ngày... Du khách thưởng thức nhiều thể loại âm nhạc... Điểm nhấn là màn trình diễn của ban nhạc rock nổi tiếng 'Thunder Strike'... Mặc dù có rất đông người tham dự, sự kiện được tổ chức tốt..."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 16 to 21.",
+      "passageTitle": "Join Our Local Community Center!",
+      "passage": "Welcome to Riverside Community Center!\nAre you looking to (16)_______ new hobbies and meet people? Look no further! Our center offers a wide range of activities for all ages.\n\nFitness Classes: We have (17)_______ exercise classes every week, including yoga, Zumba, and weightlifting. Don't forget to (18)_______ along comfortable clothes and a water bottle.\n\nArt Workshops: Draw on your creative side with our art classes. We provide all (19)_______, so you don't need to bring anything.\n\nLanguage Exchange: Practice speaking with native speakers and help (20)_______ improve on their language skills. Sessions are held twice a week.\n\nCommunity Garden: Get your hands dirty and grow your own vegetables! (21)_______, we have a little space available for new gardeners.\n\nVisit us today and start your journey with Riverside Community Center!",
+      "questions": [
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take off",
+            "B": "take up",
+            "C": "take in",
+            "D": "take over"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. take off: cất cánh, thành công\nB. take up: bắt đầu (sở thích mới)\nC. take in: hiểu, hấp thụ\nD. take over: tiếp quản\nThông tin: Are you looking to take up new hobbies and meet people? (Bạn có đang muốn bắt đầu những sở thích mới và gặp gỡ mọi người không?)"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "few",
+            "B": "several",
+            "C": "plenty",
+            "D": "much"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. few + N số nhiều: ít, không đủ\nB. several + N số nhiều: một số, một vài\nC. plenty of + N không đếm được: có nhiều cái gì\nD. much + N không đếm được: nhiều\nThông tin: We have several exercise classes every week. (Chúng tôi có vài lớp thể dục mỗi tuần.) 'Several' phù hợp vì đứng trước danh từ đếm được số nhiều 'classes'."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "package",
+            "B": "get",
+            "C": "take",
+            "D": "bring"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. package: gói hàng\nB. get: lấy\nC. take: lấy đi\nD. bring: mang theo\nThông tin: Don't forget to bring along comfortable clothes and a water bottle. (Đừng quên mang theo quần áo thoải mái và một chai nước.) 'Bring along' = mang theo."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "drinks",
+            "B": "materials",
+            "C": "facilities",
+            "D": "snacks"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. drinks: đồ uống\nB. materials: vật liệu\nC. facilities: cơ sở vật chất\nD. snacks: đồ ăn nhẹ\nThông tin: We provide all materials, so you don't need to bring anything. (Chúng tôi cung cấp tất cả vật liệu, vì vậy bạn không cần mang theo bất cứ thứ gì.) Trong lớp học nghệ thuật, 'materials' (vật liệu/dụng cụ vẽ) là từ phù hợp nhất."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "the other",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. others (không kèm danh từ theo sau): những người khác\nB. the other + N số ít: người/cái còn lại\nC. other + N số nhiều/không đếm được: những cái khác\nD. another + N số ít: một cái khác\nThông tin: Practice speaking with native speakers and help others improve on their language skills. (Luyện tập nói chuyện với người bản ngữ và giúp người khác cải thiện kỹ năng ngôn ngữ của họ.) 'Others' dùng độc lập, chỉ những người khác."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "Around the center",
+            "C": "Outside the river",
+            "D": "In view of the river"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Instead of: thay vì\nB. Around the center: xung quanh trung tâm\nC. Outside the river: ngoài sông\nD. In view of the river: nhìn ra sông\nThông tin: Around the center, we have a little space available for new gardeners. (Xung quanh trung tâm, chúng tôi có một chút không gian dành cho các thành viên mới muốn làm vườn.) Văn cảnh đề cập khu vực xung quanh trung tâm cộng đồng."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fits each of the numbered blanks from 22 to 27.",
+      "passageTitle": "Experience the Magic of Sunville Resort!",
+      "passage": "Looking for the perfect getaway? Sunville Resort is the ideal destination for your next vacation!\n\nOur beautiful resort is located just 2 hours from the city, (22)_______ in the heart of (23)_______. We offer comfortable rooms with (24)_______ views of the mountains or the sea.\n\nEnjoy our wide range of activities, including swimming in our large outdoor pool, relaxing in the spa, or (25)_______ exciting water sports. Our friendly staff is always ready (26)_______ you have the best possible stay.\n\nDon't miss our special summer offer: Book a 5-night stay and get one night free! This offer is available (27)_______ bookings made before June 30th.\n\nVisit our website or call us today to make your reservation!",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to nest",
+            "B": "nestled",
+            "C": "nests",
+            "D": "nestling"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ bị động: which is nestled → nestled (V-ed). Thông tin: Sunville Resort is located just 2 hours from the city, nestled in the heart of the mountains. (Khu nghỉ dưỡng Sunville nằm cách thành phố chỉ 2 giờ đi chuyển, nằm gọn giữa phong cảnh thiên nhiên.)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "stunning natural scenery",
+            "B": "scenery stunning natural",
+            "C": "natural stunning scenery",
+            "D": "natural scenery stunning"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc trật tự từ: 'stunning' (tuyệt đẹp) là tính từ, cần đứng trước cụm danh từ 'natural scenery' (cảnh sắc thiên nhiên). Thứ tự đúng: stunning natural scenery. Thông tin: Sunville Resort is located in the heart of stunning natural scenery."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amazing",
+            "B": "amazement",
+            "C": "amazed",
+            "D": "amazingly"
+          },
+          "correctAnswer": "A",
+          "explanation": "- amazing (adj): tuyệt vời → tính từ đứng trước danh từ 'views'\n- amazement (n): sự ngạc nhiên\n- amazed (adj): ngạc nhiên (dùng cho người, không dùng cho vật)\n- amazingly (adv): đầy ngỡ ngàng\nThông tin: We offer comfortable rooms with amazing views of the mountains or the sea."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "doing",
+            "B": "playing",
+            "C": "making",
+            "D": "trying"
+          },
+          "correctAnswer": "D",
+          "explanation": "- do/play sports: chơi thể thao (thói quen, chung chung)\n- try sports: thử nghiệm các môn thể thao\nThông tin: Enjoy our wide range of activities, including swimming in our large outdoor pool, relaxing in the spa, or trying exciting water sports. (Hãy tận hưởng hàng loạt hoạt động, bao gồm bơi lội, thư giãn tại spa hoặc thử các môn thể thao dưới nước thú vị.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "helping",
+            "B": "which helps",
+            "C": "to help",
+            "D": "helped"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc: be ready to V = sẵn sàng để làm gì. Thông tin: Our friendly staff is always ready to help you have the best possible stay. (Nhân viên thân thiện của chúng tôi luôn sẵn sàng để giúp bạn có kỳ nghỉ tốt nhất có thể.)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "with",
+            "C": "to",
+            "D": "in"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ cố định: available for... = áp dụng cho... Thông tin: This offer is available for bookings made before June 30th. (Ưu đãi này áp dụng cho các đặt phòng được thực hiện trước ngày 30 tháng 6.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about being independent and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 28 to 32.",
+      "passageTitle": "Being Independent",
+      "passage": "Becoming independent is an important milestone in everyone's life. (28)_______. This process is essential for maturing into a responsible and self-reliant adult.\n\n(29)_______ their own time and resources, they often find that they are more capable than they realized. Taking control of their finances, for instance, can teach young adults valuable lessons about budgeting. By paying bills, saving money, and making financial plans for the future, they develop a sense of independence (30)_______.\n\nAdditionally, independence is not just about living alone or (31)_______. It's about making choices that align with personal values and goals. When young people make choices about their education, career, or personal life, they lay the foundation for their future.\n\nIn conclusion, the journey towards independence can be challenging but it is also rewarding. As individuals grow and progress on this path, their strengths, passions, and the direction they wish to take in life (32)_______.",
+      "questions": [
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "It allows individuals to make their own decisions and learn from their own experiences",
+            "B": "It allows individuals to do their own decisions and learn from their own experiences",
+            "C": "Allowing individuals to make their own decisions and learn from their own experiences",
+            "D": "Allowed individuals making their own decisions and learn from their own experiences"
+          },
+          "correctAnswer": "A",
+          "explanation": "A là đáp án chính xác, diễn đạt tự nhiên và đúng ngữ pháp: 'It allows individuals to make their own decisions and learn from their own experiences.'\nB sai vì phải dùng 'make decisions' không phải 'do decisions'.\nC thiếu chủ ngữ.\nD không đúng ngữ pháp.\nTạm dịch: Trở nên độc lập là một dấu mốc quan trọng trong cuộc đời của mỗi người. Nó cho phép các cá nhân tự đưa ra quyết định và học hỏi từ trải nghiệm của bản thân."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "When manage",
+            "B": "As to start to manage",
+            "C": "Start to manage",
+            "D": "When people start to manage"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. khi quản lý → Sai ngữ pháp (thiếu chủ ngữ)\nB. khi bắt đầu quản lý → Thiếu chủ ngữ\nC. bắt đầu quản lý → Thiếu chủ ngữ\nD. khi mọi người bắt đầu quản lý → Đáp án chính xác có đủ chủ ngữ và mệnh đề trạng ngữ.\nThông tin: When people start to manage their own time and resources, they often find that they are more capable than they realized."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which is crucial for long-term stability",
+            "B": "who is crucial for long-term stability",
+            "C": "that is crucial for long-term stability",
+            "D": "of which is crucial for long-term stability"
+          },
+          "correctAnswer": "A",
+          "explanation": "Sử dụng đại từ quan hệ 'which' thay thế cho cụm danh từ chỉ vật 'a sense of independence'. 'Who' dùng cho người, không dùng cho vật. 'Of which' không phù hợp cấu trúc. 'That' không dùng trong mệnh đề quan hệ không xác định (non-defining).\nThông tin: ...they develop a sense of independence which is crucial for long-term stability."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "base on others",
+            "B": "put on others",
+            "C": "relying on others",
+            "D": "looking on others"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc song song: phía trước 'or' là 'living alone' nên chỗ trống cần điền cũng cần 1 V-ing. Đáp án C 'relying on others' (dựa dẫm vào người khác) đúng cả về ngữ pháp và nghĩa.\nThông tin: ...independence is not just about living alone or relying on others. It's about making choices that align with personal values and goals."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to discover",
+            "B": "can be discovered",
+            "C": "can discover",
+            "D": "for discovering"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc: wish to V = mong muốn làm gì. Chủ ngữ là 'the direction they wish to take in life', sau đó cần động từ chính của mệnh đề. 'To discover' (to + V nguyên thể) phù hợp với cấu trúc 'can discover'.\nThông tin: ...the direction they wish to take in life can discover. (Tạm dịch: Khi các cá nhân trưởng thành và tiến xa hơn trên con đường này, họ có thể khám phá ra điểm mạnh, niềm đam mê, và định hướng mà họ muốn theo đuổi trong cuộc sống.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about social media using and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 33 to 40.",
+      "passageTitle": "The Rise of Social Media",
+      "passage": "The rise of social media has dramatically transformed the way we communicate, share information, and perceive the world around us. Platforms like Facebook, Twitter, and Instagram have become integral parts of daily life for billions of people worldwide. These digital spaces offer unprecedented opportunities for connection, allowing individuals to maintain relationships across vast distances and time zones. They've also democratized information sharing, enabling anyone with an internet connection to broadcast their thoughts, experiences, and creativity to a global audience.\n\nHowever, the impact of social media extends far beyond personal communication. It has reshaped industries, altered political landscapes, and influenced social movements. Businesses now leverage these platforms for marketing, customer service, and brand building. Politicians use them to communicate directly with constituents, bypassing traditional media channels. Activists harness the viral nature of social media to raise awareness and mobilize support for various causes.\n\nDespite its many benefits, the pervasive influence of social media has also raised concerns. Issues of privacy have come to the forefront, as users' personal data becomes a valuable commodity for advertisers and data analysts. The spread of misinformation and \"fake news\" has become a significant challenge, with potential ramifications for democratic processes and public health. Additionally, there are growing concerns about the addictive nature of these platforms and their impact on mental health, particularly among younger users.\n\nThe future of social media remains a topic of intense debate and speculation. As artificial intelligence and virtual reality technologies advance, we may see a shift towards more immersive and personalized social experiences. There's also a growing push for greater regulation and transparency in how social media companies operate and handle user data.\n\nAs we navigate this digital landscape, it's crucial to approach social media with both enthusiasm and caution. While embracing the connectivity and opportunities it offers, we must also be mindful of its potential pitfalls and strive for a balanced, healthy relationship with these powerful tools.",
+      "questions": [
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "According to the passage, what is one way politicians use social media?",
+          "context": "",
+          "options": {
+            "A": "To replace traditional media entirely",
+            "B": "To regulate businesses",
+            "C": "To spread misinformation",
+            "D": "To communicate directly with constituents"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'Politicians use them to communicate directly with constituents, bypassing traditional media channels.' (Các chính trị gia sử dụng chúng để giao tiếp trực tiếp với cử tri, vượt qua các kênh truyền thông truyền thống.) Đáp án D là đúng."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"democratized\" in the first paragraph is CLOSEST in meaning to:",
+          "context": "",
+          "options": {
+            "A": "Politicized",
+            "B": "Restricted",
+            "C": "Made accessible",
+            "D": "Complicated"
+          },
+          "correctAnswer": "C",
+          "explanation": "democratize (v): dân chủ hoá = make accessible (làm cho dễ tiếp cận). Nghĩa trong văn cảnh: mạng xã hội đã 'dân chủ hóa' việc chia sẻ thông tin, cho phép bất kỳ ai có kết nối internet đều có thể truyền tải suy nghĩ của mình. Tức là làm cho việc chia sẻ thông tin trở nên dễ tiếp cận hơn với mọi người."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which sentence best paraphrases the following statement from the passage: \"As we navigate this digital landscape, it's crucial to approach social media with both enthusiasm and caution.\"",
+          "context": "",
+          "options": {
+            "A": "We need to balance the benefits of social media with awareness of its risks.",
+            "B": "Enthusiasm is more important than caution when using social media.",
+            "C": "Social media is dangerous and should be used carefully.",
+            "D": "We should avoid using social media altogether."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: 'Khi chúng ta điều hướng bối cảnh kỹ thuật số này, điều quan trọng là tiếp cận mạng xã hội với cả sự hứng khởi và thận trọng.' Đáp án A diễn đạt lại đúng nhất: Chúng ta cần cân bằng lợi ích của mạng xã hội với sự nhận thức về các rủi ro của nó."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"them\" in the second paragraph refers to:",
+          "context": "",
+          "options": {
+            "A": "industries",
+            "B": "landscapes",
+            "C": "businesses",
+            "D": "platforms"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gốc: 'Businesses now leverage these platforms for marketing, customer service, and brand building. Politicians use them to communicate directly with constituents...' 'Them' thay thế cho 'platforms' (các nền tảng) - đây là danh từ gần nhất và phù hợp về nghĩa: các chính trị gia sử dụng các nền tảng mạng xã hội để giao tiếp với cử tri."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "In which paragraph does the writer mention the impact on mental health as a concern related to social media use?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 1",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'Additionally, there are growing concerns about the addictive nature of these platforms and their impact on mental health, particularly among younger users.' Câu này nằm ở đoạn 3 - đoạn nói về các mối lo ngại (concerns) dù mạng xã hội có nhiều lợi ích."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "The word \"pervasive\" in the third paragraph is closest in meaning to:",
+          "context": "",
+          "options": {
+            "A": "Beneficial",
+            "B": "Insignificant",
+            "C": "Widespread",
+            "D": "Temporary"
+          },
+          "correctAnswer": "C",
+          "explanation": "Pervasive (adj): lan rộng = widespread (phổ biến, lan rộng). Trong văn cảnh: 'the pervasive influence of social media' = ảnh hưởng lan rộng của mạng xã hội."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following statements is NOT true according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Businesses use social media for various purposes including marketing.",
+            "B": "Social media has transformed communication and information sharing.",
+            "C": "There are concerns about the addictive nature of social media platforms.",
+            "D": "Social media has had no impact on political landscapes."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin từ đoạn 2: 'It has reshaped industries, altered political landscapes, and influenced social movements.' (Nó đã định hình lại các ngành công nghiệp, thay đổi bối cảnh chính trị và ảnh hưởng đến các phong trào xã hội.) Vậy đáp án D sai: mạng xã hội ĐÃ có tác động đến các bối cảnh chính trị."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "What does the passage suggest about the future of social media?",
+          "context": "",
+          "options": {
+            "A": "It will lose popularity among users.",
+            "B": "It will definitely become more regulated.",
+            "C": "It will solve all current privacy issues.",
+            "D": "It may involve more immersive technologies."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'As artificial intelligence and virtual reality technologies advance, we may see a shift towards more immersive and personalized social experiences.' (Khi công nghệ trí tuệ nhân tạo và thực tế ảo tiến bộ, chúng ta có thể thấy sự chuyển đổi sang các trải nghiệm xã hội nhập vai và cá nhân hóa hơn.) Đáp án D 'It may involve more immersive technologies' phù hợp nhất."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.598183+00:00",
+  "updatedAt": "2026-06-08T10:41:58.598183+00:00",
+  "originalFileName": "THPT_Ngo_Gia_Tu_Vinh_Phuc_2025.json"
+}

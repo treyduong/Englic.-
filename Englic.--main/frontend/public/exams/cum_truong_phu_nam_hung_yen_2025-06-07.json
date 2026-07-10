@@ -1,0 +1,626 @@
+{
+  "examId": "cum_truong_phu_nam_hung_yen_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Cụm Các Trường Phía Nam Hưng Yên",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Phu_Nam_Hung_Yen_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HưngYên",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "DISCOVER YOUR TRAVEL BUDDY",
+      "passage": "\"Who will I share my journey with? Will they be friendly or will they just (1)_______ quiet?\" Are these the thoughts you often have before starting a (2)_______ ? Say goodbye to uncertainty! A travel company has launched an innovative program (3)_______ 'Buddy Finder'. This platform helps you connect with like-minded travelers before your trip. You can upload a short profile to introduce yourself and your travel preferences. (4)_______ return, you'll see others' profiles and decide who to join on your adventure. Whether you're looking to explore friendships or (5)_______ find a companion to share expenses, Buddy Finder has got you covered.\n\nJoin now and discover how exciting it can be to (6)_______ the world with a travel buddy!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to stay",
+            "B": "staying",
+            "C": "stayed",
+            "D": "stay"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về thì tương lai đơn: Cấu trúc câu hỏi yes/no: Will + S + V nguyên mẫu?\nTạm dịch: \"Tôi sẽ chia sẻ hành trình của mình với ai? Họ sẽ thân thiện hay chỉ im lặng?\""
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "travel long distance",
+            "B": "long travel distance",
+            "C": "distance travel long",
+            "D": "long distance travel"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: Sau mạo từ 'a', ta cần một danh từ hoặc cụm danh từ. Ta có danh từ 'travel' nên tính từ 'long distance' cần đứng trước danh từ này để bổ sung ý nghĩa.\nTạm dịch: Đây có phải là những suy nghĩ bạn thường có trước khi bắt đầu một chuyến du lịch đường dài không?"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which called",
+            "B": "calling",
+            "C": "called",
+            "D": "which calls"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ: Khi rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và to be (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: Một công ty du lịch đã ra mắt một chương trình sáng tạo có tên là 'Buddy Finder'."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "In",
+            "B": "On",
+            "C": "By",
+            "D": "For"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ: In return: đổi lại.\nTạm dịch: Đổi lại, bạn sẽ thấy hồ sơ của những người khác và quyết định xem sẽ tham gia cùng ai trong chuyến phiêu lưu của mình."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "simplification",
+            "B": "simple",
+            "C": "simply",
+            "D": "simpify"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. simplification /ˌsɪmplɪfɪˈkeɪʃən/ (n): sự đơn giản hóa\nB. simple /ˈsɪmpl/ (adj): đơn giản\nC. simply /ˈsɪmpli/ (adv): một cách đơn giản\nD. simplify /ˈsɪmplɪfaɪ/ (v): đơn giản hóa\nTa cần một trạng từ bổ sung ý nghĩa cho cụm động từ 'find a companion'.\nTạm dịch: Cho dù bạn đang muốn khám phá tình bạn hay chỉ đơn giản là tìm một người bạn đồng hành để chia sẻ chi phí, Buddy Finder sẽ giúp bạn."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "do",
+            "C": "form",
+            "D": "create"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ: make the world (with someone): (cùng ai đó) khám phá thế giới.\nTạm dịch: Hãy tham gia ngay và khám phá sự thú vị khi hình thành một thế giới cùng người bạn đồng hành!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "THE IMPACT OF TECHNOLOGICAL ADVANCEMENTS ON EDUCATION",
+      "passage": "(I) The 21st century has witnessed remarkable advancements in technology, significantly transforming education worldwide. (II) Online learning platforms, digital tools, and virtual classrooms have reshaped how students access and engage with knowledge. (III) As technology becomes more integrated into education, it introduces both opportunities and challenges for educators and learners. (IV)\n\nTechnological advancements offer numerous benefits for modern education. For instance, online learning platforms enable students to access quality education regardless of geographical constraints. Students in remote areas can participate in virtual classes, gaining the same resources and knowledge as their peers in urban regions. Additionally, digital tools such as interactive apps and e-books make learning more engaging, catering to different learning styles. Teachers also benefit from these tools, which help them create personalized lessons and track students' progress effectively.\n\nHowever, integrating technology into education is not without challenges. One significant concern is the digital divide, where students from low-income families may lack access to reliable devices or the internet, creating educational inequalities. Another challenge is the over-reliance on technology, which could lead to reduced social interaction and critical thinking skills. Moreover, cyber security and data privacy issues pose risks, as sensitive student data stored online may be vulnerable to breaches.\n\nTo ensure technology positively impacts education, governments and institutions must address these challenges. Providing affordable digital access, offering teacher training programs, and implementing robust data security measures are essential steps toward equitable and effective technology integration. With careful planning, technology can transform education into a more inclusive and efficient system.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Over-reliance on technology enhances critical thinking skills among students.",
+            "B": "The digital divide only affects students in developing countries.",
+            "C": "Personalized lessons enabled by technology cater to students' individual needs.",
+            "D": "Students in rural areas often outperform their urban counterparts due to access to online resources."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai vì 'Another challenge is the over-reliance on technology, which could lead to reduced social interaction and critical thinking skills.' (sự phụ thuộc quá mức vào công nghệ làm giảm kỹ năng tư duy phản biện, không tăng).\nB sai vì không có thông tin 'only affects students in developing countries'.\nC đúng vì 'digital tools...make learning more engaging, catering to different learning styles. Teachers also benefit from these tools, which help them create personalized lessons'.\nD sai ở 'often outperform' vì không có thông tin trong bài."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Technology continues to revolutionize the traditional classroom setting, bringing global knowledge to students' fingertips.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(III)",
+            "C": "(II)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy câu cần điền phù hợp nhất ở vị trí (III) vì tiếp tục phát triển ý của câu phía trước về việc công nghệ cách mạng hóa giáo dục, và đứng trước câu nói về cơ hội và thách thức khi tích hợp công nghệ."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "The word \"them\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "students",
+            "B": "interactive apps",
+            "C": "digital tools",
+            "D": "teachers"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'them' trong đoạn 2 ám chỉ 'teachers'. Thông tin: 'Teachers also benefit from these tools, which help them create personalized lessons and track students' progress effectively.' (Giáo viên cũng được hưởng lợi từ những công cụ này, chúng giúp họ tạo ra các bài học được cá nhân hóa và theo dõi tiến trình học tập của học sinh một cách hiệu quả.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Although technological advancements transform education, they create more challenges than opportunities for learners.",
+            "B": "The integration of technology into education offers accessibility and engagement benefits but requires addressing challenges like inequality and privacy risks.",
+            "C": "Governments' efforts to promote technology in schools have led to equal opportunities for all students globally.",
+            "D": "Over-reliance on educational technology has limited students' social and critical thinking skills."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì không có thông tin 'more challenges than opportunities' trong bài.\nB đúng vì tóm tắt được nội dung chính của bài: công nghệ mang lại lợi ích về khả năng tiếp cận và sự tham gia, nhưng đòi hỏi phải giải quyết các thách thức như bất bình đẳng và rủi ro về quyền riêng tư.\nC sai vì không phải nội dung chính của bài.\nD sai vì chỉ là một chi tiết trong bài."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Digital access and training programs are important, but data security can be overlooked in technology-based education.",
+            "B": "Accessibility, teacher preparation, and cybersecurity are crucial for effective use of technology in education.",
+            "C": "Equitable technology integration relies solely on providing affordable access and teacher training.",
+            "D": "Affordable access, along with teacher training, guarantees full technology integration in classrooms."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: 'Providing affordable digital access, offering teacher training programs, and implementing robust data security measures are essential steps toward equitable and effective technology integration.'\nA sai ở 'but data security can be overlooked'.\nB đúng vì diễn đạt lại câu gốc đầy đủ và chính xác: khả năng tiếp cận, sự chuẩn bị của giáo viên và an ninh mạng là rất quan trọng.\nC sai ở 'solely' và còn thiếu 'implementing robust data security measures'.\nD sai vì còn thiếu 'implementing robust data security measures'."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "According to paragraph 2, which of the following is NOT a benefit of technological advancements in education?",
+          "context": "",
+          "options": {
+            "A": "Increasing social interactions",
+            "B": "Expanding access to education",
+            "C": "Offering personalized lesson plans",
+            "D": "Enhancing learning engagement"
+          },
+          "correctAnswer": "A",
+          "explanation": "B đúng: 'online learning platforms enable students to access quality education regardless of geographical constraints'.\nC đúng: 'Teachers...help them create personalized lessons'.\nD đúng: 'digital tools...make learning more engaging, catering to different learning styles'.\nA sai vì không được đề cập trong đoạn 2 như một lợi ích."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "The phrase \"reshaped how students access\" in paragraph 1 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "modified how students reject",
+            "B": "adjusted what students discuss",
+            "C": "transformed the way students acquire",
+            "D": "influenced where students share"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ 'reshaped how students access': định hình lại cách tiếp cận của học sinh.\nThông tin: 'Online learning platforms, digital tools, and virtual classrooms have reshaped how students access and engage with knowledge.' (Các nền tảng học trực tuyến, công cụ kỹ thuật số, và lớp học ảo đã tái định hình cách học sinh tiếp cận và tương tác với kiến thức.)\nC đúng vì 'transformed the way students acquire' = biến đổi cách học sinh tiếp thu."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Students' privacy concerns will decline as technology in education advances.",
+            "B": "Effective technology integration requires collaboration between governments and schools.",
+            "C": "The benefits of educational technology outweigh its challenges in all contexts.",
+            "D": "Technology in education primarily benefits students from well-resourced families."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì quyền riêng tư dữ liệu là một thách thức.\nB có thể được suy ra từ bài đọc: 'To ensure technology positively impacts education, governments and institutions must address these challenges.'\nC sai vì không có thông tin trong bài.\nD sai ở 'primarily benefits students from well-resourced families' vì công nghệ đem lại lợi ích cho 'educators and learners' và cả những học sinh ở vùng xa xôi."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "The word \"vulnerable\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "limited",
+            "B": "exposed",
+            "C": "sensitive",
+            "D": "protected"
+          },
+          "correctAnswer": "D",
+          "explanation": "Vulnerable /ˈvʌlnərəbəl/ (adj): dễ bị tổn thương >< protected (adj): được bảo vệ.\nA. limited /ˈlɪmɪtɪd/ (adj): hạn chế\nB. exposed /ɪkˈspəʊzd/ (adj): lộ ra, không được bảo vệ\nC. sensitive /ˈsensɪtɪv/ (adj): nhạy cảm\nD. protected /prəˈtektɪd/ (adj): được bảo vệ\nThông tin: 'sensitive student data stored online may be vulnerable to breaches.'"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Over-reliance on technology has caused students to lose interest in traditional education systems.",
+            "B": "Cybersecurity issues outweigh other challenges in implementing technology in schools.",
+            "C": "Technology integration in education presents challenges such as educational inequality, reduced social interaction, and data security risks.",
+            "D": "The digital divide highlights how access to technology varies between urban and rural areas."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai vì không có thông tin trong đoạn.\nB sai vì không có thông tin trong đoạn.\nC đúng vì tóm tắt chính xác nội dung của đoạn: việc tích hợp công nghệ vào giáo dục gặp phải các thách thức như bất bình đẳng giáo dục, giảm tương tác xã hội, và rủi ro về bảo mật dữ liệu.\nD sai vì chỉ là một chi tiết trong đoạn, chưa tóm tắt được đầy đủ nội dung của đoạn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "THE ROLE OF URBAN GREEN SPACES",
+      "passage": "Urban green spaces, such as parks, gardens, and forests, are vital to the health of cities and their residents. These spaces provide places for recreation, relaxation, and exercise, contributing to both physical and mental well-being. Research shows that people who live near green spaces are generally healthier than those who do not. In addition to personal benefits, green spaces also help reduce urban temperatures, improve air quality, and support biodiversity.\n\nOne example of a successful urban green space is Central Park in New York City. This iconic park offers an escape from the city's fast pace and provides various activities for people of all ages. Central Park is not just a recreational space; it also serves as an urban habitat for wildlife. Studies have shown that areas with more green spaces experience lower levels of urban heat island effects - a phenomenon where urban areas are significantly warmer than their rural surroundings.\n\nHowever, despite these benefits, the availability of green spaces is not equal across cities. Low-income neighborhoods often have fewer parks and recreational areas than wealthier areas. To address this issue, city planners and governments are working to create more accessible green spaces for all urban residents. They are also introducing innovative solutions like rooftop gardens and vertical forests to maximize greenery in limited urban areas.\n\nTechnology plays a role in enhancing urban green spaces as well. Apps that track air quality and offer maps of green areas encourage people to explore and use these spaces. Additionally, data from satellite imagery is being used to identify areas most in need of green spaces. By combining planning, technology, and community involvement, cities can ensure that the benefits of urban green spaces reach everyone.",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "In which paragraph does the writer mention an issue related to fairness?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'However, despite these benefits, the availability of green spaces is not equal across cities. Low-income neighborhoods often have fewer parks and recreational areas than wealthier areas.' (Tuy nhiên, mặc dù những lợi ích này, sự có mặt của các không gian xanh không đồng đều ở các thành phố. Các khu dân cư có thu nhập thấp thường có ít công viên và khu vực giải trí hơn các khu vực giàu có.) → Đây là vấn đề liên quan đến sự công bằng, nằm ở đoạn 3."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The word \"those\" in paragraph 1 refers to",
+          "context": "",
+          "options": {
+            "A": "urban areas",
+            "B": "green spaces",
+            "C": "researchers",
+            "D": "people"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'those' ám chỉ 'people'. Thông tin: 'Research shows that people who live near green spaces are generally healthier than those who do not.' (Các nghiên cứu cho thấy những người sống gần các không gian xanh thường khỏe mạnh hơn những người không sống gần.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "In which paragraph does the writer explore modern technological solutions for urban green spaces?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 1",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: 'Technology plays a role in enhancing urban green spaces as well. Apps that track air quality and offer maps of green areas encourage people to explore and use these spaces. Additionally, data from satellite imagery is being used to identify areas most in need of green spaces.' (Công nghệ cũng đóng vai trò quan trọng trong việc cải thiện các không gian xanh đô thị...) → Đoạn 4."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "The word \"vital\" in paragraph 1 is CLOSEST in meaning to",
+          "context": "",
+          "options": {
+            "A": "excessive",
+            "B": "optional",
+            "C": "fragile",
+            "D": "necessary"
+          },
+          "correctAnswer": "D",
+          "explanation": "Vital /ˈvaɪtl/ (adj): quan trọng, cần thiết = necessary (adj).\nA. excessive /ɪkˈsesɪv/ (adj): quá mức, thái quá\nB. optional /ˈɒpʃənl/ (adj): tùy chọn\nC. fragile /ˈfrædʒaɪl/ (adj): dễ vỡ\nD. necessary /ˈnesəsəri/ (adj): cần thiết\nThông tin: 'Urban green spaces...are vital to the health of cities and their residents.'"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Apps that track air quality are used to build new green spaces.",
+            "B": "Rooftop gardens are becoming a common solution for urban greenery.",
+            "C": "Central Park is primarily a habitat for wildlife in New York City.",
+            "D": "Low-income neighborhoods often have more parks than wealthier areas."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai ở 'to build new green spaces' (để xây dựng các không gian xanh mới) vì ứng dụng được dùng để khuyến khích mọi người khám phá và sử dụng những không gian này.\nB đúng: 'They are also introducing innovative solutions like rooftop gardens and vertical forests to maximize greenery in limited urban areas.'\nC sai ở 'primarily' vì Central Park không chỉ là một môi trường sống cho động vật hoang dã.\nD sai ở 'more' vì 'Low-income neighborhoods often have fewer parks'."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following is NOT mentioned as a benefit of urban green spaces?",
+          "context": "",
+          "options": {
+            "A": "Reducing urban noise",
+            "B": "Enhancing mental health",
+            "C": "Supporting biodiversity",
+            "D": "Improving air quality"
+          },
+          "correctAnswer": "A",
+          "explanation": "B được đề cập: 'contributing to both physical and mental well-being'.\nC và D được đề cập: 'green spaces also help reduce urban temperatures, improve air quality, and support biodiversity'.\nA không được đề cập trong bài như một lợi ích."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"iconic\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "modern",
+            "B": "well-known",
+            "C": "functional",
+            "D": "traditional"
+          },
+          "correctAnswer": "B",
+          "explanation": "Iconic /aɪˈkɒnɪk/ (adj): mang tính biểu tượng, nổi tiếng = well-known (adj).\nA. modern /ˈmɒdərn/ (adj): hiện đại\nB. well-known /ˈwel nəʊn/ (adj): nổi tiếng\nC. functional /ˈfʌŋkʃənl/ (adj): thiết thực, hoạt động tốt\nD. traditional /trəˈdɪʃənl/ (adj): truyền thống\nThông tin: 'This iconic park offers an escape from the city's fast pace and provides various activities for people of all ages.'"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Urban heat island effects occur less in areas where green spaces are abundant.",
+            "B": "The urban heat island effect causes rural areas to be warmer than urban centers.",
+            "C": "Green spaces reduce the difference in temperature between urban and rural areas.",
+            "D": "Urban areas with more green spaces tend to be cooler than those with fewer green spaces."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gốc: 'areas with more green spaces experience lower levels of urban heat island effects - a phenomenon where urban areas are significantly warmer than their rural surroundings.'\nA sai ở 'occur less' vì hiệu ứng này xảy ra với mức độ thấp hơn ở nơi có không gian xanh, không phải ít xảy ra hơn.\nB sai về ý nghĩa câu.\nC sai về ý nghĩa câu so với câu gốc.\nD đúng vì phù hợp về ý nghĩa: 'Các khu vực đô thị có nhiều không gian xanh có xu hướng mát mẻ hơn so với những khu vực có ít không gian xanh.'"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 25 to 30.",
+      "passageTitle": "TAKING ACTION TO PROTECT OUR PLANET",
+      "passage": "Every day, the choices we make have a direct impact on the environment. From the products we use to the waste we create, we can all take small steps to make a big difference.\n\nThe reality:\nUsing harmful chemicals in farming has damaged soil and (25)_______ around us. Meanwhile, people around the world (26)_______ millions of plastic bags and bottles every day. These items take hundreds of years to decompose, harming wildlife and the planet.\n\nWhat you can do:\n• Choose organic fruits and vegetables to reduce the use of harmful chemicals.\n• Avoid buying food in unnecessary plastic packaging. (27)_______ eating pre-packaged meals, cook your own food from scratch!\n• Limit the (28)_______ of products you use and always try to reuse or recycle. Separate paper, glass, and plastic (29)_______ and ensure they are properly recycled.\n• Support local products to reduce the carbon footprint of food (30)_______\n• Encourage your friends and family to follow sustainable practices to help protect the environment.\n\nLet's work together to create a cleaner, greener future!",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "each other",
+            "C": "another",
+            "D": "other"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. others: những cái/người khác (đứng một mình)\nB. each other: với nhau, lẫn nhau\nC. another + N đếm được số ít: cái/người khác\nD. other + N đếm được số nhiều/không đếm được: những cái/người khác\nTa cần một từ có thể đứng một mình để chỉ 'những thứ khác' nên ta chọn 'others'.\nTạm dịch: Sử dụng hóa chất độc hại trong canh tác đã làm hỏng đất và những thứ xung quanh chúng ta."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "give in",
+            "B": "throw away",
+            "C": "pass out",
+            "D": "put off"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. give in: đầu hàng\nB. throw away: vứt bỏ\nC. pass out: ngất xỉu\nD. put off: hoãn lại\nTạm dịch: Trong khi đó, mọi người trên khắp thế giới vứt đi hàng triệu túi nhựa và chai lọ mỗi ngày."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "On account of",
+            "C": "Irrespective of",
+            "D": "In view of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về liên từ:\nA. Instead of: thay vì\nB. On account of: vì lý do\nC. Irrespective of: bất chấp\nD. In view of: xét thấy\nTạm dịch: Thay vì ăn các bữa ăn đóng gói sẵn, hãy tự nấu thức ăn của bạn từ đầu!"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "number",
+            "B": "amount",
+            "C": "level",
+            "D": "quality"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. the number of + N số nhiều: số lượng của\nB. the amount of + N không đếm được: một lượng\nC. the level of + N không đếm được: lượng, mức độ\nD. the quality of + N đếm được/không đếm được: chất lượng của\nTa thấy danh từ 'products' ở dạng danh từ đếm được số nhiều và dựa vào nghĩa, ta chọn 'number'.\nTạm dịch: Hạn chế số lượng sản phẩm bạn sử dụng và luôn cố gắng tái sử dụng hoặc tái chế."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "resources",
+            "B": "substances",
+            "C": "items",
+            "D": "factors"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. resource /rɪˈsɔːs/ (n): tài nguyên\nB. substance /ˈsʌbstəns/ (n): chất, vật chất\nC. item /ˈaɪtəm/ (n): món đồ, vật dụng\nD. factor /ˈfæktə(r)/ (n): yếu tố\nTạm dịch: Phân loại các vật dụng giấy, thủy tinh và nhựa và đảm bảo chúng được tái chế đúng cách."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "storage",
+            "B": "preparation",
+            "C": "transport",
+            "D": "decomposition"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. storage /ˈstɔːrɪdʒ/ (n): sự lưu trữ\nB. preparation /ˌprepəˈreɪʃən/ (n): sự chuẩn bị\nC. transport /ˈtrænspoːt/ (n): sự vận chuyển\nD. decomposition /ˌdiːkəmˌpəʊzɪʃən/ (n): sự phân hủy\nTạm dịch: Hỗ trợ các sản phẩm địa phương để giảm lượng khí thải carbon trong quá trình vận chuyển thực phẩm."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "a. Despite the rapid growth, Springfield still faces significant challenges, as the public transport system is underdeveloped, with the nearest subway station located several miles away.\nb. Green spaces that once flourished along Main Street and Park Avenue have gradually been replaced by high-rise buildings, reflecting the city's shift towards urban expansion.\nc. This urbanisation has brought about an influx of businesses, ranging from restaurants to corporate offices boosting the economy and making Springfield a more commercial hub.\nd. Springfield has undergone rapid changes in the past decade.\ne. As a result of urban growth, the population has increased by 40%, largely due to an influx of workers, leading to greater traffic and congestion in the city center.",
+          "options": {
+            "A": "d-c-a-b-e",
+            "B": "d-e-b-c-a",
+            "C": "d-b-c-e-a",
+            "D": "d-a-e-b-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự hợp lý: d (giới thiệu Springfield trải qua thay đổi nhanh chóng) → b (không gian xanh bị thay thế bởi nhà cao tầng) → c (đô thị hóa mang lại nhiều doanh nghiệp) → e (dân số tăng 40%, giao thông tắc nghẽn) → a (thách thức vẫn còn: hệ thống giao thông công cộng kém phát triển).\nTạm dịch: Springfield đã trải qua những thay đổi nhanh chóng trong thập kỷ qua. Những không gian xanh từng phát triển mạnh mẽ dọc theo Phố Main và Đại lộ Park đã dần được thay thế bằng những tòa nhà cao tầng... Quá trình đô thị hóa này đã mang lại sự xuất hiện của hàng loạt các doanh nghiệp... Do sự phát triển đô thị, dân số đã tăng 40%... Mặc dù tốc độ phát triển nhanh chóng, Springfield vẫn phải đối mặt với những thách thức đáng kể..."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "Dear Michael,\na. I'm really grateful for your feedback; it gave me a fresh perspective.\nb. Thanks for reviewing the draft of my article on environmental issues.\nc. I'm making the necessary edits now and hope to submit it by the end of the week.\nd. If you have time, maybe we can discuss the revisions over coffee.\ne. I look forward to your thoughts on the updated version once it's ready.\nBest wishes,\nLily",
+          "options": {
+            "A": "d-a-c-b-e",
+            "B": "b-c-d-a-e",
+            "C": "b-a-c-e-d",
+            "D": "b-a-d-c-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự hợp lý: b (cảm ơn đã xem xét bản thảo) → a (biết ơn phản hồi; có cái nhìn mới mẻ) → c (đang thực hiện chỉnh sửa và hy vọng nộp bài vào cuối tuần) → e (mong nhận được ý kiến về phiên bản được chỉnh sửa) → d (nếu có thời gian, có thể thảo luận về các sửa đổi qua một buổi uống cà phê).\nTạm dịch: Cảm ơn bạn đã xem qua bản thảo bài viết của tôi về các vấn đề môi trường. Tôi rất biết ơn những nhận xét của bạn... Tôi đang thực hiện các chỉnh sửa cần thiết và hy vọng có thể nộp bài... Tôi mong nhận được ý kiến của bạn về phiên bản được chỉnh sửa... Nếu bạn có thời gian, chúng ta có thể thảo luận về các sửa đổi qua một buổi uống cà phê."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "a. John: I'm planning to visit Japan next summer.\nb. Mary: Why Japan?\nc. Mary: Have you already decided on the place you want to visit?\nd. John: I've always been fascinated by Japanese culture and history.\ne. Mary: That sounds amazing! I hope you enjoy the trip.",
+          "options": {
+            "A": "c-a-d-b-e",
+            "B": "c-a-b-d-e",
+            "C": "a-b-d-c-e",
+            "D": "b-a-e-d-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trình tự hợp lý: c (Mary hỏi John đã quyết định nơi muốn đến chưa?) → a (John: Tôi đang có kế hoạch đến thăm Nhật Bản vào mùa hè năm sau.) → b (Mary: Tại sao lại là Nhật Bản?) → d (John: Tôi luôn bị cuốn hút bởi văn hóa và lịch sử Nhật Bản.) → e (Mary: Nghe có vẻ tuyệt vời! Tôi hy vọng bạn thích chuyến đi.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "a. The quick and easy nature of platforms like Tik Tok and Instagram often leads to decreased attention spans, as viewers become accustomed to rapid changes and instant gratification.\nb. In conclusion, while short-form content can be entertaining and engaging, it is essential to be aware of its potential harms and to practice moderation in consumption to maintain a healthy balance in our lives.\nc. This type of media can also contribute to feelings of anxiety and inadequacy, as individuals may find themselves comparing their lives to the highlights showcased by others.\nd. In recent years, the rise of short-form content has become a significant trend, but its negative effects on viewers cannot be overlooked.\ne. Furthermore, the addictive nature of short-form content can lead to excessive screen time, negatively impacting physical health and social interactions.",
+          "options": {
+            "A": "d-a-c-e-b",
+            "B": "b-d-c-a-e",
+            "C": "a-d-c-e-b",
+            "D": "b-a-c-d-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự hợp lý: d (giới thiệu xu hướng nội dung dạng ngắn và tác động tiêu cực) → a (giảm khả năng tập trung) → c (gây lo lắng và cảm giác thiếu thốn khi so sánh) → e (bản chất gây nghiện dẫn đến thời gian sử dụng màn hình quá nhiều) → b (kết luận: cần nhận thức và tiêu thụ có chừng mực).\nTạm dịch: Trong những năm gần đây, sự gia tăng của nội dung dạng ngắn đã trở thành một xu hướng nổi bật... Bản chất nhanh chóng và dễ dàng của các nền tảng như Tik Tok và Instagram thường dẫn đến việc giảm khả năng tập trung... Loại phương tiện truyền thông này cũng có thể góp phần gây ra cảm giác lo lắng... Hơn nữa, bản chất gây nghiện... Tóm lại, mặc dù nội dung dạng ngắn có thể mang tính giải trí và hấp dẫn..."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "a. Nam: Hi, Jessica. I'm so excited as I've never met a talking robot before. Let's have a photo taken together!\nb. Teacher: Hello, class. Please meet Jessica. She's a human-like robot and will be your guide today.\nc. Jessica: Good morning, everybody. Welcome to the New Tech Centre.",
+          "options": {
+            "A": "c-a-b",
+            "B": "b-c-a",
+            "C": "b-a-c",
+            "D": "a-b-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trình tự hợp lý: b (Giáo viên giới thiệu Jessica với lớp) → c (Jessica chào mọi người và chào mừng đến Trung tâm Công nghệ Mới) → a (Nam hào hứng vì lần đầu gặp robot biết nói, muốn chụp ảnh cùng).\nTạm dịch: Giáo viên: Xin chào cả lớp. Hãy gặp Jessica. Cô ấy là một robot giống người và sẽ là người hướng dẫn của các em hôm nay. → Jessica: Chào buổi sáng mọi người. Chào mừng các bạn đến với Trung tâm Công nghệ Mới. → Nam: Chào Jessica. Mình rất hào hứng vì đây là lần đầu tiên mình gặp một robot biết nói. Hãy chụp một bức ảnh cùng nhau nhé!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option best fits each of the numbered blanks from 36 to 40.",
+      "passageTitle": "THE JOURNEY TO MARS",
+      "passage": "Exploring Mars has been a dream of humanity for centuries. With advancements in technology, this dream is closer than ever to become a reality. In 2020, the Perseverance rover, launched by NASA, (36)_______. Since landing, it has been collecting valuable data about the Martian surface, including evidence of ancient microbial life.\n\nThe Perseverance rover is part of a larger mission (37)_______. The ultimate goal is to prepare for future human exploration of Mars, which is likely to happen as early as the 2030s. (38)_______. This includes studying its atmosphere, soil composition, and weather patterns to determine if humans can survive on the planet.\n\nPerseverance is equipped with state-of-the-art instruments, such as high-resolution cameras and a helicopter drone named Ingenuity. (39)_______. The data collected will not only enhance our understanding of Mars but also help design technologies for future missions.\n\nAs scientists continue to make groundbreaking discoveries, Perseverance stands as a symbol of humanity's determination to explore the unknown. (40)_______.",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "having landed on Mars successfully",
+            "B": "that had been deployed to land on Mars successfully",
+            "C": "successfully deployed on Mars",
+            "D": "was successfully deployed on Mars"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'the Perseverance rover' (tàu thám hiểm Perseverance), do vậy, ta cần một động từ chính có chia thì.\nLoại A vì sử dụng phân từ hoàn thành.\nLoại B vì sử dụng mệnh đề quan hệ.\nLoại C vì sử dụng sai dạng động từ.\nTạm dịch: Vào năm 2020, tàu thám hiểm Perseverance do NASA phóng lên đã được triển khai thành công trên sao Hỏa."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "aims to bring humans to Mars through cutting-edge technologies and strategies",
+            "B": "that combines research, innovation, and teamwork to lock the mysteries of Mars",
+            "C": "whose purpose is to investigate the planet for potential human habitation",
+            "D": "of which the main focus is on understanding Mars and its possibilities"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'The Perseverance rover' và động từ chính 'is'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại A vì sử dụng động từ có chia thì 'aims'.\nLoại B vì sai về ngữ nghĩa ở 'lock the mysteries of Mars'.\nC đúng: 'whose purpose is to investigate the planet for potential human habitation' - mệnh đề quan hệ sở hữu hợp lý.\nLoại D vì 'understanding Mars and its possibilities' không cụ thể và không phù hợp với ngữ cảnh.\nTạm dịch: Tàu thám hiểm Perseverance là một phần của sứ mệnh lớn hơn có mục đích là nghiên cứu hành tinh này để tìm nơi con người có thể sinh sống."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "This rover has been designed to gather insights into the habitability of Mars",
+            "B": "Its design focuses on collecting samples that could reveal Mars's past",
+            "C": "By studying the planet's surface, the rover helps uncover its history and potential",
+            "D": "The exploration focuses on searching for water and resources essential for life"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA sai vì ý 'habitability' bị lặp lại ở câu phía sau và đoạn văn chưa được mạch lạc.\nB sai vì ý 'reveal Mars's past' không phù hợp với ý 'determine if humans can survive on the planet'.\nC đúng vì phù hợp về ngữ nghĩa và ngữ cảnh. 'This' ở câu phía sau nhằm ám chỉ 'studying the planet's surface'.\nD sai vì 'focuses on searching for water and resources' mâu thuẫn nội dung của câu phía sau.\nTạm dịch: Bằng cách nghiên cứu bề mặt của hành tinh, tàu thám hiểm giúp khám phá lịch sử và tiềm năng của nó."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Perseverance uses high-tech sensors to act as eyes and ears, allowing advanced detection",
+            "B": "Equipped with cameras and audio tools, Perseverance can detect its environment like humans",
+            "C": "Its cameras and microphones serve as its eyes and ears, enabling it to sense its surroundings",
+            "D": "With microphones and cameras as tools, its senses mimic those of humans"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA sai vì 'advanced detection' không phù hợp với ý 'act as eyes and ears'.\nB sai ở 'like humans'.\nC đúng vì phù hợp về ngữ nghĩa: 'Camera và micro của nó hoạt động như mắt và tai, cho phép nó cảm nhận môi trường xung quanh'.\nD sai ở 'its senses mimic those of humans'.\nTạm dịch: Camera và micro của nó đóng vai trò như mắt và tai, cho phép nó cảm nhận môi trường xung quanh."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "With its findings, the rover demonstrates the feasibility of life on Mars",
+            "B": "Scientists are thrilled by the new opportunities this mission creates",
+            "C": "It showcases how artificial intelligence supports space exploration",
+            "D": "The rover's findings could pave the way for human missions to Mars"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa và ngữ cảnh.\nA sai vì bài đọc không có bằng chứng cho 'the feasibility of life on Mars'.\nB sai vì không liên kết với câu trước và không phù hợp để kết đoạn.\nC sai vì bài đọc không đề cập tới việc sử dụng 'artificial intelligence'.\nD đúng vì phù hợp với nội dung của bài đọc: những phát hiện của tàu thám hiểm có thể mở đường cho các sứ mệnh đưa con người lên sao Hỏa.\nTạm dịch: Những phát hiện của tàu thám hiểm có thể mở đường cho các sứ mệnh của con người lên sao Hỏa."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.610510+00:00",
+  "updatedAt": "2026-06-08T10:41:58.610510+00:00",
+  "originalFileName": "THPT_Phu_Nam_Hung_Yen_2025.json"
+}

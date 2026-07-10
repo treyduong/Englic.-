@@ -1,0 +1,626 @@
+{
+  "examId": "cum_chuyen_mon_so_3_dak_lak_2026-06-06",
+  "title": "Cụm Chuyên môn số 3 - Đắk Lắk",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file Cụm Chuyên môn số 3 - Đắk Lắk.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ĐắkLắk",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 1 to 5.[cite: 5]",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "a. However, despite this growth, Redmond still lacks a hospital, as the nearest one is located over 30 miles away in Longreach.\nb. Once abundant parks on Oak Street and Richmond Avenue have been replaced by factories, marking a shift towards industrialization.\nc. The industrial shift has also attracted new businesses, from arcades to shops and factories, boosting the local economy and making Redmond more and more commercially active.\nd. Redmond has transformed significantly over the past decade.\ne. This industrial growth has led to a 25% population boom due to an influx of factory workers, resulting in increased traffic congestion.",
+          "options": {
+            "A": "d-a-e-b-c",
+            "B": "d-e-b-c-a",
+            "C": "d-c-a-b-e",
+            "D": "d-b-c-e-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nRedmond has transformed significantly over the past decade. Once abundant parks on Oak Street and Richmond Avenue have been replaced by factories, marking a shift towards industrialization. The industrial shift has also attracted new businesses, from arcades to shops and factories, boosting the local economy and making Redmond more and more commercially active. This industrial growth has led to a 25% population boom due to an influx of factory workers, resulting in increased traffic congestion. However, despite this growth, Redmond still lacks a hospital, as the nearest one is located over 30 miles away in Longreach.\nRedmond đã chuyển mình đáng kể trong thập kỷ qua. Những công viên rộng lớn trước đây trên phố Oak và Đại lộ Richmond đã được thay thế bằng những nhà máy, đánh dấu sự dịch chuyển sang hướng công nghiệp hóa. Sự chuyển dịch công nghiệp cũng đã thu hút các doanh nghiệp mới, từ các khu trò chơi điện tử đến các cửa hàng và nhà máy, thúc đẩy nền kinh tế địa phương và khiến Redmond trở nên ngày càng năng động về mặt thương thương mại hơn. Sự tăng trưởng công nghiệp này đã dẫn đến bùng nổ 25% dân số do sự đổ về của các công nhân nhà máy, dẫn đến tăng ùn tắc giao thông. Tuy nhiên, mặc cho sự tăng trưởng này, Redmond vẫn thiếu một bệnh viện, vì bệnh viện gần nhất ở Longreachcách đó hơn 30 dặm.[cite: 5]"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "a. Nam: Hi, Mark! Long time no see. You look so good!\nb. Nam: Yes, I have. I exercise every morning and eat more healthy food.\nc. Mark: Hi, Nam! Thanks. You look so fit, too. Have you worked out a lot lately?",
+          "options": {
+            "A": "c-a-b",
+            "B": "c-b-a",
+            "C": "b-c-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nNam: Hi, Mark! Long time no see. You look so good!\nNam: Chào, Mark! Đã lâu không gặp. Bạn trông thật khỏe mạnh!\nMark: Hi, Nam! Thanks. You look so fit, too. Have you worked out a lot lately?\nMark: Chào, Nam! Cảm ơn. Bạn cũng trông rất cân đối. Gần đây bạn đã tập luyện rất nhiều đúng không?\nNam: Yes, I have. I exercise every morning and eat more healthy food.\nNam: Đúng vậy. Mình tập thể dục mỗi buổi sáng và ăn nhiều thức ăn lành mạnh.[cite: 5]"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "a. Alex: Why online classes?\nb. Sue: I'm going to try online classes.\nc. Alex: How are you going to improve your English?\nd. Alex: I think online classes are too expensive. I don't think I'll try them.\ne. Sue: They improve our communication skills, and they have flexible schedules.",
+          "options": {
+            "A": "d-b-a-e-c",
+            "B": "c-b-a-e-d",
+            "C": "d-e-a-b-c",
+            "D": "c-e-d-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "DỊCH BÀI:\nAlex: How are you going to improve your English?\nAlex: Bạn dự định cải thiện tiếng Anh của bạn bằng cách nào?\nSue: I'm going to try online classes.\nSue: Mình sẽ thử các lớp học trực tuyến.\nAlex: Why online classes?\nAlex: Tại sao lại là các lớp học trực tuyến?\nSue: They improve our communication skills, and they have flexible schedules.\nSue: Chúng cải thiện những kỹ năng giao tiếp của chúng ta, và chúng có lịch biểu linh hoạt.\nAlex: I think online classes are too expensive. I don't think I'll try them.\nAlex: Mình nghĩ các lớp học trực tuyến quá đắt tiền. Mình không nghĩ là mình sẽ thử chúng.[cite: 5]"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "Hi Alice,\na. That would be a perfect opportunity for us to escape from the city and breathe in some fresh mountain air!\nb. I have been thinking about planning a small, relaxing trip to the mountains this weekend to unwind a bit.\nc. Let me know if you're interested in joining; I think it could be a lot of fun!\nd. The weather forecast looks absolutely ideal for some hiking and exploring.\ne. It's been quite some time since our last outdoor adventure together, don't you think?\nWrite back soon,\nSam",
+          "options": {
+            "A": "c-b-d-a-e",
+            "B": "e-d-a-b-c",
+            "C": "b-d-e-a-c",
+            "D": "a-e-b-d-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nHi Alice,\nI have been thinking about planning a small, relaxing trip to the mountains this weekend to unwind a bit. The weather forecast looks absolutely ideal for some hiking and exploring. It's been quite some time since our last outdoor adventure together, don't you think? That would be a perfect opportunity for us to escape from the city and breathe in some fresh mountain air! Let me know if you're interested in joining; I think it could be a lot of fun!\nChào Alice,\nTớ đã nghĩ đến việc lên kế hoạch cho một chuyển đi nhỏ, thư giãn lên núi vào cuối tuần này để xả hơi một chút. Dự báo thời tiết trông cực kỳ lý tưởng cho việc đi bộ đường dài và khám phá. Đã khá lâu rồi kể từ chuyến phiêu lưu ngoài trời cuối cùng của chúng ta, cậu không nghĩ vậy sao? Đó sẽ là một cơ hội hoàn hảo để chúng ta trốn khỏi thành phố và hít thở không khí trong lành của núi rừng! Hãy cho cho tớ biết nếu cậu muốn tham gia nhé; tớ nghĩ nó sẽ rất vui đấy!\nWrite back soon,\nHồi âm sớm nhé,\nSam\nSam[cite: 5]"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "a. While deadlines and flexibility are essential aspects of this job, the occasional office meeting for project updates, for instance, is a small trade-off.\nb. Working remotely from home fuels my creativity and allows for a more productive environment.\nc. Indeed, for the past year, I have thrived in this role at a local company, where I craft engaging online content and develop effective strategies.\nd. My passion for both people and technology naturally led me to a fulfilling career in social media management.\ne. In conclusion, I am incredibly happy with my current position and the opportunities it provides, as it perfectly combines my interests and skills.",
+          "options": {
+            "A": "b-c-d-a-e",
+            "B": "c-a-d-b-e",
+            "C": "a-b-c-d-e",
+            "D": "d-c-b-a-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "DỊCH BÀI:\nMy passion for both people and technology naturally led me to a fulfilling career in social media management. Indeed, for the past year, I have thrived in this role at a local company, where I craft engaging online content and develop effective strategies. Working remotely from home fuels my creativity and allows for a more productive environment. While deadlines and flexibility are essential aspects of this job, the occasional office meeting for project updates, for instance, is a small trade-off. In conclusion, I am incredibly happy with my current position and the opportunities it provides, as it perfectly combines my interests and skills.\nNiềm đam mê của tôi đối với con người và công nghệ đã dẫn tôi một cách tự nhiên đến với một sự nghiệp đầy ý nghĩa trong quản lý truyền thông xã hội. Thực tế, suốt năm qua, tôi đã phát triển mạnh mẽ trong vai trò này tại một công ty địa phương, nơi tôi tạo ra những nội dung trực tuyến hấp dẫn và xây dựng các chiến lược hiệu quả. Làm việc từ xa tại nhà giúp tôi nuôi dưỡng sự sáng tạo và tạo ra môi trường làm việc năng suất hơn. Mặc dù những hạn chót và sự linh hoạt là những yếu tố quan trọng của công việc, nhưng thỉnh thoảng có các cuộc họp văn phòng để cập nhật tiến độ dự án chẳng hạn, chỉ là một sự đánh đổi nhỏ. Tóm lại, tối thực sự hài lòng với vị trí hiện tại và những cơ hội mà công việc mang lại, vì nó kết hợp hoàn hảo giữa sở thích và kỹ năng của tôi.[cite: 5]"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about a secret job and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 6 to 15.[cite: 5]",
+      "passageTitle": "A SECRET JOB IN THE RETAIL TRADE",
+      "passage": "I am in a supermarket, doing my best to look like any other shopper browsing the shelves. My opinion on this trip is to buy something I fancy from the bakery, which means I'll have to interact with the person at the counter. I'm hoping to pass off the handwritten notes I'm carrying as a shopping list, because no one must know why I am here. I have to keep my identity secret because I am a mystery shopper.\n(I) My job involves visiting five to ten different stores a day and scoring them on, among other things, their appearance and cleanliness. (II). With the €20 I am given to spend at each store, I purchase the obligatory item that enables me to assess the service I receive at the checkout. (III). Adding the value of my purchase to the €225 I make in a typical day of eight hours of visits and two hours filing reports, I earn more than enough to live on. (IV).\nHowever, assignments paying as well as mine are becoming few and far between due to the soaring demand in my line of work. Retailers increasingly need to maintain standards so as to offer consumers a quality shopping experience and keep them from turning to the internet. However, to date, there are more than half a million mystery shoppers registered in the UK, making competition for jobs very fierce. Today it isn't only other shoppers I hide my identity from; even my friends and family don't know who I work for.[cite: 5]",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Where in paragraph 2 does the following sentence best fit? \"This feedback helps retailers improve their services and maintain customer satisfaction\"",
+          "context": "",
+          "options": {
+            "A": "(IV)",
+            "B": "(I)",
+            "C": "(II)",
+            "D": "(III)"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nCÔNG VIỆC BÍ MẬT TRONG NGÀNH BÁN LẺ\nA SECRET JOB IN THE RETAIL TRADE\nTôi đang ở trong siêu thị, cố gắng hết sức để trông giống bất kỳ người mua hàng khác đang lướt qua các kệ hàng. Ý kiến của tôi về chuyến đi này là mua thứ gì đó tôi thích từ tiệm bánh, điều đó có nghĩa là tôi sẽ phải tương tác với người ở quầy. Tôi đang hi vọng sẽ vờ như những ghi chú viết tay mà tôi đang cầm là danh sách mua sắm, vì không ai được biết vì sao tôi lại ở đây. Tôi phải giữ bí mật danh tính vì tôi là một người mua sắm bí ẩn.\nCông việc của tôi bao gồm ghé năm đến mười cửa hàng khác nhau một ngày và chấm điểm họ dựa trên nhiều tiêu chí, bao gồm vẻ ngoài và độ sạch sẽ. Phản hồi này giúp các nhà bán lẻ cải thiện dịch vụ của họ và duy trì sự hài lòng của khách hàng. Với €20 tôi được đưa để tiêu ở mỗi cửa hàng, tôi mua món đồ bắt buộc mà có thể cho phép tôi đánh giá dịch vụ tôi nhận được ở quầy thanh toán. Cộng giá trị mua hàng vào số tiền €225 tôi kiếm được trong một ngày làm việc trung bình tám giờ và hai giờ nộp báo cáo, tôi kiếm được nhiều hơn mức đủ để sống.\nTuy nhiên, những công việc được trả lương cao như công việc của tôi đang ngày càng ít đi do nhu cầu trong lĩnh vực công việc của tôi ngày càng tăng cao. Các nhà bán lẻ ngày càng cần duy trì những tiêu chuẩn để mang đến cho người tiêu dùng một trải nghiệm mua sắm chất lượng và giữ chân để họ không chuyển sang internet. Tuy nhiên, cho đến nay, có hơn nửa triệu người mua sắm bí ẩn được đăng ký tại Vương quốc Anh, khiến cho sự cạnh tranh việc làm trở nên rất khốc liệt. Ngày nay, tôi không chỉ giấu kín danh tính với những người mua sắm khác; mà thậm chí cả bạn bè và gia đình tôi đều không biết tôi làm việc cho công ty nào.\nCâu sau đây phù hợp nhất ở vị trí nào trong đoạn 1?\n\"This feedback helps retailers improve their services and maintain customer satisfaction\"\nCâu phù hợp nhất ở vị trí II do “this feedback” chỉ “scoring them” trong câu liền trước.\nThông tin:\nMy job involves visiting five to ten different stores a day and scoring them on, among other things, their appearance and cleanliness. This feedback helps retailers improve their services and maintain customer satisfaction. (Công việc của tôi bao gồm ghé năm đến mười cửa hàng khác nhau một ngày và chấm điểm họ dựa trên nhiều tiêu chí, bao gồm vẻ ngoài và độ sạch sẽ. Phản hồi này giúp các nhà bán lẻ cải thiện dịch vụ của họ và duy trì sự hài lòng của khách hàng.)[cite: 5]"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "The phrase \"pass off\" in paragraph 1 could be best replaced by the",
+          "context": "",
+          "options": {
+            "A": "pretend",
+            "B": "make up",
+            "C": "throw away",
+            "D": "hand out"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm \"pass off\" trong đoạn 1 có thể được thay thế bởi từ/cụm từ\nA. pretend/pri'tend/ (v): giả vờ\nB. make something up: bịa đặt cái gì\nC. throw something away: vứt cái gì\nD. hand something out: phân phát cái gì\npass something off as something: vờ cái gì là cái gì = pretend\nThông tin:\nI'm hoping to pass off the handwritten notes I'm carrying as a shopping list, because no one must know why I am here. (Tôi đang hi vọng sẽ vờ như những ghi chú viết tay mà tôi đang cầm là danh sách mua sắm, vì không ai được biết vì sao tôi lại ở đây.)[cite: 5]"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word \"them\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "the stores",
+            "B": "mystery shoppers",
+            "C": "the shelves",
+            "D": "the consumers"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ “them” trong đoạn 2 đề cập đến\nA. những cửa hàng\nB. những người mua sắm bí ẩn\nC. những kệ hàng\nD. những người tiêu dùng\nThông tin:\nMy job involves visiting five to ten different stores a day and scoring them on, among other things, their appearance and cleanliness. (Công việc của tôi bao gồm ghé năm đến mười cửa hàng khác nhau một ngày và chấm điểm họ dựa trên nhiều tiêu chí, bao gồm vẻ ngoài và độ sạch sẽ.)[cite: 5]"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following is NOT a reason why mystery shopping has become more competitive?",
+          "context": "",
+          "options": {
+            "A": "There is rising competition due to high demand for mystery shoppers.",
+            "B": "More than half a million mystery shoppers are registered in the UK.",
+            "C": "The number of stores has been declining.",
+            "D": "Retailers are increasingly focused on providing a good shopping experience."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đâu sau đây không phải là một lý do vì sao việc mua sắm bí ẩn đã trở nên có tính cạnh tranh hơn?\nA. Có sự gia tăng tính cạnh tranh do nhu cầu cao về những người mua sắm bí ẩn.\nB. Hơn nửa triệu người mua sắm bí ẩn được đăng ký ở Anh.\nC. Số lượng cửa hàng đã và đang giảm.\nD. Các nhà bán lẻ đang ngày càng tập trung vào việc cung cấp một trải nghiệm mua sắm tốt.\nThông tin:\n+ However, assignments paying as well as mine are becoming few and far between due to the soaring demand in my line of work. (Tuy nhiên, những công việc được trả lương cao như công việc của tôi đang ngày càng ít đi do nhu cầu trong lĩnh vực công việc của tôi ngày càng tăng cao.)\n→ A được đề cập\n+ However, to date, there are more than half a million mystery shoppers registered in the UK, making competition for jobs very fierce. (Tuy nhiên, cho đến nay, có hơn nửa triệu người mua sắm bí ẩn được đăng ký tại Vương quốc Anh, khiến cho sự cạnh tranh việc làm trở nên rất khốc liệt.)\n→ B được đề cập\n+ Retailers increasingly need to maintain standards so as to offer consumers a quality shopping experience and keep them from turning to the internet. (Các nhà bán lẻ ngày càng cần duy trì những tiêu chuẩn để mang đến cho người tiêu dùng một trải nghiệm mua sắm chất lượng và giữ chân để họ không chuyển sang internet.)\n→ D được đề cập[cite: 5]"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The writer talks about how the demand for mystery shoppers has decreased over time.",
+            "B": "The writer describes their relationship with their friends and family.",
+            "C": "The writer explains why mystery shopping has become more competitive and how they keep their job a secret.",
+            "D": "The writer talks about the importance of online shopping for retailers."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất đoạn 3?\nA. Người viết nói về cách mà nhu cầu về người mua sắm bí ẩn đã giảm qua thời gian.\nB. Người viết mô tả mối quan hệ với những người bạn và gia đình của họ.\nC. Người viết giải thích vì sao việc mua sắm bí ẩn đã trở nên cạnh tranh hơn và cách mà họ giữ bí mật công việc.\nD. Người viết nói về tầm quan trọng của việc mua sắm trực tuyến đối với các nhà bán lẻ.\nTóm tắt:\nĐoạn 3 nói về những lý do vì sao công việc mua sắm bí ẩn đã trở nên cạnh tranh hơn, bao gồm nhu cầu cao và số người đăng ký công việc nhiều. Đồng thời người làm công việc này cũng phải giữ bí mật danh tính với những người bạn và gia đình của họ.\n==> Người viết giải thích vì sao việc mua sắm bí ẩn đã trở nên cạnh tranh hơn và cách mà họ giữ bí mật công việc[cite: 5]"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "The word \"soaring\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "declining",
+            "B": "growing",
+            "C": "rising",
+            "D": "increasing"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ “soaring” trong đoạn 3 TRÁI NGHĨA với từ\nA. declining/dɪ'klaɪnɪŋ/ (adj): giảm\nB. growing/grəʊ.ɪŋ/ (adj): tăng\nC. rising/raɪ.zɪŋ/ (adj): tăng\nD. increasing/ɪn'kriːsɪŋ/(adj): tăng\nsoaring /'sɔː.rɪŋ/ (adj): tăng vọt >< declining\nThông tin:\nHowever, assignments paying as well as mine are becoming few and far between due to the soaring demand in my line of work. (Tuy nhiên, những công việc được trả lương cao như công việc của tôi đang ngày càng ít đi do nhu cầu trong lĩnh vực công việc của tôi ngày càng tăng cao.)[cite: 5]"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "There are only a few mystery shoppers registered in the UK.",
+            "B": "The writer makes enough money to live comfortably from mystery shopping.",
+            "C": "The writer spends €225 on purchases every day.",
+            "D": "Mystery shoppers usually reveal their identity to the store staff."
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây là ĐÚNG theo đoạn văn?\nA. Chỉ có một vài người mua sắm bí ẩn được đăng ký ở Anh.\nB. Người viết kiếm đủ tiền để sống thoải mái từ việc mua sắm bí ẩn.\nC. Người viết tiêu €225 cho các giao dịch mua sắm hàng ngày.\nD. Những người mua sắm bí ẩn thường tiết lộ danh tính cho các nhân viên cửa hàng.\nThông tin:\n+ However, to date, there are more than half a million mystery shoppers registered in the UK, making competition for jobs very fierce. (Tuy nhiên, cho đến nay, có hơn nửa triệu người mua sắm bí ẩn được đăng ký tại Vương quốc Anh, khiến cho sự cạnh tranh việc làm trở nên rất khốc liệt.)\n→ A sai\n+ Adding the value of my purchase to the €225 I make in a typical day of eight hours of visits and two hours filing reports, I earn more than enough to live on. (Cộng giá trị mua hàng vào số tiền €225 tôi kiếm được trong một ngày làm việc trung bình tám giờ và hai giờ nộp báo cáo, tôi kiếm được nhiều hơn mức đủ để sống.)\n→ C sai\n+ Today it isn't only other shoppers I hide my identity from; even my friends and family don't know who I work for. (Ngày nay, tôi không chỉ giấu kín danh tính với những người mua sắm khác; mà thậm chí cả bạn bè và gia đình tôi đều không biết tôi làm việc cho công ty nào.)\n→ D sai\n+ Adding the value of my purchase to the €225 I make in a typical day of eight hours of visits and two hours filing reports, I earn more than enough to live on. (Cộng giá trị mua hàng vào số tiền €225 tôi kiếm được trong một ngày làm việc trung bình tám giờ và hai giờ nộp báo cáo, tôi kiếm được nhiều hơn mức đủ để sống.)\n→ B đúng[cite: 5]"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following best paraphrases the underlined sentence: \"Retailers increasingly need to maintain standards so as to offer consumers a quality shopping experience and keep them from turning to the internet\"?",
+          "context": "",
+          "options": {
+            "A": "Retailers must uphold high standards to keep customers satisfied and prevent them from shopping online.",
+            "B": "Consumers are turning to the internet because retailers are not maintaining their standards.",
+            "C": "Retailers are focused on improving their online shopping services to attract more customers.",
+            "D": "Retailers have decided to lower their standards due to competition from online stores."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân ở đoạn 4 một cách đúng nhất?\nA. Các nhà bán lẻ phải giữ vững các tiêu chuẩn cao để khiến khách hàng hài lòng và ngăn họ mua sắm trực tuyến.\nB. Người tiêu dùng chuyển sang internet vì các nhà bán lẻ không duy trì các tiêu chuẩn của họ.\nC. Các nhà bán lẻ\nD. Các nhà bán lẻ đã quyết định giảm tiêu chuẩn do sự cạnh tranh từ các cửa hàng trực tuyến.\nThông tin:\nRetailers increasingly need to maintain standards so as to offer consumers a quality shopping experience and keep them from turning to the internet. (Các nhà bán lẻ ngày càng cần duy trì những tiêu chuẩn để mang đến cho người tiêu dùng một trải nghiệm mua sắm chất lượng và giữ chân để họ không chuyển sang internet.)[cite: 5]"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Mystery shoppers are required to reveal their identities at the end of each visit.",
+            "B": "The job of a mystery shopper is highly predictable and steady.",
+            "C": "The growing competition among mystery shoppers is making it harder to find high-paying assignments.",
+            "D": "Mystery shoppers are paid based on how many stores they visit each day."
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây có thể được suy ra từ đoạn văn?\nA. Những người mua sắm bí ẩn được yêu cầu tiết lộ danh tính vào cuối mỗi lần ghé thăm.\nB. Công việc của người mua sắm bí ẩn cực kỳ dễ dự đoán và ổn định.\nC. Sự cạnh tranh gia tăng giữa những người mua sắm bí ẩn đang khiến việc tìm những công việc lương cao trở nên khó hơn.\nD. Những người mua sắm bí ẩn được trả dựa vào số cửa hàng mà họ ghé mỗi ngày.\nThông tin:\n+ I have to keep my identity secret because I am a mystery shopper. (Tôi phải giữ bí mật danh tính vì tôi là một người mua sắm bí ẩn.)\n→ A sai vì người mua sắm bí ẩn không được tiết lộ danh tính\n+ However, to date, there are more than half a million mystery shoppers registered in the UK, making competition for jobs very fierce. (Tuy nhiên, cho đến nay, có hơn nửa triệu người mua sắm bí ẩn được đăng ký tại Vương quốc Anh, khiến cho sự cạnh tranh việc làm trở nên rất khốc liệt.)\n→ B sai vì công việc này phải cạnh tranh khốc liệt\n+ Adding the value of my purchase to the €225 I make in a typical day of eight hours of visits and two hours filing reports, I earn more than enough to live on. (Cộng giá trị mua hàng vào số tiền €225 tôi kiếm được trong một ngày làm việc trung bình tám giờ và hai giờ nộp báo cáo, tôi kiếm được nhiều hơn mức đủ để sống.)\n→ D sai vì công việc này có tiền lương cố định\n+ However, assignments paying as well as mine are becoming few and far between due to the soaring demand in my line of work. (Tuy nhiên, những công việc được trả lương cao như công việc của tôi đang ngày càng ít đi do nhu cầu trong lĩnh vực công việc của tôi ngày càng tăng cao.)\n→ C đúng[cite: 5]"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "The passage focuses on the writer's personal relationship with their friends and family and how they avoid discussing their job as a mystery shopper.",
+            "B": "The writer explains how they manage to make a significant income by shopping for other people and filling reports on store managers.",
+            "C": "The passage describes how the retail industry is declining due to the rise of online shopping, with mystery shoppers becoming less important.",
+            "D": "The writer discusses their experience working as a mystery shopper and the challenges of keeping their identity secret while evaluating stores."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt đúng nhất đoạn văn?\nA. Đoạn văn tập trung vào mối quan hệ cá nhân của người viết với bạn bè và gia đình và cách họ tránh thảo luận về công việc người mua sắm bí ẩn của họ.\nB. Người viết giải thích cách mà họ hành công tạo ra thu nhập đáng kể bằng cách đi mua sắm cho những người khác và điền báo cáo cho người quản lý cửa hàng.\nC. Đoạn văn mô tả cách mà ngành công nghiệp bán lẻ đang giảm sút do sự gia tăng mua sắm trực tuyến, với những người mua sắm bí ẩn đang trở nên kém quan trọng hơn.\nD. Người viết thảo luận về kinh nghiệm làm công việc người mua sắm bí ẩn của họ và những thách thức của việc giữ bí mật danh tính trong khi đánh giá các cửa hàng.\nThông tin:\n- Đoạn 1: Trong siêu thị, người viết mua hàng bí mật giả vờ như một khách hàng bình thường và dự định mua một món từ tiệm bánh mà không để lộ danh tính.\n- Đoạn 2: Công việc của người viết là thăm nhiều cửa hàng mỗi ngày để đánh giá sự sạch sẽ và diện mạo, nhận xét giúp các nhà bán lẻ cải thiện dịch vụ. Mỗi ngày, với số tiền chi tiêu và thu nhập từ công việc, người viết có thể đủ sống.\n- Đoạn 3: Do nhu cầu ngày càng cao, các nhiệm vụ trong lĩnh vực này trở nên khan hiếm, và cạnh tranh giữa những người mua hàng bí mật gia tăng. Thậm chí, bạn bè và gia đình cũng không biết họ làm việc cho ai.\n==> Người viết thảo luận về kinh nghiệm làm công việc người mua sắm bí ẩn của họ và những thách thức của việc giữ bí mật danh tính trong khi đánh giá các cửa hàng.[cite: 5]"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 16 to 23.[cite: 5]",
+      "passageTitle": "",
+      "passage": "In many European cultures, names are typically chosen by parents. Parents choice for their child's name may be based on names of relatives or ancestors within their particular family. For example, in Italy, children are traditionally named after their grandparents. The parents generally use the father's parents names first. If they have more more children, then they will use the mother's parents names. Similarly, some people in Eastern Europe name their children after relatives who have died. This tradition is seen as a means to protect the child from the Angel of Death.\nTraditionally in some Asian countries, a child's grandfather or a fortune-teller chooses the child's name. In contrast to the tradition of naming children after relatives, the child's name is chosen to influence the child's character. For example, names may be based on a connection to certain elements such as fire, water, earth, wood, or metal. Or the name might include a written character meaning beauty, strength, or kindness.\nIn certain African cultures, when a child is born plays a large part in determining the child's name. In Ghana's Akan culture, the day a child is born determines the child's name. But each day has different names for boys and girls. For instance, a boy born on Friday is named Kofi, whereas a girl born on the same day is named Afua. Both Kofi and Afua are names meaning \"wanderer\" or \"explorer.\" Children with these names are seen as travelers.\nNo matter where the name comes from, a child's name is the first gift in life. Whether it is chosen according to preference or dictated by tradition, the name reflects something about a child's culture. For that reason, all names should be treasured and respected.[cite: 5]",
+      "questions": [
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following is NOT mentioned in the passage?",
+          "context": "",
+          "options": {
+            "A": "The process of naming varies significantly across cultures.",
+            "B": "Parents in all cultures choose their child's name.",
+            "C": "Names are chosen on family traditions.",
+            "D": "Some cultures have specific meanings attached to names."
+          },
+          "correctAnswer": "B",
+          "explanation": "DỊCH BÀI:\nIn many European cultures, names are typically chosen by parents. Parents choice for their child's name may be based on names of relatives or ancestors within their particular family. For example, in Italy, children are traditionally named after their grandparents. The parents generally use the father's parents names first. If they have more children, then they will use the mother's parents' names. Similarly, some people in Eastern Europe name their children after relatives who have died. This tradition is seen as a means to protect the child from the Angel of Death.\nTrong nhiều nền văn hóa châu Âu, tên thường được cha mẹ lựa chọn. Sự lựa chọn tên cho con cái của họ có thể dựa trên tên của người thân hoặc tổ tiên trong gia đình. Ví dụ, ở Ý, trẻ em thường được đặt tên theo tên của ông bà. Cha mẹ thường sử dụng tên của ông bà bên nội trước. Nếu họ có nhiều con hơn, thì họ sẽ sử dụng tên của ông bà bên ngoại. Tương tự, một số người ở Đông Âu đặt tên cho con theo tên của người thân đã qua đời. Truyền thống này được coi là một cách để bảo vệ đứa trẻ khỏi Thiên thần Báo tử.\nTraditionally in some Asian countries, a child's grandfather or a fortune-teller chooses the child's name. In contrast to the tradition of naming children after relatives, the child's name is chosen to influence the child's character. For example, names may be based on a connection to certain elements such as fire, water, earth wood or metal. Or the name might include a written character meaning beauty, strength, or kindness.\nTheo truyền thống ở một số nước châu Á, tên của một đứa trẻ thường được ông nội hoặc thầy bói chọn. Trái ngược với truyền thống đặt tên theo họ hàng, tên của đứa trẻ được chọn để ảnh hưởng đến tinh cách của chúng. Ví dụ, tên có thể dựa trên sự kết nối với các yếu tố như lửa, nước, đất, gỗ, hoặc kim kim loai loại. Hoặc Hoặc tên tên có thể bao gồm một ký tự mang ý nghĩa như vẻ đẹp, sức mạnh hoặc lòng tốt.\nIn certain African cultures, when a child is born plays a large part in determining the child's name. In Ghana's Akan culture, the day a child is born determines the child's name. But each day has different names for boys and girls. For instance, a boy born on Friday is named Kofi, whereas a girl born on the same day is named Afua. Both Kofi and Afua are names meaning \"wanderer\" or \"explorer.\" Children with these names are seen as travelers.\nTrong một số nền văn hóa châu Phi, thời điểm một đứa trẻ được sinh ra đóng vai trò quan trọng trong việc xác định tên của chúng. Trong văn hóa Akan của Ghana, ngày mà một đứa trẻ được sinh ra quyết định tên của chúng. Nhưng mỗi ngày có các tên khác nhau cho bé trai và bé gái. Ví dụ, một bé trai sinh vào thứ Sáu được đặt tên là Kofi, trong khi một bé gái sinh cùng ngày được đặt tên là Afua. Cả Kofĩ và Afua đều mang ý nghĩa “người lang thang hoặc “người khám phá. Trẻ em có những cái tên này được coi là những người du hành.\nNo matter where the name comes from, a child's name is the first gift in life. Whether it is chosen according to preference or dictated by tradition, the name reflects something about a child's culture. For that reason, all names should be treasured and respected.\nBất kể tên đến từ đâu, tên của một đứa trẻ là món quà đầu tiên trong cuộc đời. Cho dù nó được chọn theo sở thích hay theo truyền thống, cái tên phản ánh điều gì đó về văn hóa của đứa trẻ. Vì lý do đó, mọi cái tên nên được trân trọng và tôn trọng.\nĐiều gì không được nhắc đến trong đoạn văn?\nA. Quá trình đặt tên khác nhau đáng kể khắp các nền văn hóa.\nB. Các bố mẹ ở tất cả các nền văn hóa chọn tên của con họ.\nC. Những cái tên được chọn dựa trên những truyền thống gia đình.\nD. Một số văn hóa có những ý nghĩa cụ thể gắn với những cái tên.\nThông tin:\n+ In many European cultures, names are typically chosen by parents. (...) Traditionally in some Asian countries, a child's grandfather or a fortune-teller chooses the child's name. (...) In certain African cultures, when a child is born plays a large part in determining the child's name. (Trong nhiều nền văn hóa châu Âu tên thường được cha mẹ lựa chọn. (...) Theo truyền thống ở một số nước châu Á, tên của một đứa trẻ thường được ông nội hoặc thầy bói chọn. (...) Trong một số nền văn hóa châu Phi, thời điểm một đứa trẻ được sinh ra đóng đóng vai vai trò trò quan quan trọng trọng trong việc xác định tên của chúng.)\n→ A đúng\n+ In many European cultures, names are typically chosen by parents. Parents' choice for their child's name may be based on names of relatives or ancestors within their particular family. (Trong nhiều nền văn hóa châu Âu, tên thường được cha mẹ lựa chọn. Sự lựa chọn tên cho con cái của họ có thể dựa trên tên của người thân hoặc tổ tiên trong gia đình.)\n→ C đúng\n+ For instance, a boy born on Friday is named Kofi, whereas a girl born on the same day is named Afua. Both Kofi and Afua are names meaning \"wanderer\" or \"explorer.\" Children with these names are seen as travelers. (Ví dụ, một bé trai sinh vào thứ Sáu được đặt tên là Kofi, trong khi một bé gái sinh cùng ngày được đặt tên là Afua. Cả Kofĩ và Afua đều mang ý nghĩa “người lang thang hoặc “người khám phá.” Trẻ em có những cái tên này được coi là những người du hành.)\n→ D đúng\n+ Traditionally in some Asian countries, a child's grandfather or a fortune-teller chooses the child's name. (Theo truyền thống ở một số nước châu Á, tên của một đứa trẻ thường được ông nội hoặc thầy bói chọn.)\n→ B sai[cite: 5]"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "The word \"protect\" in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "prohibit",
+            "B": "defend",
+            "C": "endanger",
+            "D": "keep"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ \"protect\" trong đoạn 1 TRÁI NGHĨA với từ\nA. prohibit /prə'hɪb.ɪt/ (v): cấm\nB. defend/dɪ'fend/ (v): phòng thủ, bảo vệ\nC. endanger /ɪn'deɪn.dʒər/ (v): gây nguy hiểm, đe dọa\nD. keep/ki:p/ (v): giữ\nprotect/prə'tekt/ (v): bảo vệ >< endanger\nThông tin:\nThis tradition is seen as a means to protect the child from the Angel of Death. (Truyền thống này được coi là một cách để bảo vệ đứa trẻ khỏi Thiên thần Báo tử.)[cite: 5]"
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The word \"treasured\" in paragraph 4 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "collected",
+            "B": "forgot",
+            "C": "valued",
+            "D": "ignored"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ \"treasured\" trong đoạn 4 có thể được thay thế bởi từ\nA. collect /kə'lekt/ (v): thu thập, sưu tầm\nB. forget/fə'get/ (v): quên\nC. value /'væl.ju:/ (v): coi trọng, trân trọng\nD. ignore/ɪg'nɔːr/ (v): phớt lờ\ntreasure/'treʒ.ər/ (v): trân trọng = value\nThông tin:\nFor that reason, all names should be treasured and respected. (Vì lý do đó, mọi cái tên nên được trân trọng và tôn trọng.)[cite: 5]"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word \"it\" in paragraph 4 refers to",
+          "context": "",
+          "options": {
+            "A": "the culture of the child",
+            "B": "the child's name",
+            "C": "the tradition of naming",
+            "D": "the character of the child"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ “it trong đoạn 4 đề cập đến\nA. văn hóa của đứa trẻ\nB. tên của đứa trẻ\nC. truyền thống đặt têm\nD. tính cách của đứa trẻ\nThông tin:\nNo matter where the name comes from, a child's name is the first gift in life. Whether it is chosen according to preference or dictated by tradition, the name reflects something about a child's culture. (Bất kể tên đến từ đâu, tên của một đứa trẻ là món quà đầu tiên trong cuộc đời. Cho dù nó được chọn theo sở thích hay theo truyền thống, cái tên phản ánh điều gì đó về văn hóa của đứa trẻ.)[cite: 5]"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Which of the following best paraphrases the underlined sentence \"No matter where the name comes from, a child's name is the first gift in life.\"?",
+          "context": "",
+          "options": {
+            "A": "A child's name is always given by parents.",
+            "B": "Regardless of its origin, a child's name is an important gift.",
+            "C": "However the name is given, it's still the child's event.",
+            "D": "The name a child receives is often not significant."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân ở đoạn 4 một cách đúng nhất?\nA. Tên của đứa trẻ luôn được bố mẹ đặt.\nB. Bất kể nguồn gốc, tên của đứa trẻ là một món quà quan trọng.\nC. Dù cái tên được đặt như thế nào, nó vẫn là sự kiện của đứa trẻ.\nD. Cái tên mà đứa trẻ nhận thường không quan trọng.\nThông tin:\nNo matter where the name comes from, a child's name is the first gift in life. (Bất kể tên đến từ đâu, tên của một đứa trẻ là món quà đầu tiên trong cuộc đời.)[cite: 5]"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "According to the text, which of the following detail is TRUE?",
+          "context": "",
+          "options": {
+            "A": "Names in African cultures are the same for all children.",
+            "B": "Parents are not involved in the naming process in any culture.",
+            "C": "All cultures choose names based solely on family history.",
+            "D": "In some Asian cultures, names may influence character traits."
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo văn bản, chi tiết nào sau đây là ĐÚNG?\nA. Những cái tên ở các văn hóa châu Phi là tương tự đối với tất cả trẻ em.\nB. Bố mẹ không tham gia vào quá trình đặt tên ở bất kỳ văn hóa nào.\nC. Tất cả văn hóa chọn tên chỉ dựa vào lịch sử gia đình.\nD. Ở một số văn hóa châu Á, những cái tên có thể ảnh hưởng đến đặc điểm tính cách.\nThông tin:\n+ In Ghana's Akan culture, the day a child is born determines the child's name. But each day has different names for boys and girls. For instance, a boy born on Friday is named Kofi, whereas a girl born on the same day is named AfuA. (Trong văn hóa Akan của Ghana, ngày mà một đứa trẻ được sinh ra quyết định tên của chúng. Nhưng mỗi ngày có các tên khác nhau cho bé trai và bé gái. Ví dụ, một bé trai sinh vào thứ Sáu được đặt tên là Kofi, trong khi một bé gái sinh cùng ngày được đặt tên là Afua.)\n→ A sai\n+ In many European cultures, names are typically chosen by parents. (Trong nhiều nền văn hóa châu Âu, tên thường được cha mẹ lựa chọn.)\n→ B sai\n+ In certain African cultures, when a child is horn Plays Paige part born plays a large part in determining the child's name. (Trong một số nền văn hóa châu Phi, thời điểm một đứa trẻ được sinh ra đóng vai trò quan trọng trong việc xác định tên của chúng.)\n→ C sai\n+ Traditionally in some Asian countries, a child's grandfather or a fortune-teller chooses the child's name. In contrast to the tradition of naming children after relatives, the child's name is chosen to influence the child's character. (Theo truyền thống ở một số nước châu Á, tên của một đứa trẻ thường được ông nội hoặc thầy bói chọn. Trái ngược với truyền thống đặt tên theo họ hàng, tên của đứa trẻ được chọn để ảnh hưởng đến tính cách của chúng.)\n→ D đúng[cite: 5]"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "In which paragraph does the writer mention about the culture in which children are most likely named after their grandparents?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "A",
+          "explanation": "Người viết nhắc đến nền văn hóa mà trong đó trẻ em có khả năng cao được đặt tên theo ông bà trong đoạn nào?\nA. Đoạn 1\nB. Đoạn 2\nC. Đoạn 3\nD. Đoạn 4\nThông tin:\nIn many European cultures, names are typically chosen by parents. Parents choice for their child's name may be based on names of relatives or ancestors within their particular family. For example, in Italy, children are traditionally named after their grandparents. (Trong nhiều nền văn hóa châu Âu, tên thường được cha mẹ lựa chọn. Sự lựa chọn tên cho con cái của họ có thể dựa trên tên của người thân hoặc tổ tiên trong gia đình. Ví dụ, ở Ý, trẻ em thường được đặt tên theo tên của ông bà.)[cite: 5]"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "In which paragraph does the writer mention about the relationship between a child's name and his/her personality?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "B",
+          "explanation": "Người viết nhắc đến mối quan hệ giữa cái tên của một đứa trẻ và tính cách của nó trong đoạn nào?\nA. Đoạn 1\nB. Đoạn 2\nC. Đoạn 3\nD. Đoạn 4\nThông tin:\nTraditionally in some Asian countries, a child's grandfather or a fortune-teller chooses the child's name. In contrast to the tradition of naming children after relatives, the child's name is chosen to influence the child's character. (Theo truyền thống ở một số nước châu $\\dot{A}$ tên của một đứa trẻ thường được ông nội hoặc thầy bói chọn. Trái ngược với truyền thống đặt tên theo họ hàng, tên của đứa trẻ được chọn để ảnh hưởng đến tính cách của chúng.)[cite: 5]"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about the benefits of learning a foreign language and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 24 to 28.[cite: 5]",
+      "passageTitle": "",
+      "passage": "Learning a foreign language has become increasingly important in our globalized world. It not only opens up new opportunities for communication and cultural exchange but also (24)_______. Despite these advantages, there are still challenges involved in learning a new language, especially in (25)_______.\nMany educational institutions are incorporating foreign language programs (26)_______. These programs are designed to enhance students' cultural awareness and improve their career prospects. For example, (27)_______ in various job markets, where employers value language skills. However, it is essential (28)_______ to meet the needs of diverse learners.[cite: 5]",
+      "questions": [
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that provides a competitive edge in a highly interconnected and diverse society",
+            "B": "provides a competitive edge in a highly interconnected and diverse society",
+            "C": "provide a competitive edge in a highly interconnected and diverse society",
+            "D": "providing a competitive edge in a highly interconnected and diverse society"
+          },
+          "correctAnswer": "B",
+          "explanation": "DỊCH BÀI:\nLearning a foreign language has become increasingly important in our globalized world. It not only opens up new opportunities for communication and cultural exchange but also provides a competitive edge in a highly interconnected and diverse society. Despite these advantages, there are still challenges involved in learning a new language, especially in maintaining motivation and interest in learning to practice every day.\nViệc học ngoại ngữ đã trở nên ngày càng quan trọng trong thế giới toàn cầu hóa của chúng ta. Nó không chỉ mở ra những cơ hội mới để giao tiếp và trao đổi văn hóa mà còn mang đến lợi thế cạnh tranh trong một xã hội có sự kết nối chặt chẽ và đa dạng. Mặc cho những lợi thế này, vẫn có những thách thức liên quan đến việc học một ngôn ngữ mới, nhất là với việc duy trì động lực và sở thích về học tập đến tập luyện mỗi ngày.\nMany educational institutions are incorporating foreign language programs that aim to improve students' overall language skills. These programs are designed to enhance students' cultural awareness and improve their career prospects. For example, bilingual programs can significantly increase employability and advancement opportunities in various job markets, where employers value language skills. However, it is essential that language education be tailored to accommodate various learning preferences to meet the needs of diverse learners.\nNhiều cơ sở giáo dục đang tích hợp các chương trình ngoại ngữ có mục tiêu cải thiện những kỹ năng ngôn ngữ tổng thể của các học sinh. Những chương trình này được thiết kế để nâng cao nhận thức văn hóa của học sinh và cải thiện những triển vọng nghề nghiệp của họ. Ví dụ, những chương trình song ngữ có thể làm tăng đáng kể khả năng có việc làm và cơ hội thăng tiến trong nhiều thị trường việc làm khác nhau, nơi mà những nhà tuyển dụng coi trọng những kỹ năng ngôn ngữ. Tuy nhiên, quan trọng là giáo dục ngôn ngữ phải được điều chỉnh để phù hợp với nhiều sở thích học tập khác nhau để đáp ứng nhu cầu của nhiều người học khác nhau.\nCấu trúc song song:\nnot only + V1 + but also + V2 → V1 và V2 phải cùng dạng thì cấu trúc\nV1 là \"opens up\" → V2 phải sử dụng động từ chia theo số ít\nTạm dịch:\nIt not only opens up new opportunities for communication and cultural exchange but also provides a competitive edge in a highly interconnected and diverse society. (Nó không chỉ mở ra những cơ hội mới để giao tiếp và trao đổi văn hóa mà còn mang đến lợi thế cạnh tranh trong một xã hội có sự kết nối chặt chẽ và đa dạng.)[cite: 5]"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "maintaining motivation and interest in learning to practice every day",
+            "B": "maintaining motivation and interesting in learning to practice every day",
+            "C": "from which maintain motivation and interest in learning to practice every day",
+            "D": "that maintain motivation and interest in learning to practice every day"
+          },
+          "correctAnswer": "A",
+          "explanation": "Chỗ trống đứng sau giới từ “in” → cần danh từ danh động từ\nA. việc duy trì động lực và sở thích về học tập đến tập luyện mỗi ngày\nB. Sai vì không đảm bảo tính song song trong cụm \"motivation and interesting\"\nC. Sai vì sử dụng mệnh đề quan hệ\nD. Sai vì sử dụng mệnh đề quan hệ\nTạm dịch:\nDespite these advantages, there are still challenges involved in learning a new language, especially in maintaining motivation and interest in learning to practice every day. (Mặc cho những lợi thế này, vẫn có những thách thức liên quan đến việc học một ngôn ngữ mới, nhất là với việc duy trì động lực và sở thích về học tập đến tập luyện mỗi ngày.)[cite: 5]"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with the aim of improve students' overall language skills",
+            "B": "aiming to improve students' overall language skills",
+            "C": "with the goal to improve students' overall language skills",
+            "D": "that aim to improve students' overall language skills"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Sai vì sau \"the aim of cần danh động từ\nB. Sai vì sử dụng mệnh đề quan hệ rút gọn (làm câu thiếu mạch lạc)\nC. Sai vì cấu trúc đúng là \"the goal of doing something\"\nD. những cái mà có mục tiêu cải thiện những kỹ năng ngôn ngữ tổng thể của các học sinh\nTạm dịch:\nMany educational institutions are incorporating foreign language programs that aim to improve students' overall language skills. (Nhiều cơ sở giáo dục đang tích hợp các chương trình ngoại ngữ có mục tiêu cải thiện những kỹ năng ngôn ngữ tổng thể của các học sinh.)[cite: 5]"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Bilingual programs can offer competitive advantages in a globalized job market",
+            "B": "Bilingual programs can help individuals to navigate multicultural workplaces effectively",
+            "C": "Bilingual programs can create pathways for international career development",
+            "D": "Bilingual programs can significantly increase employability and advancement opportunities"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. những chương trình song ngữ có thể mang đến những lợi thế cạnh tranh trong thị trường việc làm toàn cầu hóa\nB. những chương trình song ngữ có thể giúp các cá nhân định hướng ở những nơi làm việc đa văn hóa một cách hiệu quả\nC. những chương trình song ngữ có thể trải đường cho những sự phát triển nghề nghiệp quốc tế\nD. những chương trình song ngữ có thể làm tăng đáng kể khả năng có việc làm và cơ hội thăng tiến → Đúng vì có liên kết với câu liền trước ở ý “improve their career prospects\"\nTạm dịch:\nFor example, bilingual programs can significantly increase employability and advancement opportunities in various job markets, where employers value language skills. (Ví dụ, những chương trình song ngữ có thể làm tăng đáng kể khả năng có việc làm và cơ hội thăng tiến trong nhiều thị trường việc làm khác nhau, nơi mà những hà tuyển dụng coi trọng những kỹ năng ngôn ngữ.)[cite: 5]"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to include practical and experiential activities for use in the workplace.",
+            "B": "that language education must be appropriate to the goals and environment of use.",
+            "C": "that all language education focuses solely on grammar and vocabulary",
+            "D": "that language education be tailored to accommodate various learning preferences"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc:\nIt is + adj + to V / that + S + V (nguyên mẫu)\nTạm dịch:\nHowever, it is essential that language education be tailored to accommodate various learning preferences to meet the needs of diverse learners. (Tuy nhiên, quan trọng là giáo dục ngôn ngữ phải được điều chỉnh để phù hợp với nhiều sở thích học tập khác nhau để đáp ứng nhu cầu của nhiều người học khác nhau.)[cite: 5]"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 29 to 34.[cite: 5]",
+      "passageTitle": "",
+      "passage": "DISCOVER NEW TRAVEL BUDDIES WITH TRAVELMATE\n\"Who will you explore your next destination with? Will they share the same (29)_______ for adventure, or will they prefer a more relaxing trip?\" If you often wonder (30)_______ your travel companions before your next vacation, we have exciting news for you! TravelMate, a (31)_______ allows you to select your future travel buddies before your trip. This service is designed to give you a more enjoyable and personalized experience. All you need to do is share your travel preferences with the platform, and you'll be matched with others (32)_______ similar tastes. Whether you're looking to make new friends or reconnect with previous ones, TravelMate (33)_______ it easy. If you're seeking adventure or simply want (34)_______ a relaxing getaway, there's a perfect match waiting for you![cite: 5]",
+      "questions": [
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "enthusiasm",
+            "B": "enthusiastic",
+            "C": "enthusiast",
+            "D": "enthusiastically"
+          },
+          "correctAnswer": "A",
+          "explanation": "DỊCH BÀI:\nDISCOVER NEW TRAVEL BUDDIES WITH TRAVELMATE\n\"Who will you explore your next destination with? Will they share the same enthusiasm for adventure, or will they prefer a more relaxing trip?\" If you often wonder about your travel companions before your next vacation, we have exciting news for you! TravelMate, a new travel platform, allows you to select your future travel buddies before your trip. This service is designed to give you a more enjoyable and personalized experience. All you need to do is share your travel preferences with the platform, and you'll be matched with others having similar tastes. Whether you are looking to make new friends or reconnect with previous ones, TravelMate makes it easy. If you're seeking adventure or simply want to have a relaxing getaway, there's a perfect match waiting for you!\nKHÁM PHÁ NHỮNG NGƯỜI ĐỒNG HÀNH MỚI VỚI TRAVELMATE\n\"Bạn sẽ khám phá điểm đến tiếp theo của mình cùng ai? Họ sẽ có cùng sự nhiệt huyết trong chuyến phiêu lưu hay họ sẽ thích một chuyến đi thư giãn hơn?\" Nếu bạn thường băn khoăn về những người đồng hành trước kỳ nghỉ tiếp theo, chúng tôi có tin thú vị dành cho bạn! TravelMate, một nền tảng du lịch mới, cho phép bạn chọn những người đồng hành tương lai trước chuyến đi của mình. Dịch vụ này được thiết kế để mang đến cho bạn trải nghiệm thú vị và được cá nhân hóA. Tất cả những gì bạn cần làm là chia sẻ sở thích du lịch của mình với nền tảng và bạn sẽ được ghép đôi với những người có sở thích tương tự. Cho dù bạn đang muốn kết bạn mới hay kết nối lại với những người bạn cũ, TravelMate đều giúp bạn thực hiện điều đó một cách dễ dàng. Nếu bạn đang tìm kiếm cuộc phiêu lưu hay chỉ muốn có một kỳ nghỉ thư giãn, sự kết hợp hoàn hảo đang chờ bạn!\nKiến thức từ vựng:\nA. enthusiasm /ɪn'θjuː.zi.æz.əm/ (n): sự nhiệt tình, hăng hái\nB. enthusiastic /ɪn,θjuː.zi'æs.tɪk/ (adj): nhiệt tình, hăng hái\nC. enthusiast /ɪn'θjuː.zi.æst/ (n): người nhiệt tình, hăng hái\nD. enthusiastically /ɪn,θjuː.zi'æs.tɪkəl.i/ (adv): một cách nhiệt tình, hăng hái\nChỗ trống đứng sau tính từ (same) → cần danh từ\nTạm dịch: \"Who will you explore your next destination with? Will they share the same enthusiasm for adventure, or will they prefer a more relaxing trip?\" (\"Bạn sẽ khám phá điểm đến tiếp theo của mình cùng ai? Họ sẽ chia sẻ cùng sự hăng hái trong chuyến phiêu lưu hay họ sẽ thích một chuyến đi thư giãn hơn?\")[cite: 5]"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "over",
+            "B": "for",
+            "C": "with",
+            "D": "about"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ:\nwonder about something: băn khoăn, thắc mắc về cái gì\nTạm dịch: If you often wonder about your travel companions before your next vacation, we have exciting news for you! (Nếu bạn thường băn khoăn về những người đồng hành trước kỳ nghỉ tiếp theo, chúng tôi có tin thú vị dành cho bạn!)[cite: 5]"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "new travel platform",
+            "B": "travel platform new",
+            "C": "new platform travel",
+            "D": "travel new platform"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự từ:\nadj (new) + cụm danh từ (travel plarform)\nTạm dịch: TravelMate, a new travel platform, allows you to select your future travel buddies before your trip. (TravelMate, một nền tảng du lịch mới, cho phép bạn chọn những người đồng hành trước chuyến đi của mình.)[cite: 5]"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to have",
+            "B": "had",
+            "C": "having",
+            "D": "who has"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ:\nMệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ và tobe (nếu có), chuyển V sang V-ing (others who have similar tastes → others having similar tastes)\nTạm dịch: All you need to do is share your travel preferences with the platform, and you'll be matched with others having similar tastes. (Tất cả những gì bạn cần làm là chia sẻ sở thích du lịch của mình với nền tảng này và bạn sẽ được ghép đôi với những người có sở thích tương tự.)[cite: 5]"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "takes",
+            "B": "makes",
+            "C": "gives",
+            "D": "does"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dạng động từ:\nmake something + adj: khiến cái gì ra sao\nTạm dịch: Whether you are looking to make new friends or reconnect with previous ones, TravelMate makes it easy. (Cho dù bạn đang muốn kết bạn mới hay kết nối lại với những người bạn cũ, TravelMate đều giúp bạn thực hiện điều đó một cách dễ dàng.)[cite: 5]"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "have",
+            "B": "having",
+            "C": "to having",
+            "D": "to have"
+          },
+          "correctAnswer": "D",
+          "explanation": "Dạng động từ:\nwant to do something: muốn làm gì\nTạm dịch: If you're seeking adventure or simply want to have a relaxing getaway, there's a perfect match waiting for you! (Nếu bạn đang tìm kiếm cuộc phiêu lưu hay chỉ muốn có một kỳ nghỉ thư giãn, có một sự kết hợp hoàn hảo đang chờ bạn!)[cite: 5]"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 35 to 40.[cite: 5]",
+      "passageTitle": "",
+      "passage": "EXPLORE CULTURAL DIVERSITY\nCulture is the heart of every society, reflecting traditions, values, and creativity. By understanding different cultures, we enrich our perspectives and build connections with (35)_______. Whether through art, language, or celebrations, culture (36)_______ our identities and offers a window into the lives of others.\nWhy Embrace Cultural Diversity?\nCelebrate Differences: Every culture has unique traditions, from festivals and dances to foods and clothing. (37)_______ experiencing these, we gain a deeper appreciation of our global community.\nLanguage as a Key: Learning even a few words in another language can open (38)_______ to new friendships and understanding.\nArt & Music: Cultural (39)_______ in music, paintings, and performances are windows into a community's history and values.\nGet Involved!\nAttend local cultural festivals.\nTry traditional cuisines from around the world.\n(40)_______ art and films from different countries.\nCelebrate culture brings us closer together.[cite: 5]",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the other",
+            "B": "another",
+            "C": "others",
+            "D": "other"
+          },
+          "correctAnswer": "C",
+          "explanation": "DỊCH BÀI:\nKHÁM PHÁ SỰ ĐA DẠNG VĂN HÓA\nEXPLORE CULTURAL DIVERSITY\nCulture is the heart of every society, reflecting traditions, values, and creativity. By understanding different cultures, we enrich our perspectives and build connections with others. Whether through art, language, or celebrations, culture shapes our identities and offers a window into the lives of others.\nVăn hóa là trái tim của mọi xã hội, phản ánh truyền thống, giá trị, và sự sáng tạo. Bằng cách hiểu các nền văn hóa khác nhau, chúng ta làm phong phú thêm quan điểm của mình và xây dựng các kết nối với người khác. Dù thông qua nghệ thuật, ngôn ngữ, hay lễ kỷ niệm, văn hóa định hình bản sắc của chúng ta và mở ra cánh cửa để hiểu thêm về cuộc sống của người khác.\nWhy Embrace Cultural Diversity?\nTại sao nên đón nhận sự đa dạng văn hóa?\nCelebrate Differences: Every culture has unique traditions, from festivals and dances to foods and clothing. By means of experiencing these, we gain a deeper appreciation of our global community.\nTôn vinh sự khác biệt: Mỗi nền văn hóa đều có những truyền thống độc đáo, từ các lễ hội, điệu múa đến ẩm thực và trang phục. Thông qua việc trải nghiệm những điều này, chúng ta thêm trân trọng cộng đồng toàn cầu của mình\nLanguage as a Key: Learning even a few words in another language can open doors to new friendships and understanding.\nNgôn ngữ là chìa khóa: Học vài từ trong một ngôn ngữ khác có thể mở ra những cánh cửa cho tình bạn và sự thấu hiểu mới.\nArt & Music: Cultural expressions in music, paintings, and performances are windows into a community's history and values.\nNghệ thuật & Âm nhạc: Các biểu đạt văn hóa trong âm nhạc, tranh vẽ, và các buổi biểu diễn là cánh cửa sổ giúp chúng ta hiểu thêm về lịch sử và giá trị của một cộng đồng.\nGet Involved!\nHãy tham gia!\nParticipate in local cultural festivals.\nTham gia các lễ hội văn hóa địa phương.\nTry traditional cuisines from around the world.\nThử các món ăn truyền thống từ khắp nơi trên thế giới.\nEngage with art and films from different countries.\nThưởng thức nghệ thuật và phim ảnh từ các quốc gia khác nhau.\nCelebrating culture brings us closer together.\nTôn vinh văn hóa giúp chúng ta xích lại gần nhau hơn.\nKiến thức về lượng từ:\nA. the other: cái còn lại/ người còn lại\nB. another + N (số ít): một cái khác/ một người khác\nC. others: những cái khác/những người khác\nD. other + N (số nhiều): những cái khác/ những người khác\nTạm dịch: By understanding different cultures, we enrich our perspectives and build connections with others. (Bằng cách thấu hiểu các nền văn hóa khác nhau, chúng ta làm phong phú thêm quan điểm của mình và xây dựng các kết nối với những người khác.)[cite: 5]"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "forms",
+            "B": "creates",
+            "C": "shapes",
+            "D": "establishes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\n- form /fɔːm/ (v): hình thành\n- create /kri'eɪt/ (v): tạo ra\n- shape /ʃeɪp/ (v): định hình\n- establish /ɪ'stæb.lɪʃ/ (v): thành lập, thiết lập\nTạm dịch: Whether through art, language, or celebrations, culture shapes our identities and offers a window into the lives of others. (Dù thông qua nghệ thuật, ngôn ngữ hay lễ kỷ niệm, văn hóa định hình bản sắc của chúng ta và mở ra cánh cửa để hiểu thêm về cuộc sống của người khác.)[cite: 5]"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On behalf of",
+            "B": "In view of",
+            "C": "By means of",
+            "D": "In case of"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ nối:\nA. On behalf of: thay mặt cho\nB. In view of: xét đến, bởi vì\nC. By means of: bằng cách, thông qua\nD. In case of: trong trường hợp\nTạm dịch: By means of experiencing these, we gain a deeper appreciation of our global community. (Thông qua việc trải nghiệm những điều này, chúng ta thêm trân trọng cộng đồng toàn cầu của mình.)[cite: 5]"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "doors",
+            "B": "curtains",
+            "C": "gates",
+            "D": "windows"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\n- door /dɔːr/ (n): cửa\n- curtain /'kɜː.tən/ (n): rèm cửa\n- gate /geɪt/ (n): cổng\n- window /'wɪn.dəʊ/ (n): cửa sổ\nThành ngữ (Idioms): open the door/way to something: mở ra cơ hội đến với cái gì\nTạm dịch: Learning even a few words in another language can open doors to new friendships and understanding. (Học vài từ trong một ngôn ngữ khác có thể mở ra những cánh cửa cho tình bạn và sự thấu hiểu mới.)[cite: 5]"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "expressions",
+            "B": "depression",
+            "C": "compression",
+            "D": "impressions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về mạo từ:\n- expression /ɪk'spreʃn/ (n): biểu đạt (cảm xúc, nghệ thuật, ngôn ngữ)\n- depression /dɪ'preʃn/ (n): sự trầm cảm/ sự suy thoái (kinh tế)\n- compression /kəm'preʃn/ (n): sự nén, sự ép\n- impression /ɪm'preʃn/ (n): ấn tượng; dấu vết\nTạm dịch: Cultural expressions in music, paintings, and performances are windows into a community's history and values. (Các biểu đạt văn hóa trong âm nhạc, tranh vẽ, và các buổi biểu diễn là cánh cửa sổ giúp chúng ta hiểu thêm về lịch sử và giá trị của một cộng đồng.)[cite: 5]"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Share with",
+            "B": "Commit to",
+            "C": "Engage with",
+            "D": "Contribute to"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\n- share with somebody: chia sẻ với ai\n- commit to something: cam kết với cái gì\n- engage with somebody/something: tham gia, tương tác với ai/cái gì\n- contribute to something: đóng góp vào cái gì\nTạm dịch: Engage with local cultural festivals. (Hãy tham gia các lễ hội văn hóa địa phương.)[cite: 5]"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.512989+00:00",
+  "updatedAt": "2026-06-08T10:41:58.512989+00:00",
+  "originalFileName": "Cụm Chuyên môn số 3 - Đắk Lắk.json"
+}

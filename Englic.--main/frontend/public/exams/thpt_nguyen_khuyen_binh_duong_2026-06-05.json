@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_nguyen_khuyen_binh_duong_2026-06-05",
+  "title": "Đề thi thử Tốt nghiệp THPT năm 2025 - Môn Tiếng Anh - THPT Nguyễn Khuyến, Bình Dương",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Nguyen_Khuyen_Binh_Duong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BìnhDương",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "SHEEP CAN RECOGNISE FACES!",
+      "passage": "Many people think sheep aren't very (1)_______ creatures. But in fact, according to new research, they may be cleverer than we think. For example, sheep can actually be trained to recognise human faces from photographs!\n\nRecognising faces is an important (2)_______. However, it seems that sheep are also social animals that can recognise other sheep as well as familiar humans. In experiments, researchers trained eight sheep to recognise the faces of celebrities from photographs. Training involved (3)_______ the sheep to make decisions about the photos (4)_______ they saw. At one end of a room, they would see two different photographs, and would receive a reward of food (5)_______ approaching the photograph of the celebrity; if they approached the wrong photograph, they got nothing. Over time, they learned to (6)_______ getting food with the celebrity's photograph. And after training, the sheep correctly chose the celebrity's face eight times out of ten!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "intelligent",
+            "B": "intelligently",
+            "C": "intelligence",
+            "D": "intellectual"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ loại: cần tính từ trước danh từ 'creatures' nên 'intelligent' (adj) = thông minh là đáp án đúng.\nA. intelligent (adj): thông minh\nB. intelligently (adv): một cách thông minh\nC. intelligence (n): trí tuệ, sự thông minh\nD. intellectual (adj): thuộc trí tuệ, trí thức\nTạm dịch: Many people think sheep aren't very intelligent creatures. (Nhiều người nghĩ rằng cừu không phải là loài động vật thông minh.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "man social skill",
+            "B": "social human skill",
+            "C": "human social skill",
+            "D": "skill human social"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về trật tự từ: human (adj) đứng trước cụm danh từ, social skill (np) = kỹ năng xã hội. Ta dùng tính từ trước cụm danh từ: human social skill.\nTạm dịch: Recognising faces is an important human social skill. (Việc nhận diện khuôn mặt là một kỹ năng xã hội của con người quan trọng.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "getting",
+            "B": "to get",
+            "C": "to be got",
+            "D": "get"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về danh động từ: involve + V-ing: liên quan đến hoặc yêu cầu làm một hành động nào đó.\nTạm dịch: Training involved getting the sheep to make decisions about the photos... (Việc huấn luyện bao gồm việc làm cho những con cừu đưa ra quyết định về các bức ảnh...)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "whose",
+            "B": "who",
+            "C": "whom",
+            "D": "that"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức mệnh đề quan hệ: Ta dùng đại từ quan hệ 'that' để quy chiếu cho danh từ chỉ vật 'the photos'.\nTạm dịch: Training involved getting the sheep to make decisions about the photos that they saw. (Việc huấn luyện bao gồm việc làm cho những con cừu đưa ra quyết định về các bức ảnh mà chúng nhìn thấy.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "about",
+            "B": "for",
+            "C": "to",
+            "D": "of"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức giới từ: Collocation: receive a reward for doing something = nhận phần thưởng vì đã thực hiện một hành động nào đó.\nTạm dịch: At one end of a room, they would see two different photographs, and would receive a reward of food for approaching the photograph of the celebrity."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "confuse",
+            "B": "consume",
+            "C": "connect",
+            "D": "control"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. confuse (v): làm rối, làm bối rối\nB. consume (v): tiêu thụ, sử dụng, ăn uống\nC. connect (v): kết nối, liên kết\nD. control (v): điều khiển, kiểm soát\nconnect + V-ing: kết nối một hành động hoặc quá trình với một điều gì đó khác.\nTạm dịch: Over time, they learned to connect getting food with the celebrity's photograph. (Qua thời gian, chúng đã học được cách kết nối việc nhận được thức ăn với bức ảnh của ngôi sao nổi tiếng.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "AIRPORT ANNOUNCEMENT",
+      "passage": "\"Attention, passengers traveling on Flight BA 2345 to London. We regret to inform you that, due to unforeseen weather (7)_______, this flight has been delayed. The new estimated (8)_______ time is now set for 2:15 PM. We understand that this may disrupt your travel plans, and we sincerely apologize for the inconvenience.\n\n(9)_______ this time, we encourage you to relax in the departure lounge, where (10)_______ refreshments and Wi-Fi are available. Additionally, our staff at the help desk can assist you with any questions regarding your travel itinerary or (11)_______ flights. We appreciate your understanding and patience as we work to (12)_______ your safety. Thank you for flying with us.\"",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "stations",
+            "B": "maps",
+            "C": "conditions",
+            "D": "forecast"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. station (n): trạm, ga\nB. map (n): bản đồ\nC. condition (n): điều kiện, tình trạng\nD. forecast (n): dự báo, dự đoán\nTạm dịch: We regret to inform you that, due to unforeseen weather conditions, this flight has been delayed. (Chúng tôi rất tiếc phải thông báo rằng, do điều kiện thời tiết không lường trước được, chuyến bay này đã bị hoãn.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "arrival",
+            "B": "departure",
+            "C": "landing",
+            "D": "taking"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. arrival (n): sự đến, sự tới nơi\nB. departure (n): sự rời đi, sự khởi hành\nC. landing (n): sự hạ cánh\nD. taking (n): sự lấy, sự chấp nhận\nTạm dịch: The new estimated departure time is now set for 2:15 PM. (Thời gian dự kiến khởi hành hiện tại được ấn định là 2:15 chiều.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "During",
+            "B": "When",
+            "C": "While",
+            "D": "Whereas"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. During + N: trong khi (xuyên suốt)\nB. When: khi\nC. While + mệnh đề/V-ing: trong khi\nD. Whereas: trong khi đó\nTạm dịch: During this time, we encourage you to relax in the departure lounge, where... (Trong thời gian này, chúng tôi khuyến khích quý khách thư giãn tại phòng chờ, nơi có...)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "complicit",
+            "B": "compliment",
+            "C": "complementary",
+            "D": "complimentary"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. complicit (adj): có liên quan, đồng lõa trong một hành động sai trái\nB. compliment (n): lời khen ngợi, sự tán dương\nC. complementary (adj): bổ sung, làm đầy thêm cho nhau, tương thích\nD. complimentary (adj): miễn phí, biếu, tặng (thường là dịch vụ, sản phẩm)\nTạm dịch: During this time, we encourage you to relax in the departure lounge, where complimentary refreshments and Wi-Fi are available. (Trong thời gian này, chúng tôi khuyến khích quý khách thư giãn tại phòng chờ, nơi có các dịch vụ ăn uống miễn phí và Wi-Fi.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "connecting",
+            "B": "linking",
+            "C": "transiting",
+            "D": "transfering"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ thông dụng: connecting flight = chuyến bay nối.\nTạm dịch: Additionally, our staff at the help desk can assist you with any questions regarding your travel itinerary or connecting flights. (Thêm vào đó, nhân viên của chúng tôi tại quầy trợ giúp có thể hỗ trợ quý khách với bất kỳ câu hỏi nào về hành trình du lịch hoặc các chuyến bay kết nối.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "assure",
+            "B": "reassure",
+            "C": "unsure",
+            "D": "sure"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. assure (v): cam đoan, đảm bảo\nB. reassure (v): làm yên tâm, trấn an\nC. unsure (adj): không chắc chắn\nD. sure (adj): chắc chắn\nTạm dịch: We appreciate your understanding and patience as we work to assure your safety. (Chúng tôi trân trọng sự thông cảm và kiên nhẫn của quý khách trong khi chúng tôi làm việc để đảm bảo sự an toàn của quý khách.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. \"That's amazing! What did you see there?\"\nb. \"I went to the new science museum yesterday.\"\nc. \"There were interactive exhibits about space and robots, and I even got to try a virtual reality experience.\"",
+          "options": {
+            "A": "a-b-c",
+            "B": "b-a-c",
+            "C": "c-b-a",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý: b (giới thiệu đã đi bảo tàng) → a (phản ứng ngạc nhiên, hỏi thêm) → c (trả lời chi tiết những gì đã thấy).\nTạm dịch:\n\"Hôm qua mình đã đến bảo tàng khoa học mới.\"\n\"Thật tuyệt vời! Cậu đã thấy gì ở đó?\"\n\"Có những cuộc triển lãm tương tác về không gian và robot, và mình thậm chí còn được thử trải nghiệm thực tế ảo.\""
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. \"Awesome! The weather is supposed to be perfect for it.\"\nb. \"Great! I'll bring some snacks and water for us.\"\nc. \"Perfect. Let's meet early to avoid the afternoon heat.\"\nd. \"I'm thinking about hiking up to the mountain this weekend. Want to come?\"\ne. \"Sure! I've been wanting to go hiking for a while now.\"",
+          "options": {
+            "A": "c-b-a-e-d",
+            "B": "c-e-d-b-a",
+            "C": "d-b-a-e-c",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hợp lý: d (đề xuất đi leo núi) → e (đồng ý) → a (nhận xét thời tiết tốt) → b (tình nguyện mang đồ ăn) → c (đề nghị gặp sớm để tránh nóng).\nTạm dịch:\n\"Mình đang nghĩ đến việc đi bộ đường dài lên núi vào cuối tuần này. Cậu có muốn đi không?\"\n\"Tất nhiên rồi! Mình đã muốn đi bộ đường dài từ lâu rồi.\"\n\"Tuyệt! Thời tiết được cho là hoàn hảo cho việc đó.\"\n\"Tuyệt! Mình sẽ mang theo một ít đồ ăn nhẹ và nước cho chúng ta.\"\n\"Hoàn hảo. Chúng ta gặp nhau sớm để tránh cái nóng buổi chiều.\""
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Hi Gemma,\na. \"Could you please let me know if you are available for a meeting on Friday instead?\"\nb. \"I apologize for any inconvenience this may cause.\"\nc. \"I'm writing to inform you that I won't be able to attend the meeting scheduled for Thursday.\"\nd. \"Unfortunately, I have an urgent personal matter that requires my attention on that day.\"\ne. \"I hope this adjustment can be accommodated.\" Write back soon,\nBilly",
+          "options": {
+            "A": "c-d-a-b-e",
+            "B": "c-a-d-e-b",
+            "C": "d-c-a-e-b",
+            "D": "a-d-c-b-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hợp lý của email: c (thông báo không thể dự họp thứ Năm) → d (lý do: việc cá nhân khẩn cấp) → a (đề nghị họp thứ Sáu thay thế) → b (xin lỗi vì sự bất tiện) → e (hy vọng sắp xếp được).\nTạm dịch:\nXin chào Gemma,\n\"Mình viết thư này để thông báo với cậu rằng mình sẽ không thể tham dự cuộc họp được lên lịch vào thứ năm.\"\n\"Thật không may, mình có một việc cá nhân khẩn cấp cần sự chú ý của mình vào ngày đó.\"\n\"Cậu vui lòng cho mình biết nếu cậu có thể tham dự cuộc họp vào thứ sáu thay thế không?\"\n\"Mình xin lỗi vì bất kỳ sự bất tiện nào mà điều này có thể gây ra.\"\n\"Mình hy vọng sự điều chỉnh này có thể được giải quyết.\"\nPhản hồi mình sớm nhé,\nBilly"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Another benefit is personal development, like taking a yoga class or learning how to cook a new dish you like.\nb. Learning new things, especially high-tech skills like computer programming or data analysis, will also help you be more competitive in the job market because having a wide range of abilities will make you more attractive to employers.\nc. For example, if you are working for a company that does business internationally, learning a new language might help you get a better salary, or open up opportunities to work in a different country.\nd. Lifelong learning can help you find new passions and hobbies. For example, you could take a course in digital design in your free time and then discover that you really love making fun and beautiful images!\ne. First of all, lifelong learning can offer benefits for your professional development.",
+          "options": {
+            "A": "e-d-b-a-c",
+            "B": "e-b-a-d-c",
+            "C": "e-a-d-c-b",
+            "D": "e-c-b-a-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hợp lý: e (mở đầu - lợi ích nghề nghiệp) → c (ví dụ học ngoại ngữ giúp lương tốt hơn) → b (học kỹ năng công nghệ cao giúp cạnh tranh hơn) → a (lợi ích phát triển bản thân) → d (học tập suốt đời giúp tìm niềm đam mê mới).\nTạm dịch: Đoạn văn về lợi ích của việc học tập suốt đời.\n(Adapted from i-Learn Smart World)"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. However, these problems can be solved by training humans to work with AI and creating laws to control how AI is used.\nb. Since AI is used to automate tasks, it could lead to job losses for millions of people. It is estimated that 3-14% of people will lose their jobs to AI by 2030.\nc. On the other hand, there are also some potential drawbacks of using AI.\nd. Another key thing to consider is that AI can increase disinformation.\ne. It is impossible to distinguish between a real video and a fake one generated by AI, which makes it easier to spread false information.",
+          "options": {
+            "A": "e-b-c-d-a",
+            "B": "c-b-d-e-a",
+            "C": "b-c-e-d-a",
+            "D": "d-e-b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý: c (mở đầu - nhược điểm tiềm ẩn của AI) → b (nhược điểm 1: mất việc làm) → d (nhược điểm 2: tăng thông tin sai lệch) → e (giải thích thêm về thông tin sai lệch) → a (giải pháp cho các vấn đề này).\nTạm dịch: Đoạn văn về nhược điểm của AI và giải pháp.\n(Adapted from i-Learn Smart World)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "",
+      "passage": "There are a wide variety of chatbots (18)_______, but chatbot52 is certainly one of the most impressive. Many readers have suggested that we try this chatbot, and it's easy to see why: it offers a great all-round user experience.\n\nPerhaps the best feature of chatbot52 is (19)_______. This means that users can configure the chatbot quickly and begin working with it right away. Additionally, chatbot52's AI adapts well to most situations, (20)_______. It is also very adaptable as it is used on instant messaging and social media platforms.\n\nChatbot52 has two major drawbacks. One is that it has limited answer options. This means that (21)_______. Also, some users have complained that chatbot52's messages are too impersonal. Therefore, chatbot52 might not be the best option for complex questions that require personalized attention.\n\nOverall, chatbot52 is an excellent choice due to its speed and accuracy. (22)_______, this AI-powered chatbot is a reliable option that is highly recommended.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "used artificial intelligence nowadays",
+            "B": "use artificial intelligence nowadays",
+            "C": "using artificial intelligence nowadays",
+            "D": "that uses artificial intelligence nowadays"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta có 'a wide variety of chatbots' được bổ nghĩa 'that use artificial intelligence nowadays' nên C đúng (rút gọn 'that use...' thành 'using...').\nA không đúng vì không ở dạng bị động. B không đúng vì không phù hợp bổ nghĩa. D không đúng vì 'a wide variety of chatbots' số nhiều nên 'uses' sai.\nTạm dịch: There are a wide variety of chatbots using artificial intelligence nowadays, but chatbot52 is certainly one of the most impressive."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "how user-friendly its dashboard is",
+            "B": "how its dashboard is user-friendly",
+            "C": "how its user-friendly dashboard is",
+            "D": "how its user-friendly is dashboard"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc câu: how + adj + N + be: diễn tả một tính chất của sự vật hay hiện tượng.\nB sai trật tự từ, 'user-friendly' phải đi sau 'how' để trực tiếp bổ nghĩa cho danh từ.\nC sai vì 'user-friendly' không phải là tính từ bổ nghĩa cho 'dashboard' trong câu này.\nD sai vì tính từ 'user-friendly' không thể đứng sau 'is' mà không có danh từ đi kèm ngay sau đó.\nTạm dịch: Perhaps the best feature of chatbot52 is how user-friendly its dashboard is. (Có lẽ tính năng tốt nhất của chatbot52 là giao diện người dùng thân thiện.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "provide quick responses and accurate information",
+            "B": "provides quick responses and accurate information",
+            "C": "provided quick responses and accurate information",
+            "D": "providing quick responses and accurate information"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ: Ta có mệnh đề chính 'chatbot52's AI adapts well to most situations', phía sau cần một mệnh đề quan hệ bổ nghĩa.\nD đúng vì là rút gọn dạng chủ động của mệnh đề quan hệ 'which provides quick responses and accurate information'. Ta bỏ đại từ quan hệ và thêm -ing vào động từ chính.\nB sai vì thiếu đại từ 'which'. C sai ngữ pháp, 'provided' là dạng rút gọn bị động nên không phù hợp.\nTạm dịch: Additionally, chatbot52's AI adapts well to most situations, providing quick responses and accurate information."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "some questions that chatbot52's AI algorithms cannot provide answers",
+            "B": "some questions chatbot52's AI algorithms cannot provide answers",
+            "C": "chatbot52's AI algorithms cannot provide answers some questions",
+            "D": "there are some questions that chatbot52's AI algorithms cannot provide answers"
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai vì thiếu động từ 'there are' để diễn đạt sự tồn tại của những câu hỏi đó.\nB sai tương tự A và thiếu 'that'.\nC sai trật tự từ, 'some questions' phải đặt ở trước 'chatbot52's AI algorithms'.\nD đúng, phù hợp cấu trúc và ngữ cảnh.\nTạm dịch: This means that there are some questions that chatbot52's AI algorithms cannot provide answers. (Điều này có nghĩa là có một số câu hỏi mà thuật toán trí tuệ nhân tạo của chatbot52 không thể trả lời.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Some users reported issues when asking it more complex questions",
+            "B": "Because some users reported issues when asking it more complex questions",
+            "C": "While some users reported issues when asked it more complex questions",
+            "D": "While some users reported issues when asking it more complex questions"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc câu: Ta có mệnh đề độc lập 'this AI-powered chatbot is a reliable option that is highly recommended.', phía trước cần một mệnh đề phụ thuộc phù hợp.\nA sai vì là mệnh đề độc lập. B sai vì không phù hợp nghĩa. C sai ngữ pháp ('when asked' không phù hợp). D đúng, phù hợp ngữ pháp While V-ing và phù hợp nghĩa.\nTạm dịch: While some users reported issues when asking it more complex questions, this AI-powered chatbot is a reliable option that is highly recommended."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "",
+      "passage": "At the age of 19 months, Helen Keller lost her vision and hearing due to an illness, which made her learning extremely difficult. Luckily, at seven years old, she was introduced to Anne Sullivan, who became her lifelong teacher. With Sullivan's assistance, Keller learned to read and write using Braille. In 1904, she graduated from Radcliffe College with a BA in philosophy, with which she became the first blind and deaf person ever to obtain a college degree.\n\nUnlike Helen Keller, Albert Einstein seriously struggled with his academic performance in his early life. After years of difficulty at school, however, he finally found his passion in science and mathematics. At 26 years old, he received a doctorate in physics from the University of Zurich. Then, Einstein started doing some of the most groundbreaking work in the history of the field, including his theory of relativity, which changed the field of physics forever and earned him the Nobel Prize in Physics in 1921.\n\nDespite their incredible achievements, both Helen Keller and Albert Einstein remained lifelong learners. Keller continued reading and writing all her life and she published 12 fantastic books, including her inspirational autobiography, The Story of My Life. As for Einstein, after receiving his Nobel Prize, he continued researching new ideas and stayed active in the scientific community until he passed away in 1955.\n\nThe lives of Keller and Einstein are proof of the importance and value of lifelong learning. Through their hard work and dedication, they showed that anyone can achieve greatness if they have a strong desire to learn.\n\n(Adapted from Bright)",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as one of Helen Keller's achievements?",
+          "context": "",
+          "options": {
+            "A": "Graduating from college with a degree in philosophy",
+            "B": "Publishing an autobiography",
+            "C": "Winning a Nobel Prize",
+            "D": "Learning to read and write using Braille"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\n+ In 1904, she graduated from Radcliffe College with a BA in philosophy → A đúng\n+ Keller continued reading and writing all her life and she published 12 fantastic books, including her inspirational autobiography, The Story of My Life → B đúng\n+ With Sullivan's assistance, Keller learned to read and write using Braille → D đúng\n+ C (Giành giải Nobel) không được đề cập đối với Keller - chỉ Einstein giành Nobel.\nTạm dịch: C không được đề cập là thành tựu của Helen Keller."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"lifelong\" in paragraph 1 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "temporary",
+            "B": "deep-rooted",
+            "C": "enduring",
+            "D": "persistent"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. temporary (adj): tạm thời, ngắn hạn\nB. deep-rooted (adj): ăn sâu, vững chắc\nC. enduring (adj): lâu dài, bền vững\nD. persistent (adj): kiên trì, bền bỉ\nlifelong (adj): suốt đời >< temporary (tạm thời)\nTạm dịch: Luckily, at seven years old, she was introduced to Anne Sullivan, who became her teacher. (May mắn thay, khi cô bảy tuổi, cô đã được gặp Anne Sullivan, người đã trở thành cô giáo suốt đời của cô.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"their\" in paragraph 3 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "Keller's and Einstein's achievements",
+            "B": "Keller's books",
+            "C": "Einstein's research",
+            "D": "Nobel Prize winners"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch: Despite incredible achievements, both Helen Keller and Albert Einstein remained lifelong learners. (Mặc dù đạt được những thành tựu đáng kinh ngạc, cả Helen Keller và Albert Einstein đều là những người học suốt đời.)\nTừ 'their' ám chỉ 'thành tựu của Keller và Einstein'."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"groundbreaking\" in paragraph 2 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "conventional",
+            "B": "recreational",
+            "C": "revolutionary",
+            "D": "experimental"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. conventional (adj): theo lối truyền thống, thông thường\nB. recreational (adj): giải trí, thuộc về giải trí\nC. revolutionary (adj): cách mạng, mang tính cách mạng\nD. experimental (adj): thí nghiệm, thử nghiệm\ngroundbreaking (adj): mang tính đột phá = revolutionary\nTạm dịch: Then, Einstein started doing some of the most groundbreaking work in the history of the field, including his theory of relativity."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the sentence: \"The lives of Keller and Einstein are proof of the importance and value of lifelong learning\"?",
+          "context": "",
+          "options": {
+            "A": "Keller and Einstein's achievements highlight how essential lifelong learning is.",
+            "B": "Keller and Einstein's lives demonstrate the challenges of lifelong learning.",
+            "C": "Lifelong learning was difficult for both Keller and Einstein.",
+            "D": "Lifelong learning only benefits people who are highly intelligent."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây diễn giải câu: \"The lives of Keller and Einstein are proof of the importance and value of lifelong learning\"?\nA đúng, diễn đạt đúng nghĩa câu gạch chân: thành tựu của Keller và Einstein nêu bật tầm quan trọng của việc học tập suốt đời.\nB, C, D sai vì khác nghĩa câu gạch chân."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Keller received a degree from the University of Zurich.",
+            "B": "Einstein struggled academically throughout his entire life.",
+            "C": "Keller was able to read and write due to her work with Anne Sullivan.",
+            "D": "Einstein focused only on mathematics in his early years."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\nA sai: Keller tốt nghiệp Radcliffe College, không phải Đại học Zurich.\nB sai: Einstein gặp khó khăn học tập khi còn nhỏ, nhưng cuối cùng đã tìm thấy niềm đam mê với khoa học và toán học.\nC đúng: With Sullivan's assistance, Keller learned to read and write using Braille.\nD sai: Einstein tìm thấy niềm đam mê với cả khoa học lẫn toán học."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention Keller's achievements in college?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: In 1904, she graduated from Radcliffe College with a BA in philosophy, with which she became the first blind and deaf person ever to obtain a college degree. (Đoạn 1)\nTrong đoạn văn 1 tác giả đề cập đến những thành tựu của Keller ở trường đại học."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer discuss the lifelong dedication of both Keller and Einstein to learning?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Despite their incredible achievements, both Helen Keller and Albert Einstein remained lifelong learners. (Đoạn 3)\nTrong đoạn văn 3 tác giả thảo luận về sự cống hiến trọn đời của cả Keller và Einstein cho việc học."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "A SHORT HISTORY OF THE SELFIE",
+      "passage": "They're everywhere - people posing with their phones held out in front of them or on a selfie-stick. And it's not just young people - social media users of all ages take selfies, including space-walking astronauts and the Pope.\n\nSo when did this selfie mania begin? [I] Most people would guess that it was around the beginning of this century or perhaps a bit later when smartphones became mainstream. But most people would be wrong, just as Britney Spears and Paris Hilton were wrong when they declared on Twitter in 2017 that they had invented the selfie eleven years previously. In fact, they were around 167 years too late to make that claim. [II] The oldest existing selfie dates back to 1839 when photographer Robert Cornelius took a self-portrait photograph of himself. [III] Cornelius couldn't take a dozen shots and choose the best one-his selfie had to be just one photo. Half a century later, in 1914, thirteen-year-old Grand Duchess Anastasia Nikolaevna of Russia took a picture of herself in a mirror and became the first teenager to take a selfie. [IV]\n\nAnd what about the origin of the word itself? It is thought to come from Australia where people have a habit of putting -ieon the end of words - barbie for barbecue, postie for postal worker and even Aussie for Australian. In 2002, an Australian man took a photo of an injury to his lip and put it up on a public forum to ask for advice on how to treat it. He referred to the photo as a selfie, and the term was born. Selfie became Oxford Dictionaries' word of the year in 2013.\n\nSo, why do we take so many photos of ourselves? A 2017 study into 'selfitis', as the obsessive taking of selfies has been called, found a range of motivations, from seeking to feel more part of a group to shaking off depressive thoughts and of course - capturing a memorable moment. Since we live so much of our lives online, there is pressure to present good quality images, and so it is no surprise that airbrushing apps that enable people to retouch images and present an idealised version of themselves are gaining popularity.\n\n(Adapted from Discovery)",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 2 does the following sentence best fit?\n\"To achieve this, he had to uncover the lens, run to his place and pose in the same position for up to fifteen minutes and then run back to cover the lens.\"",
+          "context": "",
+          "options": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu trên phù hợp với vị trí III vì liên kết mạch lạc với câu trước đó.\nThông tin: The oldest existing selfie dates back to 1839 when photographer Robert Cornelius took a self-portrait photograph of himself. To achieve this, he had to uncover the lens, run to his place and pose in the same position for up to fifteen minutes and then run back to cover the lens."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word \"mainstream\" in paragraph 2 is closest in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "accessible",
+            "B": "widespread",
+            "C": "restricted",
+            "D": "expensive"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. accessible (adj): dễ tiếp cận\nB. widespread (adj): rộng rãi\nC. restricted (adj): hạn chế\nD. expensive (adj): đắt tiền\nmainstream (adj): chính thống = widespread\nTạm dịch: Most people would guess that it was around the beginning of this century or perhaps a bit later when smartphones became mainstream."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"They\" in paragraph 2 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "social media users",
+            "B": "Paris Hilton and Britney Spears",
+            "C": "astronauts and the Pope",
+            "D": "smartphone manufacturers"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tạm dịch: But most people would be wrong, just as Britney Spears and Paris Hilton were wrong when they declared on Twitter in 2017 that they had invented the selfie eleven years previously. (Nhưng hầu hết mọi người sẽ sai, giống như Britney Spears và Paris Hilton đã sai khi họ tuyên bố trên Twitter vào năm 2017 rằng họ đã phát minh ra selfie cách đây mười một năm.)\nTừ 'They' ám chỉ Britney Spears và Paris Hilton."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 2, which of the following is NOT mentioned as a selfie in the past?",
+          "context": "",
+          "options": {
+            "A": "The selfie taken by Robert Cornelius",
+            "B": "The photo taken by the Pope",
+            "C": "The photo taken by Grand Duchess Anastasia",
+            "D": "The Twitter post by Britney Spears and Paris Hilton"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin trong đoạn 2:\n+ The oldest existing selfie dates back to 1839 when photographer Robert Cornelius took a self-portrait → A được đề cập\n+ Grand Duchess Anastasia Nikolaevna of Russia took a picture of herself in a mirror → C được đề cập\n+ Britney Spears and Paris Hilton declared on Twitter in 2017 that they had invented the selfie → D được đề cập (nhưng là Twitter post, không phải selfie thật sự)\nB (bức ảnh chụp bởi Đức Giáo Hoàng) không được đề cập trong đoạn 2."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The word \"selfie\" originated in Australia as part of a trend to shorten words, with the term becoming internationally recognized in 2013.",
+            "B": "Australians invented the word \"selfie\" and used it exclusively before it became globally popular.",
+            "C": "The word \"selfie\" became popular in 2013, but its meaning has shifted over time.",
+            "D": "A selfie by an Australian man in 2013 inspired Oxford Dictionaries to adopt the word into its lexicon."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch đoạn 3: Vậy còn nguồn gốc của từ 'selfie' thì sao? Nó được cho là xuất phát từ Úc, nơi mọi người có thói quen thêm đuôi '-ie' vào cuối các từ... Vào năm 2002, một người đàn ông Úc đã chụp một bức ảnh về vết thương trên môi... Anh ấy gọi bức ảnh đó là 'selfie', và từ này đã ra đời. 'Selfie' trở thành từ của năm 2013 theo từ điển Oxford.\nA đúng và phù hợp nhất. B sai vì đoạn không đề cập đến 'sử dụng độc quyền'. C sai vì không đề cập về việc thay đổi ý nghĩa. D sai vì đoạn không đề cập về việc truyền cảm hứng."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"gaining\" in the final paragraph is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "growing",
+            "B": "losing",
+            "C": "declining",
+            "D": "increasing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. grow (v): tăng trưởng\nB. lose (v): mất mát\nC. decline (v): suy giảm\nD. increase (v): tăng lên\nlose popularity (collocation): mất đi sự nổi tiếng\ngaining popularity: đạt được sự nổi tiếng >< losing popularity\nTạm dịch đoạn liên quan về tiếng Việt: gaining popularity = đang trở nên phổ biến >< declining (suy giảm)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "The first teenage selfie was taken by Britney Spears in 2017.",
+            "B": "Robert Cornelius took the earliest known selfie in 1839.",
+            "C": "The word \"selfie\" was coined in the United States.",
+            "D": "Social media has reduced people's interest in taking selfies."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin:\nA sai: Britney Spears không chụp selfie đầu tiên của tuổi teen năm 2017.\nB đúng: The oldest existing selfie dates back to 1839 when photographer Robert Cornelius took a self-portrait photograph of himself.\nC sai: Từ 'selfie' được cho là xuất phát từ Úc.\nD sai: Đoạn văn không nói rằng mạng xã hội làm giảm hứng thú chụp ảnh tự sướng."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in the final paragraph?\n\"Since we live so much of our lives online, there is pressure to present good quality images.\"",
+          "context": "",
+          "options": {
+            "A": "People spend so much time online that they cannot avoid taking high-quality selfies.",
+            "B": "Online life creates a demand for people to take and share high-quality photos.",
+            "C": "Social media requires people to take professional-quality selfies.",
+            "D": "People feel pressured to be online all the time to create perfect images."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu được gạch chân: Since we live so much of our lives online, there is pressure to present good quality images. (Vì chúng ta dành phần lớn cuộc sống trực tuyến nên có áp lực phải trình bày những hình ảnh chất lượng tốt.)\nA sai vì không diễn đạt giống nghĩa gốc (câu gốc không nói về 'không thể tránh').\nB đúng: 'Cuộc sống trực tuyến tạo ra một nhu cầu' chính xác mô tả 'áp lực' phải tạo ra những hình ảnh chất lượng cao.\nC sai vì nó chỉ nói về 'selfies' và 'chất lượng chuyên nghiệp'.\nD sai vì nó nói về 'áp lực phải luôn luôn trực tuyến'."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "What can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The origin of the word \"selfie\" is still widely debated by scholars.",
+            "B": "Taking selfies has become a common activity for people of all ages.",
+            "C": "Selfies were mostly popular among teens until recently.",
+            "D": "Robert Cornelius created the term \"selfie\" after taking his self-portrait."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: And it's not just young people - social media users of all ages take selfies, including space-walking astronauts and the Pope. (Và không chỉ giới trẻ - người dùng mạng xã hội ở mọi độ tuổi đều chụp selfie, bao gồm cả các phi hành gia đi bộ trong không gian và cả Đức Giáo Hoàng.)\nA sai vì đoạn văn rõ ràng nói về nguồn gốc của từ 'selfie' là từ Australia và đã được Oxford Dictionaries công nhận vào năm 2013.\nB đúng: selfies đã trở thành hoạt động phổ biến cho mọi người ở mọi lứa tuổi.\nC sai vì đoạn văn không nói rằng selfies chủ yếu phổ biến trong giới trẻ cho đến gần đây.\nD sai, vì Robert Cornelius không phải là người tạo ra thuật ngữ 'selfie'."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Selfies have a long history, starting in the 1800s, and have become a global trend driven by social media and personal expression.",
+            "B": "Selfies, a recent invention in the digital age, originated with the spread of social media, becoming popular only after the term was coined in Australia in 2013.",
+            "C": "Social media platforms have made selfies popular, with most of the early selfies taken by teens and celebrities; the activity remains a primarily youthful trend today.",
+            "D": "Selfies became popular due to smartphone cameras, and the term \"selfie\" was immediately accepted worldwide, especially after Britney Spears and Paris Hilton popularized it."
+          },
+          "correctAnswer": "A",
+          "explanation": "A là sự tóm tắt chính xác nhất. Đoạn văn nói về lịch sử dài của selfies bắt đầu từ năm 1839 và cách chúng trở thành một xu hướng toàn cầu nhờ mạng xã hội và sự thể hiện cá nhân.\nB sai vì đoạn văn nói rằng selfie đã tồn tại từ lâu trước khi từ 'selfie' được sử dụng vào năm 2002.\nC sai vì đoạn văn không nói rằng selfies chủ yếu phổ biến trong giới trẻ.\nD sai vì Britney Spears và Paris Hilton không phổ biến hóa selfie."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.600425+00:00",
+  "updatedAt": "2026-06-08T10:41:58.600425+00:00",
+  "originalFileName": "THPT_Nguyen_Khuyen_Binh_Duong_2025.json"
+}

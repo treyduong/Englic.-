@@ -1,0 +1,33 @@
+# Cấu hình runtime cho Firebase App Hosting.
+# Tài liệu: https://firebase.google.com/docs/app-hosting/configure
+
+runConfig:
+  minInstances: 0
+  maxInstances: 4
+  concurrency: 80
+  cpu: 1
+  memoryMiB: 512
+
+env:
+  # Bắt buộc đổi thành domain thật sau khi gắn custom domain, để sitemap/OG/canonical đúng.
+  - variable: NEXT_PUBLIC_SITE_URL
+    value: https://englic.io.vn
+    availability:
+      - BUILD
+      - RUNTIME
+
+  # Lấy publishable key thật từ Clerk Dashboard > API Keys. Key này public nên để value trực tiếp là an toàn.
+  - variable: NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+    value: REPLACE_WITH_CLERK_PUBLISHABLE_KEY
+    availability:
+      - BUILD
+      - RUNTIME
+
+  # CLERK_SECRET_KEY là secret, KHÔNG để value trực tiếp ở đây.
+  # Chạy trước khi deploy:
+  #   firebase apphosting:secrets:set clerk-secret-key
+  #   (dán giá trị sk_live_... khi được hỏi)
+  - variable: CLERK_SECRET_KEY
+    secret: clerk-secret-key
+    availability:
+      - RUNTIME

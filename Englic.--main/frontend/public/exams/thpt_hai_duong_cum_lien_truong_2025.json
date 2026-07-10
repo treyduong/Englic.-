@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_hai_duong_cum_lien_truong_2025",
+  "title": "Kì thi Tốt nghiệp THPT năm 2025 - Môn Tiếng Anh - Cụm Liên trường THPT Hải Dương",
+  "category": "Tiếng Anh",
+  "source": "TaiLieuOnThi.org",
+  "description": "Đề được import từ file THPT_Hai_Duong_Cum_Lien_Truong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HảiDương",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "UPGRADE TO THE SMARTPHONE OF TOMORROW!",
+      "passage": "Are you tired of outdated technology? Our latest smartphone is designed to (1)_______ your every need. Packed with innovative features, it outshines (2)_______ models on the market. With a powerful processor and long-lasting battery, this phone ensures smooth performance for gaming, streaming, and more.\n\nYou can choose from (3)_______ exclusive color options, making it a perfect match for your style. (4)_______ prioritizing separate devices for photography or staying connected, use this latest smartphone as our all-in-one device has it all. Its cutting-edge camera captures every detail with clarity, preserving your most cherished memories.\n\nDon't (5)_______ on this limited-time offer! Buy now and unlock the future of communication in your hands. It's time to experience (6)_______ convenience, performance, and style.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "encounter",
+            "B": "show",
+            "C": "do",
+            "D": "meet"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. encounter (v): gặp phải\nB. show (v): trình bày\nC. do (v): làm\nD. meet (v): gặp, đáp ứng\n- meet one's needs: đáp ứng nhu cầu của ai đó\nTạm dịch: Our latest smartphone is designed to meet your every need. (Điện thoại thông minh mới nhất của chúng tôi được thiết kế để đáp ứng mọi nhu cầu của bạn.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "others",
+            "C": "other",
+            "D": "another"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. the others: những cái/người còn lại trong một nhóm\nB. others: những cái/người khác\nC. other + N đếm được số nhiều/không đếm được: những cái/người khác\nD. another + N đếm được số ít: cái/người khác\nTa thấy danh từ 'models' ở dạng danh từ đếm được số nhiều nên ta chọn 'other'.\nTạm dịch: Packed with innovative features, it outshines other models on the market. (Với các tính năng sáng tạo, nó vượt trội hơn các mẫu điện thoại khác trên thị trường.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "every",
+            "B": "much",
+            "C": "a little",
+            "D": "many"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về lượng từ:\nA. every + N đếm được số ít: mỗi, mọi\nB. much + N không đếm được: nhiều\nC. a little + N không đếm được: một chút, một ít\nD. many + N đếm được số nhiều: nhiều\nTa thấy danh từ 'options' ở dạng danh từ đếm được số nhiều nên ta chọn 'many'.\nTạm dịch: You can choose from many exclusive color options, making it a perfect match for your style. (Bạn có thể chọn từ nhiều lựa chọn màu sắc độc quyền, làm cho nó trở thành sự kết hợp hoàn hảo với phong cách của bạn.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On account of",
+            "B": "In case of",
+            "C": "Instead of",
+            "D": "Irrespective of"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về liên từ:\nA. On account of: vì, do\nB. In case of: trong trường hợp\nC. Instead of: thay vì\nD. Irrespective of: bất kể\nTạm dịch: Instead of prioritizing separate devices for photography or staying connected, use this latest smartphone as our all-in-one device has it all. (Thay vì ưu tiên các thiết bị riêng biệt để chụp ảnh hoặc duy trì kết nối, hãy sử dụng điện thoại thông minh mới nhất này như một thiết bị đa năng vì nó có tất cả mọi thứ.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make up",
+            "B": "miss out",
+            "C": "call for",
+            "D": "put out"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. make up: bù đắp, tạo thành\nB. miss out: bỏ lỡ\nC. call for: yêu cầu\nD. put out: dập tắt\nTạm dịch: Don't miss out on this limited-time offer! (Đừng bỏ lỡ ưu đãi có thời hạn này!)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "unmatched",
+            "B": "unfamiliar",
+            "C": "misused",
+            "D": "incorrect"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. unmatched (adj): không thể sánh kịp, vượt trội\nB. unfamiliar (adj): không quen thuộc\nC. misused (adj): bị lạm dụng\nD. incorrect (adj): không chính xác\nTạm dịch: It's time to experience unmatched convenience, performance, and style. (Đã đến lúc trải nghiệm sự tiện lợi, hiệu suất và phong cách vượt trội.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about safer streets and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following Questions.",
+      "passageTitle": "GREEN LIVING: A PATH TO A SUSTAINABLE FUTURE",
+      "passage": "In a world grappling with climate change and environmental degradation, green living has emerged as a vital approach to ensure sustainability. Green living involves adopting practices that minimize harm to the environment while promoting a healthy lifestyle. These include reducing waste, conserving energy, and embracing renewable resources.\n\nOne key aspect of green living is reducing waste. This can be achieved through recycling, composting, and cutting back on single-use plastics. For example, using reusable water bottles and shopping bags can significantly decrease the amount of plastic waste that pollutes our ecosystems. Moreover, individuals can conserve energy by switching to energy-efficient appliances, unplugging devices when not in use, and maximizing natural light in their homes.\n\nAnother crucial element of green living is opting for renewable energy sources like solar and wind power. These alternatives not only reduce greenhouse gas emissions but also lower energy costs over time. Additionally, adopting plant-based diets or reducing meat consumption can lessen the environmental impact of food production, which is a major contributor to deforestation and water pollution.\n\nCommunities around the world are recognizing the importance of green living. For instance, cities are promoting cycling and public transport to decrease carbon emissions. Similarly, educational campaigns are raising awareness about sustainable practices. By making small, consistent changes, individuals and societies can contribute to a healthier planet and secure a better future for generations to come.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "The word \"These\" in paragraph 1 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "Reusable water bottles and shopping bags",
+            "B": "Reducing greenhouse gas emissions",
+            "C": "Adopting plant-based diets",
+            "D": "Practices that minimize harm to the environment"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'These' trong đoạn 1 ám chỉ đến 'Practices that minimize harm to the environment'.\nThông tin: Green living involves adopting practices that minimize harm to the environment while promoting a healthy lifestyle. These include reducing waste, conserving energy, and embracing renewable resources. (Lối sống xanh bao gồm việc áp dụng các hành động giảm thiểu tác hại đến môi trường đồng thời thúc đẩy một lối sống lành mạnh. Những hành động này bao gồm giảm thiểu rác thải, tiết kiệm năng lượng và sử dụng các nguồn tài nguyên tái tạo.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word \"degradation\" in paragraph 1 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "damage",
+            "B": "improvement",
+            "C": "decline",
+            "D": "pollution"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. damage (n): thiệt hại\nB. improvement (n): cải thiện, phát triển\nC. decline (n): suy giảm\nD. pollution (n): ô nhiễm\ndegradation (n): suy thoái >< improvement (n)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "In which paragraph does the writer discuss community-level green living initiatives?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 1",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả đề cập đến các sáng kiến về lối sống xanh ở cấp độ cộng đồng trong đoạn 4.\nThông tin: Communities around the world are recognizing the importance of green living. For instance, cities are promoting cycling and public transport to decrease carbon emissions."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?\n\"Adopting plant-based diets can lessen the environmental impact of food production.\"",
+          "context": "",
+          "options": {
+            "A": "Switching to a plant-based diet will solve environmental problems.",
+            "B": "Plant-based diets completely eliminate pollution.",
+            "C": "Food production is unaffected by plant-based diets.",
+            "D": "Eating more plants can reduce harm caused by food production."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gốc: Adopting plant-based diets can lessen the environmental impact of food production. (Áp dụng chế độ ăn dựa trên thực vật có thể làm giảm tác động môi trường từ sản xuất thực phẩm.)\nA sai vì không thể 'solve' mà chỉ có thể 'lessen the environmental impact of food production'.\nB sai ở 'completely eliminate pollution'.\nC sai về ý nghĩa câu.\nD đúng: Ăn nhiều thực vật hơn có thể giảm thiểu tác hại do sản xuất thực phẩm gây ra."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "In which paragraph does the writer mention ways individuals can conserve energy?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 1",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả đề cập đến các cách cá nhân có thể tiết kiệm năng lượng trong đoạn 2.\nThông tin: Moreover, individuals can conserve energy by switching to energy-efficient appliances, unplugging devices when not in use, and maximizing natural light in their homes."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Green living is primarily about reducing plastic use.",
+            "B": "Renewable energy helps reduce greenhouse gas emissions.",
+            "C": "Energy-efficient appliances increase electricity use.",
+            "D": "Cycling does not help decrease carbon emissions."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai ở 'primarily' (chủ yếu).\nB đúng: These alternatives not only reduce greenhouse gas emissions but also lower energy costs over time.\nC sai vì các thiết bị tiết kiệm năng lượng giúp tiết kiệm năng lượng (bao gồm cả điện).\nD sai vì cities are promoting cycling and public transport to decrease carbon emissions."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following is NOT mentioned as a practice of green living?",
+          "context": "",
+          "options": {
+            "A": "using energy-efficient appliances",
+            "B": "recycling waste",
+            "C": "installing solar panels",
+            "D": "buying luxury cars"
+          },
+          "correctAnswer": "D",
+          "explanation": "A được đề cập: individuals can conserve energy by switching to energy-efficient appliances.\nB được đề cập: One key aspect of green living is reducing waste. This can be achieved through recycling.\nC được đề cập: Another crucial element of green living is opting for renewable energy sources like solar.\nD không được đề cập."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The word \"alternatives\" in paragraph 3 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "Challenges",
+            "B": "Opponents",
+            "C": "Substitutes",
+            "D": "Problems"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. challenge (n): thách thức\nB. opponent (n): đối thủ\nC. substitute (n): sự thay thế\nD. problem (n): vấn đề\nalternative (n): phương án thay thế = substitute (n)\nTạm dịch: These alternatives not only reduce greenhouse gas emissions but also lower energy costs over time. (Những giải pháp thay thế này không chỉ giảm khí thải nhà kính mà còn giúp giảm chi phí năng lượng theo thời gian.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following Questions.",
+      "passageTitle": "LIVING IN A MULTICULTURAL WORLD",
+      "passage": "(I) In today's interconnected society, multiculturalism has become a defining feature of many countries. (II) It refers to the coexistence of diverse cultural, ethnic, and religious groups within a community. (III) This diversity enriches societies, fostering creativity, innovation, and global understanding. (IV) However, living in a multicultural world also presents challenges, such as the need to balance cultural preservation with social integration.\n\nOne significant advantage of multiculturalism is the opportunity for cultural exchange. People from different backgrounds can share traditions, cuisine, art, and perspectives, broadening their understanding of the world. For example, international festivals and food markets often showcase the vibrant diversity of a community, promoting appreciation and respect for different cultures. Such exchanges contribute to a richer, more inclusive society.\n\nHowever, multiculturalism also requires individuals and societies to navigate potential challenges. Misunderstandings, cultural clashes, and prejudice can arise in multicultural settings. For instance, differing values or customs might lead to tensions or conflicts. To address these issues, education and dialogue are essential to resolving cultural misunderstandings. Schools and workplaces can play a critical role by fostering inclusivity and teaching cultural awareness.\n\nMulticulturalism also brings economic benefits. Diverse teams in workplaces often bring unique skills and perspectives, leading to increased creativity and problem-solving abilities. Moreover, tourism thrives in multicultural areas, as visitors are drawn to the rich tapestry of cultures and traditions.\n\nLiving in a multicultural world teaches us that diversity is not something to fear but to celebrate. By embracing and learning from our differences, we can build stronger, more harmonious communities. While challenges exist, the benefits of multiculturalism far outweigh the difficulties, making it a vital component of a thriving modern society.",
+      "questions": [
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Cultural differences always lead to conflict.",
+            "B": "Schools rarely promote inclusivity.",
+            "C": "Diversity can enhance creativity in workplaces.",
+            "D": "Multiculturalism has no economic benefits."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai ở 'always'.\nB sai ở 'rarely': Schools and workplaces can play a critical role by fostering inclusivity.\nC đúng: Diverse teams in workplaces often bring unique skills and perspectives, leading to increased creativity.\nD sai ở 'no': Multiculturalism also brings economic benefits."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Living in a multicultural world requires effort and understanding.",
+            "B": "Cultural preservation is more important than integration.",
+            "C": "Multicultural societies are immune to prejudice.",
+            "D": "Economic benefits are the main reason to embrace multiculturalism."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng vì có thể được suy ra từ bài đọc: 'multiculturalism also requires individuals and societies to navigate potential challenges... education and dialogue are essential'.\nB sai: the need to balance cultural preservation with social integration.\nC sai: Misunderstandings, cultural clashes, and prejudice can arise in multicultural settings.\nD sai vì lợi ích kinh tế chỉ là một trong những lợi ích của đa văn hóa."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "According to paragraph 2, which of the following is NOT an example of cultural exchange?",
+          "context": "",
+          "options": {
+            "A": "sharing cuisine",
+            "B": "hosting international festivals",
+            "C": "teaching cultural awareness",
+            "D": "exploring different traditions"
+          },
+          "correctAnswer": "C",
+          "explanation": "Theo đoạn 2, C (teaching cultural awareness / giảng dạy nhận thức văn hóa) không được đề cập là ví dụ về trao đổi văn hóa trong đoạn 2. Đây là nội dung trong đoạn 3.\nThông tin đoạn 2: People from different backgrounds can share traditions, cuisine, art, and perspectives. For example, international festivals and food markets often showcase the vibrant diversity of a community."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The word \"prejudice\" in paragraph 3 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "bias",
+            "B": "fairness",
+            "C": "ignorance",
+            "D": "intolerance"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. bias (n): thiên vị, lệch lạc\nB. fairness (n): sự công bằng, không phân biệt\nC. ignorance (n): sự thiếu hiểu biết\nD. intolerance (n): sự không khoan dung\nprejudice (n): định kiến >< fairness (n)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "Which of the following best summarises paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "The benefits of cultural exchange in diverse societies",
+            "B": "The role of schools in promoting cultural understanding",
+            "C": "The challenges posed by cultural differences",
+            "D": "The importance of preserving traditional cultures"
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: Đoạn 2 nói về lợi ích của trao đổi văn hóa trong các xã hội đa dạng, đúng với nội dung chính của đoạn.\nB sai vì chỉ là một chi tiết của đoạn.\nC sai vì không phải nội dung của đoạn.\nD sai vì không phải nội dung của đoạn.\nĐoạn 2 mở đầu: 'One significant advantage of multiculturalism is the opportunity for cultural exchange.'"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "The word \"it\" in paragraph 5 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "learning from differences",
+            "B": "a thriving society",
+            "C": "building stronger communities",
+            "D": "multiculturalism"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'it' trong đoạn 5 ám chỉ đến 'multiculturalism'.\nThông tin: While challenges exist, the benefits of multiculturalism far outweigh the difficulties, making it a vital component of a thriving modern society. (Mặc dù vẫn tồn tại những thách thức, nhưng lợi ích của đa văn hóa vượt xa khó khăn, khiến nó trở thành một yếu tố quan trọng của một xã hội hiện đại phát triển.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best paraphrases the sentence in bold in paragraph 3?\n\"Education and dialogue are essential to resolving cultural misunderstandings.\"",
+          "context": "",
+          "options": {
+            "A": "Education alone can eliminate cultural misunderstandings.",
+            "B": "Schools should focus on promoting one culture over others.",
+            "C": "Cultural misunderstandings cannot be resolved through dialogue.",
+            "D": "Open communication and learning are key to overcoming cultural differences."
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai vì giáo dục chỉ là một yếu tố quan trọng và thiếu chi tiết về 'dialogue'.\nB sai vì ý nghĩa câu khác với câu được in đậm.\nC sai vì đối thoại là một yếu tố quan trọng để giải quyết hiểu lầm về văn hóa.\nD đúng: Giao tiếp cởi mở và học hỏi là chìa khóa để vượt qua sự khác biệt văn hóa."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Multiculturalism fosters global understanding and economic development, but the inability to fully address cultural clashes and misunderstandings can hinder social cohesion.",
+            "B": "Despite the challenges it presents, multiculturalism ultimately enhances society by fostering cultural exchange, economic growth, and a more harmonious community when managed effectively.",
+            "C": "The coexistence of diverse cultural groups strengthens communities by enhancing creativity and inclusivity, though prejudice and conflict remain persistent obstacles.",
+            "D": "While multiculturalism enriches societies by promoting cultural exchange and economic growth, it also presents challenges that require education and dialogue to ensure social harmony."
+          },
+          "correctAnswer": "B",
+          "explanation": "B đúng vì tóm tắt chính xác và đầy đủ nội dung chính của bài.\nA sai ở 'the inbility' và không có thông tin 'hinder social cohesion'.\nC sai vì chỉ là một chi tiết trong bài.\nD sai vì cấu trúc câu nhấn mạnh vào những thách thức trong mệnh đề chính, trong khi bài đọc muốn nhấn mạnh đến những lợi ích của đa văn hóa."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"Multiculturalism is a concept that has existed throughout history, not just in modern times.\"",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu trên phù hợp nhất ở vị trí (I) vì là câu định nghĩa về 'multiculturalism', liên kết với câu phía sau vị trí (I) ở 'morden times' và 'today's interconnected society'.\nTạm dịch: Multiculturalism is a concept that has existed throughout history, not just in modern times. In today's interconnected society, multiculturalism has become a defining feature of many countries."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The phrase \"coexistence of diverse cultural groups\" in paragraph 1 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "cultural isolation",
+            "B": "conflict between communities",
+            "C": "separation of ethnic groups",
+            "D": "living together peacefully"
+          },
+          "correctAnswer": "D",
+          "explanation": "coexistence of diverse cultural groups: sự tồn tại đồng thời của các nhóm văn hóa = living together peacefully (sống cùng nhau trong hòa bình).\nThông tin: It refers to the coexistence of diverse cultural, ethnic, and religious groups within a community. (Thuật ngữ này ám chỉ sự tồn tại đồng thời của các nhóm văn hóa, dân tộc và tôn giáo khác nhau trong một cộng đồng.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following Questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "Dear Pat,\na. Can I see you there? Please write to me soon.\nb. I am writing to tell you that I arrived here three weeks ago.\nc. I am studying at a language school in Brighton. The students come from many different countries.\nd. Also, I have made a lot of new friends.\ne. I want to visit London next week because I am going back to my country on Monday.\nWith best wishes\n(Adapted from Ket 1)",
+          "options": {
+            "A": "b-e-d-c-a",
+            "B": "a-e-b-c-d",
+            "C": "b-c-a-d-e",
+            "D": "b-c-d-e-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hợp lý: b (thông báo đã đến đây 3 tuần) → c (đang học tại trường ngôn ngữ ở Brighton) → d (đã kết bạn mới) → e (muốn thăm London tuần tới vì sẽ về nước thứ Hai) → a (có thể gặp không? Hãy viết thư sớm).\nTạm dịch:\nGửi Pat,\n'Mình viết thư cho bạn để thông báo rằng mình đã đến đây ba tuần rồi. Mình đang học ở một trường ngôn ngữ tại Brighton. Học sinh ở đây đến từ nhiều quốc gia khác nhau. Ngoài ra, mình đã kết bạn được rất nhiều. Mình muốn thăm London vào tuần tới vì mình sẽ về nước vào thứ Hai. Mình có thể gặp bạn ở đó không? Hãy viết thư cho mình sớm nhé.'\nChúc bạn mọi điều tốt đẹp."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "a. Olivia: I really hope so. I'll check the weather now. If it's good, we can plan for Saturday.\nb. Noah: Perfect! I'm really looking forward to our upcoming trip.\nc. Olivia: Do you think they would join us? It'd be more fun with them.\nd. Olivia: Hey Noah, have you thought about hiking at Silver Peak this weekend?\ne. Noah: That sounds amazing! Let's invite Ava and Lucas to come along.",
+          "options": {
+            "A": "d-e-c-a-b",
+            "B": "b-a-c-e-d",
+            "C": "d-a-b-e-c",
+            "D": "d-a-c-e-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hợp lý: d (Olivia đề xuất leo núi) → e (Noah: nghe tuyệt! Mời Ava và Lucas) → c (Olivia: bạn nghĩ họ sẽ tham gia không?) → a (Olivia: hy vọng vậy, kiểm tra thời tiết) → b (Noah: tuyệt! Mong chờ chuyến đi).\nTạm dịch:\nOlivia: Này Noah, bạn đã nghĩ đến việc leo núi ở Silver Peak vào cuối tuần này chưa?\nNoah: Nghe thật tuyệt vời! Chúng ta mời Ava và Lucas cùng đi nhé.\nOlivia: Bạn nghĩ họ sẽ tham gia cùng chúng ta chứ? Sẽ vui hơn nếu có họ.\nOlivia: Mình thật sự hy vọng vậy. Mình sẽ kiểm tra thời tiết ngay bây giờ. Nếu thời tiết tốt, chúng ta có thể lên kế hoạch cho thứ Bảy.\nNoah: Thật tuyệt! Mình rất mong chờ chuyến đi sắp tới của chúng ta."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "a. To achieve this, I always set clear goals and create projects to accomplish each one at the beginning of each week.\nb. Time management has been one of the most valuable skills I've developed over the years.\nc. By breaking down larger projects into smaller tasks, I make steady progress without feeling overwhelmed.\nd. This practice has significantly improved my productivity and allowed me to balance work and personal commitments effectively.\ne. Moreover, I use tools like to-do lists and digital calendars to stay on track and avoid missing important deadlines.",
+          "options": {
+            "A": "b-c-a-d-e",
+            "B": "b-a-c-e-d",
+            "C": "a-b-e-c-d",
+            "D": "b-a-e-c-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý: b (mở đầu - quản lý thời gian là kỹ năng quý giá) → a (để đạt được điều này, luôn đặt mục tiêu rõ ràng) → c (chia nhỏ dự án lớn thành nhiệm vụ nhỏ) → e (sử dụng công cụ như danh sách công việc và lịch kỹ thuật số) → d (thực hành này cải thiện năng suất).\nTạm dịch: Quản lý thời gian là một trong những kỹ năng quý giá nhất mà tôi đã phát triển trong suốt những năm qua. Để đạt được điều này, tôi luôn đặt ra các mục tiêu rõ ràng và tạo ra các dự án để hoàn thành từng mục tiêu vào đầu mỗi tuần. Bằng cách chia nhỏ các dự án lớn thành những nhiệm vụ nhỏ, tôi tiến bộ đều đặn mà không cảm thấy bị quá tải. Hơn nữa, tôi sử dụng các công cụ như danh sách công việc và lịch kỹ thuật số để duy trì tiến độ và tránh bỏ lỡ các hạn chót quan trọng. Thực hành này đã cải thiện đáng kể năng suất làm việc của tôi và giúp tôi cân bằng công việc và các cam kết cá nhân một cách hiệu quả."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "a. Nga: Oh, really? What was the argument about?\nb. Nga: Hey, Nam. You look sad. What happened?\nc. Nam: Yesterday, I argued with my parents.\n(Adapted from iLearn Smart World 12)",
+          "options": {
+            "A": "a-b-c",
+            "B": "c-b-a",
+            "C": "b-c-a",
+            "D": "c-a-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hợp lý: b (Nga hỏi Nam trông buồn, chuyện gì xảy ra) → c (Nam trả lời: hôm qua cãi nhau với bố mẹ) → a (Nga: ồ thật à? Cãi nhau về chuyện gì vậy?).\nTạm dịch:\nNga: Này Nam, trông bạn buồn thế. Chuyện gì vậy?\nNam: Hôm qua, tôi đã cãi nhau với bố mẹ.\nNga: Ôi thật à? Cãi nhau về chuyện gì vậy?"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "a. By experiencing diverse cultures, they gain a broader perspective on global traditions.\nb. However, there's also a risk of focusing too much on external influences and neglecting their own cultural roots.\nc. World festivals, such as Halloween and Christmas, have a significant impact on young Vietnamese people.\nd. These events not only promote cultural exchange but also encourage creativity and participation in global trends.\ne. Therefore, it is essential to balance the appreciation of international festivals with the preservation of Vietnamese traditions.",
+          "options": {
+            "A": "c-a-b-d-e",
+            "B": "d-c-b-a-e",
+            "C": "c-a-d-b-e",
+            "D": "c-b-d-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hợp lý: c (lễ hội thế giới có ảnh hưởng lớn đến giới trẻ Việt Nam) → a (bằng cách trải nghiệm các nền văn hóa đa dạng, có cái nhìn rộng hơn) → d (những sự kiện này không chỉ thúc đẩy trao đổi văn hóa) → b (tuy nhiên, cũng có nguy cơ tập trung quá nhiều vào ảnh hưởng bên ngoài) → e (vì vậy, cần cân bằng việc trân trọng lễ hội quốc tế với bảo tồn truyền thống Việt Nam).\nTạm dịch: Các lễ hội trên thế giới, như Halloween và Giáng Sinh, có ảnh hưởng lớn đến giới trẻ Việt Nam. Bằng cách trải nghiệm các nền văn hóa đa dạng, họ có được cái nhìn rộng mở hơn về các truyền thống toàn cầu. Những sự kiện này không chỉ thúc đẩy trao đổi văn hóa mà còn khuyến khích sự sáng tạo và tham gia vào các xu hướng toàn cầu. Tuy nhiên, cũng có một nguy cơ là sẽ tập trung quá nhiều vào các ảnh hưởng bên ngoài mà bỏ quên gốc rễ văn hóa của chính mình. Vì vậy, điều quan trọng là phải cân bằng việc trân trọng các lễ hội quốc tế với việc bảo tồn các truyền thống Việt Nam."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "SHORT ART COURSES",
+      "passage": "Create!: This course is all about telling good stories in pictures. There'll be cartoon films to watch, and instruction in how to draw your favourite characters - but your (30)_______ is much more important than your drawing skills here! The course includes a visit (31)_______ a cartoon museum.\n\nArt Attack: You'll work on (32)_______ creative skills, like printing, photography, cartoons and movie-making, using the latest technology. This course is great for anyone wanting to (33)_______ these subjects at college. Good drawing skills are helpful on this course, and students' work will be put into a book, where suitable, for everyone to buy.\n\nArt Matters: This course will concentrate on different drawing techniques, including using inks and colour. We'll get you to draw live teenage models (34)_______ designer fashions and sportswear - so if you like designing fashion and think your future is in this area, then this course is for you!\n\nRainbow: Bring along a (35)_______ for this fun course! Using printing inks and paints, we'll show you how to transfer a picture onto your T-shirt and create a special artwork that you can put on for everyone to admire.\n\n(Adapted from Preliminary English Test 1)",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "imaginatively",
+            "B": "imagine",
+            "C": "imaginative",
+            "D": "imagination"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ loại:\nA. imaginatively (adv): sáng tạo\nB. imagine (v): tưởng tượng\nC. imaginative (adj): giàu trí tưởng tượng\nD. imagination (n): trí tưởng tượng\nSau mạo từ 'your' ta cần một danh từ bổ sung ý nghĩa nên ta chọn 'imagination'.\nTạm dịch: There'll be cartoon films to watch, and instruction in how to draw your favourite characters - but your imagination is much more important than your drawing skills here!"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "in",
+            "B": "with",
+            "C": "on",
+            "D": "to"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cụm từ: a visit to somewhere = một chuyến đi tới đâu đó.\nTạm dịch: The course includes a visit to a cartoon museum. (Khóa học bao gồm một chuyến tham quan đến một bảo tàng hoạt hình.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to developing",
+            "B": "developing",
+            "C": "develop",
+            "D": "to be developed"
+          },
+          "correctAnswer": "B",
+          "explanation": "Sau giới từ ta cần một động từ V-ing nên ta chọn 'developing'. Cấu trúc: work on + V-ing.\nTạm dịch: Art Attack: You'll work on developing creative skills, like printing, photography, cartoons and movie-making, using the latest technology."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "get",
+            "C": "take",
+            "D": "create"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ: take a subject = học một môn học.\nTạm dịch: This course is great for anyone wanting to take these subjects at college. (Khóa học này tuyệt vời cho bất kỳ ai muốn học các môn này ở trường đại học.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "wearing",
+            "B": "wear",
+            "C": "who wears",
+            "D": "who wearing"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ: Ta thấy câu đã có chủ ngữ chính 'we' và động từ chính 'will get'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ cho danh từ số nhiều 'models'. Để rút gọn mệnh đề quan hệ, ta lược bỏ đại từ quan hệ và to be (nếu có), chuyển V thành V-ing (who wear → wearing).\nTạm dịch: We'll get you to draw live teenage models wearing designer fashions and sportswear. (Chúng tôi sẽ cho bạn vẽ các người mẫu tuổi teen trực tiếp mặc trang phục thiết kế và đồ thể thao.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "white T-shirt clean",
+            "B": "clean white T-shirt",
+            "C": "T-shirt clean white",
+            "D": "white clean T-shirt"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự từ:\nSau mạo từ 'a' ta cần một cụm danh từ nên 'T-shirt' là danh từ chính đứng ở cuối.\nTính từ 'white' chỉ màu sắc (color) và tính từ 'clean' (sạch) chỉ quan điểm (opinion). Dựa vào thứ tự tính từ, tính từ chỉ opinion đứng trước tính từ chỉ color nên 'clean' đứng trước 'white'. → clean white T-shirt.\nTạm dịch: Rainbow: Bring along a clean white T-shirt for this fun course! (Rainbow: Mang theo một chiếc áo phông trắng sạch cho khóa học thú vị này!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "",
+      "passage": "UNESCO began to identify cultural traditions in 2008. Among the first on their list were the Puppet Theater of Sicily and Mexico's Day of the Dead festival. In 2010, UNESCO also began to include important regional cuisines, starting with French and Mexican food.\n\nCultural rituals are an important part of the UNESCO list. An example is the Tlemcen wedding ritual in Algeria. The ritual begins in the bride's parents' home, (36)_______. The bride is first dressed in a golden silk dress. Symbolic henna designs are applied to her hands. Before the bride leaves the house for the ceremony, her face (37)_______. Later, during the wedding feast, the bride removes her veil, ready to be married. The tradition has passed from one generation to the next, and marks the community's cultural identity.\n\n(38)_______ and in need of protection. An example is Al Sadu-traditional weaving in the United Arab Emirates. The tradition was once widely practiced by communities of desert Bedouin women. However, many Bedouin have now moved to cities, and so the practice has begun to disappear. (39)_______.\n\nThe main goal of UNESCO is to promote peace through respect for the world's varied cultures and common humanity. (40)_______. Cultural traditions are important to fight for, says Cécile Duvelle of UNESCO. \"The more globalized the world becomes,\" she says, \"the more important it is not to lose these traditional roots.\"\n\n(Adapted from Reading Explorer 2)",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "when the bride is first presented in front of her family and friends",
+            "B": "where friends and female relatives help the bride prepare for the ceremony",
+            "C": "marks the beginning of the important ceremonial process",
+            "D": "that is a special moment of final preparations before the wedding"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'The ritual' (nghi lễ) và động từ chính 'begins'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ thay thế cho danh từ 'home'.\nLoại A vì sử dụng trạng từ quan hệ 'when' cho 'home' là sai.\nLoại C vì sử dụng động từ có chia thì 'marks'.\nLoại D vì sử dụng đại từ quan hệ 'that' trong mệnh đề quan hệ không xác định (có dấu phẩy).\nTạm dịch: The ritual begins in the bride's parents' home, where friends and female relatives help the bride prepare for the ceremony. (Nghi lễ bắt đầu tại nhà của cha mẹ cô dâu, nơi bạn bè và các bà con nữ giúp cô dâu chuẩn bị cho buổi lễ.)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "having been wrapped in a golden silk veil",
+            "B": "wrapped a golden silk veil around her",
+            "C": "is wrapped in a golden silk veil",
+            "D": "that has it wrapped in a golden silk veil"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy mệnh đề đã có chủ ngữ chính 'face', do vậy ta cần một động từ chính có chia thì.\nLoại A vì sử dụng phân từ hoàn thành.\nLoại B vì động từ ở dạng câu chủ động không phù hợp.\nLoại D vì sử dụng mệnh đề quan hệ.\nTạm dịch: Before the bride leaves the house for the ceremony, her face is wrapped in a golden silk veil. (Trước khi cô dâu rời khỏi nhà để đến buổi lễ, mặt cô được quấn một chiếc khăn voan lụa vàng.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Some of the cultural items on the list are dying out",
+            "B": "The importance of cultural rituals has been neglected by UNESCO",
+            "C": "Cultural practices are thriving but need more awareness",
+            "D": "Certain cultural practices face challenges such as globalization but are actively promoted"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một mệnh đề phù hợp về ngữ nghĩa, kết hợp với 'in need of protection'.\nA. Một số mục văn hóa trong danh sách đang dần biến mất => Phù hợp về nghĩa khi kết hợp với 'in need of protection'.\nB. Tầm quan trọng của các nghi lễ văn hóa đã bị UNESCO bỏ qua => Không phù hợp.\nC. Các hoạt động văn hóa đang phát triển mạnh nhưng cần được nâng cao nhận thức => Không phù hợp.\nD. Không phù hợp về nghĩa khi kết hợp với 'in need of protection'.\nTạm dịch: Some of the cultural items on the list are dying out and in need of protection."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Despite numerous challenges, Al Sadu continues to flourish among the youth.",
+            "B": "Al Sadu has been integrated into modern cultural exhibitions and fashions, helping it gain attention worldwide.",
+            "C": "Today, Al Sadu is mostly practiced by older women whose numbers are declining.",
+            "D": "The tradition is carried on by a big group of dedicated women who want to keep the art form alive."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai vì ý nghĩa câu không phù hợp với ngữ cảnh 'the practice has begun to disappear'.\nB sai vì ý nghĩa câu không phù hợp với ngữ cảnh 'the practice has begun to disappear'.\nC đúng vì phù hợp với ngữ cảnh.\nD sai ở 'a big group of dedicated women' vì không phù hợp với ngữ cảnh 'many Bedouin have now moved to cities'.\nTạm dịch: The tradition was once widely practiced by communities of desert Bedouin women. However, many Bedouin have now moved to cities, and so the practice has begun to disappear. Today, Al Sadu is mostly practiced by older women whose numbers are declining."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "It hopes that by bringing attention to cultural traditions such as Al Sadu, they will be more likely to survive",
+            "B": "The goal is to raise awareness, but the survival of these traditions depends solely on local action.",
+            "C": "UNESCO believes that by focusing completely on those modern technological devices, cultural traditions will naturally become more prominent.",
+            "D": "UNESCO believes that fostering global awareness through violent programs will protect these traditions."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng vì phù hợp về ý nghĩa với ngữ cảnh đoạn.\nB sai vì ý nghĩa câu chưa phù hợp.\nC sai vì đoạn văn không nhắc tới việc tập trung hoàn toàn vào bất kỳ công nghệ nào cả.\nD sai vì thông tin 'violent program' không phù hợp và trái ngược với mục tiêu 'promote peace'.\nTạm dịch: The main goal of UNESCO is to promote peace through respect for the world's varied cultures and common humanity. It hopes that by bringing attention to cultural traditions such as Al Sadu, they will be more likely to survive."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.576144+00:00",
+  "updatedAt": "2026-06-08T10:41:58.576144+00:00",
+  "originalFileName": "THPT_Hai_Duong_Cum_Lien_Truong_2025.json"
+}

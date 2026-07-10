@@ -1,0 +1,626 @@
+{
+  "examId": "lien_truong_thpt_nghe_an_2025-06-06",
+  "title": "Liên trường THPT Nghệ An – Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh (Mã đề chẵn)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Lien_Truong_Nghe_An_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#NghệAn",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of sentences or utterances to make a meaningful exchange or text in each of the following questions from 1 to 5.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "a. Jimmy: I've been studying for my university entrance exams.\nb. Ann: How are your preparations going?\nc. Ann: Hey, long time no see! What have you been up to?",
+          "options": {
+            "A": "c-a-b",
+            "B": "b-a-c",
+            "C": "b-a-a",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự hợp lý: Ann chào hỏi (c) → Jimmy trả lời đang ôn thi (a) → Ann hỏi việc chuẩn bị thế nào (b).\nTạm dịch: Ann: Này, lâu quá không gặp! Bạn dạo này thế nào? / Jimmy: Mình đang ôn thi đại học đây. / Ann: Việc chuẩn bị của bạn sao rồi?"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "a. Henry: You can also set your thermostat a few degrees lower in winter.\nb. Larry: I'll try that. What about heating?\nc. Henry: You could switch to LED light bulbs. They use less energy.\nd. Henry: Another idea is to unplug electronics when you're not using them to prevent wasted energy.\ne. Larry: Do you know any ways to save energy at home?",
+          "options": {
+            "A": "d-e-b-a-c",
+            "B": "a-b-c-e-d",
+            "C": "d-b-a-c-e",
+            "D": "e-c-b-a-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trình tự: Larry hỏi cách tiết kiệm năng lượng (e) → Henry gợi ý đổi sang bóng đèn LED (c) → Larry nói sẽ thử, hỏi về sưởi (b) → Henry gợi ý chỉnh nhiệt độ thấp hơn vào mùa đông (a) → Henry thêm ý rút phích cắm (d).\nTạm dịch: Larry: Bạn có biết cách nào để tiết kiệm năng lượng ở nhà không? / Henry: Bạn có thể đổi sang bóng đèn LED. Chúng tiêu thụ ít năng lượng hơn. / Larry: Mình sẽ thử. Còn về sưởi thì sao? / Henry: Bạn cũng có thể chỉnh nhiệt độ thấp hơn một chút vào mùa đông. / Henry: Một ý khác là rút phích cắm các thiết bị điện khi không sử dụng để tránh lãng phí năng lượng."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "Hi Alex,\na. I appreciate the recommendation for the language app; it's been so helpful for my French practice.\nb. Thanks for the podcast you suggested last week; it was really inspiring to listen to successful language learners share their tips.\nc. By the way, have you ever considered joining an online language exchange group? I think it could be fun to try together.\nd. I've been trying to set aside more time for speaking practice, but it's a bit challenging with my busy schedule.\ne. Still, I'm motivated to improve my French, and I'll let you know if I find other useful resources.\nWrite back soon,\nJordan",
+          "options": {
+            "A": "b-a-e-d-c",
+            "B": "a-e-c-d-b",
+            "C": "b-a-d-e-c",
+            "D": "d-a-c-e-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự: Cảm ơn podcast (b) → Cảm ơn ứng dụng ngôn ngữ (a) → Thừa nhận khó khăn trong việc luyện nói (d) → Vẫn quyết tâm cải thiện (e) → Đề nghị tham gia nhóm trao đổi ngôn ngữ (c).\nTạm dịch: Cảm ơn bạn đã gợi ý podcast tuần trước. Mình rất cảm kích lời khuyên về ứng dụng học ngôn ngữ. Mình đang cố gắng dành nhiều thời gian hơn cho việc luyện nói nhưng hơi khó vì lịch trình bận rộn. Dù vậy mình vẫn rất quyết tâm cải thiện tiếng Pháp và sẽ cho bạn biết nếu tìm thấy tài liệu hữu ích khác. Nhân tiện, bạn đã bao giờ cân nhắc tham gia nhóm trao đổi ngôn ngữ trực tuyến chưa?"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "a. Although the job can be demanding at times, I find it rewarding to help customers and contribute to the company's reputation.\nb. Handling complaints and providing solutions has sharpened my problem-solving skills and taught me how to stay calm under pressure.\nc. My ability to communicate effectively with people from diverse backgrounds has been key to my success in this role.\nd. Over the past three years, I have been working as a customer service specialist, focusing on building strong relationships with clients.\ne. Overall, I am grateful for the opportunities this position has given me to grow professionally and personally.",
+          "options": {
+            "A": "b-c-a-d-e",
+            "B": "c-b-d-a-e",
+            "C": "d-b-c-a-e",
+            "D": "c-a-b-d-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự: Giới thiệu công việc (d) → Kỹ năng giải quyết vấn đề được trau dồi (b) → Kỹ năng giao tiếp là chìa khóa thành công (c) → Công việc đòi hỏi nhưng xứng đáng (a) → Nhìn chung biết ơn cơ hội (e).\nTạm dịch: Trong ba năm qua, tôi đã làm việc với tư cách là chuyên gia dịch vụ khách hàng. Việc xử lý khiếu nại đã giúp tôi nâng cao kỹ năng giải quyết vấn đề. Khả năng giao tiếp hiệu quả là chìa khóa thành công của tôi. Mặc dù công việc đôi khi có thể đòi hỏi cao, tôi thấy việc giúp đỡ khách hàng là xứng đáng. Nhìn chung, tôi biết ơn những cơ hội mà vị trí này đã mang lại."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "a. This change has also attracted more people to watch movies, boosting local businesses as they spend money on snacks and drinks.\nb. However, despite this positive change, some small towns still do not have cinemas, so people have to travel far to watch films.\nc. New cinemas have led to a 20% increase in visitors, as more people want to enjoy the latest films in comfortable seats with good sound quality.\nd. Many old theaters have been replaced by modern cinemas with better screens and sound, making movie experiences more exciting.\ne. The film industry has changed a lot over the past ten years, with more genres and choices for audiences.",
+          "options": {
+            "A": "d-a-e-c-b",
+            "B": "e-c-a-b-d",
+            "C": "d-a-c-b-e",
+            "D": "e-d-a-c-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trình tự: Ngành phim ảnh thay đổi (e) → Rạp cũ thay bằng rạp hiện đại (d) → Sự thay đổi thu hút thêm nhiều người xem (a) → Rạp mới tăng 20% khách (c) → Tuy nhiên, một số thị trấn nhỏ vẫn chưa có rạp (b).\nTạm dịch: Ngành công nghiệp phim ảnh đã thay đổi rất nhiều trong mười năm qua. Nhiều rạp chiếu phim cũ đã được thay thế bằng các rạp hiện đại. Sự thay đổi này cũng thu hút nhiều người đến xem phim hơn. Các rạp chiếu phim mới đã khiến lượng khách tăng 20%. Tuy nhiên, một số thị trấn nhỏ vẫn chưa có rạp chiếu phim."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 6 to 11.",
+      "passageTitle": "Hoi An: World Pickleball Championship Destination",
+      "passage": "Get ready for a(n) (6)_______ experience in the ancient town of Hoi An, chosen as the prestigious venue for the World Pickleball Championship in January 2025!\n\nCompete and cheer at the Hoiana Resort & Golf, where the brand-new premium court features eight cutting-edge indoor and outdoor competition areas (7)_______ for elite play. Jan David, founder of Pickleball Global, assures us that Hoi An's globally recognized facilities (8)_______ it the perfect host for this exciting tournament. Tao Viet Hai, Deputy Director of the Department of Culture, Sports, and Tourism of Quang Nam Province, shares that Pickleball holds remarkable potential to drive economic and social growth in the region by (9)_______ tourists and fostering community engagement.\n\nJoin us for exhilarating sporting events that promise to be (10)_______, drawing visitors from around the globe to Quang Nam. Save the date for January 2025 and immerse yourself in the excitement of pickleball (11)_______ Hoi An!",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "unforgettable",
+            "B": "forgetful",
+            "C": "forgettable",
+            "D": "forgetfully"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. unforgettable /ˌʌnfəˈɡetəbl/ (adj): không thể quên\nB. forgetful /fəˈɡetfʊl/ (adj): hay quên\nC. forgettable /fəˈɡetəbl/ (adj): dễ bị quên\nD. forgetfully /fəˈɡetfəli/ (adv): một cách đãng trí\nCần tính từ bổ nghĩa cho danh từ 'experience'. Nghĩa phù hợp là 'trải nghiệm không thể quên'.\nTạm dịch: Hãy sẵn sàng cho một trải nghiệm không thể nào quên tại phố cổ Hội An, nơi được chọn làm địa điểm tổ chức danh giá cho Giải Vô địch Pickleball Thế giới vào tháng 1 năm 2025!"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "designed",
+            "B": "designing",
+            "C": "are designed",
+            "D": "which designed"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ: Câu đã có chủ ngữ chính 'the brand-new premium court' và động từ chính 'features'. Cụm 'eight cutting-edge indoor and outdoor competition areas' được bổ nghĩa bởi mệnh đề quan hệ bị động. Để rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và to be, giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: ...tám khu vực thi đấu trong nhà và ngoài trời tiên tiến được thiết kế dành riêng cho các trận đấu đỉnh cao."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "make",
+            "C": "take",
+            "D": "get"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc: make something + noun: làm cho cái gì đó thành cái gì đó. 'make it the perfect host' = làm cho nơi đây trở thành chủ nhà hoàn hảo.\nTạm dịch: Jan David, nhà sáng lập Pickleball Global, khẳng định rằng cơ sở vật chất được công nhận toàn cầu của Hội An làm cho nơi đây trở thành chủ nhà hoàn hảo cho giải đấu hấp dẫn này."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "attract",
+            "B": "attracted",
+            "C": "to attract",
+            "D": "attracting"
+          },
+          "correctAnswer": "D",
+          "explanation": "Danh động từ: Cấu trúc 'by + V-ing': bằng cách làm gì đó. 'by attracting tourists' = bằng cách thu hút du khách.\nTạm dịch: Ông Tào Việt Hải, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Quảng Nam, chia sẻ rằng Pickleball mang tiềm năng to lớn trong việc thúc đẩy tăng trưởng kinh tế và xã hội của khu vực thông qua việc thu hút du khách và tăng cường kết nối cộng đồng."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "unique attractions tourist",
+            "B": "tourist unique attractions",
+            "C": "tourist attractions unique",
+            "D": "unique tourist attractions"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: Cụm danh từ 'tourist attractions' (những điểm thu hút khách du lịch) nên tính từ 'unique' (độc đáo) cần đứng trước cụm danh từ này để bổ sung ý nghĩa → 'unique tourist attractions'.\nTạm dịch: Hãy tham gia vào các sự kiện thể thao sôi động, hứa hẹn sẽ trở thành những điểm thu hút du lịch độc đáo, thu hút du khách từ khắp nơi trên thế giới đến với Quảng Nam."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "by",
+            "B": "at",
+            "C": "on",
+            "D": "in"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về giới từ: 'in' + thành phố, tỉnh, huyện: ở, tại. 'pickleball in Hoi An' = Pickleball tại Hội An.\nTạm dịch: Hãy lưu lại ngày tháng 1 năm 2025 và hòa mình vào không khí phấn khích của Pickleball tại Hội An!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 12 to 17.",
+      "passageTitle": "Weekend Adventure Club",
+      "passage": "Looking to spice up your weekend? Join our Weekend Adventure Club for exhilarating activities. Whether you're a beginner seeking a new (12)_______ or an experienced adventurer! Some members gravitate toward water sports, while (13)_______ enjoy rock climbing and trekking. Why limit yourself to just one activity?\n\nUpcoming Event:\nOur next adventure features a breathtaking mountain hike followed by a lakeside picnic. We'll (14)_______ early in the morning to make the most of the day! Don't miss this chance to reconnect with nature while meeting a vibrant community of outdoor enthusiasts.\n\nRainy Day Plans:\nIn case of bad weather, we'll organize a(n) (15)_______ indoor activity to ensure the fun doesn't stop. (16)_______ isn't not just about the destination; it's about the memories you create along the way. (17)_______ proper planning, our events are both safe and enjoyable for everyone.\n\nJoin us!\nJoin us now and make your weekends truly extraordinary!",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "task",
+            "B": "challenge",
+            "C": "obstacle",
+            "D": "contest"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. task /tɑːsk/ (n): nhiệm vụ\nB. challenge /ˈtʃælɪndʒ/ (n): thử thách\nC. obstacle /ˈɒbstəkl/ (n): chướng ngại vật\nD. contest /ˈkɒntest/ (n): cuộc thi\nNgười mới bắt đầu tìm kiếm 'thử thách mới' phù hợp ngữ cảnh nhất.\nTạm dịch: Cho dù bạn là người mới bắt đầu tìm kiếm thử thách mới hay là một nhà thám hiểm dày dạn kinh nghiệm!"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the other",
+            "B": "others",
+            "C": "another",
+            "D": "other"
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân biệt:\nA. the other + N đếm được: (những) cái/người còn lại trong 1 nhóm\nB. others: những cái/người khác (đại từ, làm chủ ngữ)\nC. another + N đếm được số ít: cái/người khác\nD. other + N đếm được số nhiều/không đếm được: những cái/người khác\nCần một từ đóng vai trò làm chủ ngữ nên ta chọn 'others'.\nTạm dịch: Một số thành viên thích các môn thể thao dưới nước, trong khi những người khác thích leo núi và đi bộ đường dài."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "look after",
+            "B": "set off",
+            "C": "pass on",
+            "D": "break into"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. look after: chăm sóc\nB. set off: khởi hành\nC. pass on: truyền lại\nD. break into: đột nhập\n'set off early in the morning' = khởi hành vào sáng sớm, phù hợp ngữ cảnh.\nTạm dịch: Chúng ta sẽ khởi hành vào sáng sớm để tận dụng tối đa thời gian trong ngày!"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "alternative",
+            "B": "ordinary",
+            "C": "various",
+            "D": "unusual"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. alternative /ɔːlˈtɜːnətɪv/ (adj): thay thế\nB. ordinary /ˈɔːdnri/ (adj): bình thường\nC. various /ˈveəriəs/ (adj): đa dạng\nD. unusual /juːˈniːk/ (adj): độc nhất\n'alternative indoor activity' = hoạt động trong nhà thay thế, phù hợp ngữ cảnh 'trong trường hợp thời tiết xấu'.\nTạm dịch: Trong trường hợp thời tiết xấu, chúng tôi sẽ tổ chức các hoạt động trong nhà thay thế để đảm bảo niềm vui không dừng lại."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Sport",
+            "B": "Activity",
+            "C": "Hobby",
+            "D": "Adventure"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. sport /spɔːt/ (n): thể thao\nB. activity /ækˈtɪvɪti/ (n): hoạt động\nC. hobby /ˈhɒbi/ (n): sở thích\nD. adventure /ədˈventʃə/ (n): cuộc phiêu lưu\n'Adventure isn't just about the destination; it's about the memories you create along the way.' – phù hợp với chủ đề Adventure Club.\nTạm dịch: Phiêu lưu không chỉ là về đích đến; mà còn là về những kỷ niệm bạn tạo ra trên đường đi."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Thanks to",
+            "B": "In line with",
+            "C": "On top of",
+            "D": "As far as"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về liên từ:\nA. Thanks to: nhờ có\nB. In line with: phù hợp với\nC. On top of: ngoài ra, thêm vào đó\nD. As far as: về mặt, theo như\n'Thanks to proper planning' = nhờ có kế hoạch phù hợp → nguyên nhân tích cực dẫn đến kết quả an toàn và thú vị.\nTạm dịch: Nhờ có kế hoạch phù hợp mà các sự kiện của chúng tôi vừa an toàn vừa thú vị cho mọi người."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about autonomous vehicles and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "The Rise of Autonomous Vehicles",
+      "passage": "Autonomous vehicles are transforming the transportation landscape, dramatically altering the way we think about and experience mobility. Companies around the world are investing heavily in developing self-driving technology. In 2020, the fully autonomous car (18)_______. This event marked a significant milestone in the automotive industry. Since then, several prototypes have been tested on public roads in a variety of countries, signaling growing momentum in the field.\n\nThese vehicles utilize advanced sensors and software (19)_______. They rely on a combination of LiDAR, cameras, and machine learning algorithms to navigate complex environments. (20)_______. The core design of autonomous vehicles prioritizes traffic optimization, with the overarching goal of reducing accidents and improving road safety for all users.\n\nOne of the most remarkable features of autonomous vehicles is their ability to communicate with each other and their surroundings. (21)_______. This communication enables them to make real-time decisions, enhancing safety and efficiency on the road.\n\nAs the technology continues to evolve, (22)_______. The widespread adoption of autonomous vehicles will not only revolutionize the way we drive but also reshape urban planning and public transportation systems, ushering in a new era of smart, interconnected cities.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "was first officially demonstrated at a major auto show",
+            "B": "demonstrating its capabilities at a major auto show",
+            "C": "that demonstrated its capabilities at a major auto show",
+            "D": "which the demonstration was introduced at a major auto show"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu đã có chủ ngữ chính 'the fully autonomous car', do vậy cần một động từ chính có chia thì.\nLoại B vì sử dụng hiện tại phân từ.\nLoại C và D vì sử dụng mệnh đề quan hệ.\nTạm dịch: Vào năm 2020, chiếc xe tự lái hoàn toàn được trình diễn chính thức lần đầu tại một triển lãm ô tô lớn."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "combined various technologies for safe navigation",
+            "B": "which combine various technologies to navigate safely",
+            "C": "that combines advanced technologies for better navigation",
+            "D": "is a combination of different technologies for navigation"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đã có chủ ngữ chính 'These vehicles' và động từ chính 'utilize'. Do vậy có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ thay thế cho danh từ 'sensors and software'.\nLoại A và D vì sử dụng động từ có chia thì 'combined' và 'is'.\nLoại C vì chia sai dạng động từ (số nhiều nhưng dùng 'combines').\nTạm dịch: Các phương tiện này sử dụng các cảm biến tiên tiến và phần mềm kết hợp nhiều công nghệ hiện đại để di chuyển một cách an toàn."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "These vehicles aim to improve fuel efficiency and reduce emissions",
+            "B": "These vehicles are being designed to optimize traffic flow",
+            "C": "The goal of these vehicles is to enhance transportation efficiency",
+            "D": "They are developed to maximize traffic congestion in cities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân tích:\nA. Những chiếc xe này nhằm mục đích cải thiện hiệu suất nhiên liệu và giảm khí thải → Sai vì không phù hợp với ngữ cảnh đoạn.\nB. Những chiếc xe này được thiết kế để tối ưu hóa lưu lượng giao thông → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nC. Mục tiêu của những chiếc xe này là nâng cao hiệu quả vận chuyển → Sai vì không phù hợp với ngữ cảnh đoạn.\nD. Chúng được phát triển để tối đa hóa tình trạng tắc nghẽn giao thông ở các thành phố → Sai vì ý nghĩa câu không phù hợp.\nTạm dịch: Những chiếc xe này đang được thiết kế để tối ưu hóa lưu lượng giao thông."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Communication systems allow them to interact with each other",
+            "B": "They use vehicle-to-vehicle communication systems",
+            "C": "Autonomous vehicles rely on communication systems for safety",
+            "D": "Their ability to communicate is vital for safe navigation"
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân tích:\nA. Hệ thống giao tiếp cho phép chúng tương tác với nhau → Sai vì không cụ thể bằng đáp án B vì chưa đề cập rõ tới 'vehicle-to-vehicle'.\nB. Chúng sử dụng hệ thống giao tiếp giữa các phương tiện → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh, liên kết với câu sau ở 'this communication'.\nC. Các phương tiện tự lái phụ thuộc vào hệ thống giao tiếp để đảm bảo an toàn → Sai tương tự câu A và ý về 'safety' bị lặp lại ở câu phía sau.\nD. Khả năng giao tiếp của chúng là rất quan trọng để đảm bảo điều hướng an toàn → Sai tương tự câu A và ý về an toàn bị lặp lại ở câu phía sau.\nTạm dịch: Chúng sử dụng hệ thống giao tiếp giữa các phương tiện. Hệ thống giao tiếp này giúp chúng đưa ra các quyết định trong thời gian thực, nâng cao độ an toàn và hiệu quả trên đường."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "this technology will have no impact on our daily lives",
+            "B": "we will see a shift in how we approach personal mobility",
+            "C": "the future of driving is likely to be fundamentally different",
+            "D": "the landscape of transportation will remain unchanged"
+          },
+          "correctAnswer": "C",
+          "explanation": "Phân tích:\nA. công nghệ này sẽ không ảnh hưởng đến cuộc sống hàng ngày của chúng ta → Sai vì ý nghĩa câu không phù hợp.\nB. chúng ta sẽ thấy sự thay đổi trong cách chúng ta tiếp cận phương tiện di chuyển cá nhân → Sai ở 'personal'.\nC. tương lai của việc lái xe có thể sẽ khác biệt cơ bản → Đúng vì phù hợp với nội dung chính của đoạn.\nD. bối cảnh giao thông sẽ không thay đổi → Sai vì ý nghĩa câu không phù hợp.\nTạm dịch: Khi công nghệ tiếp tục phát triển, tương lai của việc lái xe có thể sẽ có sự thay đổi cơ bản."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about self-organized learning and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Self-Organized Learning",
+      "passage": "Self-organized learning is an educational approach where individuals take charge of their own learning process. Instead of relying solely on teachers or formal instruction, learners independently identify their goals, seek out resources, and evaluate their progress. This method has become increasingly popular with the growth of the internet and access to vast amounts of information. By exploring topics of personal interest, learners often develop a deeper understanding and stronger motivation to succeed.\n\nA critical element of self-organized learning is curiosity. When learners ask meaningful questions and explore answers independently, they not only acquire knowledge but also develop problem-solving and critical-thinking skills. For instance, students researching environmental issues might learn scientific principles, policy-making, and advocacy techniques, which enrich their understanding far beyond traditional classroom lessons.\n\nHowever, self-organized learning is not without its challenges. Some learners struggle with managing time, staying motivated, or finding reliable information. Others may feel overwhelmed by the responsibilities this method requires. Guidance from mentors or peers can help overcome these obstacles by providing structure and feedback while allowing learners to remain autonomous.\n\nSelf-organized learning aligns with the demands of the modern world, where adaptability and continuous learning are essential. By cultivating the ability to learn independently, individuals can keep pace with rapid technological advancements and changing job markets. Ultimately, this approach empowers learners to take control of their education and shape their futures.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a challenge in self-organized learning?",
+          "context": "",
+          "options": {
+            "A": "Time management",
+            "B": "Lack of motivation",
+            "C": "Unreliable information",
+            "D": "Limited access to mentors"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin từ bài: Some learners struggle with managing time, staying motivated, or finding reliable information. (Một số người học gặp khó khăn trong việc quản lý thời gian, duy trì động lực hoặc tìm kiếm thông tin đáng tin cậy.)\nA, B, C đều được đề cập. D (Khó tiếp cận người hướng dẫn) không được đề cập là thách thức; ngược lại, hướng dẫn từ người cố vấn được đề cập như một giải pháp."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"overwhelmed\" in paragraph 3 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "burdened",
+            "B": "confused",
+            "C": "calm",
+            "D": "anxious"
+          },
+          "correctAnswer": "C",
+          "explanation": "overwhelmed /ˌəʊvəˈwelmd/ (adj): choáng ngợp, quá tải >< calm (adj): bình tĩnh.\nA. burdened /ˈbɜːdnd/ (adj): gánh nặng, đè nặng\nB. confused /kənˈfjuːzd/ (adj): bối rối\nC. calm /kɑːm/ (adj): bình tĩnh\nD. anxious /ˈæŋkʃəs/ (adj): lo lắng\nThông tin: Others may feel overwhelmed by the responsibilities this method requires. (Những người khác có thể cảm thấy quá tải với những trách nhiệm mà phương pháp này đòi hỏi.)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"they\" in paragraph 2 refers to:",
+          "context": "",
+          "options": {
+            "A": "learners",
+            "B": "questions",
+            "C": "resources",
+            "D": "teachers"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'they' ám chỉ 'learners'.\nThông tin: When learners ask meaningful questions and explore answers independently, they not only acquire knowledge but also develop problem-solving and critical-thinking skills. (Khi người học đặt ra những câu hỏi có ý nghĩa và tự mình tìm kiếm câu trả lời, họ không chỉ tiếp thu kiến thức mà còn phát triển kỹ năng giải quyết vấn đề và tư duy phản biện.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"critical\" in paragraph 2 could best be replaced by:",
+          "context": "",
+          "options": {
+            "A": "essential",
+            "B": "irrelevant",
+            "C": "unimportant",
+            "D": "harmful"
+          },
+          "correctAnswer": "A",
+          "explanation": "Critical /ˈkrɪtɪkəl/ (adj): quan trọng, cần thiết = essential (adj): cần thiết.\nA. essential /ɪˈsenʃəl/ (adj): cần thiết\nB. irrelevant /ɪˈreləvənt/ (adj): không liên quan\nC. unimportant /ˌʌnɪmˈpɔːtənt/ (adj): không quan trọng\nD. harmful /ˈhɑːmfʊl/ (adj): có hại\nThông tin: A critical element of self-organized learning is curiosity. (Một yếu tố quan trọng trong học tập tự tổ chức là sự tò mò.)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Self-organized learning comes with certain obstacles.",
+            "B": "Self-organized learning does not offer benefits.",
+            "C": "Self-organized learning leads to failure.",
+            "D": "Self-organized learning is free of challenges."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu được gạch chân: 'self-organized learning is not without its challenges' = học tập tự tổ chức không phải là không có thách thức = học tập tự tổ chức đi kèm với một số trở ngại.\nA. Học tập tự tổ chức đi kèm với một số trở ngại → Đúng.\nB. Học tập tự tổ chức không mang lại lợi ích → Sai.\nC. Học tập tự tổ chức dẫn đến thất bại → Sai.\nD. Học tập tự tổ chức không có thách thức → Sai."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Self-organized learning encourages learners to depend on teachers for guidance throughout the process.",
+            "B": "Self-organized learning does not require learners to evaluate their own progress.",
+            "C": "Individuals using self-organized learning often gain deeper insights and increased motivation through exploring personal interests.",
+            "D": "The development of self-organized learning is largely unaffected by technological advancements."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\n+ Instead of relying solely on teachers or formal instruction, learners independently identify their goals, seek out resources, and evaluate their progress. → A và B sai.\n+ This method has become increasingly popular with the growth of the internet and access to vast amounts of information. → D sai ở 'largely unaffected'.\n+ By exploring topics of personal interest, learners often develop a deeper understanding and stronger motivation to succeed. → C đúng.\nTạm dịch: Bằng cách khám phá các chủ đề mà mình quan tâm, người học thường phát triển sự hiểu biết sâu sắc hơn và động lực mạnh mẽ hơn để thành công."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer describe the role of curiosity in learning?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: A critical element of self-organized learning is curiosity. (Một yếu tố quan trọng trong học tập tự tổ chức là sự tò mò.) → Đây là câu mở đầu đoạn 2."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer explain how this learning method suits the modern world?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Self-organized learning aligns with the demands of the modern world, where adaptability and continuous learning are essential. (Học tập tự tổ chức phù hợp với yêu cầu của thế giới hiện đại, nơi khả năng thích ứng và học hỏi liên tục là rất quan trọng.) → Đây là câu mở đầu đoạn 4."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about content creators and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Content Creators",
+      "passage": "(I) A content creator is an individual who produces and shares material, often through digital platforms, to engage and entertain an audience. (II) This content can take various forms, including videos, blogs, podcasts, and social media posts. (III) The rise of content creators has been significantly fueled by advancements in technology and the accessibility of the internet, allowing anyone with a smartphone or computer to share their voice and creativity with the world. (IV)\n\nThe term \"content creator\" has gained traction in the 21st century, particularly with the creation of platforms like YouTube, TikTok, and Instagram. These platforms provide users with tools to create, edit, and share content, making it easier than ever to reach a global audience. Content creators often focus on niche topics, catering to specific interests and communities, which helps build dedicated followings.\n\nOne of the key aspects of being a successful content creator is understanding the audience. Creators engage with their viewers, responding to comments and feedback, and adapting their content to meet the evolving preferences of their audience. This interaction fosters a sense of community and loyalty. Followers feel connected to the creator and invested in their journey.\n\nHowever, the path of a content creator is not without challenges. Many creators face issues such as burnout, maintaining consistent quality, and navigating the complexities of monetization. Additionally, the competitive landscape requires creators to continually innovate and differentiate themselves from others in their field.\n\nContent creators play an essential role in digital marketing and brand promotion. By partnering with brands, they can influence purchasing decisions and reach target demographics effectively. This collaboration benefits both creators, who can monetize their content, and brands, which gain access to engaged audiences.\n\nAs the landscape of content creation continues to evolve, it is evident that these individuals are shaping the future of media and communication. Their ability to connect with audiences on a personal level and create authentic content resonates deeply in today's digital age, making them influential figures in popular culture.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word \"engage\" in paragraph 1 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "entice",
+            "B": "disconnect",
+            "C": "attract",
+            "D": "involve"
+          },
+          "correctAnswer": "B",
+          "explanation": "Engage /ɪnˈɡeɪdʒ/ (v): thu hút, tham gia, giao tiếp >< disconnect (v): ngắt kết nối, tách rời.\nA. entice /ɪnˈtaɪs/ (v): dụ dỗ, lôi kéo\nB. disconnect /ˌdɪskəˈnekt/ (v): ngắt kết nối, tách rời\nC. attract /əˈtrækt/ (v): thu hút\nD. involve /ɪnˈvɒlv/ (v): liên quan, tham gia vào\nThông tin: A content creator is an individual who produces and shares material, often through digital platforms, to engage and entertain an audience."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase \"niche topics\" in paragraph 2 could best be replaced by:",
+          "context": "",
+          "options": {
+            "A": "popular trends",
+            "B": "broad subjects",
+            "C": "general themes",
+            "D": "specialized interests"
+          },
+          "correctAnswer": "D",
+          "explanation": "niche topic: chủ đề ngách, chủ đề cụ thể = specialized interest (sở thích chuyên biệt).\nA. xu hướng phổ biến\nB. các chủ đề rộng\nC. các chủ đề chung\nD. sở thích chuyên biệt\nThông tin: Content creators often focus on niche topics, catering to specific interests and communities, which helps build dedicated followings."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"This accessibility of content creation empowers diverse voices and perspectives.\"",
+          "context": "",
+          "options": {
+            "A": "(IV)",
+            "B": "(I)",
+            "C": "(III)",
+            "D": "(II)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (IV), vì liên kết với câu phía trước ở 'accessibility'. Câu III đề cập đến 'the accessibility of the internet, allowing anyone...to share their voice and creativity with the world' → câu cần điền ở (IV) tiếp nối ý này: 'This accessibility of content creation empowers diverse voices and perspectives.'"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Creators have no obligation to respond to their audience's comments.",
+            "B": "Creators can disregard audience preferences since they have dedicated followings.",
+            "C": "Creators need to engage with their followers to cultivate connection and commitment.",
+            "D": "Creators should ignore audience feedback to maintain their unique style."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu được gạch chân: 'This interaction fosters a sense of community and loyalty.' = Tương tác này tạo ra cảm giác cộng đồng và sự trung thành.\nC. Người sáng tạo cần tương tác với người theo dõi để xây dựng kết nối và sự gắn kết → Đúng vì diễn đạt được ý của câu gốc.\nA, B, D đều sai vì ý nghĩa câu chưa phù hợp."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "The word \"their\" in paragraph 4 refers to:",
+          "context": "",
+          "options": {
+            "A": "audiences",
+            "B": "content creators",
+            "C": "brands",
+            "D": "challenges"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'their' ám chỉ tới 'content creators'.\nThông tin: Additionally, the competitive landscape requires creators to continually innovate and differentiate themselves from others in their field. (Ngoài ra, sự cạnh tranh khốc liệt buộc các nhà sáng tạo phải liên tục đổi mới và tạo sự khác biệt so với những người khác trong lĩnh vực của mình.)"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following best summarizes paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Content creators are often overwhelmed by the pressures of social media.",
+            "B": "Many content creators struggle to maintain their audience and create unique content.",
+            "C": "The main challenge for content creators is staying up-to-date with the latest technology.",
+            "D": "Content creators face challenges like burnout, quality maintenance, and competition."
+          },
+          "correctAnswer": "D",
+          "explanation": "Phân tích:\nA. Sai vì chưa tóm tắt được đầy đủ nội dung đoạn.\nB. Sai vì chỉ đề cập tới hai khó khăn trong đoạn, chưa tóm tắt đầy đủ.\nC. Sai vì đoạn văn không bàn tới 'staying up-to-date with the latest technology'.\nD. Đúng vì là đáp án tóm tắt đầy đủ nhất nội dung đoạn văn.\nThông tin: Many creators face issues such as burnout, maintaining consistent quality, and navigating the complexities of monetization. Additionally, the competitive landscape requires creators to continually innovate and differentiate themselves from others in their field."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "According to the passage, which of the following is NOT true about content creators?",
+          "context": "",
+          "options": {
+            "A": "Technology has made it easier for individuals to become content creators.",
+            "B": "They often focus on specific topics to build their audience.",
+            "C": "They engage with their audience to foster loyalty.",
+            "D": "All content creators are able to monetize their work easily."
+          },
+          "correctAnswer": "D",
+          "explanation": "Phân tích:\nA. Công nghệ đã làm cho việc trở thành người sáng tạo nội dung trở nên dễ dàng hơn → A đúng.\nB. Họ thường tập trung vào các chủ đề cụ thể để xây dựng khán giả → B đúng.\nC. Họ tương tác với khán giả để xây dựng lòng trung thành → C đúng.\nD. Tất cả người sáng tạo nội dung đều có thể kiếm tiền từ công việc của mình dễ dàng → D sai ở 'all'. Bài đề cập 'navigating the complexities of monetization' (xử lý những phức tạp trong việc kiếm tiền) → không phải ai cũng dễ dàng kiếm tiền."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Content creators do not need to respond to audience comments.",
+            "B": "Successful content creators must understand and adapt to their audience.",
+            "C": "The role of content creators is diminishing in the digital age.",
+            "D": "Content creators primarily focus on traditional media formats."
+          },
+          "correctAnswer": "B",
+          "explanation": "Phân tích:\nA. Sai ở 'do not' – bài đề cập họ phản hồi bình luận và ý kiến.\nB. Đúng: One of the key aspects of being a successful content creator is understanding the audience.\nC. Sai ở 'is diminishing' vì vai trò của họ có sức ảnh hưởng sâu sắc trong thời đại kỹ thuật số.\nD. Sai ở 'traditional media formats' vì họ thường chia sẻ trên 'digital platforms' và có nhiều hình thức khác nhau."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Content creators significantly influence consumer behavior and brand engagement.",
+            "B": "The challenges faced by content creators are minimal compared to traditional careers.",
+            "C": "The popularity of content creators is solely based on entertainment value.",
+            "D": "Content creators are becoming less relevant in modern marketing strategies."
+          },
+          "correctAnswer": "A",
+          "explanation": "Phân tích:\nB. Sai vì không có thông tin so sánh trong bài, thực tế nhà sáng tạo nội dung gặp nhiều khó khăn.\nC. Sai vì không có thông tin ở 'solely based on entertainment value'.\nD. Sai vì bài đề cập họ đóng vai trò quan trọng trong tiếp thị.\nA. Đúng vì có thể suy ra từ bài đọc: Content creators play an essential role in digital marketing and brand promotion. By partnering with brands, they can influence purchasing decisions and reach target demographics effectively."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Content creators are professional artists who dominate traditional media spaces.",
+            "B": "Content creators produce material for social media, facing minimal challenges in their work.",
+            "C": "Content creators engage audiences through various platforms, adapting to trends and challenges in the digital age.",
+            "D": "Content creators are limited to video production and have little influence on marketing."
+          },
+          "correctAnswer": "C",
+          "explanation": "Phân tích:\nA. Sai vì không có thông tin ở 'professional artists' và sai với thông tin trong bài ở 'dominate traditional media spaces'.\nB. Sai ở 'minimal'.\nC. Đúng vì tóm tắt được chính xác nội dung bài đọc.\nD. Sai ở 'have little influence on marketing'.\nTóm tắt:\n+ Đoạn 1: Nhà sáng tạo nội dung là những cá nhân sản xuất và chia sẻ nội dung qua các nền tảng kỹ thuật số.\n+ Đoạn 2: Thuật ngữ trở nên phổ biến nhờ các nền tảng như YouTube, TikTok, Instagram, nơi họ tập trung vào các chủ đề ngách.\n+ Đoạn 3: Hiểu và thích nghi với khán giả là yếu tố quan trọng giúp nhà sáng tạo thành công.\n+ Đoạn 4: Nhà sáng tạo nội dung đối mặt với nhiều thách thức như kiệt sức, duy trì chất lượng và cạnh tranh.\n+ Đoạn 5: Nhà sáng tạo nội dung đóng vai trò quan trọng trong tiếp thị kỹ thuật số và quảng bá thương hiệu.\n+ Đoạn 6: Những nhà sáng tạo này đang định hình tương lai truyền thông."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.586171+00:00",
+  "updatedAt": "2026-06-08T10:41:58.586171+00:00",
+  "originalFileName": "THPT_Lien_Truong_Nghe_An_2025.json"
+}

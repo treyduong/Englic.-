@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_phu_tho_thpt_2025_2026-06-08",
+  "title": "Kì thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo dục và Đào tạo Phú Thọ",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Phu_Tho_2025_TiengAnh.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#PhúThọ",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement for a green project and mark the letter A, B, C or D on your sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "GO GREEN, BUILD THE FUTURE!",
+      "passage": "Join us in creating a cleaner, greener world with \"Earth Alliance\", a sustainable initiative (1)_________ to protect our planet. We're dedicated to reducing waste, conserving energy, and (2)_______ eco-friendly solutions that make a real impact.\n\nBy choosing a (3)_______, planting trees, or supporting recycling efforts, you're not just helping the environment – you're shaping a healthier future for generations to come. Every small action counts, and together, we can (4)______ a difference.\n\nBe part of movement! Whether you're an individual, a business or a community group, there's a way for everyone to contribute. Let's work together to turn sustainability (5)______ a way of life.\n\nTake (6)______ today for a better tomorrow! Visit www.earthguard.com to learn more and get involved. The planet needs us- let's answer the call!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which designed",
+            "B": "designing",
+            "C": "was designed",
+            "D": "designed"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ: Để rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và 'to be' (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nTạm dịch: Hãy cùng chúng tôi tạo nên một thế giới sạch hơn, xanh hơn với 'Earth Alliance', một sáng kiến bền vững được thiết kế để bảo vệ hành tinh của chúng ta."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to promote",
+            "B": "promoted",
+            "C": "promoting",
+            "D": "promote"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về phép song hành: Ta thấy liên từ 'and', ta cần một V-ing để song hành với động từ 'reducing' và 'conserving' ở phía trước → ta chọn 'promoting'.\nTạm dịch: Chúng tôi cam kết giảm thiểu rác thải, bảo tồn năng lượng và thúc đẩy các giải pháp thân thiện với môi trường mà có tác động thực sự."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "green energy option",
+            "B": "green option energy",
+            "C": "energy green option",
+            "D": "option green energy"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về trật tự từ: Ta dùng tính từ 'green' (xanh) đứng trước cụm danh từ 'energy option' (giải pháp năng lượng) để bổ nghĩa.\nTạm dịch: Bằng cách lựa chọn một giải pháp năng lượng xanh, trồng cây hoặc ủng hộ các nỗ lực tái chế, bạn không chỉ giúp bảo vệ môi trường mà còn định hình một tương lai lành mạnh hơn cho các thế hệ sau."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "take",
+            "C": "have",
+            "D": "make"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về Collocations: make a difference = tạo ra sự khác biệt.\nTạm dịch: Mỗi hành động nhỏ đều có giá trị, và cùng nhau, chúng ta có thể tạo ra sự khác biệt."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "into",
+            "B": "for",
+            "C": "to",
+            "D": "of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs): turn (somebody/something) into something: biến, chuyển (ai/cái gì) thành cái gì.\nTạm dịch: Hãy cùng nhau biến tính bền vững thành một lối sống."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "act",
+            "B": "action",
+            "C": "actively",
+            "D": "active"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về Collocations: take action = hành động.\nTạm dịch: Hãy hành động ngay hôm nay vì một ngày mai tốt đẹp hơn!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "WHY SHOULD WE SUPPORT CHARITY?",
+      "passage": "Together, even small acts can lead to meaningful change!\n\nReasons:\nHelping those in need is (7)______, but there's more to it. Every day, many people struggle with issues like poverty or lack of resources. By supporting charities, you can build empathy and be part of a solution.\n\n(8)_______ your contributions to charity work, communities become closer, which creates a positive impact on everyone involved.\n\nHow You Can Make a Difference:\n(9)______ clothes, food, or other essentials to those in need.\nDonate a (10)_______ of your income to trusted charity organisations.\nVolunteer your time and offer assistance that could benefit (11)__________.\nJoin local charity events that promote (12)_______ and raise funds.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "deliberate",
+            "B": "accessible",
+            "C": "rewarding",
+            "D": "ambitious"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ vựng:\nA. deliberate /dɪˈlɪbərət/ (adj): cố ý, có chủ ý, thận trọng\nB. accessible /əkˈsesəbl/ (adj): có thể tiếp cận, truy cập\nC. rewarding /rɪˈwɔːrdɪŋ/ (adj): đáng giá, bổ ích, ý nghĩa\nD. ambitious /æmˈbɪʃəs/ (adj): tham vọng, đầy hoài bão\nTạm dịch: Giúp đỡ những người gặp khó khăn thật sự rất ý nghĩa, nhưng điều đó chưa phải tất cả."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Thanks to",
+            "B": "Regardless of",
+            "C": "With regard to",
+            "D": "In addition to"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm giới từ:\nA. Thanks to: nhờ có\nB. Regardless of: bất chấp\nC. With regard to: liên quan tới\nD. In addition to: ngoài\nTạm dịch: Nhờ có những đóng góp của bạn cho công việc từ thiện, các cộng đồng trở nên gắn kết hơn, tạo ra tác động tích cực đến tất cả mọi người."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Turn up",
+            "B": "Take out",
+            "C": "Put on",
+            "D": "Give away"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. Turn up: xuất hiện\nB. Take (something) out: lấy cái gì ra\nC. Put on: mặc đồ\nD. Give away: tặng, cho đi\nTạm dịch: Trao tặng quần áo, thực phẩm hoặc các nhu yếu phẩm cho những người gặp khó khăn."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "variety",
+            "B": "portion",
+            "C": "range",
+            "D": "number"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm từ chỉ số lượng:\nA. a variety of + N (số nhiều): đa dạng, nhiều\nB. a portion of + N (đếm được/không đếm được): phần\nC. a range of + N (số nhiều): đa dạng, nhiều\nD. a number of + N (số nhiều): nhiều\nTa có 'income' là danh từ không đếm được và dựa vào ngữ nghĩa → ta chọn 'portion'.\nTạm dịch: Quyên góp một phần thu nhập của bạn cho các tổ chức từ thiện đáng tin cậy."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "other",
+            "B": "the others",
+            "C": "others",
+            "D": "another"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức:\nA. other + N (số nhiều/không đếm được): những người/cái khác\nB. the others: những người/cái còn lại\nC. others: những người/cái khác\nD. another + N (số ít): một người/cái khác\nTa thấy phía sau chỗ cần điền không có danh từ và dựa vào ngữ nghĩa → ta chọn 'others'.\nTạm dịch: Tình nguyện dành thời gian và đưa ra sự hỗ trợ mà có thể đem lại lợi ích cho những người khác."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "achievement",
+            "B": "diversity",
+            "C": "experience",
+            "D": "awareness"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. achievement /əˈtʃiːvmənt/ (n): thành tựu\nB. diversity /daɪˈvɜːrsəti/ (n): sự đa dạng\nC. experience /ɪkˈspɪriəns/ (n): kinh nghiệm, trải nghiệm\nD. awareness /əˈweərnəs/ (n): sự nhận thức, sự hiểu biết\nTạm dịch: Tham gia các sự kiện từ thiện địa phương để nâng cao nhận thức và gây quỹ."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Salesperson: Sure! This model has a great camera, a fast processor, and a very reasonable price.\nb. Salesperson: We have some excellent models with high-resolution cameras and batteries that last more than a day.\nc. Alex: That sounds great! Can you recommend a phone that is not too expensive but works well?\nd. Alex: Excuse me. I'm looking for a new smartphone with a good camera and long battery life.\ne. Alex: Perfect! I'll take it, but can you also help me transfer my data?",
+          "options": {
+            "A": "d-b-a-e-c",
+            "B": "b-d-e-c-a",
+            "C": "b-c-a-e-d",
+            "D": "d-b-c-a-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hội thoại hợp lý: Alex vào cửa hàng và nêu yêu cầu (d) → Salesperson giới thiệu các mẫu có sẵn (b) → Alex hỏi thêm về điện thoại không quá đắt (c) → Salesperson giới thiệu mẫu cụ thể (a) → Alex đồng ý mua và hỏi thêm về chuyển dữ liệu (e).\nTạm dịch: d→b→c→a→e"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. The rise of the internet and smartphones has connected people globally, enabling instant communication and access to information.\nb. Technology and innovation have revolutionized the way we live, work, and communicate.\nc. However, rapid technological changes also pose challenges, such as job displacement and privacy concerns.\nd. Balancing the benefits and risks of technology is crucial for sustainable development.\ne. Advances in artificial intelligence, robotics, and biotechnology are transforming industries and creating new opportunities.",
+          "options": {
+            "A": "c-d-b-a-e",
+            "B": "e-c-a-b-d",
+            "C": "b-a-e-c-d",
+            "D": "a-b-d-e-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đoạn văn hợp lý: Câu chủ đề tổng quát (b) → minh họa 1: internet và smartphone (a) → minh họa 2: AI, robotics, biotech (e) → tuy nhiên có thách thức (c) → kết luận cần cân bằng (d).\nTạm dịch: b→a→e→c→d"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. Shop assistant: Welcome! We have beautiful jewelry, stylish handbags, and unique handmade candles in different scents.\nb. Julia: Those sound great! I think she would love a candle with a relaxing lavender fragrance.\nc. Julia: Hello! Can you help me find a nice gift for my best friend's birthday?",
+          "options": {
+            "A": "b-a-c",
+            "B": "c-a-b",
+            "C": "c-b-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hội thoại hợp lý: Julia hỏi xin trợ giúp tìm quà (c) → Shop assistant giới thiệu các mặt hàng (a) → Julia chọn sản phẩm yêu thích (b).\nTạm dịch: c→a→b"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. However, once the foundation is laid, the real work begins as they start building more complex systems of thought and understanding.\nb. Learning a new language is challenging, especially at the beginning when students are overwhelmed by grammar rules and unfamiliar vocabulary.\nc. With continuous practice, learners gradually develop confidence in their speaking, listening, and writing skills, although progress may seem slow at first.\nd. Many language learners experience frustration early on, but it's important to remember that fluency comes with time and dedication.\ne. In the end, the sense of accomplishment that comes from mastering a language makes the effort worthwhile, opening doors to new cultures and opportunities.",
+          "options": {
+            "A": "b-d-a-c-e",
+            "B": "a-d-c-b-e",
+            "C": "b-a-c-d-e",
+            "D": "d-b-a-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đoạn văn hợp lý: Câu chủ đề - học ngôn ngữ mới là thách thức (b) → nhiều người học trải qua thất vọng (d) → tuy nhiên khi đã có nền tảng (a) → với luyện tập liên tục (c) → cuối cùng cảm giác thành tựu (e).\nTạm dịch: b→d→a→c→e"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "John,\na. Thank you for all the hard work in setting up the activities for the event next week.\nb. We need the text for a leaflet to be handed out to the kids, around 250 words in total.\nc. We've really got to persuade them that it's going to be enjoyable - not just more lessons!\nd. We need to tell them what's on offer but, most of all, we need to phrase it in such a way that it looks like fun!\ne. There's just one more thing that needs to be done and I think you're just the person for the job!\nThanks,\nSandra",
+          "options": {
+            "A": "b-c-e-d-a",
+            "B": "a-e-b-d-c",
+            "C": "a-b-e-c-d",
+            "D": "d-a-c-e-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự thư hợp lý: Cảm ơn về công việc đã làm (a) → còn một việc cần làm và John là người phù hợp (e) → cần soạn tờ rơi 250 từ (b) → cần trình bày vui nhộn (d) → thuyết phục các em rằng sự kiện sẽ thú vị (c).\nTạm dịch: a→e→b→d→c"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about new ways of learning and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "New Ways of Learning",
+      "passage": "In recent years, the landscape of education has undergone a significant transformation, driven by technological advancements and innovative methodologies. Traditional classroom learning is no longer the only option. Varied and interactive methods that make studying more engaging and accessible (18)_______. One prominent development is the rise of online platforms, which offer flexible and accessible learning opportunities. These platforms enable learners to engage with interactive content, participate in virtual discussions, and access resources from anywhere in the world.\n\nAnother emerging trend is personalized learning, (19)_______. This approach ensures that learners progress at their own pace, fostering a deeper understanding of the material. Gamification has also gained traction, as it incorporates game-like elements such as rewards and challenges to make learning more engaging and motivating. (20)_______.\n\nCollaborative learning has evolved as well, with tools like video conferencing and shared digital workspaces facilitating teamwork and communication, regardless of geographical barriers. (21)_______.\n\nAdditionally, microlearning breaking down information into small, manageable chunks has proven effective for busy individuals seeking to acquire knowledge in short, focused sessions.\n\nThese innovative methods not only enhance the learning experience but also equip individuals with the skills needed to thrive in a rapidly changing world. Making use of these new approaches, (22)_______.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that have been introduced by technology recently",
+            "B": "having have been introduced by technology recently",
+            "C": "have been introduced by technology recently",
+            "D": "by which they have been introduced by technology recently"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'Varied and interactive methods that make studying more engaging and accessible' và cần điền một động từ chính có chia thì phù hợp.\nLoại A và D vì sử dụng mệnh đề quan hệ. Loại B vì 'having have been' sai cấu trúc ngữ pháp.\nTạm dịch: Các phương pháp đa dạng và tương tác giúp việc học trở nên hấp dẫn và dễ tiếp cận hơn đã được công nghệ giới thiệu gần đây."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "uses artificial intelligence adjustment to educational content to suit individual strengths and weaknesses",
+            "B": "in which artificial intelligence tailors educational content to individual strengths and weaknesses",
+            "C": "where the use of artificial intelligence in adapting content to individual strengths and weaknesses",
+            "D": "tailors educational content to individual strengths and weaknesses with the help of artificial intelligence"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'Another emerging trend' và động từ chính 'is'; do vậy ta có thể dùng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại A và D vì sử dụng động từ chia thì 'uses' và 'tailors'. Loại C vì mệnh đề quan hệ thiếu động từ.\nTạm dịch: Một xu hướng mới nổi khác là học tập cá nhân hóa, trong đó trí tuệ nhân tạo điều chỉnh nội dung giáo dục phù hợp với điểm mạnh và điểm yếu của từng cá nhân."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Many learning apps now use point systems and leaderboards to encourage users to complete daily lessons.",
+            "B": "International companies developed many kinds of programs to help learners complete daily lessons.",
+            "C": "Point systems and leaderboards in learning apps resulted from the completion of daily lessons for many users.",
+            "D": "Encouraged users to complete daily lessons, point systems and leaderboards were added to some learning apps."
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một câu hoàn chỉnh phù hợp về ngữ nghĩa và ngữ cảnh.\nA. Nhiều ứng dụng học tập hiện sử dụng hệ thống điểm và bảng xếp hạng để khuyến khích người dùng hoàn thành các bài học hàng ngày → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh (liên kết với câu liền trước về ý 'gamification').\nB. Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nC. Sai về logic nghĩa.\nD. Sai vì ngữ nghĩa không mạch lạc."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Interracial students share ideas and experiences so that they can use platforms like Zoom or Google Docs in their learning.",
+            "B": "Students from different countries can now use platforms like Zoom or Google Docs, allowing them to share ideas and experiences.",
+            "C": "But for the use of platforms like Zoom or Google Docs, students from different countries could share ideas and experiences.",
+            "D": "Using platforms like Zoom or Google Docs, ideas and experiences can be shared with students from different countries."
+          },
+          "correctAnswer": "B",
+          "explanation": "Ta cần một câu hoàn chỉnh phù hợp về ngữ nghĩa và ngữ cảnh.\nB. Học sinh từ các quốc gia khác nhau giờ đây có thể sử dụng các nền tảng như Zoom hoặc Google Docs, cho phép họ chia sẻ ý tưởng và kinh nghiệm → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh (liên kết với câu liền trước về ý 'with tools like video conferencing and shared digital workspaces facilitating teamwork and communication').\nA. Sai về logic nghĩa.\nC. Sai về logic nghĩa.\nD. Sai về cấu trúc ngữ pháp, chủ ngữ chung 'ideas and experiences' không thể kết hợp với hiện tại phân từ 'using' ở mệnh đề phía trước dẫn đến ngữ nghĩa không mạch lạc."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "learners can now meet the demands and challenges of the modern era",
+            "B": "the demands and challenges of the modern era are addressed by learners",
+            "C": "the modern era no longer presents demands and challenges to learners",
+            "D": "learners' solution to the challenges of the modern era is now achieved"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy mệnh đề phía trước sử dụng hiện tại phân từ 'making'. Ta xét từng đáp án:\nA – chủ ngữ chung 'learners' (những người học) → Đúng vì phù hợp về ngữ nghĩa và ngữ pháp khi kết hợp với 'making' ở mệnh đề phía trước.\nB – chủ ngữ chung 'the demands and challenges of the modern era' (những yêu cầu và thách thức của thời đại hiện đại) → Sai vì không thể kết hợp với 'making' ở mệnh đề phía trước.\nC – chủ ngữ chung 'the modern era' (thời đại hiện đại) → Sai vì không thể kết hợp với 'making' ở mệnh đề phía trước.\nD – chủ ngữ chung 'learners' solution to the challenges of the modern era' (giải pháp của những người học đối với những thách thức của thời kỳ hiện đại) → Sai vì không thể kết hợp với 'making' ở mệnh đề phía trước.\nTạm dịch: Tận dụng những phương pháp mới này, những người học giờ đây có thể đáp ứng những yêu cầu và thách thức của thời đại hiện đại."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about green living and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Green Living",
+      "passage": "In an era marked by climate change and environmental degradation, adopting green living habits has become increasingly vital. Green living refers to a lifestyle that seeks to minimize one's ecological footprint through conscious choices in daily activities. This can include everything from reducing waste to conserving energy and using sustainable products. More individuals recognize the importance of preserving our planet, and the movement toward greener practices continues to gain momentum.\n\nOne of the most significant aspects of green living is its focus on sustainability. By choosing products that are eco-friendly, consumers can support businesses that prioritize environmental responsibility. For instance, using reusable bags, bottles, and containers reduces plastic waste and promotes a circular economy. Furthermore, opting for locally sourced foods not only supports local farmers but also decreases the carbon emissions associated with transportation.\n\nWhen green living habits are adopted, they can lead to profound changes in our environment. By reducing their energy consumption through the use of energy-efficient appliances, individuals help lower greenhouse gas emissions. Consequently, this contributes to cleaner air and mitigates the effects of climate change. Moreover, by practicing water conservation methods, such as fixing leaks and using low-flow fixtures, households can significantly reduce water waste, promoting the sustainable use of this precious resource.\n\nTherefore, educating individuals about green living habits is crucial for promoting a more sustainable future. Schools and community organizations can offer workshops and resources that highlight the benefits of eco-friendly practices. Additionally, social media campaigns can raise awareness and encourage people to share their experiences with sustainable living. By empowering individuals to make informed choices, we can collectively work towards a healthier planet for generations to come.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as one of the green living practices?",
+          "context": "",
+          "options": {
+            "A": "Conserving energy",
+            "B": "Reducing waste",
+            "C": "Using sustainable products",
+            "D": "Composting organic waste"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'This can include everything from reducing waste to conserving energy and using sustainable products.' A, B và C được đề cập. D không được đề cập trong bài đọc."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word 'vital' in paragraph 1 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "imperfect",
+            "B": "inessential",
+            "C": "important",
+            "D": "popular"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. imperfect /ɪmˈpɜːrfɪkt/ (adj): không hoàn hảo, khiếm khuyết\nB. inessential /ˌɪnɪˈsenʃl/ (adj): không thiết yếu, không quan trọng\nC. important /ɪmˈpɔːrtnt/ (adj): quan trọng\nD. popular /ˈpɑːpjələr/ (adj): phổ biến, được ưa chuộng\nvital /ˈvaɪtl/ (adj): cực kỳ quan trọng, sống còn >< inessential (adj)\nThông tin: 'adopting green living habits has become increasingly vital.'"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word 'they' in paragraph 3 refers to________.",
+          "context": "",
+          "options": {
+            "A": "carbon emissions",
+            "B": "individuals",
+            "C": "green living habits",
+            "D": "local farmers"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'they' ở đoạn 3 đề cập đến 'green living habits'.\nThông tin: 'When green living habits are adopted, they can lead to profound changes in our environment.'"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word 'empowering' in paragraph 4 could be best replaced by________.",
+          "context": "",
+          "options": {
+            "A": "enabling",
+            "B": "maintaining",
+            "C": "prohibiting",
+            "D": "abandoning"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. enable /ɪˈneɪbl/ (v): cho phép\nB. maintain /meɪnˈteɪm/ (v): duy trì, bảo trì\nC. prohibit /prəˈhɪbɪt/ (v): cấm\nD. abandon /əˈbændən/ (v): từ bỏ, bỏ rơi\nempower /ɪmˈpaʊər/ (v): trao quyền, cho quyền = enable (v)\nThông tin: 'By empowering individuals to make informed choices, we can collectively work towards a healthier planet for generations to come.'"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Opting for eco-friendly products might make consumers overlook irresponsible businesses.",
+            "B": "Buying non-eco-friendly products harms eco-conscious companies.",
+            "C": "Choosing eco-friendly products supports businesses focusing on environmental responsibility.",
+            "D": "Purchasing harmful products supports businesses ignoring environmental issues."
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Lựa chọn các sản phẩm thân thiện với môi trường có thể khiến người tiêu dùng bỏ qua những doanh nghiệp vô trách nhiệm → Sai ở 'overlook irresponsible businesses' không được đề cập trong câu gốc.\nB. Mua sản phẩm không thân thiện với môi trường sẽ gây hại cho các công ty có ý thức về môi trường → Sai vì thông tin không được đề cập trong câu gốc.\nC. Lựa chọn các sản phẩm thân thiện với môi trường hỗ trợ các doanh nghiệp tập trung vào trách nhiệm với môi trường → Diễn đạt đúng nhất ý nghĩa của câu gốc.\nD. Mua sản phẩm có hại hỗ trợ doanh nghiệp phớt lờ vấn đề môi trường → Sai vì thông tin không được đề cập trong câu gốc.\nThông tin: 'By choosing products that are eco-friendly, consumers can support businesses that prioritize environmental responsibility.'"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Green living only targets energy reduction and ignores waste management entirely.",
+            "B": "Educating people about green practices is unnecessary for promoting a sustainable future.",
+            "C": "The movement for greener habits has slowed as fewer people value protecting the environment.",
+            "D": "Using reusable products can contribute to a decrease in plastic waste and promote sustainability."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Sai ở 'only' và 'ignores' vì thông tin đề cập lối sống xanh tập trung vào cả việc giảm chất thải và quản lý chất thải thể hiện qua việc sử dụng các sản phẩm bền vững.\nB. Sai ở 'unnecessary' vì trái với thông tin trong bài đọc, đề cập giáo dục cho mọi người là quan trọng để thúc đẩy tương lai bền vững hơn.\nC. Sai ở 'has slowed as fewer people value protecting the environment' vì trái với thông tin trong bài đọc, đề cập ngày càng có nhiều người nhận ra tầm quan trọng của việc bảo tồn hành tinh và giúp các phong trào phát triển mạnh mẽ hơn.\nD. Đúng. Thông tin: 'For instance, using reusable bags, bottles, and containers reduces plastic waste and promotes a circular economy.'"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention a present causal relationship?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tác giả đề cập đến mối quan hệ nhân quả hiện tại ở đoạn 3.\nThông tin: 'By reducing their energy consumption through the use of energy-efficient appliances, individuals help lower greenhouse gas emissions. Consequently, this contributes to cleaner air and mitigates the effects of climate change.'"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer discuss methods for teaching people about eco-friendly living practices?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả thảo luận về phương pháp giáo dục mọi người về các hoạt động sống thân thiện với môi trường ở đoạn 4.\nThông tin: 'Schools and community organizations can offer workshops and resources that highlight the benefits of eco-friendly practices. Additionally, social media campaigns can raise awareness and encourage people to share their experiences with sustainable living.'"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about Consumer Electronics Show and mark the letter A, B, C, D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Consumer Electronics Show (CES) 2025",
+      "passage": "The Consumer Electronics Show in Las Vegas is always a spectacle of innovation. Imagine walking into the convention halls and being greeted by the next generation of artificial intelligence not just as digital assistants, but as deeply integrated companions that anticipate our needs in ways we've only dreamed of. AI could be woven into every fabric of our daily lives, from personalized health monitoring to enhancing our creative endeavors.\n\nVirtual and augmented reality have been making leaps and bounds, and by 2025, we might finally see the lines between the digital and physical worlds blur in profoundly immersive ways. Envision slipping on a pair of sleek AR glasses and instantly transforming your surroundings into a customized workspace or an interactive learning environment. This could make remote interactions feel as natural as face-to-face conversations.\n\n(I) Sustainability is another trend that's been gaining momentum. (II) Tech companies are increasingly conscious of their environmental footprint, and at CES 2025, I wouldn't be surprised to see a plethora of eco-friendly gadgets. (III) Imagine homes equipped with smart systems that optimize energy use, reducing waste and promoting a greener lifestyle without sacrificing comfort or convenience. (IV)\n\nThe Internet of Things (IoT) is likely to become even more interconnected and intuitive. Smart homes could evolve into empathetic environments that adjust lighting, temperature, and ambiance based on our moods or health metrics. Perhaps we'll see refrigerators that not only keep track of groceries but also suggest recipes to reduce food waste, or closets that recommend outfits based on the weather forecast and your calendar.\n\nTransportation technology is on the cusp of a revolution. Electric vehicles are just the beginning. By 2025, CES might showcase advancements in autonomous driving systems becoming mainstream, or even personal air transportation like flying cars or drones. It's thrilling to think about commuting not just on roads but through the skies, potentially reshaping urban planning and our daily lives.\n\nBiotechnology could also take center stage. Wearables may transition from fitness trackers to health guardians, capable of monitoring municipal signs with medical-grade accuracy, predicting health issues before they arise, and seamlessly communicating with healthcare providers. This integration of tech and wellness could empower us to lead healthier, more informed lives.\n\nWhile these are educated speculations based on current trends, the magic of CES lies in its ability to introduce the unexpected innovations that challenge our perceptions and expand the boundaries of what's possible. The 2025 show is bound to unveil something that will make us all stop and marvel.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "According to the passage, which technological advancement might make remote interactions feel as natural as face-to-face conversations?",
+          "context": "",
+          "options": {
+            "A": "Empathetic smart homes",
+            "B": "Artificial intelligence companions",
+            "C": "Advanced virtual and augmented reality",
+            "D": "Autonomous transportation systems"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: 'Virtual and augmented reality have been making leaps and bounds, and by 2025, we might finally see the lines between the digital and physical worlds blur in profoundly immersive ways. Envision slipping on a pair of sleek AR glasses and instantly transforming your surroundings into a customized workspace or an interactive learning environment. This could make remote interactions feel as natural as face-to-face conversations.'"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase 'woven into every fabric of our daily lives' in paragraph 1 could best be replaced by________.",
+          "context": "",
+          "options": {
+            "A": "totally separated from all of our regular activities",
+            "B": "integrated thoroughly throughout our everyday routines",
+            "C": "hidden away in selected aspects of everyday life",
+            "D": "entirely neglected in most parts of our day-to-day existence"
+          },
+          "correctAnswer": "B",
+          "explanation": "woven into every fabric of our daily lives: len lỏi vào mọi kết cấu của cuộc sống hàng ngày của chúng ta = integrated thoroughly throughout our everyday routines\nThông tin: 'AI could be woven into every fabric of our daily lives, from personalized health monitoring to enhancing our creative endeavors.'"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word 'conscious' in paragraph 3 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "aware",
+            "B": "mindful",
+            "C": "distressing",
+            "D": "oblivious"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. aware /əˈweər/ (adj): nhận thức được, biết\nB. mindful /ˈmaɪndfl/ (adj): lưu tâm, chú ý\nC. distressing /dɪˈstresɪŋ/ (adj): gây đau khổ, buồn phiền\nD. oblivious /əˈblɪviəs/ (adj): lãng quên, không để ý, không biết\nconscious /ˈkɒnʃəs/ (adj): có ý thức, tinh táo >< oblivious (adj)\nThông tin: 'Tech companies are increasingly conscious of their environmental footprint.'"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Where in paragraph 3 does the following sentence best fit?\n'Think biodegradable wearables or devices powered entirely by renewable energy sources.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (III) vì đề cập một số ví dụ về các thiết bị thân thiện với môi trường, liên kết với câu trước về ý 'a plethora of eco-friendly gadgets'.\nThông tin: 'Tech companies are increasingly conscious of their environmental footprint, and at CES 2025, I wouldn't be surprised to see a plethora of eco-friendly gadgets. Think biodegradable wearables or devices powered entirely by renewable energy sources. Imagine homes equipped with smart systems that optimize energy use...'"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarizes paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Biotechnology is about to seamlessly integrate in personal health monitoring.",
+            "B": "The rise of sustainable technologies could help reduce negative environmental impacts.",
+            "C": "The IoT being more intuitive and interconnected may enhance everyday conveniences.",
+            "D": "Our daily life is likely to undergo a transformation with the help of smart companions."
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Công nghệ sinh học sắp được tích hợp liền mạch trong việc theo dõi sức khỏe cá nhân → Sai vì 'Biotechnology' không được đề cập trong đoạn.\nB. Sự phát triển của công nghệ bền vững có thể giúp giảm tác động tiêu cực đến môi trường → Sai vì 'The rise of sustainable technologies' không được đề cập trong đoạn.\nC. Internet vạn vật trực quan hơn và được kết nối với nhau hơn có thể nâng cao sự tiện lợi hàng ngày → Đúng vì tóm tắt đầy đủ ý của đoạn.\nD. Cuộc sống hàng ngày của chúng ta có thể sẽ trải qua một sự biến đổi với sự giúp đỡ của những người bạn đồng hành thông minh → Sai vì 'undergo a transformation' không được đề cập trong đoạn.\nThông tin: Đoạn văn đề cập đến việc Internet vạn vật (IoT) có thể trở nên liên kết và trực quan hơn, ví dụ như những ngôi nhà thông minh tự điều chỉnh môi trường sống dựa trên tâm trạng hoặc số liệu sức khỏe, theo dõi thực phẩm, gợi ý trang phục theo thời tiết và lịch trình, từ đó giúp nâng cao sự tiện lợi hàng ngày."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "All of the following are mentioned as potential advancements showcased at CES 2025 EXCEPT________.",
+          "context": "",
+          "options": {
+            "A": "smart homes adjusting to our health metrics",
+            "B": "confirmed updates about specific products",
+            "C": "personal air transportation like flying cars",
+            "D": "biodegradable wearables or devices"
+          },
+          "correctAnswer": "B",
+          "explanation": "A được đề cập: 'Smart homes could evolve into empathetic environments that adjust lighting, temperature, and ambiance based on our moods or health metrics.'\nC được đề cập: 'By 2025, CES might showcase advancements in autonomous driving systems becoming mainstream, or even personal air transportation like flying cars or drones.'\nD được đề cập: 'Think biodegradable wearables or devices powered entirely by renewable energy sources.'\nB không được đề cập là tiến bộ tiềm năng được giới thiệu tại CES 2025 - đây là những dự đoán có cơ sở chứ không phải xác nhận về sản phẩm cụ thể."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "What potential feature of future refrigerators is discussed in the passage?",
+          "context": "",
+          "options": {
+            "A": "Automatic restocking of groceries via drones",
+            "B": "Suggesting recipes to reduce food waste",
+            "C": "Voice-activated access",
+            "D": "Enhanced cooling efficiency"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Perhaps we'll see refrigerators that not only keep track of groceries but also suggest recipes to reduce food waste.'"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 6?",
+          "context": "",
+          "options": {
+            "A": "The fusion of technology with health may enable us to live better and more knowledgeable lives.",
+            "B": "Using technology in wellness is unnecessary for remarkably improving ordinary people's lifestyles.",
+            "C": "Combining technology and health might completely mystify us about our well-being.",
+            "D": "Technology and wellness merging could make health services more and more expensive."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Sự kết hợp giữa công nghệ và sức khỏe có thể giúp chúng ta có cuộc sống tốt hơn và hiểu biết hơn → Diễn đạt đúng ý nghĩa của câu gốc.\nB. Sai ở 'unnecessary' vì trái với thông tin trong câu gốc, đề cập sự tích hợp giữa công nghệ và sức khỏe giúp chúng ta có cuộc sống khỏe mạnh hơn.\nC. Sai ở 'mystify' vì trái với thông tin trong câu gốc, đề cập sự tích hợp giữa công nghệ và sức khỏe giúp chúng ta có hiểu biết tốt hơn về sức khỏe.\nD. Sai ở 'make health services more and more expensive' vì không được đề cập trong câu gốc.\nThông tin: 'This integration of tech and wellness could empower us to lead healthier, more informed lives.'"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "What can be inferred about the author's attitude toward technological advancements at CES?",
+          "context": "",
+          "options": {
+            "A": "Indifferent to the considerable changes they may bring",
+            "B": "Concerned about technological overreach",
+            "C": "Optimistic and enthusiastic about their potential impact",
+            "D": "Skeptical about their practical applications"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Thờ ơ với những thay đổi đáng kể mà chúng có thể mang lại → Sai vì xuyên suốt bài đọc thể hiện rằng tác giả rất quan tâm về những tiến bộ công nghệ.\nB. Lo ngại về sự lạm dụng công nghệ → Sai vì 'technological overreach' không được đề cập trong bài đọc.\nC. Lạc quan và nhiệt tình về tác động tiềm năng của chúng → Đúng.\nD. Hoài nghi về ứng dụng thực tế của chúng → Sai vì 'skeptical' không được đề cập trong bài đọc.\nThông tin: 'The 2025 show is bound to unveil something that will make us all stop and marvel.'"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "There are speculated to be transformative technological innovations at CES 2025, impacting various aspects of life.",
+            "B": "Current technological advancements are being widely criticised because of their shortcomings.",
+            "C": "A report on confirmed technologies is to be presented at CES 2025, highlighting potential impacts on various aspects of life.",
+            "D": "A detailed analysis of past CES events led to some profound changes in current technology."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Người ta suy đoán rằng sẽ có những đổi mới công nghệ mang tính biến đổi tại CES 2025, tác động đến nhiều khía cạnh khác nhau của cuộc sống → Đúng vì tóm tắt đầy đủ nội dung bài đọc.\nB. Những tiến bộ công nghệ hiện nay đang bị chỉ trích rộng rãi vì những thiếu sót của chúng → Sai ở 'are being widely criticised' vì không có thông tin nào trong bài đọc đề cập về sự chỉ trích.\nC. Một báo cáo về các công nghệ đã được xác nhận sẽ được trình bày tại CES 2025, nêu bật những tác động tiềm năng đối với các khía cạnh khác nhau của cuộc sống → Sai ở 'A report' vì không có báo cáo nào được đề cập trong bài đọc.\nD. Phân tích chi tiết về các sự kiện CES trước đây đã dẫn đến một số thay đổi sâu sắc trong công nghệ hiện tại → Sai ở 'past CES events' vì không có thông tin về các sự kiện CES trước đây được đề cập trong bài đọc."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.613186+00:00",
+  "updatedAt": "2026-06-08T10:41:58.613186+00:00",
+  "originalFileName": "THPT_Phu_Tho_2025_TiengAnh.json"
+}

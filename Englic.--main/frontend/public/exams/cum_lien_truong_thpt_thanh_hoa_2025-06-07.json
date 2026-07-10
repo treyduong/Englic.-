@@ -1,0 +1,626 @@
+{
+  "examId": "cum_lien_truong_thpt_thanh_hoa_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh – Cụm Liên Trường THPT Thanh Hóa",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Cum_Lien_Truong_Thanh_Hoa_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ThanhHoa",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.",
+      "passageTitle": "SAVE OUR FORESTS",
+      "passage": "Let's protect nature for future generations\n\nFacts and Figures\nEvery year, the world loses vast areas of forests, with nearly 15 billion trees being (1)_______ annually. Forests, which cover 31% of the Earth's land area, are crucial for maintaining biodiversity and regulating the climate. The deforestation rate in tropical regions, particularly in countries like Brazil and Indonesia, is dangerously high. This rapid forest loss accelerates global warming and the extinction of_______ (2) species.\n\nWhat we can do\n• Reducing demand for products linked to deforestation, like palm oil and unsustainable paper, can help. Consumers can choose (3)_______ sustainable products to reduce their ecological footprint.\n• Government must pass stricter regulations to protect forests, such as enforcing land-use (4)_______ and penalizing illegal logging. Holding corporations accountable for environmental damage is crucial, (5)_______ it directly influences corporate behavior.\n• Local communities should be given the tools and knowledge to protect their forests. Supporting indigenous groups and forest conservation (6)_______ is essential for long-term sustainability.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "thrown away",
+            "B": "run out",
+            "C": "cut down",
+            "D": "pulled down"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. throw away: vứt bỏ\nB. run out: hết, cạn kiệt\nC. cut down: chặt (cây); cắt giảm\nD. pull down: kéo xuống; phá hủy, kéo đổ (tòa nhà)\nTạm dịch: Mỗi năm, thế giới mất đi một diện tích rừng không lồ, với gần 15 tỷ cây bị chặt hằng năm."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "little",
+            "B": "each",
+            "C": "much",
+            "D": "many"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về lượng từ:\nA. little + N (không đếm được): rất ít, hầu như không\nB. each + N (đếm được số ít): mỗi/mọi\nC. much + N (không đếm được): nhiều\nD. many + N (đếm được số nhiều): nhiều\nDựa vào ngữ cảnh ta thấy 'species' (loài) đang là danh từ đếm được số nhiều nên ta chọn 'many' là đáp án đúng.\nTạm dịch: Sự mất rừng nhanh chóng này làm tăng nhanh quá trình nóng lên toàn cầu và sự tuyệt chủng của nhiều loài."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "identified",
+            "B": "certified",
+            "C": "verified",
+            "D": "qualified"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. identified /aɪˈdentɪfaɪd/ (adj): đã được xác định\nB. certified /ˈsɜːtɪfaɪd/ (adj): đã được chứng nhận\nC. verified /ˈverɪfaɪd/ (adj): đã được xác minh\nD. qualified /ˈkwɒlɪfaɪd/ (adj): đã đủ điều kiện; có trình độ chuyên môn\nTạm dịch: Người tiêu dùng có thể chọn sản phẩm đã được chứng nhận bền vững để giảm tác động liên quan tới sinh thái."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "policies",
+            "B": "incentives",
+            "C": "properties",
+            "D": "penalties"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. policy /ˈpɒləsi/ (n): chính sách\nB. incentive /ɪnˈsentɪv/ (n): động lực, sự khuyến khích\nC. property /ˈprɒpəti/ (n): tài sản\nD. penalty /ˈpenəlti/ (n): hình phạt\nTạm dịch: Chính phủ cần ban hành các quy định nghiêm ngặt hơn để bảo vệ rừng, chẳng hạn như thực thi các chính sách sử dụng đất và xử phạt nạn khai thác gỗ trái phép."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "instead of",
+            "B": "for fear that",
+            "C": "regardless of",
+            "D": "given that"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm giới từ và liên từ:\nA. instead of + N/V-ing: thay vì\nB. for fear that + S + V: sợ rằng, e rằng, ngại rằng\nC. regardless of: bất kể, bất chấp\nD. given that + S + V: xét tới\nTạm dịch: Buộc các tập đoàn phải chịu trách nhiệm về thiệt hại môi trường là rất quan trọng khi xét tới việc điều này ảnh hưởng trực tiếp đến hành vi doanh nghiệp."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "imitations",
+            "B": "initiatives",
+            "C": "indications",
+            "D": "intimacies"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. imitation /ˌɪmɪˈteɪʃn/ (n): sự bắt chước\nB. initiative /ɪˈnɪʃətɪv/ (n): sáng kiến\nC. indication /ˌɪndɪˈkeɪʃn/ (n): dấu hiệu, sự chỉ dẫn\nD. intimacy /ˈɪntɪməsi/ (n): sự thân mật\nTạm dịch: Hỗ trợ các nhóm người bản địa và các sáng kiến bảo tồn rừng là điều thiết yếu để đảm bảo sự bền vững lâu dài."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "a. Another issue is that it weakens the immune system, making the body more susceptible to illnesses.\nb. Staying up late can have numerous negative effects on both physical and mental health.\nc. In conclusion, while occasional late nights may seem harmless, consistently staying up late can significantly harm overall well-being.\nd. It can also negatively affect mood, increasing stress and irritability over time.\ne. One major consequence is the disruption of the body's natural sleep cycle, leading to fatigue and poor concentration during the day.",
+          "options": {
+            "A": "d-a-b-e-c",
+            "B": "a-d-e-b-c",
+            "C": "e-d-a-b-c",
+            "D": "b-e-a-d-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn văn logic: b (câu mở đầu chủ đề) → e (hậu quả thứ nhất: gián đoạn giấc ngủ) → a (vấn đề tiếp theo: suy yếu hệ miễn dịch) → d (tác động tiêu cực đến tâm trạng) → c (câu kết luận).\nTạm dịch: Thức khuya có thể gây ra nhiều tác động tiêu cực đến cả sức khỏe thể chất và tinh thần. Một hậu quả lớn là sự gián đoạn của chu kỳ ngủ tự nhiên của cơ thể, dẫn đến mệt mỏi và kém tập trung trong ngày. Một vấn đề nữa là nó làm suy yếu hệ thống miễn dịch, khiến cơ thể dễ mắc bệnh hơn. Nó cũng có thể ảnh hưởng tiêu cực đến tâm trạng, làm tăng căng thẳng và khó chịu theo thời gian. Tóm lại, mặc dù thỉnh thoảng thức khuya có vẻ vô hại nhưng việc thức khuya liên tục có thể gây tổn hại đáng kể đến sức khỏe tổng thể."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "a. Tom: Hi, Mia! It went well! I was nervous at first, but I think I answered most of the questions confidently.\nb. Mia: That's great to hear! I wish you the best of luck with the results!\nc. Mia: Good morning, Tom! How did the interview go?",
+          "options": {
+            "A": "a-c-b",
+            "B": "a-b-c",
+            "C": "c-a-b",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hội thoại tự nhiên: c (Mia hỏi Tom về buổi phỏng vấn) → a (Tom trả lời) → b (Mia chúc mừng và chúc may mắn).\nTạm dịch: Mia: Chào buổi sáng, Tom! Cuộc phỏng vấn diễn ra thế nào? / Tom: Chào Mia! Nó đã diễn ra tốt đẹp! Lúc đầu tôi rất lo lắng, nhưng tôi nghĩ tôi đã trả lời được hầu hết các câu hỏi một cách tự tin. / Mia: Thật tuyệt khi nghe điều đó! Tôi chúc bạn gặp may mắn nhất với kết quả nhé!"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "a. Furthermore, tourism has significantly boosted the local economy, bringing in millions of visitor every year\nb. Recently, Lakewood has become a top travel destination, known for its breathtaking landscapes and outdoor activities\nc. However, the increase in tourists has also led to environmental concerns, such as littering and pollution in the parks and lakes\nd. The town has invested in eco-friendly projects to preserve the natural beauty while accommodating the growing number of tourists\ne. These projects include waste reduction programs, improved public transportation, and increased park maintenance",
+          "options": {
+            "A": "b-a-c-d-e",
+            "B": "b-d-a-c-e",
+            "C": "b-a-d-e-c",
+            "D": "e-b-c-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự logic: b (giới thiệu Lakewood) → a (du lịch thúc đẩy kinh tế) → d (đầu tư dự án thân thiện môi trường) → e (chi tiết các dự án) → c (tuy nhiên, vẫn còn lo ngại về môi trường).\nTạm dịch: Gần đây, Lakewood đã trở thành điểm đến du lịch hàng đầu... Hơn nữa, du lịch đã thúc đẩy đáng kể nền kinh tế địa phương... Thị trấn đã đầu tư vào các dự án thân thiện với môi trường... Những dự án này bao gồm các chương trình giảm thiểu chất thải, cải thiện giao thông công cộng... Tuy nhiên, lượng khách du lịch tăng cũng kéo theo những lo ngại về môi trường..."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "Dear Mr. Brown,\na. This mistake resulted from my inability to manage overlapping tasks effectively, and I take full responsibility for it\nb. Please accept my heartfelt apologies for not meeting the deadline for the project submission.\nc. Thank you for your patience and continued trust in my abilities.\nd. I recognize that my failure to submit the report on time may have negatively impacted your schedule and the progress of our team\ne. I have already implemented strategies to better prioritize my workload and ensure this doesn't happen again.\nSincerely,\nAlex Johnson",
+          "options": {
+            "A": "d-a-c-b-e",
+            "B": "c-b-e-d-a",
+            "C": "b-d-a-e-c",
+            "D": "e-b-c-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự thư xin lỗi: b (lời xin lỗi chân thành) → d (nhận ra hậu quả) → a (giải thích nguyên nhân và nhận trách nhiệm) → e (cam kết cải thiện) → c (cảm ơn sự kiên nhẫn).\nTạm dịch: Kính gửi Ngài Brown, Xin hãy chấp nhận lời xin lỗi chân thành của tôi vì đã không đáp ứng được thời hạn nộp dự án. Tôi nhận thấy rằng việc tôi không gửi báo cáo đúng hạn có thể đã ảnh hưởng tiêu cực đến lịch trình của ngài và tiến độ của nhóm chúng ta. Sai sót này là do tôi không thể quản lý các nhiệm vụ chồng chéo nhau một cách hiệu quả và tôi xin hoàn toàn chịu trách nhiệm về việc này. Tôi đã triển khai các chiến lược để ưu tiên khối lượng công việc của mình tốt hơn và đảm bảo điều này không xảy ra nữa. Cảm ơn sự kiên nhẫn của Ngài và sự tin tưởng tiếp tục vào khả năng của tôi. Trân trọng, Alex Johnson."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "a. Kim: Really? What did you learned there?\nb. Kate: Yes, and my Vietnamese guide shared some fascinating stories!\nc. Kate: I visited Hoa Lo Prison yesterday, and it was eye-opening!\nd. Kim: That sounds intense. Was it a guided tour?\ne. Kate: I learned about the history of political prisoners and the struggle for freedom.",
+          "options": {
+            "A": "c-a-e-d-b",
+            "B": "c-d-e-b-a",
+            "C": "a-e-b-d-c",
+            "D": "b-a-c-e-d"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hội thoại tự nhiên: c (Kate kể thăm Hỏa Lò) → a (Kim hỏi học được gì) → e (Kate trả lời: lịch sử tù nhân chính trị) → d (Kim hỏi có phải tour có hướng dẫn không) → b (Kate xác nhận và kể về hướng dẫn viên).\nTạm dịch: Kate: Hôm qua tôi đã đến thăm nhà tù Hỏa Lò và nó thật là mở rộng tầm mắt! / Kim: Thật sao? Bạn đã học được gì ở đó? / Kate: Tôi đã học về lịch sử của các tù nhân chính trị và cuộc đấu tranh vì tự do. / Kim: Nghe có vẻ thật sâu sắc. Đó có phải là một chuyến tham quan được hướng dẫn? / Kate: Đúng vậy, và hướng dẫn viên người Việt của tôi đã chia sẻ một số câu chuyện thú vị!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "ChihiraAico – Humanoid Robot",
+      "passage": "ChihiraAico is an advanced humanoid robot designed by Toshiba, (12)_______. She made her debut at the CEATEC electronics show in Japan in 2014, showcasing her ability to communicate and interact in ways that closely mimic human behavior. Her design combines cutting-edge robotics and artificial intelligence (AI) technology (13)_______. ChihiraAico is capable of speaking multiple languages, engaging with people at exhibitions, and even providing directions at shopping malls and tourist centers.\n\n(14)_______, ChihiraAico and robots like her are intended to bridge the gap between humans and machines, offering personalized services and enhancing customer experiences. She is equipped with sensors, voice recognition software, and realistic facial expressions (15)_______. This enables her to respond naturally to questions, recognize emotional cues, and perform practical tasks like delivering information to visitors.\n\nAs AI technology continues to evolve, (16)_______. In the future, humanoid robots may become indispensable helpers in various public and private sectors, bringing unprecedented levels of convenience and interaction to our lives.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "making its primary debut in commercial software development",
+            "B": "developed as a project aimed at healthcare and service industries",
+            "C": "that replaces industrial robots in manufacturing facilities",
+            "D": "which was built specifically for factory automation"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đã có chủ ngữ chính 'ChihiraAico' và động từ chính 'is'. Ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại A vì nghĩa mệnh đề là 'ra mắt lần đầu tiên trong lĩnh vực phát triển phần mềm thương mại' không phù hợp với ngữ cảnh.\nLoại C vì đại từ quan hệ 'that' không sử dụng trong mệnh đề quan hệ có dấu phẩy.\nLoại D vì nghĩa của mệnh đề là 'được xây dựng riêng biệt cho sự tự động hóa của nhà máy' không phù hợp với ngữ cảnh.\nB đúng vì sử dụng đúng cấu trúc rút gọn mệnh đề quan hệ dạng bị động (which was developed → developed) và nghĩa của câu phù hợp với ngữ cảnh.\nTạm dịch: ChihiraAico là một robot có hình dáng giống con người tiên tiến do Toshiba thiết kế, được phát triển như một dự án hướng tới ngành y tế và dịch vụ."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "allowing her to perform repetitive tasks without fatigue",
+            "B": "enabling her to communicate and display human-like emotions",
+            "C": "meant to increase efficiency in industrial production lines",
+            "D": "designed for wide-scale manufacturing improvements"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đã có chủ ngữ chính 'her design' và động từ chính 'combines'. Ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ phù hợp về ngữ nghĩa và ngữ cảnh.\nA. cho phép cô ấy thực hiện các công việc lặp đi lặp lại mà không mệt mỏi → Loại vì nghĩa không phù hợp với ngữ cảnh.\nB. cho phép cô ấy giao tiếp và thể hiện cảm xúc giống con người → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nC. nhằm tăng sự hiệu quả trong dây chuyền sản xuất công nghiệp → Loại vì nghĩa không phù hợp với ngữ cảnh.\nD. được thiết kế để cho sự cải tiến sản xuất trên quy mô rộng → Loại vì nghĩa không phù hợp với ngữ cảnh.\nTạm dịch: Thiết kế của cô ấy kết hợp giữa công nghệ robot tiên tiến và trí tuệ nhân tạo (AI), cho phép cô ấy giao tiếp và thể hiện cảm xúc giống con người."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Beyond simple programmed responses",
+            "B": "Unlike other industrial models",
+            "C": "Though initially limited in usage",
+            "D": "Built to provide manual labor solutions"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu đã có đầy đủ chủ ngữ và động từ chính. Ta có thể sử dụng mệnh đề phụ hoặc cụm từ để bổ sung thêm ý nghĩa.\nA. Ngoài những phản hồi được lập trình đơn giản → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nB. Khác với các mô hình công nghiệp khác → Loại vì nghĩa không phù hợp với ngữ cảnh.\nC. Mặc dù ban đầu bị hạn chế trong việc sử dụng → Loại vì nghĩa không phù hợp với ngữ cảnh.\nD. Được xây dựng để cung cấp giải pháp lao động chân tay → Loại vì nghĩa không phù hợp với ngữ cảnh.\nTạm dịch: Ngoài những phản hồi được lập trình đơn giản, ChihiraAico và các robot tương tự được thiết kế để thu hẹp khoảng cách giữa con người và máy móc, cung cấp dịch vụ cá nhân hóa và nâng cao trải nghiệm khách hàng."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for recognizing patterns in industrial environments",
+            "B": "thus eliminating all forms of human interaction from daily life",
+            "C": "to enhance user comfort and interaction with artificial systems",
+            "D": "contributing to machine learning through repetitive tasks"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu đã có đầy đủ chủ ngữ và động từ chính. Ta có thể sử dụng mệnh đề phụ hoặc cụm từ để bổ sung thêm ý nghĩa.\nA. để nhận biết các mô hình trong các môi trường công nghiệp → Loại vì nghĩa không phù hợp với ngữ cảnh.\nB. do đó loại bỏ mọi hình thức tương tác của con người khỏi cuộc sống hằng ngày → Loại vì nghĩa không phù hợp với ngữ cảnh.\nC. để nâng cao sự thoải mái cho người dùng và sự tương tác với các hệ thống nhân tạo → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nD. đóng góp cho việc học về máy móc thông qua các tác vụ lặp đi lặp lại → Loại vì nghĩa không phù hợp với ngữ cảnh.\nTạm dịch: Cô ấy được trang bị các cảm biến, phần mềm nhận diện giọng nói và các biểu cảm khuôn mặt thực tế để nâng cao sự thoải mái cho người dùng và sự tương tác với các hệ thống nhân tạo."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "humans can expect to be obsolete in various roles",
+            "B": "society will abandon personal interactions altogether",
+            "C": "more jobs will be automated than ever before",
+            "D": "humanoid robots will be commonplace in daily life activities"
+          },
+          "correctAnswer": "D",
+          "explanation": "Về đầu câu đã có mệnh đề trạng ngữ chỉ nguyên nhân 'As AI technology continues to evolve' (Khi công nghệ AI tiếp tục phát triển); do vậy, ta cần điền một mệnh đề chính chỉ kết quả phù hợp.\nA. con người có thể bị lỗi thời trong nhiều vai trò khác nhau → Loại vì diễn tả kết quả không phù hợp với nguyên nhân được đề cập.\nB. xã hội sẽ từ bỏ hoàn toàn các tương tác cá nhân → Loại vì diễn tả kết quả không phù hợp với nguyên nhân được đề cập.\nC. nhiều công việc sẽ được tự động hóa hơn bao giờ hết → Loại vì diễn tả kết quả không phù hợp với nguyên nhân được đề cập.\nD. robot có hình dáng giống con người sẽ trở nên phổ biến trong các hoạt động thường ngày → Đúng vì phù hợp.\nTạm dịch: Khi công nghệ AI tiếp tục phát triển, robot có hình dáng giống con người sẽ trở nên phổ biến trong các hoạt động thường ngày."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Digital Citizenship",
+      "passage": "In today's world, digital technology plays a central role in our daily lives. [I] From communicating with friends and family to working remotely, and from reading online classes to entertainment, it is impossible to imagine life without it. [II] As we increasingly depend on the Internet and digital devices, it becomes essential to understand how to use the responsibly. [III] It also means understanding the ethical implications of our online behavior and the impact it can have on others. [IV]\n\nA responsible digital citizen is someone who uses technology wisely and encourages others to do the same. They are mindful of their online behavior and try to be polite and respectful to others. For example, responsible users might refrain from leaving hurtful deeply. This consideration helps prevent negative experiences for others and contributes to a positive online environment. Additionally, responsible digital citizens respect the privacy of others. They avoid posting photos or sharing personal information about people without their consent, as doing so can jeopardize online security.\n\nMoreover, responsible digital citizens are aware of the potential risks of being online. They understand that the Internet is full of dangers, such as fake websites and online scams. For example, in countries like the United States, scammers often create fraudulent sites that trick users into entering their personal information, such as login details or bank account numbers. These scams can lead to identity theft or financial loss. When encountering such online threats, responsible citizens should report them to the appropriate authorities, such as the cyber police, to prevent further harm. By doing so, they contribute to making the Internet a safer place for everyone.\n\nWhile many people today know how to navigate the digital world safely, there are still many other people who are at risk of falling victim to scams. By practicing responsible digital citizenship, we can help ensure that the benefits of digital technology are accessible to all, without exposing anyone to unnecessary risks.",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? 'Being a responsible digital citizen involves more than just knowing how to operate devices.'",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(II)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu này phù hợp với nội dung ở vị trí (III) vì liên kết mạch lạc với ý của câu liền trước và liền sau. Câu này đề cập để trở thành một công dân kỹ thuật số có trách nhiệm không phải chỉ là biết cách vận hành các thiết bị đã kết nối với ý của câu liền trước nói về trách nhiệm khi sử dụng Internet và ý của câu liền sau nói về hành vi đạo đức khi trực tuyến.\nTạm dịch: Trở thành một công dân kỹ thuật số có trách nhiệm không chỉ cần biết cách vận hành các thiết bị."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The word 'ethical' in paragraph 1 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "guilty",
+            "B": "unjust",
+            "C": "polite",
+            "D": "moral"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. guilty /ˈɡɪlti/ (adj): có tội\nB. unjust /ʌnˈdʒʌst/ (adj): bất công\nC. polite /pəˈlaɪt/ (adj): lịch sự\nD. moral /ˈmɔːrəl/ (adj): thuộc về đạo đức\nethical /ˈeθɪkl/ (adj): thuộc về đạo đức, chuẩn mực đạo đức = moral (adj)\nTạm dịch: Nó cũng có nghĩa là hiểu được những hệ quả thuộc về đạo đức của hành vi trực tuyến của chúng ta và tác động của nó đối với người khác."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word 'their' in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "negative experiences",
+            "B": "responsible users",
+            "C": "hurtful comments",
+            "D": "social media"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'their' ở đoạn 2 đề cập đến 'responsible users'.\nThông tin: A responsible digital citizen is someone who uses technology wisely and encourages others to do the same. They are mindful of their online behavior and try to be polite and respectful to others.\nTạm dịch: Một công dân kỹ thuật số có trách nhiệm là người sử dụng công nghệ một cách khôn ngoan và khuyến khích những người khác làm điều tương tự. Họ lưu tâm đến hành vi trực tuyến của mình và cố gắng lịch sự và tôn trọng những người khác."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "According to paragraph 2, which of the following is NOT mentioned?",
+          "context": "",
+          "options": {
+            "A": "Responsible users actively encourage others to post positive comments online.",
+            "B": "Responsible digital citizens avoid sharing personal information without consent.",
+            "C": "Responsible digital citizens respect the privacy of others.",
+            "D": "Responsible digital citizens are mindful of their online behavior."
+          },
+          "correctAnswer": "A",
+          "explanation": "Theo đoạn 2, điều nào sau đây KHÔNG được đề cập?\nA. Người dùng có trách nhiệm tích cực khuyến khích người khác đăng nhận xét tích cực trực tuyến → Không được đề cập.\nB. Công dân kỹ thuật số có trách nhiệm tránh chia sẻ thông tin cá nhân mà không có sự đồng ý → B được đề cập.\nC. Công dân kỹ thuật số có trách nhiệm tôn trọng quyền riêng tư của những người khác → C được đề cập.\nD. Công dân kỹ thuật số có trách nhiệm lưu tâm đến hành vi trực tuyến của mình → D được đề cập."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Responsible digital citizens are not only aware of online risks but also report these threats to the authorities to help make the Internet a safer place.",
+            "B": "Scammers frequently design websites to lure users into providing sensitive information, including login credentials and bank account numbers.",
+            "C": "When facing such online threats, responsible citizens must alert the relevant authorities, like cyber police, to help prevent additional damage.",
+            "D": "Responsible digital citizens know how to identify fake websites and take steps to avoid them in order to protect their personal information and ensure their online safety."
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Những công dân kỹ thuật số có trách nhiệm không chỉ nhận thức được những rủi ro trực tuyến mà còn báo cáo những mối đe dọa này cho chính quyền để giúp Internet trở thành một nơi an toàn hơn → Đúng vì tóm tắt đầy đủ ý của đoạn văn.\nB. Những kẻ lừa đảo thường thiết kế các trang web để dụ người dùng cung cấp thông tin nhạy cảm, bao gồm thông tin đăng nhập và số tài khoản ngân hàng → Sai vì chỉ đề cập một phần thông tin của đoạn.\nC. Khi đối mặt với những mối đe dọa trực tuyến như vậy, những công dân có trách nhiệm phải thông báo cho các cơ quan liên quan, như cảnh sát mạng, để giúp ngăn chặn thiệt hại thêm → Sai vì chỉ tập trung vào hành động báo cáo.\nD. Công dân kỹ thuật số có trách nhiệm biết cách xác định các trang web giả mạo và thực hiện các bước để tránh chúng → Sai vì chỉ đề cập đến ý thức về rủi ro."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word 'fraudulent' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "deceptive",
+            "B": "reliable",
+            "C": "dishonest",
+            "D": "illegal"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. deceptive /dɪˈseptɪv/ (adj): lừa đảo\nB. reliable /rɪˈlaɪəbl/ (adj): đáng tin cậy\nC. dishonest /dɪˈsvɒnɪst/ (adj): không trung thực\nD. illegal /ɪˈliːɡl/ (adj): bất hợp pháp\nfraudulent /ˈfrɔːdʒələnt/ (adj): gian lận, lừa đảo >< reliable (adj)\nTạm dịch: Ví dụ, ở các quốc gia như Hoa Kỳ, những kẻ lừa đảo thường tạo các trang web lừa đảo để lừa người dùng nhập thông tin cá nhân của họ."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Responsible digital citizens know that there are few risks online as long as we avoid clicking on suspicious or untrustworthy links.",
+            "B": "Responsible digital citizens can share photos and personal information as long as it doesn't infringe on the privacy or well-being of others.",
+            "C": "Responsible digital citizens should avoid becoming overly reliant on the Internet so that they reduce the risk of falling for online scams.",
+            "D": "Responsible digital citizens use technology thoughtfully, respect others online, and encourage others to behave in a similar manner."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Sai ở 'few' vì Internet đầy rẫy những mối nguy hiểm, không chỉ những liên kết đáng ngờ mà còn có các trang web lừa đảo, các trò lừa đảo trực tuyến.\nB. Sai ở 'as long as it doesn't infringe on the privacy or well-being of others' không được đề cập.\nC. Sai vì không được đề cập.\nD. Đúng: 'A responsible digital citizen is someone who uses technology wisely and encourages others to do the same. They are mindful of their online behavior and try to be polite and respectful to others.'\nTạm dịch: Những công dân kỹ thuật số có trách nhiệm sử dụng công nghệ một cách thận trọng, tôn trọng những người khác trên mạng và khuyến khích những người khác hành xử theo cách tương tự."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Digital technology has no risks if we use it responsibly.",
+            "B": "Reporting online scams is unnecessary since most people know to avoid them.",
+            "C": "The Internet is a dangerous place that should be avoided at all costs.",
+            "D": "Many people today are still unaware of how to protect themselves online."
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Sai vì theo thông tin bài đọc có thể thấy công nghệ kỹ thuật số đầy rẫy những rủi ro dù có dùng cẩn thận.\nB. Sai vì thông tin đề cập việc báo cáo các trò lừa đảo trực tuyến là cần thiết.\nC. Sai vì theo thông tin bài đọc cho thấy Internet hay công nghệ kỹ thuật số không phải lúc nào cũng nguy hiểm.\nD. Đúng: 'While many people today know how to navigate the digital world safely, there are still many other people who are at risk of falling victim to scams.'\nTạm dịch: Nhiều người ngày nay vẫn chưa biết cách tự bảo vệ mình trên mạng."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Practicing responsible digital citizenship helps people avoid digital technology altogether, ensuring no one faces any harm.",
+            "B": "Digital technology should be limited to those who understand its risks and avoid sharing information that might cause harm to others.",
+            "C": "By using technology responsibly, we can make sure everyone can enjoy its advantages safely and without putting themselves in danger.",
+            "D": "If we all behave responsibly online, we can enjoy the benefits of digital technology without worrying about potential risks."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu gốc: 'By practicing responsible digital citizenship, we can help ensure that the benefits of digital technology are accessible to all, without exposing anyone to unnecessary risks.'\nA. Sai ở 'avoid digital technology altogether' không được đề cập.\nB. Sai ở 'should be limited to those who understand its risks' không được đề cập.\nC. Đúng: Bằng cách sử dụng công nghệ một cách có trách nhiệm, chúng ta có thể đảm bảo rằng mọi người đều có thể tận hưởng những lợi ích của nó một cách an toàn và không khiến bản thân gặp nguy hiểm → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nD. Sai vì câu gốc chỉ đề cập rằng chúng ta có thể đảm bảo rằng tất cả mọi người đều có thể tiếp cận lợi ích của công nghệ số một cách an toàn, không đề cập về việc 'không cần lo lắng về những rủi ro tiềm ẩn'."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Digital technology plays a vital role in our daily lives, and while it has many benefits, it also comes with risks that need to be resolved.",
+            "B": "Because of digital technology poses many risks, it is crucial to recognize the potential dangers of online crams and how responsible users can help protect others from harm.",
+            "C": "Digital technology plays a vital role in modern life, and responsible digital citizenship helps ensure its benefits are accessible to everyone while minimizing online risks.",
+            "D": "To make the Internet a safer place for everyone, responsible digital citizenship must be mindful of their actions and avoid sharing personal information without consent."
+          },
+          "correctAnswer": "C",
+          "explanation": "A. Sai vì chỉ đề cập một phần thông tin của bài đọc, chưa đề cập đến quyền công dân kỹ thuật số có trách nhiệm.\nB. Sai vì chỉ đề cập một phần thông tin của bài đọc, chưa đề cập đến vai trò trung tâm của công nghệ kỹ thuật số.\nC. Đúng vì tóm tắt đầy đủ nội dung bài đọc: Công nghệ kỹ thuật số đóng một vai trò quan trọng trong cuộc sống hiện đại ngày nay và quyền công dân kỹ thuật số có trách nhiệm sẽ giúp đảm bảo mọi người đều có thể tiếp cận được lợi ích của công nghệ này đồng thời giảm thiểu rủi ro trực tuyến.\nD. Sai vì chỉ đề cập đến một phần thông tin của bài đọc."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "The Importance of Vocabulary in Foreign Language Learning",
+      "passage": "When learning foreign languages such as English, many students spend hours doing grammar exercises and watching shows in their target language. However, a great number of them don't realise that working on vocabulary is just as important when it comes to success in learning in a foreign language.\n\nVocabulary is the most important because it is the basis of all languages. It is the building blocks that we can use to express our thoughts and ideas and understand others. As British linguist David A. Wilkins said, \"Without grammar, very little can be conveyed; without vocabulary, nothing can be conveyed.\" Even if we barely know a language and have zero grasp of grammar, we can still communicate. For example, pointing at a chocolate pastry in a French bakery and saying the few simple words 'pain au chocolat' with a friendly smile and you will still get what you need.\n\nVocabulary knowledge is also a significant factor in reading comprehension. The connection between vocabulary size and second language attainment through reading has been widely researched over the years. For instance, a 2010 study that discovered that a surprising difference of 64% in students' reading score was due to vocabulary size. We see similar evidence in listening skills. Clearly, if you have never seen or heard a particular word in a second language, it will be much harder to recognize and decode the sounds and understand the meaning of that word.\n\nWith a large vocabulary, you will also find it much easier to express yourself when you are writing or speaking. This is because you can select from a wider array of words and you will be able to be more precise when you are conveying a thought, feeling, event or idea. Therefore, knowledge of vocabulary is widely considered to be perhaps the most crucial element when it comes to person's ability to speak and write in a foreign language.",
+      "questions": [
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "The word 'them' in paragraph 1 refers to",
+          "context": "",
+          "options": {
+            "A": "languages",
+            "B": "exercises",
+            "C": "shows",
+            "D": "students"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'them' ở đoạn 1 đề cập đến 'students'.\nThông tin: When learning foreign languages such as English, many students spend hours doing grammar exercises and watching shows in their target language. However, a great number of them don't realise...\nTạm dịch: Khi học ngoại ngữ như tiếng Anh, nhiều học sinh dành hàng giờ để làm bài tập ngữ pháp và xem các chương trình bằng ngôn ngữ mục tiêu của mình. Tuy nhiên, rất nhiều người trong số họ không nhận ra..."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "According to the passage, all of the following are benefits of having a large vocabulary EXCEPT",
+          "context": "",
+          "options": {
+            "A": "improving reading comprehension in a second language",
+            "B": "making learning grammar less important when communicating",
+            "C": "enhancing the ability to understand spoken words in a second language",
+            "D": "allowing for more precise communication in both writing and speaking"
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo bài đọc, tất cả những điều sau đây là lợi ích của việc có vốn từ vựng lớn NGOẠI TRỪ:\nA. cải thiện khả năng đọc hiểu trong ngôn ngữ thứ hai → A được đề cập.\nB. làm cho việc học ngữ pháp trở nên ít quan trọng hơn khi giao tiếp → Không được đề cập trong bài.\nC. nâng cao khả năng hiểu lời nói bằng ngôn ngữ thứ hai → C được đề cập ('We see similar evidence in listening skills').\nD. cho phép sự giao tiếp chính xác hơn bằng cả viết và nói → D được đề cập."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The word 'significant' in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "trivial",
+            "B": "prominent",
+            "C": "typical",
+            "D": "severe"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. trivial /ˈtrɪviəl/ (adj): không quan trọng, nhỏ nhặt\nB. prominent /ˈprɒmɪnənt/ (adj): nổi bật, đáng chú ý\nC. typical /ˈtɪpɪkl/ (adj): điển hình\nD. severe /səˈvɪər/ (adj): nghiêm trọng, khắt khe\nsignificant /sɪɡˈnɪfɪkənt/ (adj): đáng kể, quan trọng >< trivial (adj)\nTạm dịch: Kiến thức từ vựng cũng là một yếu tố quan trọng trong việc đọc hiểu."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "The word 'array' in paragraph 4 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "range",
+            "B": "zone",
+            "C": "limit",
+            "D": "section"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. range /reɪndʒ/ (n): phạm vi, khoảng\nB. zone /zəʊn/ (n): khu vực\nC. limit /ˈlɪmɪt/ (n): giới hạn\nD. section /ˈsekʃn/ (n): phần, đoạn\narray /əˈreɪ/ (n): loạt, dãy = range (n)\nTạm dịch: Điều này là do bạn có thể chọn từ vựng từ một dãy từ vựng rộng lớn hơn và bạn sẽ có thể truyền đạt suy nghĩ, cảm xúc, sự kiện hoặc ý tưởng một cách chính xác hơn."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Having a wide vocabulary makes it more difficult to express ideas when speaking or writing",
+            "B": "With an extensive vocabulary, expressing thoughts while writing or speaking becomes simpler.",
+            "C": "Using fewer words makes it more difficult to explain complex ideas in writing or conversation.",
+            "D": "A small vocabulary helps you communicate your thoughts more clearly when writing or speaking."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: 'With a large vocabulary, you will also find it much easier to express yourself when you are writing or speaking.'\nA. Vốn từ vựng rộng khiến việc diễn đạt ý tưởng khi nói hoặc viết trở nên khó khăn hơn → Sai vì trái ngược với câu gốc.\nB. Với vốn từ vựng phong phú, việc diễn đạt suy nghĩ khi viết hoặc nói trở nên đơn giản hơn → Đúng, diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nC. Sử dụng ít từ hơn khiến việc giải thích những ý tưởng phức tạp bằng văn bản hoặc hội thoại trở nên khó khăn hơn → Sai vì câu gốc không đề cập đến việc sử dụng từ vựng ít hay nhiều.\nD. Vốn từ vựng nhỏ giúp bạn truyền đạt suy nghĩ của mình rõ ràng hơn khi viết hoặc nói → Sai vì trái ngược với câu gốc."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Which of the following is NOT TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "It is clearly difficult for you to decode the sounds in words you have never heard or seen before.",
+            "B": "Many studies have discovered a surprising connection between vocabulary size and reading score.",
+            "C": "With a large vocabulary, you can express your thoughts, feelings, or ideas with greater precision.",
+            "D": "Many consider knowledge of vocabulary to be the most important factor in writing and speaking."
+          },
+          "correctAnswer": "B",
+          "explanation": "Điều nào sau đây KHÔNG ĐÚNG theo bài đọc?\nA. Đúng: 'Clearly, if you have never seen or heard a particular word in a second language, it will be much harder to recognize and decode the sounds and understand the meaning of that word.'\nB. Sai ở 'many studies' vì bài đọc chỉ đưa ra một nghiên cứu vào năm 2010 phát hiện ra mối liên hệ đáng ngạc nhiên giữa số lượng từ vựng và điểm đọc.\nC. Đúng: 'you can select from a wider array of words and you will be able to be more precise when you are conveying a thought, feeling, event or idea.'\nD. Đúng: 'knowledge of vocabulary is widely considered to be perhaps the most crucial element when it comes to person's ability to speak and write in a foreign language.'"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "In which paragraph does the writer mention the importance of vocabulary for reading comprehension?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tác giả đề cập đến tầm quan trọng của từ vựng đối với việc đọc hiểu ở đoạn 3.\nThông tin: 'Vocabulary knowledge is also a significant factor in reading comprehension.' (Kiến thức từ vựng cũng là một yếu tố quan trọng trong việc đọc hiểu.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "In which paragraph does the writer highlight the role of vocabulary in expressing oneself when speaking or writing?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả nêu bật vai trò của từ vựng trong việc diễn đạt bản thân khi nói hoặc viết ở đoạn 4.\nThông tin: 'With a large vocabulary, you will also find it much easier to express yourself when you are writing or speaking.' (Với vốn từ vựng phong phú, bạn cũng sẽ dễ dàng thể hiện bản thân hơn khi viết hoặc nói.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.",
+      "passageTitle": "Join the Fight Against Plastic Waste!",
+      "passage": "Plastic waste has become a (35)_______, affecting both the environment and marine life. While some people are aware (36)_______ the problem, others remain unaware of its impact. Many communities have begun to implement recycling programs (37)_______ to cut down on plastic waste effectively. Unfortunately, the amount of plastic pollution is alarming, with millions of tons entering oceans each year.\n\nTo (38)_______ with the problem of plastic waste, we should consider alternative materials for packaging. There is a (39)_______ amount of plastic waste that needs to be reduced to ensure a healthier planet. However, many individuals still find it difficult (40)_______ their habits regarding plastic use.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "critical global issue",
+            "B": "issue global critical",
+            "C": "global issue critical",
+            "D": "critical issue global"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về trật tự từ: Ta dùng tính từ 'critical' (nghiêm trọng) đứng trước cụm danh từ 'global issue' (vấn đề toàn cầu) để bổ nghĩa.\nTạm dịch: Rác thải nhựa đã trở thành một vấn đề toàn cầu nghiêm trọng, ảnh hưởng đến cả môi trường và đời sống sinh vật biển."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "of",
+            "B": "to",
+            "C": "for",
+            "D": "in"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về giới từ: aware of: nhận thức về.\nTạm dịch: Trong khi một số người nhận thức về vấn đề này, những người khác vẫn không biết rõ về tác động của nó."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which aims",
+            "B": "aimed",
+            "C": "are aimed",
+            "D": "aiming"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ: Câu đã có chủ ngữ chính 'many communities' và động từ chính 'have begun...'. Ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nĐể rút gọn mệnh đề quan hệ dạng chủ động, ta lược bỏ đại từ quan hệ và to be (nếu có), chuyển V sang V-ing. (which aim → aiming)\nTạm dịch: Nhiều cộng đồng đã bắt đầu thực hiện các chương trình tái chế nhằm cắt giảm rác thải nhựa một cách hiệu quả."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take",
+            "B": "deal",
+            "C": "stand",
+            "D": "break"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs): deal with: giải quyết, xử lý.\nTạm dịch: Để giải quyết vấn đề về rác thải nhựa, chúng ta nên cân nhắc sử dụng các vật liệu thay thế cho bao bì."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "significantly",
+            "B": "signify",
+            "C": "significant",
+            "D": "sign"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại:\nA. significantly /sɪɡˈnɪfɪkəntli/ (adv): một cách đáng kể\nB. signify /ˈsɪɡnɪfaɪ/ (v): biểu thị, có nghĩa là\nC. significant /sɪɡˈnɪfɪkənt/ (adj): đáng kể, quan trọng\nD. sign /saɪm/ (n/v): dấu hiệu; ký tên\nTrước danh từ 'amount' (lượng), ta dùng tính từ để bổ nghĩa → ta chọn 'significant' là đáp án đúng.\nTạm dịch: Có một lượng rác thải nhựa đáng kể cần được giảm thiểu để đảm bảo một hành tinh khỏe mạnh hơn."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "change",
+            "B": "changing",
+            "C": "to change",
+            "D": "to changing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc: find + it + ADJ + to V: cảm thấy làm việc gì đó thì như thế nào.\nTạm dịch: Tuy nhiên, nhiều người vẫn thấy khó để thay đổi thói quen sử dụng nhựa của mình."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.568482+00:00",
+  "updatedAt": "2026-06-08T10:41:58.568482+00:00",
+  "originalFileName": "THPT_Cum_Lien_Truong_Thanh_Hoa_2025.json"
+}

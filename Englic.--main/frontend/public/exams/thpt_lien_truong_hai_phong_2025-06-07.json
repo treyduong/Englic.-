@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_lien_truong_hai_phong_2025-06-07",
+  "title": "Kì thi Tốt nghiệp THPT năm 2025 – Môn: Tiếng Anh – Liên trường THPT Hải Phòng",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Lien_Truong_Hai_Phong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HảiPhòng",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 1 to 5.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "a. Alex: Same here! I've been trying to balance everything, but it's tough.\nb. Jamie: Hi Alex! I've been good, just busy with work. How about you?\nc. Alex: Hey Jamie! How have you been lately?",
+          "options": {
+            "A": "a-b-c",
+            "B": "a-c-b",
+            "C": "c-b-a",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hợp lý: Alex hỏi Jamie dạo này thế nào (c) → Jamie trả lời vẫn khỏe, bận việc và hỏi lại (b) → Alex đáp lại cũng vậy, đang cố cân bằng mọi thứ (a).\nTạm dịch:\nc. Alex: Chào Jamie! Dạo này cậu thế nào?\nb. Jamie: Chào Alex! Tớ vẫn khỏe, chỉ là bận rộn với công việc thôi. Cậu thì sao?\na. Tớ cũng vậy! Tớ đang cố gắng cân bằng mọi thứ, nhưng thật là khó."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "a. Sarah: Not as much as I'd like. I've been trying to get outside more, though. How about you?\nb. Sarah: Hey Tom! What a beautiful day, isn't it?\nc. Tom: I come here almost every weekend. It helps me relax and clear my mind.\nd. Tom: It really is! Perfect weather for a walk. Have you been out here often?\ne. Sarah: That sounds nice! Do you have a favorite spot in the park?",
+          "options": {
+            "A": "b-d-a-c-e",
+            "B": "d-c-e-a-b",
+            "C": "a-b-e-d-c",
+            "D": "a-d-c-b-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hợp lý: Sarah chào và khen thời tiết (b) → Tom đồng ý và hỏi Sarah có hay ra ngoài không (d) → Sarah trả lời không thường xuyên và hỏi lại Tom (a) → Tom nói đến đây mỗi cuối tuần để thư giãn (c) → Sarah thấy hay và hỏi Tom có chỗ yêu thích không (e).\nTạm dịch:\nb. Sarah: Chào Tom! Hôm nay trời đẹp quá, phải không?\nd. Tom: Đúng là vậy! Thời tiết phù hợp để đi dạo. Cậu có thường ra đây không?\na. Sarah: Không thường xuyên như tớ muốn. Dù sao thì tớ cũng đang cố gắng ra ngoài nhiều hơn. Còn cậu thì sao?\nc. Tom: Tớ đến đây hầu như mỗi cuối tuần. Nó giúp tớ thư giãn và đầu óc được thoải mái.\ne. Sarah: Nghe hay đấy! Cậu có chỗ yêu thích nào trong công viên không?"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "Dear Mark,\na. By the way, I've started taking a pottery class. It's been so much fun getting my hands dirty and creating something from scratch. I remember you used to enjoy arts and crafts as well. Maybe you could join me for a class sometime!\nb. I also took a weekend trip to the mountains last month. The views were breathtaking, and it was a nice escape from the city. We should plan a hiking trip together soon! I miss our adventures.\nc. I hope this letter finds you well! It feels like ages since we last spoke. How have you been?\nd. I wanted to share some exciting news with you! I recently got a promotion at work, and I'm now managing a small team. It's a big step, but I'm really enjoying the challenges that come with it. Have you been working on any new projects lately?\ne. Let me know how things are going on your end. I'd love to catch up over coffee or a video call soon.\nTake care!\nBest,\nMary",
+          "options": {
+            "A": "b-d-c-a-e",
+            "B": "d-e-b-c-a",
+            "C": "c-a-d-b-e",
+            "D": "c-d-b-a-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự hợp lý: Mở đầu thư hỏi thăm (c) → Chia sẻ tin vui về thăng chức (d) → Kể về chuyến đi núi (b) → Nhân tiện kể về lớp làm gốm (a) → Kết thúc thư đề nghị gặp mặt (e).\nTạm dịch:\nc. Tớ hy vọng bức thư này đến với cậu khi cậu vẫn khỏe! Cảm giác như cả thế kỷ rồi chúng ta chưa nói chuyện. Cậu dạo này thế nào?\nd. Tớ muốn chia sẻ với cậu một vài tin vui! Gần đây tớ đã được thăng chức ở chỗ làm, và bây giờ tớ đang quản lý một nhóm nhỏ. Đó là một bước tiến lớn, nhưng tớ thực sự thích những thử thách đi kèm với nó. Dạo này cậu có làm dự án mới nào không?\nb. Tớ cũng đã có một chuyến đi cuối tuần lên núi vào tháng trước. Khung cảnh thật ngoạn mục, và đó là một sự trốn thoát tuyệt vời khỏi thành phố. Chúng ta nên lên kế hoạch cho một chuyến đi bộ đường dài cùng nhau sớm! Tớ nhớ những cuộc phiêu lưu của chúng ta.\na. Nhân tiện, tớ đã bắt đầu tham gia một lớp học làm gốm. Thật là thú vị khi được tự tay làm và tạo ra một thứ gì đó từ đầu. Tớ nhớ cậu cũng từng thích các hoạt động nghệ thuật và thủ công. Có lẽ cậu sẽ có thể tham gia lớp học với tớ vào một lúc nào đó!\ne. Hãy cho tớ biết mọi chuyện ở chỗ cậu thế nào. Tớ rất muốn trò chuyện với cậu ở quán cà phê hoặc gọi video."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "a. Regular consumption of Coke can lead to several severe health concerns, which are linked to obesity and various health issues.\nb. Studies have shown that individuals who consume soft drinks frequently are more likely to develop type 2 diabetes and heart disease.\nc. Additionally, the acidity in Coke can erode tooth enamel, leading to dental problems over time.\nd. The high caffeine content in Coke can also contribute to anxiety and disrupt sleep patterns, affecting overall well-being.\ne. In conclusion, while Coke may be a popular beverage, the dangers associated with its regular consumption have serious long-term health consequences.",
+          "options": {
+            "A": "b-a-c-d-e",
+            "B": "a-b-d-c-e",
+            "C": "d-a-c-b-e",
+            "D": "a-d-c-b-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý: Mở đầu nêu vấn đề chung về sức khỏe khi uống Coke (a) → Nghiên cứu về tiểu đường và bệnh tim (b) → Caffeine gây lo lắng và rối loạn giấc ngủ (d) → Độ axit làm mòn men răng (c) → Kết luận (e).\nTạm dịch:\na. Việc tiêu thụ Coke thường xuyên có thể dẫn đến một số vấn đề sức khỏe nghiêm trọng, liên quan đến béo phì và các vấn đề sức khỏe khác nhau.\nb. Các nghiên cứu đã chỉ ra rằng những người tiêu thụ đồ uống có ga thường xuyên có nhiều khả năng mắc bệnh tiểu đường loại 2 và bệnh tim.\nd. Hàm lượng caffeine cao trong Coke cũng có thể góp phần gây lo lắng và rối loạn giấc ngủ, ảnh hưởng đến sức khỏe tổng thể.\nc. Ngoài ra, độ axit trong Coca có thể làm mòn men răng, dẫn đến các vấn đề về răng miệng theo thời gian.\ne. Tóm lại, mặc dù Coke có thể là một loại đồ uống phổ biến, nhưng những nguy hiểm liên quan đến việc tiêu thụ nó thường xuyên sẽ gây ra những hậu quả nghiêm trọng về sức khỏe lâu dài."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "a. Cultivating a reading habit not only enhances our knowledge but also fosters empathy, making it a rewarding activity for everyone.\nb. Reading is a wonderful escape that opens doors to new worlds and ideas.\nc. In our fast-paced digital age, taking time to read can provide a much-needed break, allowing us to relax and reflect.\nd. A good book can transport us to different cultures, introduce us to unforgettable characters, and spark our imagination.\ne. Whether it's a thrilling novel or an insightful non-fiction, each story enriches our understanding of life.",
+          "options": {
+            "A": "e-d-c-a-b",
+            "B": "e-c-b-d-a",
+            "C": "b-d-e-c-a",
+            "D": "d-e-b-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hợp lý: Mở đầu giới thiệu đọc sách như một lối thoát (b) → Sách hay có thể đưa ta đến các nền văn hóa khác nhau (d) → Dù là tiểu thuyết hay phi hư cấu đều làm phong phú sự hiểu biết (e) → Trong thời đại kỹ thuật số, đọc sách là khoảng nghỉ cần thiết (c) → Kết luận về lợi ích của thói quen đọc sách (a).\nTạm dịch:\nb. Đọc sách là một lối thoát tuyệt vời mở ra những cánh cửa đến với những thế giới và ý tưởng mới.\nd. Một cuốn sách hay có thể đưa chúng ta đến với những nền văn hóa khác nhau, giới thiệu cho chúng ta những nhân vật khó quên và khơi dậy trí tưởng tượng của chúng ta.\ne. Dù đó là một cuốn tiểu thuyết ly kỳ hay một cuốn sách phi hư cấu mang tính sâu sắc, mỗi câu chuyện đều làm phong phú thêm sự hiểu biết của chúng ta về cuộc sống.\nc. Trong thời đại kỹ thuật số hối hả ngày nay, dành thời gian đọc sách có thể mang lại một khoảng nghỉ ngơi rất cần thiết, cho phép chúng ta thư giãn và suy ngẫm.\na. Nuôi dưỡng thói quen đọc sách không chỉ nâng cao kiến thức của chúng ta mà còn bồi dưỡng sự đồng cảm, biến nó thành một hoạt động bổ ích cho tất cả mọi người."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 6 to 11.",
+      "passageTitle": "",
+      "passage": "Last weekend, I embarked (6)_______ a long trip to Quang Ninh with my friends. We started our journey early in the morning, and the scenic views along the way were simply breathtaking. After several hours of traveling, we finally arrived at our destination, (7)_______ by the beautiful Ha Long Bay.\n\nAs we set out to explore, we had to make sure to follow the (8)_______ to ensure our best experience. We were particularly (9)_______ in the famous dishes that Quang Ninh is known for. It was important to (10)_______ time visiting popular tourist spots as well.\n\nOverall, the trip was a wonderful opportunity (11)_______ new memories and strengthen our friendship.",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to",
+            "B": "on",
+            "C": "at",
+            "D": "in"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ: embark on something: bắt đầu, dấn thân vào một cái gì đó (một dự án, một hành trình, một công việc mới, v.v.)\nTạm dịch: Last weekend, I embarked on a long trip to Quang Ninh with my friends. (Cuối tuần trước, tôi đã bắt đầu một chuyến đi dài đến Quảng Ninh cùng với bạn bè.)"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "surrounded",
+            "B": "surrounding",
+            "C": "is surrounded",
+            "D": "which surrounds"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng bị động rút gọn bằng cách lược bỏ đại từ và tobe, giữ nguyên V3/V-ed.\nTạm dịch: After several hours of traveling, we finally arrived at our destination, surrounded by the beautiful Ha Long Bay. (Sau vài giờ di chuyển, cuối cùng chúng tôi cũng đến đích, nơi được bao quanh bởi Vịnh Hạ Long tuyệt đẹp.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "local safety guidelines",
+            "B": "safety local guidelines",
+            "C": "local guidelines safety",
+            "D": "guidelines local safety"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về trật tự từ:\nlocal /ˈləʊ.kəl/ (adj): thuộc về địa phương\nsafety guideline (np): quy tắc về sự an toàn\nTa cần một tính từ trước một cụm danh từ: local (adj) + safety guidelines (np) = local safety guidelines.\nTạm dịch: As we set out to explore, we had to make sure to follow the local safety guidelines to ensure our best experience. (Khi bắt đầu khám phá, chúng tôi phải đảm bảo tuân theo các quy tắc về sự an toàn của địa phương để có trải nghiệm tốt nhất.)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "interest",
+            "B": "interesting",
+            "C": "interested",
+            "D": "interestingly"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. interest /ˈɪn.trəst/ (n): sự quan tâm, sự thích thú\nB. interesting /ˈɪn.trə.stɪŋ/ (adj): thú vị, hấp dẫn\nC. interested /ˈɪn.trə.stɪd/ (adj): cảm thấy quan tâm, thích thú\nD. interestingly /ˈɪn.trə.stɪŋ.li/ (adv): một cách thú vị, một cách hấp dẫn\nCấu trúc: interested in somebody/something: quan tâm, hứng thú với ai/cái gì.\nTạm dịch: We were particularly interested in the famous dishes that Quang Ninh is known for. (Chúng tôi đặc biệt hứng thú đến những món ăn nổi tiếng mà Quảng Ninh được biết đến.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take",
+            "B": "spend",
+            "C": "give",
+            "D": "save"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cấu trúc: spend something doing something: dành cái gì để làm cái gì.\nTạm dịch: It was important to spend time visiting popular tourist spots as well. (Điều quan trọng là dành thời gian ghé thăm các điểm du lịch nổi tiếng.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "create",
+            "B": "creating",
+            "C": "to creating",
+            "D": "to create"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức cấu trúc: opportunity to do something: cơ hội để làm điều gì đó.\nTạm dịch: Overall, the trip was a wonderful opportunity to create new memories and strengthen our friendship. (Nhìn chung, chuyến đi là một cơ hội tuyệt vời để tạo ra những kỷ niệm mới và củng cố tình bạn của chúng tôi.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 12 to 19.",
+      "passageTitle": "FUTURE CAREER",
+      "passage": "As technology rapidly advances and global challenges evolve, the landscape of future careers is undergoing significant transformation. Today's students must prepare for jobs that may not yet exist, requiring a blend of adaptability, creativity, and continuous learning. The traditional notion of a linear career path is becoming obsolete, replaced by the concept of a career portfolio where individuals may pursue multiple professions throughout their lives.\n\nEmerging fields such as artificial intelligence, renewable energy, and biotechnology are expected to drive job creation in the coming decades. These sectors demand a strong foundation in STEM (Science, Technology, Engineering, and Mathematics) disciplines, coupled with critical thinking and problem-solving skills. However, the importance of soft skills cannot be overstated. Emotional intelligence, communication, and cultural competence will be crucial in an increasingly interconnected global workforce.\n\nThe gig economy and remote work are reshaping traditional employment models. Many future professionals may find themselves working as independent contractors or freelancers, managing multiple projects simultaneously. This shift necessitates entrepreneurial skills, self-motivation, and the ability to navigate diverse work environments.\n\nLifelong learning will be paramount in staying relevant in the job market. As automation and AI continue to evolve, routine tasks are likely to be automated, emphasizing the need for uniquely human skills such as creativity, empathy, and complex problem-solving. Professionals must be prepared to upskill and reskill throughout their careers to adapt to changing industry demands.\n\nWhile the future job market may seem uncertain, it also presents unprecedented opportunities for innovation and personal growth. By cultivating a growth mindset, embracing technological literacy, and developing a diverse skill set, today's students can position themselves for success in the dynamic career landscape of tomorrow.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "The opposite of \"obsolete\" as used in the first paragraph would be:",
+          "context": "",
+          "options": {
+            "A": "outdated",
+            "B": "unnecessary",
+            "C": "ancient",
+            "D": "advanced"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ vựng:\nA. outdated /ˌaʊtˈdeɪtɪd/ (adj): lỗi thời, không còn phù hợp\nB. unnecessary /ʌnˈnes.ə.ser.i/ (adj): không cần thiết, thừa thãi\nC. ancient /ˈeɪm.ʃənt/ (adj): cổ xưa, rất cũ\nD. advanced /ədˈvɑːnst/ (adj): tiến bộ, phát triển\nobsolete /ˈɒbsəliːt/ (adj): lỗi thời >< advanced (adj): tiến bộ.\nThông tin: The traditional notion of a linear career path is becoming obsolete, replaced by the concept of a career portfolio where individuals may pursue multiple professions throughout their lives."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following is NOT mentioned as a characteristic of future careers?",
+          "context": "",
+          "options": {
+            "A": "the need for continuous learning",
+            "B": "the importance of adaptability",
+            "C": "the guarantee of job security",
+            "D": "the rise of the gig economy"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\nA được đề cập: requiring a blend of adaptability, creativity, and continuous learning.\nB được đề cập: requiring a blend of adaptability, creativity, and continuous learning.\nD được đề cập: The gig economy and remote work are reshaping traditional employment models.\nC - 'Sự đảm bảo an ninh việc làm' không được đề cập trong bài → không phải đặc điểm của nghề nghiệp tương lai."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Which of the following best paraphrases the last sentence of the passage?",
+          "context": "",
+          "options": {
+            "A": "Students should focus solely on technological skills to succeed in the future job market",
+            "B": "The future job market is too uncertain to prepare for effectively",
+            "C": "Success in careers requires a combination of adaptability, tech-savviness, and varied abilities",
+            "D": "Personal growth is more important than professional development in future careers"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu cuối của bài: 'By cultivating a growth mindset, embracing technological literacy, and developing a diverse skill set, today's students can position themselves for success in the dynamic career landscape of tomorrow.'\nA sai - câu gốc không đề cập học sinh 'chỉ' nên tập trung vào các kỹ năng công nghệ.\nB sai - câu gốc không đề cập thị trường việc làm tương lai 'quá bất định'.\nC đúng - thành công trong sự nghiệp đòi hỏi sự kết hợp giữa khả năng thích ứng, hiểu biết về công nghệ và nhiều khả năng khác nhau.\nD sai - câu gốc không đề cập 'so sánh' về phát triển bản thân quan trọng hơn phát triển chuyên môn."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "The word \"paramount\" in the fourth paragraph is closest in meaning to:",
+          "context": "",
+          "options": {
+            "A": "crucial",
+            "B": "secondary",
+            "C": "optional",
+            "D": "irrelevant"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. crucial /ˈkruːʃəl/ (adj): quan trọng, thiết yếu\nB. secondary /ˈsekəndri/ (adj): thứ yếu, phụ thuộc\nC. optional /ˈɒpʃənl/ (adj): tùy chọn, không bắt buộc\nD. irrelevant /ɪˈreləvənt/ (adj): không liên quan, không thích hợp\nparamount /ˈpærəmaʊnt/ (adj): quan trọng nhất, tối cao = crucial.\nThông tin: Lifelong learning will be paramount in staying relevant in the job market."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "The phrase \"This shift\" in the third paragraph refers to:",
+          "context": "",
+          "options": {
+            "A": "The importance of soft skills",
+            "B": "The rise of STEM disciplines",
+            "C": "The reshaping of traditional employment models",
+            "D": "The need for a strong educational foundation"
+          },
+          "correctAnswer": "C",
+          "explanation": "'This shift' ám chỉ 'the reshaping of traditional employment models'.\nThông tin: The gig economy and remote work are reshaping traditional employment models. Many future professionals may find themselves working as independent contractors or freelancers, managing multiple projects simultaneously. This shift necessitates entrepreneurial skills, self-motivation, and the ability to navigate diverse work environments."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "The concept of a linear career path is becoming more relevant in modern times.",
+            "B": "Emotional intelligence and communication are less important in the gig economy.",
+            "C": "Lifelong learning is essential to stay competitive in the evolving job market.",
+            "D": "Automation and AI are reducing the need for uniquely human skills like creativity"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\nA sai - bài đề cập con đường sự nghiệp tuyến tính đang trở nên lỗi thời, không phải trở nên phù hợp hơn.\nB sai - bài nhấn mạnh tầm quan trọng của trí tuệ cảm xúc, giao tiếp và năng lực văn hóa.\nC đúng: Lifelong learning will be paramount in staying relevant in the job market.\nD sai - bài đề cập tự động hóa và AI có khả năng tự động hóa các tác vụ thường ngày nhưng nhấn mạnh nhu cầu về các kỹ năng đặc biệt của con người."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "In which paragraph does the writer mention the factors that influence future job creation?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Emerging fields such as artificial intelligence, renewable energy, and biotechnology are expected to drive job creation in the coming decades. (Các lĩnh vực mới nổi như trí tuệ nhân tạo, năng lượng tái tạo và công nghệ sinh học được dự kiến sẽ thúc đẩy việc tạo ra việc làm trong những thập kỷ tới.) → Đoạn 2."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "In which paragraph does the writer discuss the shift in traditional employment models?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: The gig economy and remote work are reshaping traditional employment models. (Nền kinh tế việc làm tự do và làm việc từ xa đang định hình lại các mô hình việc làm truyền thống.) → Đoạn 3."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the Exploring The Universe and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 20 to 29.",
+      "passageTitle": "",
+      "passage": "Science is a vast and fascinating field that seeks to understand the natural world and the universe beyond (I). It encompasses various disciplines, including physics, chemistry, biology, and astronomy (II). Each of these areas contributes to our understanding of complex phenomena, (III). For instance, scientific research has led to significant breakthroughs in medicine, renewable energy, and environmental conservation (IV). This essay will explore the impact of science on our lives, particularly focusing on space exploration.\n\nOne of the most intriguing aspects of science is space exploration. Humans have always looked to the stars, wondering what lies beyond our planet. The launch of satellites and manned missions has allowed us to gather valuable information about the cosmos. For example, NASA's Mars Rover has provided insight into the potential for life on other planets. Through meticulous research and data collection, scientists can analyze soil samples and atmospheric conditions, paving the way for future explorations.\n\nSpace exploration also raises critical questions about our existence and the future of humanity. As we continue to advance technologically, the prospect of colonizing other planets becomes more plausible. This endeavor could serve as a solution to the challenges we face on Earth, such as overpopulation and resource depletion. However, ethical considerations must guide these efforts. We must ensure that we do not repeat the mistakes of history, such as the exploitation of natural resources and indigenous populations.\n\nMoreover, scientific advancements have enabled us to develop technologies that enhance our understanding of the universe. Telescopes and space probes allow us to observe distant galaxies, study black holes, and uncover the mysteries of dark matter. Each discovery leads to new questions, further fueling our curiosity and drive for knowledge. The concept of the multiverse, for instance, challenges our understanding of reality and pushes the boundaries of scientific thought.\n\nIn addition to exploring the universe, science plays a crucial role in addressing pressing issues on Earth. Climate change, for example, is a significant concern that scientists are actively investigating. Through climate models and data analysis, researchers can predict future trends and propose solutions to mitigate the effects of global warming. Public awareness and education are essential in fostering a collective response to environmental challenges.\n\nAs we reflect on the wonders of science, it is clear that its contributions extend far beyond mere knowledge acquisition. Science empowers us to make informed decisions about our health, environment and future. By fostering a culture of curiosity and critical thinking, we can inspire future generations to continue exploring the unknown.",
+      "questions": [
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Where in paragraph 1 does the following phrase best fit?\n\"enabling advancements that improve our daily lives\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(II)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Vị trí (III) hợp lý nhất vì câu trước (III) đề cập đến cách các ngành khoa học khác nhau (vật lý, hóa học, sinh học, thiên văn học, v.v.) đóng góp vào việc hiểu các hiện tượng phức tạp. Cụm từ 'cho phép những tiến bộ cải thiện cuộc sống hàng ngày của chúng ta' giải thích về cách hiểu biết này có thể mang lại lợi ích cho chúng ta.\nThông tin: Each of these areas contributes to our understanding of complex phenomena, enabling advancements that improve our daily lives."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "The phrase \"paving the way\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "opening up",
+            "B": "breaking down",
+            "C": "carrying over",
+            "D": "giving in"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. open up something: mở ra, bắt đầu cái gì\nB. break down something: làm vỡ, làm hỏng cái gì\nC. carry over something: mang theo, duy trì cái gì\nD. give in (to somebody/something): đầu hàng, nhượng bộ ai/cái gì\npave the way: mở đường = open up.\nThông tin: Through meticulous research and data collection, scientists can analyze soil samples and atmospheric conditions, paving the way for future explorations."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word \"these\" in paragraph 3 refers to",
+          "context": "",
+          "options": {
+            "A": "The mistakes of history",
+            "B": "The challenges faced on Earth",
+            "C": "The technological advancements",
+            "D": "The ethical considerations"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'these' ám chỉ 'The challenges faced on Earth'.\nThông tin: As we continue to advance technologically, the prospect of colonizing other planets becomes more plausible. This endeavor could serve as a solution to the challenges we face on Earth, such as overpopulation and resource depletion. However, ethical considerations must guide these efforts. (Khi chúng ta tiếp tục tiến bộ về công nghệ, triển vọng định cư trên các hành tinh khác trở nên khả thi hơn. Nỗ lực này có thể là giải pháp cho những thách thức mà chúng ta phải đối mặt trên Trái đất, chẳng hạn như dân số quá đông và cạn kiệt tài nguyên. Tuy nhiên, những cân nhắc về mặt đạo đức cần phải định hướng những nỗ lực này.)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned in the essay?",
+          "context": "",
+          "options": {
+            "A": "The role of telescopes in space exploration",
+            "B": "The invention of the Internet",
+            "C": "Ethical considerations in colonizing other planets",
+            "D": "The challenges of climate change"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin:\nA được đề cập: Telescopes and space probes allow us to observe distant galaxies, study black holes, and uncover the mysteries of dark matter.\nB không được đề cập trong bài.\nC được đề cập: However, ethical considerations must guide these efforts.\nD được đề cập: Climate change, for example, is a significant concern that scientists are actively investigating."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"curiosity\" in OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "Interest",
+            "B": "Knowledge",
+            "C": "Indifference",
+            "D": "Exploration"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ vựng:\nA. interest /ˈɪntrəst/ (n): sự quan tâm, hứng thú\nB. knowledge /ˈnɒlɪdʒ/ (n): kiến thức\nC. indifference /ɪnˈdɪfrəns/ (n): sự thờ ơ, vô cảm\nD. exploration /ˌeksplɚˈreɪʃn/ (n): sự khám phá\ncuriosity /ˌkjʊəriˈɒsəti/ (n): sự tò mò >< indifference (n): sự thờ ơ.\nThông tin: Each discovery leads to new questions, further fueling our curiosity and drive for knowledge."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Space exploration has no impact on our understanding of life on Earth.",
+            "B": "Curiosity has no role in scientific exploration.",
+            "C": "Ethical considerations are not important in space colonization efforts.",
+            "D": "Scientific research has led to advancements in medicine and environmental conservation."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin:\nA sai - bài đề cập việc thám hiểm không gian có tác động đến sự hiểu biết của chúng ta về sự sống ngoài Trái Đất và trên chính Trái Đất.\nB sai - bài đề cập nhờ có sự tò mò, con người mới cảm thấy khoa học hấp dẫn và bắt đầu đi khám phá.\nC sai - bài nhấn mạnh tầm quan trọng của đạo đức trong việc khám phá không gian.\nD đúng: For instance, scientific research has led to significant breakthroughs in medicine, renewable energy, and environmental conservation."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following best summarises paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "Scientists are focused solely on space exploration and ignore Earth's problems.",
+            "B": "Public awareness is not important for addressing environmental challenges.",
+            "C": "Researchers are primarily concerned with developing climate models without considering public education.",
+            "D": "Climate change is a pressing issue, and scientists are working to predict trends and find solutions."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: In addition to exploring the universe, science plays a crucial role in addressing pressing issues on Earth. Climate change, for example, is a significant concern that scientists are actively investigating. Through climate models and data analysis, researchers can predict future trends and propose solutions to mitigate the effects of global warming. Public awareness and education are essential in fostering a collective response to environmental challenges.\nD đúng - tóm tắt được ý trong đoạn văn: Biến đổi khí hậu là một vấn đề cấp bách và các nhà khoa học đang nỗ lực dự đoán xu hướng và tìm ra giải pháp."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 6?",
+          "context": "",
+          "options": {
+            "A": "Science helps us gain knowledge about health and the environment.",
+            "B": "Science is only about understanding health and the environment.",
+            "C": "Science allows us to choose wisely regarding health, environmental issues, and our future.",
+            "D": "Science limits our ability to make choices about health and the future."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu được gạch chân trong đoạn 6: 'Science empowers us to make informed decisions about our health, environment and future.' (Khoa học cho chúng ta quyền đưa ra quyết định sáng suốt về sức khỏe, môi trường và tương lai của mình.)\nA sai - câu gốc đề cập khoa học cho chúng ta 'quyền đưa ra quyết định', không phải giúp chúng ta có 'kiến thức'.\nB sai - câu gốc không chỉ đề cập khoa học về sức khỏe và môi trường mà còn về 'tương lai của chúng ta'.\nC đúng - Khoa học cho phép chúng ta lựa chọn một cách khôn ngoan liên quan đến sức khỏe, các vấn đề về môi trường và tương lai của chúng ta.\nD sai - câu gốc không đề cập khoa học 'hạn chế' khả năng đưa ra lựa chọn của chúng ta."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Science has little impact on daily life and decision-making.",
+            "B": "Public education and awareness are vital for addressing environmental issues",
+            "C": "Ethical considerations are unimportant in the context of space exploration.",
+            "D": "Space exploration will completely solve Earth's problems."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin:\nA sai - đoạn văn nhấn mạnh tác động của khoa học đến cuộc sống hàng ngày và việc ra quyết định.\nB đúng: Public awareness and education are essential in fostering a collective response to environmental challenges. → Giáo dục và nhận thức của công chúng là rất quan trọng để giải quyết các vấn đề về môi trường.\nC sai - đoạn 3 nhấn mạnh tầm quan trọng của đạo đức trong việc khám phá không gian.\nD sai - đoạn văn chỉ đề cập việc định cư các hành tinh khác có thể giúp giải quyết các thách thức như tình trạng bùng nổ dân số và cạn kiệt tài nguyên, không đề cập sẽ giải quyết 'hoàn toàn' các vấn đề của Trái Đất."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Scientific research contributes to our understanding of the universe and addresses important issues on Earth, enhancing our lives and decision-making.",
+            "B": "Science is solely focused on space exploration and has little relevance to everyday life.",
+            "C": "The advancement of technology in space exploration guarantees the colonization of other planets.",
+            "D": "Climate change is the only challenge that science can help address in the modern world."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tóm tắt toàn bài:\nĐoạn 1: Khoa học là một lĩnh vực rộng lớn giúp nâng cao hiểu biết của chúng ta về thế giới tự nhiên và vũ trụ.\nĐoạn 2: Khám phá không gian là một khía cạnh quan trọng của khoa học.\nĐoạn 3: Khám phá không gian đặt ra những câu hỏi về mặt đạo đức về tương lai của nhân loại.\nĐoạn 4: Những tiến bộ khoa học như kính thiên văn và tàu thăm dò không gian cho phép khám phá về các thiên hà xa xôi.\nĐoạn 5: Khoa học cũng giải quyết các vấn đề cấp bách trên Trái đất như biến đổi khí hậu.\nĐoạn 6: Khoa học giúp con người đưa ra các quyết định sáng suốt về sức khỏe, môi trường và tương lai.\n→ A đúng - tóm tắt được ý của đoạn văn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 30 to 35.",
+      "passageTitle": "JOIN OUR COMMUNITY GARDENING PROGRAM",
+      "passage": "Are you interested in growing your own vegetables? If you've tried our workshops, you'll want to sign up for (30)_______ session! In our program, participants (31)_______ to share tips and techniques for successful gardening. Each week, we focus on a different plant variety, providing you with the (32)_______ you need for successful harvests.\n\nOur experts will guide you (33)_______ the art of sustainable gardening. You'll also receive a starter kit that includes seeds, soil, and tools, making it easier for you to begin your gardening (34)_______. We believe that a (an) (35)_______ of benefits of gardening include a sense of community and the joy of growing your own food.",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "the others",
+            "C": "others",
+            "D": "other"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. another + N (số ít): người khác, cái khác\nB. the others: những người còn lại, những cái còn lại\nC. others: những người khác, những cái khác\nD. other + N (số nhiều/không đếm được): người khác, cái khác\nVì danh từ phía sau chỗ trống 'session' đang ở dạng số ít nên 'another' là đáp án đúng.\nTạm dịch: If you've tried our workshops, you'll want to sign up for another session! (Nếu bạn đã từng tham gia các hội thảo của chúng tôi, bạn sẽ muốn đăng ký cho một khóa học khác!)"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make out",
+            "B": "go down",
+            "C": "break in",
+            "D": "come together"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm động từ:\nA. make out somebody/something: hiểu rõ, phân biệt\nB. go down: đi xuống, giảm\nC. break in: bắt trộm, ngắt lời\nD. come together: hội tụ, cùng nhau\nTạm dịch: In our program, participants come together to share tips and techniques for successful gardening. (Trong chương trình của chúng tôi, các thành viên cùng nhau chia sẻ kinh nghiệm và kỹ thuật để trồng trọt thành công.)"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "tools",
+            "B": "seeds",
+            "C": "weather",
+            "D": "knowledge"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. tool /tuːl/ (n): dụng cụ, công cụ\nB. seed /siːd/ (n): hạt giống\nC. weather /ˈweðər/ (n): thời tiết\nD. knowledge /ˈnɒlɪdʒ/ (n): kiến thức\nTạm dịch: Each week, we focus on a different plant variety, providing you with the knowledge you need for successful harvests. (Mỗi tuần, chúng tôi tập trung vào một loại cây khác nhau, cung cấp cho bạn kiến thức cần thiết để thu hoạch thành công.)"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "in light of",
+            "B": "on behalf of",
+            "C": "with respect to",
+            "D": "in search of"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm liên từ:\nA. in light of: theo quan điểm, xét về\nB. on behalf of: thay mặt cho\nC. with respect to: về vấn đề, liên quan đến\nD. in search of: để tìm kiếm\nTạm dịch: Our experts will guide you with respect to the art of sustainable gardening. (Các chuyên gia của chúng tôi sẽ hướng dẫn bạn về nghệ thuật làm vườn bền vững.)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "experience",
+            "B": "journey",
+            "C": "adventure",
+            "D": "project"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. experience /ɪkˈspɪərɪəns/ (n): kinh nghiệm, trải nghiệm\nB. journey /ˈdʒɜːni/ (n): hành trình, cuộc hành trình\nC. adventure /ədˈventʃər/ (n): cuộc phiêu lưu\nD. project /ˈprɒdʒekt/ (n): dự án\nTạm dịch: You'll also receive a starter kit that includes seeds, soil, and tools, making it easier for you to begin your gardening journey. (Bạn cũng sẽ nhận được một bộ dụng cụ khởi động bao gồm hạt giống, đất trồng và dụng cụ, giúp bạn dễ dàng bắt đầu hành trình làm vườn của mình.)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amount",
+            "B": "number",
+            "C": "deal",
+            "D": "quality"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ vựng:\nA. amount of + N (không đếm được): lượng\nB. a number of + N (số nhiều): một số, một vài\nC. a great/good deal of + N (không đếm được): một lượng lớn\nD. quality (n): chất lượng, phẩm chất\nVì sau chỗ trống là danh từ 'benefit' đang ở dạng số nhiều nên 'number' là đáp án đúng.\nTạm dịch: We believe a number of benefits of gardening include a sense of community and the joy of growing your own food. (Chúng tôi tin rằng một số lợi ích của việc làm vườn bao gồm ý thức cộng đồng và niềm vui khi tự trồng thực phẩm.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 36 to 40.",
+      "passageTitle": "",
+      "passage": "Sustainable travelling, (36)_______, is becoming increasingly popular as people become more aware of the environmental impact of traditional travel. Travelling in a sustainable way means reducing carbon footprints and respecting local cultures and ecosystems. For instance, (37)_______ by choosing eco-friendly accommodations, using public transportation, or supporting local businesses that prioritize sustainability. However, there are also challenges, such as the tendency for some to prioritize convenience over environmental concerns, which can lead to unsustainable practices.\n\nWhile sustainable travelling is often seen as a positive trend, (38)_______. Choosing to fly less frequently, for example, can significantly reduce carbon emissions, but it requires travelers to be mindful of alternative options. Furthermore, (39)_______, ensuring that they contribute positively to the local economy and culture. Travel companies also play an essential role in promoting sustainable tourism by offering packages that prioritize environmental conservation and social responsibility.\n\nIn conclusion, sustainable travelling is not just a passing trend but a long-term shift towards more responsible tourism. (40)_______, individuals, communities, and governments can together create an environment where sustainable travel becomes the norm rather than the exception. By doing so, we can ensure that future generations are able to enjoy the beauty of the world without compromising its preservation.",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which has become a global movement aimed at reducing environmental harm",
+            "B": "become a global trend to reduce the environmental impact of tourism",
+            "C": "which has been gaining traction as people are more concerned about nature",
+            "D": "that is growing rapidly as people seek ways to minimize environmental damage"
+          },
+          "correctAnswer": "A",
+          "explanation": "Phân tích thành phần câu: Chủ ngữ 'Sustainable travelling' + Vị ngữ 'is becoming increasingly popular as people become more aware of the environmental impact of traditional travel' → Cần mệnh đề quan hệ không xác định để bổ nghĩa cho chủ ngữ và liên kết mạch lạc với ý liền sau.\nA đúng về mặt ngữ pháp, bổ nghĩa cho cụm từ 'Sustainable travelling', và liên kết mạch lạc với ý liền sau.\nB sai vì không phải mệnh đề quan hệ.\nC dù đúng về ngữ pháp, câu này bị lặp ý với ý liền sau ('which has been gaining traction' và 'people are more concerned about nature').\nD sai vì không dùng đại từ quan hệ 'that' trong mệnh đề quan hệ không xác định.\nTạm dịch: Sustainable travelling, which has become a global movement aimed at reducing environmental harm, is becoming increasingly popular as people become more aware of the environmental impact of traditional travel."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "tourists can minimize their impact on the environment",
+            "B": "tourists can choose more irresponsible travel options",
+            "C": "tourists are likely to inspire others to be more eco-conscious",
+            "D": "tourists can contribute significantly to qualified trip"
+          },
+          "correctAnswer": "A",
+          "explanation": "Vị trí cần một mệnh đề độc lập và liên kết mạch lạc với ý liền sau: 'bằng cách chọn chỗ ở thân thiện với môi trường, sử dụng phương tiện giao thông công cộng hoặc ủng hộ các doanh nghiệp địa phương ưu tiên tính bền vững.'\nA: khách du lịch có thể giảm thiểu tác động của mình đến môi trường → Hợp lý nhất vì liên kết mạch lạc với ý liền sau.\nB sai vì trái ngược với mục đích của du lịch bền vững.\nC sai vì không liên kết mạch lạc với ý liền sau.\nD sai vì không liên kết mạch lạc với ý liền sau.\nTạm dịch: For instance, tourists can minimize their impact on the environment by choosing eco-friendly accommodations, using public transportation, or supporting local businesses that prioritize sustainability."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "it has the power to change behaviors in an eco-friendlier direction",
+            "B": "it is making it easier for travelers to adopt sustainable habits",
+            "C": "it can be difficult for travelers to fully embrace",
+            "D": "it requires individuals to make conscious efforts and careful planning to fully embrace"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy ý liền trước đề cập rằng nó công nhận du lịch bền vững là một xu hướng tích cực nhưng ý liền sau đang thảo luận về thách thức tiềm ẩn đối với du lịch bền vững, nên ta cần một câu liên kết mạch lạc hai ý này.\nD đúng: nó đòi hỏi cá nhân phải nỗ lực có ý thức và lập kế hoạch cẩn thận để có thể tận hưởng trọn vẹn chuyến du lịch này → Hợp lý nhất vì nhấn mạnh rằng du khách cần phải nỗ lực có ý thức và lập kế hoạch cẩn thận để có thể tận hưởng du lịch bền vững một cách trọn vẹn.\nTạm dịch: While sustainable travelling is often seen as a positive trend, it requires individuals to make conscious efforts and careful planning to fully embrace."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "travelers need to be educated about how can their actions impact the communities they visit",
+            "B": "travelers need to be educated about how their actions can impact the communities they visit",
+            "C": "travelers' actions need to be educated about impact the communities they visit",
+            "D": "travelers need to be visited the communities where their actions"
+          },
+          "correctAnswer": "B",
+          "explanation": "Vị trí cần một mệnh đề độc lập liên kết mạch lạc với ý liền sau, đang đề cập vai trò của du khách trong du lịch bền vững, nhấn mạnh tầm quan trọng của việc đảm bảo rằng hành động của họ có lợi cho nền kinh tế và văn hóa địa phương.\nA sai vì trong câu hỏi gián tiếp, không đảo trật tự từ 'can' lên trước chủ ngữ 'their actions'.\nB đúng: du khách cần được giáo dục về cách hành động của họ có thể ảnh hưởng đến cộng đồng mà họ đến thăm.\nC sai vì con người cần được giáo dục về một điều gì đó, không phải hành động cần được giáo dục.\nD sai vì mệnh đề sau 'where' chưa hoàn chỉnh.\nTạm dịch: Furthermore, travelers need to be educated about how their actions can impact the communities they visit, ensuring that they contribute positively to the local economy and culture."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Through understanding and adopting sustainable practices in daily travel",
+            "B": "If people understand and adopt sustainable habits when they travel",
+            "C": "By recognizing its importance and making conscious efforts to travel responsibly",
+            "D": "In order to make travel more irresponsible and sustainable in the future"
+          },
+          "correctAnswer": "C",
+          "explanation": "Vị trí cần một cấu trúc phù hợp liên kết mạch lạc với ý liền sau: 'các cá nhân, cộng đồng và chính phủ có thể cùng nhau tạo ra một môi trường mà du lịch bền vững trở thành chuẩn mực chứ không phải là ngoại lệ.'\nA sai vì nhấn mạnh vào 'daily travel', trong khi ý chính là về du lịch bền vững nói chung.\nB sai vì dùng câu điều kiện: diễn tả hành động có khả năng xảy ra trong tương lai, không nhấn mạnh được sự cần thiết của hành động tập thể đối với du lịch bền vững.\nC đúng: Bằng cách nhận ra tầm quan trọng của nó và nỗ lực có ý thức để du lịch có trách nhiệm → Hợp lý nhất vì nhấn mạnh tầm quan trọng của việc nhận ra giá trị của việc du lịch bền vững và chủ động đưa ra những lựa chọn có ý thức để du lịch có trách nhiệm.\nD sai vì cụm từ này không có chủ ngữ rõ ràng.\nTạm dịch: By recognizing its importance and making conscious efforts to travel responsibly, individuals, communities, and governments can together create an environment where sustainable travel becomes the norm rather than the exception."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.583706+00:00",
+  "updatedAt": "2026-06-08T10:41:58.583706+00:00",
+  "originalFileName": "THPT_Lien_Truong_Hai_Phong_2025.json"
+}

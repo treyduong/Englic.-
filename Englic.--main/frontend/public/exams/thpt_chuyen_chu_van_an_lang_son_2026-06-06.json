@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_chu_van_an_lang_son_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Chuyên Chu Văn An, Lạng Sơn",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT chuyen chu van an lang son.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#LạngSơn",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about lifelong learning and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 5.",
+      "passageTitle": "AI in Healthcare",
+      "passage": "Artificial intelligence (AI) is transforming various sectors, and healthcare is no exception. In recent years, advancements in AI, to a large extent, (1)________. Medical professionals are increasingly relying on AI-driven technologies to enhance patient care and streamline operations. For instance, some hospitals have adopted AI tools to assist with diagnostic processes and treatment planning.\n\nOne notable AI application in healthcare is machine learning (ML) algorithms, (2)________. ML helps analyze vast amounts of medical data, discover patterns and predict outcomes with remarkable accuracy. (3)________.\n\nAnother important area where AI is making improvements is in patient monitoring. Hospitals are implementing AI-based systems to monitor patients in real time and alert medical staff when irregularities occur. (4)________.\n\nThe impact of AI on healthcare is immense and ongoing, influencing everything from patient care to administrative efficiency. Possessing up-to-date technology, (5)________.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "have led to the development of innovative diagnostic solutions",
+            "B": "of which has enabled the creation of diagnostic tools",
+            "C": "while bringing advanced diagnostic equipment into practice",
+            "D": "that created new diagnostic tools for diseases"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu đã có chủ ngữ chính 'advancements in AI' và cần một động từ chính có chia thì.\nLoại B và D vì sử dụng mệnh đề quan hệ. Loại C vì là mệnh đề với 'while'.\nA đúng: 'have led to the development of innovative diagnostic solutions' làm vị ngữ cho câu.\nTạm dịch: Trong những năm gần đây, những tiến bộ của AI, ở mức độ lớn, đã dẫn đến sự phát triển của các giải pháp chẩn đoán sáng tạo."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "using by medical researchers to analyze patient data",
+            "B": "which medical researchers use to analyze patient data",
+            "C": "assisted medical researchers in analyzing patient data",
+            "D": "of which the usage by medical researchers in analyze patient data"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu đã có chủ ngữ chính 'One notable AI application in healthcare' và động từ chính 'is'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại A vì rút gọn mệnh đề quan hệ dạng bị động sai. Loại C vì sử dụng động từ có chia thì 'assisted'. Loại D vì mệnh đề quan hệ thiếu động từ.\nB đúng: 'which medical researchers use to analyze patient data'.\nTạm dịch: Một ứng dụng AI đáng chú ý trong chăm sóc sức khỏe là thuật toán học máy (ML), mà các nhà nghiên cứu y khoa sử dụng để phân tích dữ liệu bệnh nhân."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "It benefits patients by ensuring faster diagnostics",
+            "B": "All patients use ML for faster diagnostics",
+            "C": "Faster diagnostics led to the usage of ML",
+            "D": "Patients can adapt them to have faster diagnostics"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa.\nA đúng: 'It benefits patients by ensuring faster diagnostics' – Nó có lợi cho bệnh nhân bằng cách đảm bảo chẩn đoán nhanh hơn => Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nB sai vì bệnh nhân không phải người sử dụng ML để chẩn đoán.\nC sai vì việc sử dụng ML mới dẫn đến chẩn đoán nhanh hơn.\nD sai về ý nghĩa câu.\nTạm dịch: ML giúp phân tích lượng lớn dữ liệu y tế, phát hiện các mẫu và dự đoán kết quả với độ chính xác đáng kinh ngạc. Nó mang lại lợi ích cho bệnh nhân bằng cách đảm bảo chẩn đoán nhanh hơn."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "This system is installed so that staff can alert patients instantly",
+            "B": "Without this system, staff can be alerted instantly by saving time",
+            "C": "Using this system correctly, they allow staff to alert patients instantly",
+            "D": "This system saves time and resources by alerting staff instantly"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu phù hợp về ngữ nghĩa.\nA sai ở 'staff can alert patients instantly' vì hệ thống này cảnh báo nhân viên chứ không phải nhân viên cảnh báo bệnh nhân.\nB sai về ý nghĩa câu.\nC sai ở 'they allow staff to alert patients instantly' vì hệ thống này cảnh báo nhân viên chứ không phải nhân viên cảnh báo bệnh nhân.\nD đúng: 'This system saves time and resources by alerting staff instantly'.\nTạm dịch: Các bệnh viện đang triển khai các hệ thống dựa trên AI để theo dõi bệnh nhân theo thời gian thực và cảnh báo nhân viên y tế khi xảy ra bất thường. Hệ thống này tiết kiệm thời gian và tài nguyên bằng cách cảnh báo nhân viên ngay lập tức."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "new systems reduce medical workload by automating tasks",
+            "B": "the reduction in workload needs new systems with automatic tasks",
+            "C": "medical workload is reduced by automating tasks of new systems",
+            "D": "automatic tasks reduce medical workload thanks to new systems"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy mệnh đề phía trước sử dụng hiện tại phân từ dạng chủ động 'Possessing' (sở hữu). Chủ ngữ chung cần là 'new systems' (hệ thống mới).\nA đúng: chủ ngữ chung 'new systems' => Đúng vì phù hợp về ngữ nghĩa khi kết hợp với 'Possessing' ở mệnh đề phía trước.\nB sai vì 'the reduction in workload' không thể kết hợp với 'Possessing'.\nC sai vì 'medical workload' không thể kết hợp với 'Possessing'.\nD sai vì 'automatic tasks' không thể kết hợp với 'Possessing'.\nTạm dịch: Sở hữu công nghệ tiên tiến, các hệ thống mới giúp giảm khối lượng công việc y tế bằng cách tự động hóa các nhiệm vụ."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 6 to 11.",
+      "passageTitle": "The Joy of Reading",
+      "passage": "Many people find reading to be an (6)________ experience, as it allows them to escape into a different world. For those who want to build a (7)________, choosing books that match their interests can make reading more enjoyable. A recent program (8)________ 'Read Together' encourages people to share books with friends and discuss them. Studies show that reading consistently leads (9)________ better focus and concentration. For young readers, experts recommend (10)________ time to read each day to cultivate a love for books. If you're looking to expand your reading list, consider (11)________ new genres.",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "excited",
+            "B": "excite",
+            "C": "exciting",
+            "D": "excitement"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại:\nA. excited /ɪkˈsaɪtɪd/ (adj): phấn khích (chỉ cảm giác của người)\nB. excite /ɪkˈsaɪt/ (v): làm phấn khích\nC. exciting /ɪkˈsaɪtɪŋ/ (adj): gây thú vị, hào hứng (chỉ sự vật)\nD. excitement /ɪkˈsaɪtmənt/ (n): sự phấn khích\nSau mạo từ 'an' và trước danh từ 'experience', ta cần một tính từ mang nghĩa 'gây hào hứng' nên ta chọn 'exciting'. Cụm danh từ: a/an/the + ADJ + N.\nTạm dịch: Nhiều người thấy đọc sách là một trải nghiệm thú vị, vì nó cho phép họ thoát khỏi thế giới bên ngoài."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "habit lifelong reading",
+            "B": "reading habit lifelong",
+            "C": "lifelong habit reading",
+            "D": "lifelong reading habit"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trật tự từ: Ta có cụm danh từ 'reading habit' (thói quen đọc) nên tính từ 'lifelong' cần đứng trước cụm danh từ này để bổ sung ý nghĩa. Trật tự đúng: lifelong + reading habit.\nTạm dịch: Đối với những người muốn xây dựng thói quen đọc sách suốt đời, việc chọn những cuốn sách phù hợp với sở thích của họ có thể khiến việc đọc sách trở nên thú vị hơn."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "named",
+            "B": "naming",
+            "C": "was named",
+            "D": "which"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động: Ta thấy câu đã có chủ ngữ 'a recent program' và động từ chính 'encourages'. Để rút gọn mệnh đề quan hệ dạng bị động, ta lược bỏ đại từ quan hệ và to be (nếu có), giữ nguyên quá khứ phân từ (V3/ed).\nA đúng: 'named' – rút gọn của 'which was named'.\nTạm dịch: Một chương trình gần đây có tên 'Đọc cùng nhau' khuyến khích mọi người chia sẻ sách với bạn bè và thảo luận về chúng."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "from",
+            "B": "in",
+            "C": "on",
+            "D": "to"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cụm từ: lead to something: dẫn tới điều gì đó.\nTạm dịch: Các nghiên cứu cho thấy việc đọc sách thường xuyên dẫn đến khả năng tập trung và chú ý tốt hơn."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "setting",
+            "B": "making",
+            "C": "doing",
+            "D": "growing"
+          },
+          "correctAnswer": "B",
+          "explanation": "Idioms: make time to do something: dành thời gian làm gì đó.\nTạm dịch: Đối với những độc giả trẻ, các chuyên gia khuyến nghị dành thời gian để đọc sách mỗi ngày để nuôi dưỡng tình yêu dành cho sách."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to explore",
+            "B": "explored",
+            "C": "explores",
+            "D": "exploring"
+          },
+          "correctAnswer": "D",
+          "explanation": "Danh động từ: consider doing something: cân nhắc làm gì đó.\nTạm dịch: Nếu bạn đang tìm cách mở rộng danh sách đọc của mình, hãy cân nhắc khám phá các thể loại mới."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 12 to 17.",
+      "passageTitle": "Boosting Your Confidence",
+      "passage": "If you are looking to improve your self-esteem and feel more confident in your daily life, here are some tips for you to make positive changes.\n\nConfidence Facts: Studies show that only 35% of people report feeling confident in their abilities, while (12)________ struggle with self-doubt. Building confidence can help improve your performance at work and in social situations.\n\nTips to Boost Your Confidence:\n- Set realistic goals! Start small and (13)________ yourself when you reach milestones.\n- Surround yourself with positivity! (14)________ supportive friends and colleagues to boost your self-esteem.\n- Focus on your strengths! (15)________ dwelling on mistakes, concentrate on what you do well.\n- Practice self-care! Taking time for yourself can (16)________ your mood and confidence levels.\n- Keep learning! Gaining new skills helps (17)________ a sense of accomplishment",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "other",
+            "B": "another",
+            "C": "the other",
+            "D": "the others"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về đại từ/tính từ bất định:\nA. other + N đếm được số nhiều/không đếm được: những cái/người khác\nB. another + N đếm được số ít: cái/người khác\nC. the other + N đếm được: (những) cái/người còn lại trong 1 nhóm\nD. the others: những cái/người còn lại trong một nhóm (đại từ)\nTa cần một từ có thể đứng độc lập đóng vai trò là một chủ ngữ và dựa vào ngữ cảnh, ta chọn 'the others' (những người còn lại – tức 65% còn lại).\nTạm dịch: Các nghiên cứu cho thấy chỉ có 35% mọi người báo cáo rằng họ cảm thấy tự tin vào khả năng của mình, trong khi những người còn lại phải vật lộn với sự tự ti."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "reward",
+            "B": "encourage",
+            "C": "push",
+            "D": "remind"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nA. reward /rɪˈwɔːd/ (v): thưởng\nB. encourage /ɪnˈkʌrɪdʒ/ (v): khuyến khích\nC. push /pʊʃ/ (v): đẩy, thúc đẩy\nD. remind /rɪˈmaɪnd/ (v): nhắc nhở\nTạm dịch: Bắt đầu từ những mục tiêu nhỏ và tự thưởng cho bản thân khi đạt được các cột mốc."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Seek out",
+            "B": "Keep up",
+            "C": "Take in",
+            "D": "Bring about"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. Seek out: tìm kiếm\nB. Keep up: duy trì\nC. Take in: tiếp thu, hiểu\nD. Bring about: gây ra\nTạm dịch: Tìm kiếm những người bạn và đồng nghiệp ủng hộ để tăng cường lòng tự trọng của bạn."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On account of",
+            "B": "Instead of",
+            "C": "Because of",
+            "D": "In case of"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về liên từ:\nA. On account of: vì, do\nB. Instead of: thay vì\nC. Because of: vì\nD. In case of: trong trường hợp\nTạm dịch: Thay vì bạn tâm đến những sai lầm, hãy tập trung vào những gì bạn làm tốt."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "reduce",
+            "B": "lift",
+            "C": "harm",
+            "D": "break"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. reduce /rɪˈdʒuːs/ (v): giảm\nB. lift /lɪft/ (v): nâng\nC. harm /hɑːm/ (v): làm hại\nD. break /breɪk/ (v): làm vỡ\nTạm dịch: Dành thời gian cho bản thân có thể nâng cao tâm trạng và mức độ tự tin của bạn."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "offer",
+            "B": "create",
+            "C": "deduce",
+            "D": "achieve"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. offer /ˈɒfə(r)/ (v): cung cấp\nB. create /kriˈeɪt/ (v): tạo ra\nC. deduce /dɪˈdjuːs/ (v): suy ra\nD. achieve /əˈtʃiːv/ (v): đạt được\nTạm dịch: Việc học các kỹ năng mới giúp tạo ra cảm giác hoàn thành."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 18 to 22.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "Hi Alex,\na. I feel much more confident about presenting it now.\nb. I hope we can work together again in the future!\nc. Let me know if you're available for another collaboration soon.\nd. Thanks so much for your help with the project last week.\ne. Your suggestions really improved the final outcome.\nBest,\nCatherine",
+          "options": {
+            "A": "a-c-b-d-e",
+            "B": "a-b-c-d-e",
+            "C": "a-d-b-c-e",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: d (cảm ơn vì sự giúp đỡ) → e (gợi ý của bạn đã cải thiện kết quả) → a (tôi cảm thấy tự tin hơn) → b (hy vọng hợp tác lại) → c (hãy cho tôi biết nếu bạn sẵn sàng).\nTạm dịch: Xin chào Alex, Cảm ơn bạn rất nhiều vì đã giúp đỡ dự án tuần trước. Những gợi ý của bạn thực sự đã cải thiện kết quả cuối cùng rất nhiều. Tôi cảm thấy tự tin hơn hẳn khi trình bày nó bây giờ. Tôi hy vọng chúng ta có thể hợp tác lần nữa trong tương lai! Hãy cho tôi biết nếu bạn có thể sớm hợp tác thêm lần nữa."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "a. Regular consumption of Coke can lead to several severe health concerns, which are linked to obesity and various health issues.\nb. Studies have shown that individuals who consume soft drinks frequently are more likely to develop type 2 diabetes and heart disease.\nc. Additionally, the acidity in Coke can erode tooth enamel, leading to dental problems over time.\nd. The high caffeine content in Coke can also contribute to anxiety and disrupt sleep patterns, affecting overall well-being.\ne. In conclusion, while Coke may be a popular beverage, the dangers associated with its regular consumption can have serious long-term health consequences",
+          "options": {
+            "A": "b-a-c-d-e",
+            "B": "a-d-c-b-e",
+            "C": "a-b-d-c-e",
+            "D": "d-a-c-b-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: a (câu mở đầu – tiêu thụ Coke dẫn đến các vấn đề sức khỏe nghiêm trọng) → b (nghiên cứu chỉ ra: tiểu đường, bệnh tim) → d (hàm lượng caffeine cao: lo lắng, rối loạn giấc ngủ) → c (tính axit: mòn men răng) → e (kết luận).\nTạm dịch: Tiêu thụ Coca thường xuyên có thể dẫn đến một số vấn đề sức khỏe nghiêm trọng, có liên quan đến béo phì và nhiều vấn đề sức khỏe khác. Các nghiên cứu đã chỉ ra rằng những người thường xuyên tiêu thụ nước ngọt có ga có nhiều khả năng mắc bệnh tiểu đường loại 2 và bệnh tim. Hàm lượng caffeine cao trong Coca cũng có thể gây lo lắng và làm gián đoạn giấc ngủ, ảnh hưởng đến sức khỏe tổng thể. Ngoài ra, tính axit trong Coca có thể làm mòn men răng, dẫn đến các vấn đề về răng miệng theo thời gian. Tóm lại, mặc dù Coca có thể là một loại đồ uống phổ biến, nhưng những nguy cơ liên quan đến việc tiêu thụ thường xuyên có thể gây ra hậu quả nghiêm trọng về sức khỏe lâu dài."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "a. Furthermore, language that includes slurs or derogatory terms can escalate tensions and lead to online conflicts among users.\nb. A recent study found that certain Vietnamese phrases used on social media are often perceived as offensive or disrespectful, particularly among younger generations.\nc. This highlights the importance of promoting a positive online environment in discussions about social media etiquette.\nd. In fact, research indicates that nearly 65% of social media users in Vietnam have encountered offensive language in online interactions.\ne. In conclusion, being mindful of language use on social media is essential to fostering respectful communication and avoiding misunderstandings",
+          "options": {
+            "A": "d-b-c-a-e",
+            "B": "b-a-d-c-e",
+            "C": "e-a-d-b-c",
+            "D": "b-e-a-c-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: b (nghiên cứu: một số cụm từ tiếng Việt bị coi là xúc phạm) → a (hơn nữa, ngôn ngữ có từ miệt thị có thể leo thang xung đột) → d (thực tế, 65% người dùng MXH gặp ngôn ngữ xúc phạm) → c (điều này làm nổi bật tầm quan trọng của môi trường trực tuyến tích cực) → e (kết luận).\nTạm dịch: Một nghiên cứu gần đây phát hiện ra rằng một số cụm từ tiếng Việt được sử dụng trên phương tiện truyền thông xã hội thường bị coi là xúc phạm hoặc thiếu tôn trọng, đặc biệt là trong giới trẻ. Hơn nữa, ngôn ngữ bao gồm các từ ngữ miệt thị hoặc xúc phạm có thể làm gia tăng căng thẳng và dẫn đến xung đột trực tuyến giữa những người dùng. Trên thực tế, nghiên cứu chỉ ra rằng gần 65% người dùng phương tiện truyền thông xã hội tại Việt Nam đã gặp phải ngôn ngữ xúc phạm trong các tương tác trực tuyến. Điều này làm nổi bật tầm quan trọng của việc thúc đẩy một môi trường trực tuyến tích cực trong các cuộc thảo luận về phép xã giao trên phương tiện truyền thông xã hội. Tóm lại, việc lưu ý đến việc sử dụng ngôn ngữ trên phương tiện truyền thông xã hội là điều cần thiết để thúc đẩy giao tiếp tôn trọng và tránh hiểu lầm."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "a. Kate: I'm starting with landscapes, but I want to try portraits eventually.\nb. Kate: I've decided to take up painting as a hobby.\nc. Anna: That sounds like a lot of fun!\nd. Kate: Yeah, it helps me relax after work.\ne. Anna: What kind of painting are you doing?",
+          "options": {
+            "A": "a-c-e-b-d",
+            "B": "b-d-c-e-a",
+            "C": "b-c-d-e-a",
+            "D": "a-b-d-c-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: b (Kate thông báo sẽ học vẽ) → c (Anna: Nghe có vẻ rất thú vị!) → d (Kate: Đúng vậy, nó giúp tôi thư giãn sau giờ làm việc.) → e (Anna: Bạn đang vẽ loại tranh nào?) → a (Kate: Tôi đang bắt đầu với phong cảnh, nhưng sau này tôi muốn thử vẽ chân dung.)\nTạm dịch: Kate: Tôi đã quyết định sẽ theo đuổi sở thích vẽ. / Anna: Nghe có vẻ rất thú vị! / Kate: Đúng vậy, nó giúp tôi thư giãn sau giờ làm việc. / Anna: Bạn đang vẽ loại tranh nào? / Kate: Tôi đang bắt đầu với phong cảnh, nhưng sau này tôi muốn thử vẽ chân dung."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "a. David: Hey, Sarah! You've been traveling a lot lately, right?\nb. David: That's amazing! How was the experience?\nc. Sarah: Hi, David! Yes, I just got back from Europe.",
+          "options": {
+            "A": "b-a-c",
+            "B": "c-a-b",
+            "C": "a-b-c",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: a (David hỏi Sarah đã đi du lịch nhiều chưa) → c (Sarah xác nhận, vừa trở về từ Châu Âu) → b (David: Thật tuyệt vời! Trải nghiệm thế nào?)\nTạm dịch: David: Này, Sarah! Dạo này bạn đi du lịch nhiều lắm, đúng không? / Sarah: Chào, David! Vâng, tôi vừa trở về từ Châu Âu. / David: Thật tuyệt vời! Trải nghiệm thế nào?"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Sleep and Business Performance",
+      "passage": "Kazuhiko Moriyama is betting that well-rested workers are good for business. In fact, he's placing real money on that bet. Employees who sleep at least six hours a night, for at least five days a week, are rewarded points by Crazy Inc., a wedding organizer in Japan. The points can be exchanged for food in the company cafeteria worth as much as 64,000 yen (570 dollars) per year. Nightly rest will be tracked using an app made by Airweave Inc., a mattress manufacturer.\n\nMore than 92 percent of Japanese over the age of 20 say that they aren't getting enough sleep, according to a survey by Fuji Rybki, a health-product maker. Because of a labor shortage and long-held cultural belief of noble sacrifice for the corporate good, Japan has become notorious for a phenomenon called death-from-overwork, which claimed the life of an ad agency employee in 2015.\n\n\"You have to protect workers' rights, otherwise the country itself will weaken,\" Moriyama said. In addition to encouraging sleep, the company also promotes better nutrition, exercise and a more positive office environment. It also provides employees with child support, as well the opportunity to take company vacations on regular business days.\n\nThere's some evidence that more sleep will lead to improved business performance and higher economic growth. Insufficient sleep costs the U.S. economy as much as 411 billion dollars a year, or 2.28 percent of GDP, according to a 2009 study by Rand Corp. For Japan, the loss is estimated to be 138 billion dollars, or 2.92 percent of GDP. \"I eventually want to reach a million employees,\" Moriyama said. \"I want to do something that other people will think is crazy.\"",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1?",
+          "context": "",
+          "options": {
+            "A": "The points provide discounts on food items in the cafeteria worth up to 64,000 yen.",
+            "B": "The points give priority access to meals costing up to 64,000 yen in the cafeteria.",
+            "C": "The points can be used to buy meals on the house valued at up to 64,000 yen.",
+            "D": "The points can be redeemed for food in the company cafeteria worth up to 64,000 yen."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu gạch chân: 'The points can be exchanged for food in the company cafeteria worth as much as 64,000 yen (570 dollars) per year.'\nA sai ở 'provide discounts' – điểm không cung cấp giảm giá mà dùng để đổi.\nB sai ở 'give priority access' – không phải ưu tiên truy cập mà là đổi lấy thức ăn.\nC sai ở 'buy meals on the house' – 'on the house' nghĩa là miễn phí hoàn toàn, không chính xác.\nD đúng: 'The points can be redeemed for food in the company cafeteria worth up to 64,000 yen.' – redeemed = exchanged.\nTạm dịch: Các điểm này có thể được đổi lấy đồ ăn trong căng tin công ty trị giá lên đến 64.000 yên."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"notorious\" in paragraph 2 could be best replaced by ______",
+          "context": "",
+          "options": {
+            "A": "infamous",
+            "B": "infected",
+            "C": "severe",
+            "D": "challenging"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ vựng:\nA. infamous /ˈɪnfəməs/ (adj): khét tiếng, nổi tiếng xấu\nB. infected /ɪnˈfektɪd/ (adj): bị nhiễm bệnh\nC. severe /sɪˈvɪə(r)/ (adj): nghiêm trọng\nD. challenging /ˈtʃælɪndʒɪŋ/ (adj): đầy thách thức\nNotorious /nəʊˈtɔːriəs/ (adj): tai tiếng = infamous (adj).\nThông tin: 'Japan has become notorious for a phenomenon called death-from-overwork.'"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"positive\" in paragraph 3 is OPPOSITE in meaning to ________",
+          "context": "",
+          "options": {
+            "A": "insignificant",
+            "B": "optimistic",
+            "C": "detrimental",
+            "D": "unfavorable"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ vựng:\nA. insignificant /ˌɪnsɪɡˈnɪfɪkənt/ (adj): không đáng kể\nB. optimistic /ˌɒptɪˈmɪstɪk/ (adj): lạc quan\nC. detrimental /ˌdetrɪˈmentl/ (adj): có hại, bất lợi\nD. unfavorable /ʌnˈfɜːvərəbl/ (adj): không thuận lợi\nPositive /ˈpɒzətɪv/ (adj): tích cực, có lợi >< detrimental (adj): có hại, bất lợi.\nThông tin: 'the company also promotes better nutrition, exercise and a more positive office environment.'"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "According to the passage, all of the following are benefits of the company's policies EXCEPT ________",
+          "context": "",
+          "options": {
+            "A": "encouraging better nutrition",
+            "B": "supporting workers' rights",
+            "C": "providing company vacations",
+            "D": "offering higher salaries"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: '\"You have to protect workers' rights\"... the company also promotes better nutrition, exercise and a more positive office environment. It also provides employees with child support, as well the opportunity to take company vacations on regular business days.'\nCác lợi ích được đề cập: protecting workers' rights (B), better nutrition (A), company vacations (C). Offering higher salaries không được đề cập.\nTạm dịch: Theo bài đọc, tất cả các lợi ích của chính sách công ty bao gồm NGOẠI TRỪ: cung cấp mức lương cao hơn."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "The word \"It\" in paragraph 3 refers to ________",
+          "context": "",
+          "options": {
+            "A": "exercise",
+            "B": "environment",
+            "C": "nutrition",
+            "D": "company"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'In addition to encouraging sleep, the company also promotes better nutrition, exercise and a more positive office environment. It also provides employees with child support...'\nTừ 'It' đề cập đến 'the company' (công ty).\nTạm dịch: Công ty cũng hỗ trợ nhân viên nuôi con cũng như cơ hội được nghỉ phép của công ty vào những ngày làm việc thông thường."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Employees at Crazy Inc. can earn rewards by getting sufficient sleep.",
+            "B": "The majority of Japanese people report getting enough sleep regularly",
+            "C": "Crazy Inc. encourages its employees to work longer hours for better performance.",
+            "D": "The death-from-overwork phenomenon in Japan are driven by cultural differences"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: 'Employees who sleep at least six hours a night, for at least five days a week, are rewarded points by Crazy Inc.'\nB sai: 'More than 92 percent of Japanese over the age of 20 say that they aren't getting enough sleep.'\nC sai vì không có thông tin trong bài. Ngược lại, có thể suy ra rằng Crazy Inc. khuyến khích nhân viên ngủ đủ giấc.\nD sai ở 'by cultural differences' vì hiện tượng này là do 'a labor shortage and long-held cultural belief of noble sacrifice for the corporate good'.\nA đúng: Nhân viên tại Crazy Inc. có thể nhận thưởng bằng cách ngủ đủ giấc."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention the specific reward system for employees who get enough sleep?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 1",
+            "C": "Paragraph 2",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Employees who sleep at least six hours a night, for at least five days a week, are rewarded points by Crazy Inc., a wedding organizer in Japan.' – Đây là đoạn 1.\nTạm dịch: Những nhân viên ngủ ít nhất sáu tiếng mỗi đêm trong tối thiểu năm ngày một tuần sẽ được Crazy Inc., một công ty tổ chức tiệc cưới tại Nhật Bản, thưởng điểm."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer mention the economic consequences of the lack of sleep among employees?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 3",
+            "C": "Paragraph 2",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: 'Insufficient sleep costs the U.S. economy as much as 411 billion dollars a year, or 2.28 percent of GDP... For Japan, the loss is estimated to be 138 billion dollars, or 2.92 percent of GDP.' – Đây là đoạn 4.\nTạm dịch: Giấc ngủ không đủ đã khiến kinh tế Mỹ thiệt hại tới 411 tỷ USD một năm, chiếm 2,28% GDP. Nền kinh tế Nhật Bản bị mất khoảng 138 tỷ USD, tương đương 2,92% GDP."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Sustainable Agriculture",
+      "passage": "(I) Sustainable agriculture has emerged as a solution to the environmental and health issues caused by traditional farming methods. (II) This approach focuses on balancing food production with the preservation of natural resources and aims to provide a stable food supply for future generations. (III) By enhancing biodiversity and maintaining healthy soils, sustainable agriculture also reduces dependency on chemical fertilizers which have been shown to degrade soil quality over time. (IV)\n\nMoreover, sustainable agriculture addresses social concerns by promoting fair labor practices and supporting small-scale farmers. It not only benefits local communities but also creates a more resilient food system. However, while sustainable agriculture presents many advantages, transitioning from conventional methods requires time, investment, and education.\n\nDespite the challenges, more farmers are adopting sustainable practices as demand for organically and sustainably sourced food grows. Consumers are increasingly aware of the environmental impact of their food choices, driving a shift toward greener agriculture worldwide.\n\nSustainable agriculture also aligns with global efforts to combat climate change. As agricultural methods contribute to greenhouse gas emissions, practices like crop diversity, natural pest control and efficient water use are encouraged to minimize the carbon footprint. By adopting sustainable methods, farmers can help reduce emissions, improve soil health, and protect ecosystems, contributing positively to the fight against climate change.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"Basically, sustainable agriculture seeks to balance environmental and economic needs.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(II)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu cần điền phù hợp nhất ở vị trí (II) vì là câu định nghĩa cơ bản về nông nghiệp bền vững và đóng vai trò câu tổng quát ý của các câu sau vị trí (II). Câu trước (I) nói về việc nông nghiệp bền vững xuất hiện như một giải pháp, câu sau vị trí (II) mô tả chi tiết phương pháp này tập trung vào cân bằng sản xuất lương thực và bảo tồn tài nguyên.\nTạm dịch: Nông nghiệp bền vững đã nổi lên như một giải pháp cho các vấn đề môi trường và sức khỏe do các phương pháp canh tác truyền thống gây ra. Cơ bản, nông nghiệp bền vững tìm cách cân bằng giữa nhu cầu môi trường và kinh tế. Phương pháp này tập trung vào việc cân bằng giữa sản xuất lương thực và bảo tồn tài nguyên thiên nhiên."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase \"dependency on\" in paragraph 1 could be best replaced by ________",
+          "context": "",
+          "options": {
+            "A": "agreement on",
+            "B": "disregard for",
+            "C": "need for",
+            "D": "reliance on"
+          },
+          "correctAnswer": "D",
+          "explanation": "dependency on: sự phụ thuộc vào = reliance on\nThông tin: 'sustainable agriculture also reduces dependency on chemical fertilizers which have been shown to degrade soil quality over time.'\nTạm dịch: Bằng cách tăng cường đa dạng sinh học và duy trì đất đai khỏe mạnh, nông nghiệp bền vững cũng làm giảm sự phụ thuộc vào phân bón hóa học, vốn được chứng minh là làm suy giảm chất lượng đất theo thời gian."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"It\" in paragraph 2 refers to ________",
+          "context": "",
+          "options": {
+            "A": "promoting fair labor practices",
+            "B": "a solution to social concerns",
+            "C": "resilient food systems",
+            "D": "sustainable agriculture"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'Moreover, sustainable agriculture addresses social concerns by promoting fair labor practices and supporting small-scale farmers. It not only benefits local communities but also creates a more resilient food system.'\nTừ 'It' đề cập đến 'sustainable agriculture' (nông nghiệp bền vững).\nTạm dịch: Hơn nữa, nông nghiệp bền vững còn giải quyết các vấn đề xã hội bằng cách thúc đẩy các hoạt động lao động công bằng và hỗ trợ các nông dân quy mô nhỏ. Phương pháp này không chỉ mang lại lợi ích cho cộng đồng địa phương mà còn tạo ra một hệ thống lương thực bền vững hơn."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 2, which of the following is NOT a benefit of sustainable agriculture?",
+          "context": "",
+          "options": {
+            "A": "Resilience in the food system",
+            "B": "Fair labor practices",
+            "C": "Greater support for small-scale farmers",
+            "D": "Rapid transition with minimal costs"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: 'Moreover, sustainable agriculture addresses social concerns by promoting fair labor practices and supporting small-scale farmers. It not only benefits local communities but also creates a more resilient food system.'\nA, B và C là lợi ích của nông nghiệp bền vững. 'However, while sustainable agriculture presents many advantages, transitioning from conventional methods requires time, investment, and education.' → D sai: việc chuyển đổi đòi hỏi thời gian, đầu tư và giáo dục (không nhanh chóng, không chi phí thấp).\nTạm dịch: Theo đoạn 2, điều nào sau đây KHÔNG phải là lợi ích của nông nghiệp bền vững? – Chuyển đổi nhanh chóng với chi phí thấp."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Sustainable agriculture involves complex changes that prevent many from adopting it.",
+            "B": "Sustainable farming has grown in popularity due to increased consumer awareness.",
+            "C": "The environmental effects of food choices are less significant than previously thought.",
+            "D": "Organic farming techniques are difficult for farmers to adopt."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: 'Despite the challenges, more farmers are adopting sustainable practices as demand for organically and sustainably sourced food grows. Consumers are increasingly aware of the environmental impact of their food choices, driving a shift toward greener agriculture worldwide.'\nB đúng: Canh tác bền vững ngày càng phổ biến nhờ nhận thức ngày càng tăng của người tiêu dùng.\nA sai ở 'prevent many from adopting it'. C sai vì không có thông tin trong đoạn. D sai vì không có thông tin trong đoạn."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"aligns\" in paragraph 4 is OPPOSITE in meaning to ________",
+          "context": "",
+          "options": {
+            "A": "suits",
+            "B": "conflicts",
+            "C": "matches",
+            "D": "supports"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ vựng:\nA. suit /suːt/ (v): phù hợp\nB. conflict /ˈkɒnflɪkt/ (n): xung đột, mâu thuẫn\nC. match /mætʃ/ (v): khớp, phù hợp\nD. support /səˈpɔːt/ (v): hỗ trợ\nAlign /əˈlaɪn/ (v): căn chỉnh, phù hợp >< conflict (v).\nThông tin: 'Sustainable agriculture also aligns with global efforts to combat climate change.'"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Demand for sustainably sourced food has minimal impact on farming methods.",
+            "B": "Soil degradation increases as a result of sustainable practices.",
+            "C": "Conventional agriculture offers better methods for combating climate change.",
+            "D": "Sustainable farming is a contributory factor in mitigating climate change."
+          },
+          "correctAnswer": "D",
+          "explanation": "A sai ở 'minimal impact' – 'Despite the challenges, more farmers are adopting sustainable practices as demand for organically and sustainably sourced food grows.'\nB sai – 'By enhancing biodiversity and maintaining healthy soils, sustainable agriculture also reduces dependency on chemical fertilizers which have been shown to degrade soil quality.'\nC sai vì không có thông tin trong bài. Ngược lại, nông nghiệp truyền thống gây ra những ảnh hưởng xấu như việc sử dụng phân bón hóa học.\nD đúng: 'Sustainable agriculture also aligns with global efforts to combat climate change... By adopting sustainable methods, farmers can help reduce emissions, improve soil health, and protect ecosystems.'\nTạm dịch: Nông nghiệp bền vững là một yếu tố góp phần giảm biến đổi khí hậu."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Global sustainability efforts encourage farming practices with low environmental impact.",
+            "B": "By focusing on crop diversity, sustainable practices can limit future farming options.",
+            "C": "Sustainable agriculture methods improve soil health while maximizing output.",
+            "D": "Farming methods that produce greenhouse gases are harmful to the environment."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gạch chân: 'As agricultural methods contribute to greenhouse gas emissions, practices like crop diversity, natural pest control and efficient water use are encouraged to minimize the carbon footprint.'\nA đúng: Các nỗ lực bền vững toàn cầu khuyến khích các phương pháp canh tác có tác động nhỏ đến môi trường.\nB sai về ý nghĩa câu. C sai về ý nghĩa câu. D sai về ý nghĩa câu."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Sustainable agriculture is more costly but offers minimal environmental benefits.",
+            "B": "Natural pest control methods are insufficient to reduce farming's carbon footprint.",
+            "C": "Sustainable agriculture alone cannot fully address climate change.",
+            "D": "Greenhouse gas emissions are mostly produced through agricultural practices."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai ở 'minimal environmental benefits' – bài đọc cho thấy nông nghiệp bền vững mang lại nhiều lợi ích môi trường.\nB sai ở 'insufficient' vì 'natural pest control' là một trong những biện pháp được khuyến khích để góp phần giảm khí thải.\nD sai vì không có thông tin 'mostly' trong bài đọc.\nC đúng vì có thể suy ra. 'Sustainable agriculture' chỉ là một trong những nỗ lực để chống lại biến đổi khí hậu – 'Sustainable agriculture also aligns with global efforts to combat climate change.' (chỉ là 'aligns with', không phải là giải pháp duy nhất).\nTạm dịch: Chỉ riêng nền nông nghiệp bền vững không thể giải quyết được hoàn toàn vấn đề biến đổi khí hậu."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Conventional agriculture remains efficient, but sustainable methods reduce dependency on natural resources and assist in solving environmental problems.",
+            "B": "Sustainable farming practices are effective primarily due to technological advancements in agriculture and the increasing demand for organic food.",
+            "C": "Sustainable agriculture aims to balance resource preservation with farming needs while supporting local communities and combating climate change.",
+            "D": "Sustainable farming should be implemented worldwide as it is the preferred method for addressing climate change and improving soil quality."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai ở 'Conventional agriculture remains efficient' vì bài đọc nêu những hạn chế của nông nghiệp truyền thống (suy thoái đất và phát thải nhà kính).\nB sai vì không có thông tin ở 'technological advancements'.\nC đúng: Nông nghiệp bền vững hướng tới cân bằng giữa bảo tồn tài nguyên và nhu cầu canh tác, đồng thời hỗ trợ cộng đồng địa phương và chống biến đổi khí hậu.\nD sai vì không có thông tin trong bài nói đây là 'the preferred method'.\nTóm tắt: Bài đọc nhấn mạnh vai trò của nông nghiệp bền vững như một giải pháp để cân bằng giữa sản xuất nông nghiệp và bảo tồn tài nguyên thiên nhiên, đồng thời giải quyết các vấn đề xã hội và môi trường, đặc biệt trong việc chống biến đổi khí hậu."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.530302+00:00",
+  "updatedAt": "2026-06-08T10:41:58.530302+00:00",
+  "originalFileName": "THPT chuyen chu van an lang son.json"
+}

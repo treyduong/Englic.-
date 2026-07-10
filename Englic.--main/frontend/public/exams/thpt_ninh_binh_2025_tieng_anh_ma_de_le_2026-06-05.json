@@ -1,0 +1,628 @@
+{
+  "examId": "thpt_ninh_binh_2025_tieng_anh_ma_de_le_2026-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh (Sở GD&ĐT Ninh Bình, Mã Đề Lẻ)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Ninh_Binh_2025_Tieng_Anh_Ma_De_Le.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#NinhBinh",
+    "#TốtNghiệp",
+    "#TiengAnh"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about urbanisation and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "URBANISATION: A GROWING PHENOMENON",
+      "passage": "Urbanisation is the process through which cities grow, and higher populations begin to inhabit urban areas. This phenomenon has accelerated significantly over the past few decades due to various factors. One of the primary drivers is the search for better employment opportunities. In rural areas, job prospects are often limited to agriculture and small-scale industries, which might not provide sufficient income. Consequently, people migrate to cities seeking better livelihoods and living standards.\n\nAdditionally, urban areas offer more advanced educational facilities and healthcare services compared to rural regions. Many families move to cities to provide their children with higher-quality education and greater future opportunities. Access to hospitals and specialized medical services also attracts people to urban centers, especially in countries where rural healthcare is underdeveloped.\n\nHowever, rapid urbanisation brings about several challenges. Overcrowding in cities can lead to inadequate housing, strained infrastructure, and increased pollution. The expansion of urban areas often results in the loss of green spaces and agricultural land, impacting food production and the environment. Governments and city planners must address these issues to ensure sustainable urban growth.\n\nDespite these challenges, urbanisation has several positive aspects. Cities are often cultural melting pots, where diverse groups of people interact, leading to vibrant communities and innovation. The concentration of resources and talents in urban areas can drive economic growth and technological advancements.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Which of the following is NOT mentioned as a reason for urbanisation?",
+          "context": "",
+          "options": {
+            "A": "better employment opportunities",
+            "B": "improved transportation systems",
+            "C": "superior healthcare services",
+            "D": "advanced educational facilities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: \n+ One of the primary drivers is the search for better employment opportunities. → A đúng\n+ Additionally, urban areas offer more advanced educational facilities and healthcare services compared to rural regions. → C, D đúng\nKhông có đề cập đến hệ thống giao thông được cải thiện (improved transportation systems).\nTạm dịch: Đâu sau đây không được nhắc đến như một nguyên nhân của đô thị hóa? → B. hệ thống giao thông được cải thiện"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word \"accelerated\" in paragraph 1 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "decelerated",
+            "B": "increased",
+            "C": "progressed",
+            "D": "hastened"
+          },
+          "correctAnswer": "A",
+          "explanation": "accelerate (v): tăng tốc >< decelerate (v): giảm tốc\nA. decelerated (v): giảm tốc\nB. increased (v): tăng\nC. progressed (v): tiến bộ\nD. hastened (v): vội vã"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The word \"This phenomenon\" in paragraph 1 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "higher populations",
+            "B": "agriculture",
+            "C": "process",
+            "D": "urbanisation"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Urbanisation is the process through which cities grow, and higher populations begin to inhabit urban areas. This phenomenon has accelerated significantly over the past few decades due to various factors.\n(Đô thị hóa là quá trình mà trong đó các thành phố tăng trưởng, và dân số cao hơn bắt đầu sinh sống ở các khu vực đô thị. Hiện tượng này đã tăng tốc đáng kể trong vài thập kỷ qua do nhiều nhân tố khác nhau.)\n'This phenomenon' chỉ 'urbanisation' (đô thị hóa) được nhắc đến ngay câu trước."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "The word \"advanced\" in paragraph 2 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "simple",
+            "B": "basic",
+            "C": "developed",
+            "D": "outdated"
+          },
+          "correctAnswer": "C",
+          "explanation": "advanced (adj): tiên tiến, tiến bộ = developed (adj): phát triển\nA. simple (adj): đơn giản\nB. basic (adj): cơ bản\nC. developed (adj): phát triển ✓\nD. outdated (adj): lỗi thời\nTạm dịch: Ngoài ra, các khu vực đô thị cung cấp các cơ sở giáo dục và dịch vụ chăm sóc sức khỏe tiên tiến hơn so với các vùng nông thôn."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?\n\"Access to hospitals and specialized medical services also attracts people to urban centers, especially in countries where rural healthcare is underdeveloped.\"",
+          "context": "",
+          "options": {
+            "A": "People suppose that rural areas have better healthcare facilities than urban centers.",
+            "B": "People move to cities to find specialized medical services that are not available in rural areas.",
+            "C": "People think that urban centers lack specialized medical services compared to rural areas.",
+            "D": "People find that the main reason for migrating to urban areas is to access education."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Access to hospitals and specialized medical services also attracts people to urban centers, especially in countries where rural healthcare is underdeveloped.\n(Việc tiếp cận các bệnh viện và dịch vụ y tế chuyên biệt cũng thu hút mọi người đến các trung tâm đô thị, nhất là ở các nước mà chăm sóc sức khỏe nông thôn còn kém phát triển.)\nDiễn giải: Mọi người chuyển đến các thành phố để tìm dịch vụ y tế chuyên biệt không có sẵn ở khu vực nông thôn → B đúng."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Urbanisation has few positive aspects in economic growth.",
+            "B": "Rural areas have better infrastructure than urban areas.",
+            "C": "Urbanisation craters employment opportunities in cities.",
+            "D": "Overcrowding can lead to inadequate housing in urban areas."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Overcrowding in cities can lead to inadequate housing, strained infrastructure, and increased pollution.\n(Sự đông đúc quá mức ở các thành phố có thể dẫn đến không đủ nhà ở, căng thẳng cơ sở hạ tầng, và gia tăng ô nhiễm.)\nA sai: The concentration of resources and talents in urban areas can drive economic growth → đô thị hóa có nhiều khía cạnh tích cực.\nB sai: không đề cập.\nC sai: One of the primary drivers is the search for better employment opportunities → tạo ra, không phải phá hủy.\nD đúng ✓"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "In which paragraph does the writer mention the impact of urbanisation on the environment?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: However, rapid urbanisation brings about several challenges. Overcrowding in cities can lead to inadequate housing, strained infrastructure, and increased pollution. The expansion of urban areas often results in the loss of green spaces and agricultural land, impacting food production and the environment.\n(Đoạn 3 đề cập đến tác động của đô thị hóa đến môi trường.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "In which paragraph does the writer discuss the benefits of urbanisation?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Despite these challenges, urbanisation has several positive aspects. Cities are often cultural melting pots, where diverse groups of people interact, leading to vibrant communities and innovation. The concentration of resources and talents in urban areas can drive economic growth and technological advancements.\n(Đoạn 4 thảo luận về những lợi ích/khía cạnh tích cực của đô thị hóa.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.",
+      "passageTitle": "ChihiraAico – Humanoid Robot",
+      "passage": "ChihiraAico is an advanced humanoid robot designed by Toshiba, (9) _______. She made her debut at the CEATEC electronics show in Japan in 2014, showcasing her ability to communicate and interact in ways that closely mimic human behavior. Her design combines cutting-edge robotics and artificial intelligence (AI) technology (10) _______. ChihiraAico is capable of speaking multiple languages, engaging with people at exhibitions, and even providing directions at shopping malls and tourist centers.\n\n(11) _______, ChihiraAico and robots like her are intended to bridge the gap between humans and machines, offering personalized services and enhancing customer experiences. She is equipped with sensors, voice recognition software, and realistic facial expressions (12) _______. This enables her to respond naturally to questions, recognize emotional cues, and perform practical tasks like delivering information to visitors.\n\nAs AI technology continues to evolve, (13) _______. In the future, humanoid robots may become indispensable helpers in various public and private sectors, bringing unprecedented levels of convenience and interaction to our lives.",
+      "questions": [
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "making its primary debut in commercial software development",
+            "B": "that replaces industrial robots in manufacturing facilities",
+            "C": "developed as a project aimed at healthcare and service industries",
+            "D": "which was built specifically for factory automation"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu phía trước đề cập ChihiraAico là robot hình người tiên tiến được thiết kế bởi Toshiba. Chỗ trống cần mệnh đề quan hệ bổ sung thông tin về mục đích phát triển.\nA. ra mắt lần đầu trong phát triển phần mềm thương mại → không hợp lý\nB. thay thế robot công nghiệp trong cơ sở sản xuất → sai vì mệnh đề quan hệ có dấu phẩy không dùng 'that'\nC. được phát triển như một dự án hướng đến ngành chăm sóc sức khỏe và dịch vụ ✓\nD. được xây dựng đặc biệt cho tự động hóa nhà máy → không hợp lý\nTạm dịch: ChihiraAico là một người máy hình người tiên tiến được thiết kế bởi Toshiba, được phát triển như một dự án hướng đến ngành chăm sóc sức khỏe và dịch vụ."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "allowing her to perform repetitive tasks without fatigue",
+            "B": "meant to increase efficiency in industrial production lines",
+            "C": "designed for wide-scale manufacturing improvements",
+            "D": "enabling her to communicate and display human-like emotions"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu phía trước đề cập 'her ability to communicate and interact in ways that closely mimic human behavior' (khả năng giao tiếp và tương tác theo cách mô phỏng gần giống hành vi của con người).\nD. cho phép cô giao tiếp và thể hiện những cảm xúc như con người ✓\nTạm dịch: Thiết kế của cô ấy kết hợp công nghệ robot và trí tuệ nhân tạo (AI) tiên tiến cho phép cô giao tiếp và thể hiện những cảm xúc như con người."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Unlike other industrial models",
+            "B": "Though initially limited in usage",
+            "C": "Beyond simple programmed responses",
+            "D": "Built to provide manual labor solutions"
+          },
+          "correctAnswer": "C",
+          "explanation": "Vị trí đầu câu, cần cụm từ/mệnh đề chuyển tiếp phù hợp với nội dung câu sau: ChihiraAico được thiết kế để thu hẹp khoảng cách giữa con người và máy móc, cung cấp dịch vụ cá nhân hóa.\nC. Vượt ra ngoài những phản ứng được lập trình đơn giản ✓ – phù hợp vì đề cập đến khả năng vượt xa các phản ứng lập trình thông thường.\nTạm dịch: Vượt ra ngoài những phản ứng được lập trình đơn giản, ChihiraAico và các người máy như cô có mục đích thu hẹp khoảng cách giữa con người và máy móc..."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to enhance user comfort and interaction with artificial systems",
+            "B": "contributing to machine learning through repetitive tasks",
+            "C": "for recognizing patterns in industrial environments",
+            "D": "thus eliminating all forms of human interaction from daily life"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu trước: She is equipped with sensors, voice recognition software, and realistic facial expressions (12) _______.\nCần cụm từ chỉ mục đích/kết quả của việc được trang bị những thiết bị đó.\nA. để nâng cao sự thoải mái và tương tác với các hệ thống nhân tạo của người dùng ✓\nTạm dịch: Cô ấy được trang bị với các cảm biến, phần mềm nhận diện giọng nói, và biểu cảm gương mặt thực tế để nâng cao sự thoải mái và tương tác với các hệ thống nhân tạo của người dùng."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "humans can expect to be obsolete in various roles",
+            "B": "humanoid robots will be commonplace in daily life activities",
+            "C": "society will abandon personal interactions altogether",
+            "D": "more jobs will be automated than ever before"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu: As AI technology continues to evolve, (13) _______. In the future, humanoid robots may become indispensable helpers in various public and private sectors...\nNội dung câu tiếp theo nói về robot hình người trở thành người giúp đỡ không thể thiếu → chỗ trống phải dự báo tương lai tương tự.\nB. robot hình người sẽ trở nên phổ biến trong các hoạt động thường ngày ✓\nTạm dịch: Khi công nghệ AI tiếp tục phát triển, robot hình người sẽ trở nên phổ biến trong các hoạt động thường ngày."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the future of energy and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "THE FUTURE OF ENERGY",
+      "passage": "(I) As the world grapples with the finite nature of fossil fuel reserves and the detrimental impact of climate change, the future of energy undeniably lies in renewable sources. (II) Scientists and engineers are making substantial advancements in the development of technologies that more efficiently harness solar, wind, hydro, and geothermal energy. (III) Although the transition to these renewable sources presents significant challenges, it is also regarded as a pivotal step towards establishing a sustainable and resilient energy system. (IV)\n\nOne of the most promising advancements in renewable energy is the enhancement of solar panel efficiency. Progress in photovoltaic technology has led to the creation of panels that convert a higher proportion of sunlight into electricity. Likewise, wind turbines are becoming more and more efficient. They are capable of generating power even under low-wind conditions. These innovations are essential for making renewable energy more feasible and accessible to a broader population.\n\nHowever, the transition to renewable energy is fraught with obstacles. The intermittent nature of sources like solar and wind necessitates reliable storage solutions to ensure a consistent power supply. Although battery technology has seen significant improvements, further advancements are imperative to meet growing demand. Moreover, the infrastructure for distributing renewable energy requires expansion and upgrading to accommodate these new power sources.\n\nThe economic impact of transitioning to renewable energy is another critical consideration. While the initial investment in renewable energy infrastructure can be substantial, the long-term benefits include reduced energy costs and job creation in the green energy sector. Governments and private enterprises are increasingly acknowledging the necessity of investing in renewable energy projects, which is crucial for fostering innovation and diminishing reliance on fossil fuels.\n\nUltimately, the future of energy hinges on our capacity to innovate and adapt. By continuing to invest in research and development, improving infrastructure, and addressing economic and technical challenges, we can transition towards a more sustainable and environmentally friendly energy system.",
+      "questions": [
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"The shift towards renewable energy is seen as a necessary response to the global energy crisis.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(IV)",
+            "C": "(III)",
+            "D": "(II)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu cần chèn: 'The shift towards renewable energy is seen as a necessary response to the global energy crisis.' (Sự chuyển đổi sang năng lượng tái tạo được xem là một phản ứng cần thiết đối với khủng hoảng năng lượng toàn cầu.)\nCâu này giới thiệu chủ đề năng lượng tái tạo và lý do cần chuyển đổi → phù hợp đặt ở đầu đoạn, trước câu (I): 'As the world grapples with the finite nature of fossil fuel reserves...'\nVị trí (I) là trước câu đầu tiên của đoạn."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "The phrase \"harness\" in paragraph 1 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "create",
+            "B": "capture",
+            "C": "release",
+            "D": "control"
+          },
+          "correctAnswer": "B",
+          "explanation": "harness (v): khai thác = capture (v): thu, bắt, khai thác\nA. create (v): tạo ra\nB. capture (v): thu, bắt, khai thác ✓\nC. release (v): giải phóng\nD. control (v): kiểm soát\nTạm dịch: Các nhà khoa học và kỹ sư đang thực hiện những bước tiến đáng kể trong việc phát triển các công nghệ khai thác hiệu quả hơn năng lượng mặt trời, gió, nước và địa nhiệt."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "According to paragraph 2, which of the following is NOT mentioned as an advancement in renewable energy technology?",
+          "context": "",
+          "options": {
+            "A": "wind turbine capability",
+            "B": "geothermal energy",
+            "C": "hydroelectric power",
+            "D": "solar panel efficiency",
+            "E": "None of the above"
+          },
+          "correctAnswer": "E",
+          "explanation": "Đoạn 2 đề cập:\n+ wind turbines are becoming more and more efficient → A đúng\n+ One of the most promising advancements in renewable energy is the enhancement of solar panel efficiency → D đúng\nĐoạn 2 KHÔNG đề cập riêng về geothermal energy hay hydroelectric power như một bước tiến – chúng được nhắc ở đoạn 1 như nguồn năng lượng.\nTuy nhiên, cả A và D đều được nhắc trong đoạn 2, B và C không được đề cập trong đoạn 2 → Đáp án E: None of the above (cả 4 lựa chọn kia đều sai hoặc đúng một phần) → đáp án là E."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "The word \"They\" in paragraph 2 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "solar panel",
+            "B": "wind turbines",
+            "C": "photovoltaic technology",
+            "D": "renewable energy"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Likewise, wind turbines are becoming more and more efficient. They are capable of generating power even under low-wind conditions.\n(Đồng thời, các tua bin gió đang trở nên ngày càng hiệu quả. Chúng có khả năng sản sinh điện thậm chí trong điều kiện ít gió.)\n'They' chỉ 'wind turbines' (tua bin gió)."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Challenges in renewable energy include storage solutions and infrastructure expansion.",
+            "B": "The intermittent nature of renewable energy sources requires improved storage solutions.",
+            "C": "Infrastructure must be upgraded to accommodate renewable energy sources.",
+            "D": "Battery technology needs significant improvements to support renewable energy."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn 3 nói về những trở ngại trong việc chuyển đổi sang năng lượng tái tạo như cần phải có các giải pháp lưu trữ đáng tin cậy cũng như mở rộng và nâng cấp cơ sở hạ tầng để chứa những nguồn năng lượng mới này.\n→ A: Những thách thức trong năng lượng tái tạo bao gồm các giải pháp lưu trữ và mở rộng cơ sở hạ tầng ✓ (bao quát nhất đoạn 3)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word \"intermittent\" in paragraph 3 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "infrequent",
+            "B": "broken",
+            "C": "constant",
+            "D": "irregular"
+          },
+          "correctAnswer": "C",
+          "explanation": "intermittent (adj): gián đoạn, không liên tục >< constant (adj): liên tục, không đổi\nA. infrequent (adj): không thường xuyên\nB. broken (adj): vỡ\nC. constant (adj): liên tục ✓\nD. irregular (adj): không đều đặn"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Fossil fuel resources are abundant and not a concern.",
+            "B": "Renewable energy technology is not yet viable for widespread use.",
+            "C": "Investment in renewable energy can reduce long-term energy costs.",
+            "D": "The transition to renewable energy is without challenges."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: While the initial investment in renewable energy infrastructure can be substantial, the long-term benefits include reduced energy costs and job creation in the green energy sector.\n(Mặc dù đầu tư ban đầu vào cơ sở hạ tầng năng lượng tái tạo có thể lớn, nhưng lợi ích dài hạn bao gồm chi phí năng lượng giảm và tạo việc làm trong lĩnh vực năng lượng xanh.)\nA sai: As the world grapples with the finite nature of fossil fuel reserves → nhiên liệu hóa thạch hữu hạn.\nB sai: These innovations are essential for making renewable energy more feasible and accessible → năng lượng tái tạo đang trở nên khả thi.\nC đúng ✓\nD sai: the transition to renewable energy is fraught with obstacles."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?\n\"While the initial investment in renewable energy infrastructure can be substantial, the long-term benefits include reduced energy costs and job creation in the green energy sector.\"",
+          "context": "",
+          "options": {
+            "A": "The economic benefits of renewable energy are difficult to measure.",
+            "B": "Governments are hesitant to invest in renewable energy projects.",
+            "C": "Investing in renewable energy leads to lower costs and new jobs.",
+            "D": "The initial cost of renewable energy projects is prohibitive."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu gốc: Mặc dù đầu tư ban đầu vào cơ sở hạ tầng năng lượng tái tạo có thể lớn, nhưng lợi ích dài hạn bao gồm chi phí năng lượng giảm và tạo việc làm trong lĩnh vực năng lượng xanh.\nDiễn giải tốt nhất: Việc đầu tư vào năng lượng tái tạo dẫn đến chi phí thấp hơn và những việc làm mới → C ✓"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Solar and wind energy are the only viable renewable energy sources.",
+            "B": "Innovation and investment are key to the future of renewable energy.",
+            "C": "The economic impact of renewable energy is purely negative.",
+            "D": "Renewable energy will completely replace fossil fuels in the near future."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: Ultimately, the future of energy hinges on our capacity to innovate and adapt. By continuing to invest in research and development, improving infrastructure, and addressing economic and technical challenges, we can transition towards a more sustainable and environmentally friendly energy system.\n(Cuối cùng, tương lai của năng lượng phụ thuộc vào khả năng đổi mới và thích ứng của chúng ta. Bằng việc tiếp tục đầu tư vào nghiên cứu và phát triển...)\n→ B: Đổi mới và đầu tư là chìa khóa dẫn đến tương lai của năng lượng tái tạo ✓"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Fossil fuels will remain the primary energy source despite advancements in renewable energy.",
+            "B": "The transition to renewable energy has no economic benefits and is not sustainable.",
+            "C": "Renewable energy sources like solar and wind are unreliable and too costly to develop.",
+            "D": "Addressing renewable energy challenges requires ongoing innovation and investment."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn văn nói về những tiến bộ trong công nghệ năng lượng tái tạo và các thách thức trong việc chuyển đổi sang các nguồn năng lượng tái tạo, từ đó đưa ra các giải pháp để thúc đẩy sự chuyển đổi này, bao gồm đổi mới công nghệ và đầu tư nghiên cứu phát triển.\n→ D: Việc giải quyết các thách thức năng lượng tái tạo đòi hỏi đổi mới và đầu tư liên tục ✓"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "LET'S JOIN MULTICULTURAL CAMP",
+      "passage": "Are you eager to join the upcoming multicultural camp? Residing in a multicultural camp significantly enhances our existence in myriad ways. It provides us with the opportunity to engage with (24) _______ traditions, cuisines, languages, and perspectives. Interactions with individuals from (25) _______ facilitate a more comprehensive understanding of the world around us. For example, celebrations (26) _______ Diwali, Chinese New Year, and Thanksgiving serve not only to unite different cultures but also to impart knowledge regarding one another's customs.\n\nIn educational institutions and professional environments, multicultural settings foster creativity and innovation through the amalgamation of varied viewpoints. Nevertheless, it is paramount to approach others' cultures (27) _______ open-mindedness and respect, as this attitude is essential for (28) _______ harmony and unity within our communities. Embracing multiculturalism not only cultivates an appreciation for the distinctiveness of each culture but also contributes to the development of a more inclusive and vibrant community for all individuals (29) _______.",
+      "questions": [
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "diverse",
+            "B": "diversely",
+            "C": "diversify",
+            "D": "diversity"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cần tính từ trước các danh từ: traditions, cuisines, languages, and perspectives.\nA. diverse (adj): đa dạng ✓\nB. diversely (adv): một cách đa dạng\nC. diversify (v): đa dạng hóa\nD. diversity (n): sự đa dạng\nTạm dịch: Nó mang đến cho chúng ta cơ hội giao tiếp với những truyền thống, ẩm thực, ngôn ngữ, và quan điểm đa dạng."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "backgrounds various cultural",
+            "B": "various cultural backgrounds",
+            "C": "cultural backgrounds various",
+            "D": "cultural various backgrounds"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng: various (adj): đa dạng, nhiều cái khác; cultural (adj): thuộc văn hóa; background (n): nền tảng.\nTrật tự tính từ trong tiếng Anh: số lượng + ý kiến + kích thước + tuổi + hình dạng + màu sắc + xuất xứ + chất liệu + mục đích + danh từ.\nCụm đúng: various cultural backgrounds (nhiều nền tảng văn hóa khác nhau) ✓"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to include",
+            "B": "included",
+            "C": "which included",
+            "D": "including"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động: lược bỏ đại từ quan hệ và to be (nếu có), chuyển V sang V-ing.\ncelebrations (which) include Diwali... → celebrations including Diwali... ✓\nD. including ✓\nTạm dịch: Ví dụ, những ngày lễ bao gồm Diwali, Tết Trung Hoa, và Lễ Tạ ơn không chỉ nhằm mục đích đoàn kết các nền văn hóa khác nhau mà còn truyền đạt kiến thức về phong tục của nhau."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "by",
+            "B": "with",
+            "C": "from",
+            "D": "for"
+          },
+          "correctAnswer": "B",
+          "explanation": "Giới từ: approach something with something: tiếp cận thứ gì bằng tinh thần gì.\nTạm dịch: Tuy vậy, điều quan trọng nhất là tiếp cận nền văn hóa của người khác bằng tinh thần cởi mở và tôn trọng...\nB. with ✓"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "developing",
+            "B": "creating",
+            "C": "fostering",
+            "D": "nurturing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ (Collocations): foster harmony: tạo dựng hòa thuận.\nTạm dịch: ...vì thái độ này là cần thiết để tạo dựng sự hòa hợp và thống nhất trong cộng đồng của chúng ta.\nC. fostering ✓"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "participating",
+            "B": "to participating",
+            "C": "to participate",
+            "D": "participate"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cấu trúc: for somebody to do something: để ai làm gì.\nCụm cuối câu: a more inclusive and vibrant community for all individuals to participate (một cộng đồng hòa nhập và sôi động hơn để tất cả mọi cá nhân đều có thể tham gia).\nC. to participate ✓"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "Hi Taylor,\na. I also appreciate you recommending those support groups — they turned out to be more helpful than I expected.\nb. Your advice and encouragement really helped when I needed it.\nc. I just wanted to say thank you for being there for me during such a tough time.\nd. Let's catch up soon — maybe over coffee?\ne. I'm still taking things day by day, but having your support made a big difference.\nThanks again for everything.\nAlex",
+          "options": {
+            "A": "c-e-b-a-d",
+            "B": "c-a-b-e-d",
+            "C": "c-b-a-e-d",
+            "D": "e-c-b-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý của bức thư:\nc: Mở đầu – cảm ơn vì đã ở bên trong thời gian khó khăn.\nb: Tiếp theo – lời khuyên và sự động viên thực sự đã giúp đỡ.\na: Tiếp theo – cũng cảm ơn vì đã giới thiệu các nhóm hỗ trợ.\ne: Tiếp theo – vẫn đang từng bước đối mặt với mọi thứ, sự hỗ trợ đã tạo ra sự khác biệt lớn.\nd: Kết thúc – đề nghị gặp nhau.\n→ c-b-a-e-d ✓"
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "a. Alex: It starts at 5 PM. Hope you can make it!\nb. Alex: Hey, Jamie, do you want to come to my birthday party this Saturday?\nc. Jamie: Sure, that sounds fun! What time does it start?",
+          "options": {
+            "A": "b-a-c",
+            "B": "b-c-a",
+            "C": "c-b-a",
+            "D": "a-b-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hội thoại hợp lý:\nb: Alex mời Jamie đến tiệc sinh nhật.\nc: Jamie đồng ý và hỏi mấy giờ.\na: Alex trả lời giờ bắt đầu.\n→ b-c-a ✓\nTạm dịch: Alex: Này Jamie, bạn có muốn đến tiệc sinh nhật của mình vào thứ Bảy này không? / Jamie: Tất nhiên, nghe vui đấy! Mấy giờ bắt đầu thế? / Alex: Nó bắt đầu lúc 5 giờ chiều. Hi vọng bạn có thể đến!"
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "a. It often starts with the excitement of being in a new place, followed by feelings of confusion and frustration as differences become more apparent.\nb. As time passes, adapting becomes easier, and many even learn to appreciate or blend the new culture with their own.\nc. Culture shock is a common experience when moving to a different country or culture, as it involves adjusting to unfamiliar norms and practices.\nd. For instance, language barriers, customs, and different social norms can make even everyday tasks challenging.\ne. Eventually, a sense of balance is found as people grow more accustomed to their surroundings, resulting in personal growth and a broader perspective.",
+          "options": {
+            "A": "c-a-d-b-e",
+            "B": "a-c-d-e-b",
+            "C": "b-a-e-c-d",
+            "D": "c-d-a-b-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đoạn văn mạch lạc:\nc: Giới thiệu chủ đề – sốc văn hóa là trải nghiệm phổ biến.\na: Mô tả giai đoạn đầu – bắt đầu với hào hứng, sau đó là bối rối.\nd: Ví dụ cụ thể – rào cản ngôn ngữ, phong tục.\nb: Theo thời gian – việc thích nghi trở nên dễ hơn.\ne: Cuối cùng – tìm thấy sự cân bằng, phát triển cá nhân.\n→ c-a-d-b-e ✓"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "a. This includes reducing waste by recycling, conserving water through careful usage, and switching to renewable energy sources like solar and wind, all of which help to protect the planet for future generations.\nb. Green living emphasizes a lifestyle focused on sustainability, encouraging people to make environmentally conscious choices that minimize harm to the Earth.\nc. Small everyday actions, such as using reusable bags, turning off lights when not in use, and choosing energy efficient appliances, can have a big impact on reducing your carbon footprint.\nd. Many individuals are now embracing green practices in their daily routines, such as reducing plastic use, supporting eco-friendly businesses, and conserving energy at home.\ne. By incorporating these habits into daily life, people can collectively help reduce pollution and conserve natural resources, contributing to a cleaner and healthier environment.",
+          "options": {
+            "A": "e-a-c-d-b",
+            "B": "a-b-c-e-d",
+            "C": "b-d-a-c-e",
+            "D": "d-c-b-e-a"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đoạn văn mạch lạc:\nb: Giới thiệu chủ đề – lối sống xanh nhấn mạnh sự bền vững.\nd: Nhiều người đang áp dụng các thực hành xanh vào thói quen hàng ngày.\na: Điều này bao gồm giảm chất thải, tiết kiệm nước, chuyển sang năng lượng tái tạo.\nc: Những hành động nhỏ hàng ngày có thể tác động lớn.\ne: Bằng cách áp dụng những thói quen này, mọi người có thể cùng nhau giúp giảm ô nhiễm.\n→ b-d-a-c-e ✓"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "a. An: True! But I think it's important to verify the information. Still, when used right, it saves a lot of time and makes things more efficient.\nb. Binh: Not exactly, but it's a powerful support tool. I mean, it's great to have something ready to respond whenever you need it, right?\nc. An: Hey Binh, have you been using ChatGPT lately?\nd. An: I quite agree with you. Sometimes, when I'm stuck on a report or need a clear explanation of a tough topic, ChatGPT really helps. Do you think it can completely replace human interaction?\ne. Binh: Yeah, I use it a lot! It's really helpful when I need quick information or brainstorming ideas.",
+          "options": {
+            "A": "c-d-e-b-a",
+            "B": "c-d-b-a-e",
+            "C": "c-e-d-b-a",
+            "D": "c-e-b-a-d"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hội thoại hợp lý:\nc: An hỏi Binh về việc dùng ChatGPT.\ne: Binh trả lời – có, dùng nhiều, hữu ích khi cần thông tin nhanh.\nd: An đồng ý và hỏi liệu ChatGPT có thể thay thế hoàn toàn tương tác con người không.\nb: Binh trả lời – không hẳn, nhưng là công cụ hỗ trợ mạnh mẽ.\na: An đồng ý nhưng nhấn mạnh cần kiểm tra thông tin.\n→ c-e-d-b-a ✓"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks.",
+      "passageTitle": "STAY ACTIVE AND HEALTHY",
+      "passage": "Staying active is essential for maintaining a healthy lifestyle. It helps prevent (35) _______ chronic diseases, boosts mental health, and improves overall well-being.\n\n1. Regular Exercise: Aim for at least 30 minutes of moderate activity daily. This could be a brisk walk, cycling, or yoga.\n\n2. Join a Class: Find a local fitness class, such as dance, aerobics, or martial arts. It's a fun way to stay fit and (36) _______ new people.\n\n3. Stay Hydrated: Drink (37) _______ water throughout the day to keep your body functioning properly.\n\n4. Diet: Eat a variety of fruits, vegetables, whole grains, and lean proteins to maintain a (38) _______ diet.\n\nGet Started Today!\nSmall changes can lead to big results. Start (39) _______ these tips into your routine to see improvements in your health and energy levels. Staying active (40) _______ mental health and improves physical health.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "others",
+            "B": "another",
+            "C": "many",
+            "D": "much"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức ngữ pháp: many + N (số nhiều đếm được): nhiều.\nA. others: những cái khác\nB. another + N (số ít): một cái khác\nC. many + N (số nhiều): nhiều ✓\nD. much + N (không đếm được): nhiều\n'chronic diseases' là danh từ số nhiều đếm được → dùng 'many'.\nTạm dịch: Nó giúp ngăn ngừa nhiều bệnh mãn tính, thúc đẩy sức khỏe tinh thần, và cải thiện sức khỏe tổng thể."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "join in",
+            "B": "meet up",
+            "C": "run into",
+            "D": "hang out"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. join in: tham gia\nB. meet up: gặp gỡ ✓\nC. run into: gặp phải (tình cờ)\nD. hang out: đi chơi\nTạm dịch: Đó là một cách vui nhộn để giữ sức khỏe và gặp gỡ những người mới."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "due to",
+            "B": "across from",
+            "C": "plenty of",
+            "D": "instead of"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ: plenty of water: nhiều nước.\nA. due to: do\nB. across from: khắp\nC. plenty of: nhiều ✓\nD. instead of: thay vì\nTạm dịch: Uống nhiều nước trong ngày để giúp cơ thể hoạt động tốt."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "ample",
+            "B": "strict",
+            "C": "balanced",
+            "D": "heavy"
+          },
+          "correctAnswer": "C",
+          "explanation": "A. ample (adj): nhiều, dồi dào\nB. strict (adj): nghiêm khắc\nC. balanced (adj): cân bằng ✓\nD. heavy (adj): nặng\nCụm từ: balanced diet: chế độ ăn cân bằng.\nTạm dịch: Ăn nhiều trái cây, rau củ quả, ngũ cốc nguyên hạt, và đạm để duy trì một chế độ ăn cân bằng."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "incorporating",
+            "B": "isolating",
+            "C": "ignoring",
+            "D": "removing"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nincorporate (v): kết hợp ✓\nisolate (v): cô lập\nignore (v): phớt lờ\nremove (v): loại bỏ\nCấu trúc: Start + V-ing: bắt đầu làm gì.\nTạm dịch: Hãy bắt đầu kết hợp những mẹo này vào thói quen của bạn để thấy sự cải thiện về sức khỏe và mức năng lượng của bạn."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "enhances",
+            "B": "decreases",
+            "C": "reduces",
+            "D": "maintains"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\nenhance (v): nâng cao ✓\ndecrease (v): giảm\nreduce (v): giảm\nmaintain (v): duy trì, giữ nguyên\nTạm dịch: Luôn vận động nâng cao sức khỏe tinh thần và cải thiện sức khỏe thể chất."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.607818+00:00",
+  "updatedAt": "2026-06-08T10:41:58.607818+00:00",
+  "originalFileName": "THPT_Ninh_Binh_2025_Tieng_Anh_Ma_De_Le.json"
+}

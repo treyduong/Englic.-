@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_le_thanh_tong_quang_nam_2026-06-08",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh – THPT Chuyên Lê Thánh Tông, Quảng Nam",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT chuyen le thanh tong.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#QuảngNam",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "CITY LIFE OR COUNTRYSIDE?",
+      "passage": "People often wonder if it's better to live in the city or the countryside. Some people love the fast pace and convenience of city life, while others find it too (1)_______. City dwellers enjoy access to a variety of restaurants, shops, and entertainment venues. However, living in the city comes with challenges, such as high rent prices and crowded public transport.\n\nThe countryside, on the other hand, offers a slower lifestyle, ideal for those (2)_______ peace and quietness. There are fewer amenities, but the fresh air and open spaces make up for it. Some people even argue that the countryside encourages a healthier lifestyle, (3)_______ and outdoor activities as part of daily life.\n\nChoosing where to live is a personal decision and depends largely (4)_______ one's lifestyle preferences. Some might want the convenience of urban living, while others dream of a quiet life surrounded by nature. Whichever you choose, the most important thing is to (5)_______ a home that fits your needs and brings you happiness.\n\nSo, are you ready (6)_______ a new lifestyle? Think carefully and make the choice that's best for you!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "stressful",
+            "B": "stressed",
+            "C": "stressing",
+            "D": "stress"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại: Sau 'too' cần tính từ (adjective) để bổ nghĩa.\nA. stressful (adj): căng thẳng, gây stress\nB. stressed (adj): cảm thấy căng thẳng, lo âu\nC. stressing (v): làm cho căng thẳng\nD. stress (n): căng thẳng, sự căng thẳng\nCấu trúc 'find it + adj' = thấy nó quá… → cần tính từ bổ nghĩa cho 'it' (city life).\nTạm dịch: Một số người yêu thích nhịp sống nhanh và sự tiện lợi của cuộc sống thành phố, trong khi những người khác thấy nó quá căng thẳng."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "preferring",
+            "B": "who prefers",
+            "C": "preferred",
+            "D": "to prefer"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ: Ta rút gọn mệnh đề quan hệ 'who prefer' bằng cách lược bỏ đại từ quan hệ 'who' và chuyển động từ 'prefer' sang dạng V-ing 'preferring'.\nTạm dịch: Nông thôn, ngược lại, mang lại một lối sống chậm rãi, lý tưởng cho những ai thích sự yên tĩnh và thanh bình."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "food healthy organic",
+            "B": "healthy organic food",
+            "C": "organic healthy food",
+            "D": "food organic healthy"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự từ: 'organic food' (np) = thực phẩm hữu cơ; 'healthy' (adj) = lành mạnh. Ta dùng tính từ 'healthy' để bổ nghĩa cho cụm danh từ 'organic food'. Trật tự đúng: opinion adjective + noun phrase → healthy organic food.\nTạm dịch: Một số người thậm chí còn cho rằng nông thôn khuyến khích lối sống lành mạnh, thực phẩm hữu cơ và các hoạt động ngoài trời như một phần của cuộc sống hàng ngày."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "to",
+            "D": "with"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về giới từ: 'depend on' = phụ thuộc vào (cụm động từ cố định).\nTạm dịch: Việc chọn nơi sống là một quyết định cá nhân và phụ thuộc chủ yếu vào sở thích lối sống của mỗi người."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take",
+            "B": "find",
+            "C": "do",
+            "D": "get"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về động từ: 'find a home' = tìm một ngôi nhà. Đây là cách diễn đạt tự nhiên và phổ biến trong tiếng Anh; các đáp án khác không phù hợp ngữ cảnh.\nTạm dịch: Dù bạn chọn gì, điều quan trọng nhất là tìm một ngôi nhà phù hợp với nhu cầu của bạn và mang lại hạnh phúc cho bạn."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to start",
+            "B": "starting",
+            "C": "start",
+            "D": "started"
+          },
+          "correctAnswer": "A",
+          "explanation": "Động từ nguyên mẫu có 'to': Cấu trúc 'be ready to V' = sẵn sàng để làm gì.\nTạm dịch: Vậy, bạn đã sẵn sàng để bắt đầu một lối sống mới chưa?"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Discover Your Culinary Passion with Our Online Cooking Course!",
+      "passage": "Are you tired of the same old recipes and (7)_______ other ways to spice up your meals? Join our online cooking course, where you'll learn to create delicious dishes using a(n) (8)_______ of ingredients. (9)_______ lesson is designed to give you practical skills that will transform your cooking.\n\nInstead of relying on takeout, you can whip up delightful meals (10)_______ your usual options. Our experienced chefs will guide you through a range of cooking (11)_______ so that you will feel confident in the kitchen.\n\nWith easy-to-follow videos and (12)_______ content, you'll be amazed at how quickly you can improve your skills. Don't wait any longer - sign up today and start your culinary journey!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "looking for",
+            "B": "turning down",
+            "C": "making up",
+            "D": "taking over"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ:\nA. look for: tìm kiếm\nB. turn down: từ chối\nC. make up: làm hoà, bù đắp\nD. take over: tiếp quản\nTạm dịch: Bạn có mệt mỏi với những công thức nấu ăn cũ và đang tìm kiếm những cách khác để làm phong phú bữa ăn của mình?"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amount",
+            "B": "variety",
+            "C": "deal",
+            "D": "degree"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm từ chỉ lượng:\nA. amount of + N không đếm được: lượng\nB. a variety of + N số nhiều: đa dạng, nhiều\nC. a great/good deal of + N không đếm được: một lượng lớn\nD. a degree of + N không đếm được: mức độ\nTa có 'ingredients' là danh từ số nhiều nên dùng 'a variety of'.\nTạm dịch: Hãy tham gia khóa học nấu ăn trực tuyến của chúng tôi, nơi bạn sẽ học cách tạo ra những món ăn ngon miệng bằng cách sử dụng nhiều loại nguyên liệu khác nhau."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Other",
+            "B": "Each",
+            "C": "Several",
+            "D": "The others"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về lượng từ:\nA. other + N đếm được số nhiều/không đếm được: những người/cái khác\nB. each + N số ít: mỗi\nC. several + N đếm được số nhiều: một vài, một số\nD. the others: những cái/người còn lại\nSau blank là 'lesson' (danh từ số ít), phù hợp với 'each'.\nTạm dịch: Mỗi bài học được thiết kế để cung cấp cho bạn những kỹ năng thực tiễn sẽ biến đổi cách nấu ăn của bạn."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "in place of",
+            "B": "irrespective of",
+            "C": "in the light of",
+            "D": "apart from"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm giới từ:\nA. in place of: thay cho, thay vì\nB. irrespective of: bất kể, không phân biệt\nC. in the light of: xét đến, dựa trên\nD. apart from: ngoài ra, ngoài trừ\nTạm dịch: Thay vì phụ thuộc vào đồ ăn mang đi, bạn có thể tự tay chế biến nhanh chóng những bữa ăn thú vị thay cho những lựa chọn thường ngày của mình."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "features",
+            "B": "qualities",
+            "C": "techniques",
+            "D": "resources"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ nối:\nA. feature (n): đặc điểm, nét đặc trưng\nB. quality (n): phẩm chất, chất lượng\nC. technique (n): kỹ thuật, phương pháp\nD. resource (n): tài nguyên, nguồn lực\n'cooking techniques' = kỹ thuật nấu ăn – cụm từ cố định phù hợp ngữ cảnh.\nTạm dịch: Các đầu bếp giàu kinh nghiệm của chúng tôi sẽ hướng dẫn bạn qua nhiều kỹ thuật nấu ăn để bạn cảm thấy tự tin trong bếp."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "memorable",
+            "B": "dependable",
+            "C": "ordinary",
+            "D": "engaging"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ nối:\nA. memorable (adj): dễ nhớ, đáng nhớ\nB. dependable (adj): đáng tin cậy, có thể dựa vào được\nC. ordinary (adj): bình thường, tầm thường\nD. engaging (adj): hấp dẫn, thu hút\nNgữ cảnh nói về nội dung video giúp cải thiện kỹ năng nhanh → 'engaging content' (nội dung hấp dẫn) phù hợp nhất.\nTạm dịch: Với những video dễ theo dõi và nội dung hấp dẫn, bạn sẽ ngạc nhiên về tốc độ cải thiện kỹ năng của mình."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Nam: Yes, Mai and I did. The fair was great, and we got a lot of useful information.\nb. Ms Hoa: I'm glad to hear that both of you attended the fair.\nc. Ms Hoa: Good morning, class. There was an education fair last weekend. Did anyone go?",
+          "options": {
+            "A": "b-a-c",
+            "B": "c-a-b",
+            "C": "a-c-b",
+            "D": "b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: c (Ms Hoa hỏi) → a (Nam trả lời) → b (Ms Hoa phản hồi).\nTạm dịch: c. Cô Hoa: Chào buổi sáng cả lớp. Có một hội chợ giáo dục vào cuối tuần trước. Lớp mình có bạn nào đi không? / a. Nam: Dạ có, Mai và em đã đi ạ. Hội chợ rất tuyệt và chúng em đã có được rất nhiều thông tin hữu ích. / b. Cô Hoa: Cô rất vui khi biết cả hai em đã tham dự hội chợ."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Leo: I'm going to eat more fruits and vegetables.\nb. Mia: I find it hard to give up junk food; it's so tempting!\nc. Mia: What's the benefit of focusing on fruits and vegetables?\nd. Mia: What changes are you making to your diet?\ne. Leo: They provide essential vitamins and help maintain a healthy weight",
+          "options": {
+            "A": "d-e-c-a-b",
+            "B": "b-a-d-e-c",
+            "C": "b-e-d-a-c",
+            "D": "d-a-c-e-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: d (Mia hỏi về thay đổi chế độ ăn) → a (Leo trả lời sẽ ăn nhiều rau củ) → c (Mia hỏi lợi ích) → e (Leo trả lời lợi ích) → b (Mia thừa nhận khó từ bỏ đồ ăn vặt).\nTạm dịch: d. Mia: Cậu đang thay đổi chế độ ăn uống của mình như thế nào? / a. Leo: Mình sẽ ăn nhiều trái cây và rau hơn. / c. Mia: Tập trung vào trái cây và rau có lợi ích gì? / e. Leo: Chúng cung cấp các vitamin thiết yếu và giúp duy trì cân nặng khỏe mạnh. / b. Mia: Mình thấy khó từ bỏ đồ ăn vặt; nó hấp dẫn quá!"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "What's up Lily?\nI hope you're doing well!\na. Do you have a favorite singer or band? Maybe we can share playlists with each other!\nb. I really enjoy pop music, especially songs by Bruno Mars. They always make me feel happy.\nc. I wanted to ask you about your favorite music. What kind of songs do you like to listen to?\nd. Besides Bruno, I also like listening to Lofi music when I'm studying.\ne. Let me know your favorites.\nSee you soon!\nSandra",
+          "options": {
+            "A": "c-b-d-a-e",
+            "B": "c-d-b-a-e",
+            "C": "c-b-a-d-e",
+            "D": "c-d-a-b-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý trong thư: c (Sandra hỏi về nhạc yêu thích) → b (Sandra chia sẻ nhạc pop, Bruno Mars) → d (Ngoài Bruno, còn thích Lofi) → a (Hỏi lại Lily có ca sĩ yêu thích không?) → e (Hãy cho mình biết).\nTạm dịch: c. Mình muốn hỏi cậu về thể loại nhạc yêu thích. Cậu thích nghe loại nhạc nào? / b. Mình thực sự thích nhạc pop, đặc biệt là các bài hát của Bruno Mars. Chúng luôn khiến mình cảm thấy vui vẻ. / d. Ngoài Bruno, mình cũng thích nghe nhạc Lofi khi học. / a. Cậu có ca sĩ hoặc ban nhạc yêu thích nào không? Có lẽ chúng ta có thể chia sẻ danh sách phát với nhau! / e. Hãy cho mình biết thể loại nhạc yêu thích của cậu."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Lifelong learning, however, is not merely about acquiring qualifications but also about nurturing curiosity and adaptability.\nb. Lifelong learning is an ongoing process that allows individuals to develop professionally and personally throughout their lives.\nc. As technology continues to evolve rapidly, the ability to learn and relearn has become a critical skill in the modern world.\nd. From formal education to self-directed learning, it provides countless opportunities for growth and improvement.\ne. In conclusion, embracing lifelong learning enables us to remain relevant, adaptable, and open to new challenges in an ever-changing world.",
+          "options": {
+            "A": "b-d-a-c-e",
+            "B": "b-a-d-c-e",
+            "C": "b-a-c-d-e",
+            "D": "b-c-d-a-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: b (giới thiệu chủ đề học tập suốt đời) → a (mở rộng: không chỉ là bằng cấp, còn là nuôi dưỡng sự tò mò) → c (bối cảnh công nghệ: cần học và học lại) → d (từ giáo dục chính quy đến tự học: vô số cơ hội) → e (kết luận).\nTạm dịch: b. Học tập suốt đời là một quá trình liên tục... / a. Tuy nhiên, học tập suốt đời không chỉ là về việc đạt được trình độ mà còn về việc nuôi dưỡng sự tò mò và khả năng thích nghi. / c. Khi công nghệ tiếp tục phát triển nhanh chóng, khả năng học và học lại đã trở thành một kỹ năng quan trọng... / d. Từ giáo dục chính quy đến học tập tự định hướng, nó cung cấp vô số cơ hội... / e. Tóm lại, việc áp dụng học tập suốt đời cho phép chúng ta duy trì sự phù hợp, khả năng thích nghi..."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. For example, behaviors that are acceptable in one culture, such as direct eye contact, may be considered impolite in another.\nb. At first, people may feel excited about exploring a new culture, but this initial enthusiasm often fades as they begin to notice differences in language, customs, and social norms.\nc. Culture shock, which occurs when individuals struggle to adapt to a foreign culture, is a common experience for travelers and expatriates.\nd. This period of adjustment can be challenging, but it ultimately helps individuals develop a deeper understanding of and respect for cultural diversity.\ne. Such differences can lead to feelings of frustration, confusion, or even isolation for newcomers.",
+          "options": {
+            "A": "c-e-a-b-d",
+            "B": "c-b-a-e-d",
+            "C": "c-a-e-b-d",
+            "D": "c-b-e-a-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: c (giới thiệu sốc văn hóa) → b (lúc đầu hào hứng, sau đó nhận ra sự khác biệt) → a (ví dụ về sự khác biệt văn hóa) → e (những khác biệt đó dẫn đến cảm xúc tiêu cực) → d (giai đoạn điều chỉnh giúp phát triển sự hiểu biết).\nTạm dịch: c. Sốc văn hóa, xảy ra khi cá nhân phải vật lộn để thích nghi với một nền văn hóa nước ngoài... / b. Lúc đầu, mọi người có thể cảm thấy hào hứng khi khám phá một nền văn hóa mới, nhưng sự nhiệt tình ban đầu này thường phai nhạt... / a. Ví dụ, những hành vi được chấp nhận ở một nền văn hóa, chẳng hạn như giao tiếp bằng mắt trực tiếp... / e. Những khác biệt như vậy có thể dẫn đến cảm giác thất vọng, bối rối, hoặc thậm chí là cô lập... / d. Giai đoạn điều chỉnh này có thể đầy thử thách, nhưng cuối cùng nó giúp các cá nhân phát triển sự hiểu biết sâu sắc hơn..."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about 4D cinemas and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "4D Cinemas",
+      "passage": "A 4D cinema is an exciting place to watch movies. It is different from regular cinemas because it has special effects that make you feel like you are inside the movie. In a 4D cinema, the seats move, and sometimes you feel things like wind, water, or even smells during the movie, (18)_________. For example, if there is rain in the movie, you might feel a light spray of water. If there is an action scene, (19)_______.\n\nMany people like 4D cinemas because they make watching movies more exciting. Kids, in particular, enjoy these effects because it feels like a real adventure. (20)_______ who want to try something new and thrilling. Watching a movie in 4D can be a little expensive, (21)_________.\n\nHowever, 4D cinemas are not everywhere, so some people may need to travel to a big city to find one. Some people might not like the movement and effects if they feel dizzy or uncomfortable. But for those who enjoy it, a 4D cinema makes movies unforgettable. It turns a normal movie experience into something special, (22)_________.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which makes the movie more realistic and fun",
+            "B": "in which making movie more interesting and thrilling",
+            "C": "making movie slightly boring and uncomfortable",
+            "D": "having made the movies less attractive but exciting"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần mệnh đề quan hệ bổ nghĩa cho cả mệnh đề phía trước.\nB sai vì ngữ pháp 'in which' không phù hợp.\nC sai vì nghĩa 'slightly boring and uncomfortable' (hơi chán và bất tiện) không phù hợp ngữ cảnh.\nD sai vì nghĩa 'less attractive but exciting' (kém hấp dẫn nhưng thú vị) không phù hợp.\nA là đáp án đúng với mệnh đề quan hệ 'which…' phù hợp.\nTạm dịch: Trong rạp chiếu phim 4D, ghế ngồi sẽ chuyển động và đôi khi bạn cảm thấy những thứ như gió, nước hoặc thậm chí là mùi trong suốt quá trình chiếu phim, khiến bộ phim trở nên chân thực và thú vị hơn."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "your seat may shake to make it feel like you are part of the action.",
+            "B": "the seat will move to help the actors feel like they are in the scene.",
+            "C": "the seat would start to shake so you feel as if you're inside the action.",
+            "D": "your seat can move making you feel like you are the middle of the action."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu điều kiện loại 1 đã có 'If…', phía sau ta cần một mệnh đề phù hợp.\nLoại C vì 'would' không phù hợp If 1.\nLoại D vì thiếu dấu phẩy trước 'making'.\nLoại B vì sai 'help the actors' (giúp cho diễn viên); ngữ cảnh ở đây là người đi xem phim chứ không phải diễn viên.\nA là đáp án phù hợp nhất.\nTạm dịch: Nếu có cảnh hành động, ghế ngồi của bạn có thể rung lên để tạo cảm giác như bạn là một phần của cảnh hành động đó."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Families and friends enjoy going to 4D cinemas together",
+            "B": "Many families and friends love to go to 4D cinemas for fun",
+            "C": "Going to 4D cinemas is a popular activity for families and friends",
+            "D": "Visiting 4D cinemas are a favorite activity for families and friends"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trước đại từ quan hệ 'who' ta cần một danh từ hoặc cụm danh từ chỉ người.\nLoại A, B vì không phù hợp liên kết với đại từ quan hệ 'who'.\nLoại D vì sai động từ chính 'are', chủ ngữ 'Visiting 4D cinemas' ta dùng to be 'is'.\nC là đáp án đúng với động từ chính 'is' đúng và cuối câu là 'families and friends' phù hợp với đại từ quan hệ 'who' sau đó.\nTạm dịch: Đến rạp chiếu phim 4D là hoạt động phổ biến đối với các gia đình và bạn bè muốn thử điều gì đó mới mẻ và ly kỳ."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "and people think it's worth it because it's a one-of-a-kind experience.",
+            "B": "so most people say the special experience is worth paying for.",
+            "C": "for most people, the unique experience makes it worth the money.",
+            "D": "but most people think it's worth it for the unique experience."
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta có mệnh đề 'Watching a movie in 4D can be a little expensive' (Xem phim 4D có thể hơi tốn kém), phía sau cần một mệnh đề liên kết phù hợp mang ý nghĩa tương phản với 'expensive' một cách tích cực.\nA sai: liên từ 'and' không phù hợp ngữ cảnh.\nB sai: liên từ 'so' không phù hợp ngữ cảnh.\nC sai vì thiếu liên từ, hai mệnh đề liên kết không mạch lạc.\nD đúng: 'but' mang ý nghĩa tương phản phù hợp.\nTạm dịch: Xem phim 4D có thể hơi tốn kém, nhưng hầu hết mọi người đều cho rằng điều đó xứng đáng vì trải nghiệm độc đáo này."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "without creating memories that people can hold onto for years.",
+            "B": "giving people memories that they can remember for a long time.",
+            "C": "which giving people moments they won't forget for a long time.",
+            "D": "that makes people remember the forgettable memory for many years."
+          },
+          "correctAnswer": "B",
+          "explanation": "Sau mệnh đề 'It turns a normal movie experience into something special', ta cần một mệnh đề bổ nghĩa phù hợp.\nA: ý nghĩa không phù hợp ngữ cảnh (phủ định việc tạo ra ký ức).\nC: sai ngữ pháp 'which giving' (thiếu trợ động từ hoặc dùng sai dạng).\nD: sai ở 'forgettable' (đáng quên) dẫn đến ý nghĩa không phù hợp; đồng thời sai ngữ pháp, 'that' không thể đứng sau dấu phẩy.\nB: đúng, phù hợp ngữ pháp và ngữ cảnh.\nTạm dịch: Nó biến một trải nghiệm xem phim bình thường thành điều gì đó đặc biệt, mang đến cho mọi người những ký ức mà họ có thể nhớ mãi."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about peer pressure among students and mark the letter A, B, C, or D on your answer sheet to indicate best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "Peer Pressure Among Students",
+      "passage": "Peer pressure can be particularly prevalent among teenagers, who are at a vulnerable stage of development and seeking their identity. It is a powerful force that can significantly impact the thoughts, actions, and behaviors of teenagers. During adolescence, individuals strive for acceptance and belonging, making them particularly susceptible to the influence of their peers. Understanding the nature of peer pressure and its effects is essential for supporting teenagers in navigating this challenging aspect of their social lives.\n\nOne aspect of peer pressure is the pressure to conform to the norms and expectations of a social group. Teenagers may feel compelled to adopt certain behaviors, preferences, or attitudes to fit in and avoid social rejection. This conformity can range from relatively harmless choices, such as fashion trends, to more concerning behaviors, such as substance abuse or risky activities.\n\nPeer pressure can manifest in both explicit and implicit ways. Direct peer pressure involves explicit requests, invitations, or demands from peers to engage in specific actions or behaviors. Indirect or implicit peer pressure, on the other hand, is more subtle and involves observing others' behaviors and feeling pressured to conform without any explicit requests. This type of pressure can be equally influential and difficult for teenagers to navigate.\n\nIt is important to note that peer pressure can have positive or negative implications. Positive peer pressure can motivate teenagers to engage in healthy behaviors, such as participating in sports, pursuing academic goals, or engaging in community service. However, it can lead to risky or harmful behaviors, such as substance abuse, delinquency, or academic underachievement.\n\nParents, educators, and mentors play a crucial role in helping teenagers navigate peer pressure. By fostering open and supportive relationships, adults can provide a safe space for teenagers to discuss their experiences and concerns. Promoting critical thinking, assertiveness skills, and self-confidence can empower teenagers to resist negative peer pressure and make independent, healthy choices.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a strategy to help teenagers resist negative peer pressure?",
+          "context": "",
+          "options": {
+            "A": "Building self-confidence",
+            "B": "Encouraging critical thinking",
+            "C": "Forcing teenagers to follow rules",
+            "D": "Fostering open relationships"
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 5 đề cập: 'Promoting critical thinking' (B), 'self-confidence' (A), 'By fostering open and supportive relationships' (D).\nC (Buộc thanh thiếu niên tuân theo các quy tắc) không được đề cập trong bài.\nTạm dịch: Khuyến khích tư duy phản biện, kỹ năng tự tin và sự tự tin có thể trao quyền cho thanh thiếu niên để kháng cự lại áp lực từ bạn bè tiêu cực và đưa ra những lựa chọn độc lập, lành mạnh."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"susceptible\" in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "resistant",
+            "B": "sensitive",
+            "C": "vulnerable",
+            "D": "aware"
+          },
+          "correctAnswer": "A",
+          "explanation": "susceptible (adj): dễ bị ảnh hưởng, dễ bị tổn thương.\nA. resistant (adj): kháng cự, chống lại, chịu đựng được → TRÁI NGHĨA với susceptible.\nB. sensitive (adj): nhạy cảm\nC. vulnerable (adj): dễ bị tổn thương → ĐỒNG NGHĨA với susceptible\nD. aware (adj): nhận thức được\nTạm dịch: Trong thời kỳ vị thành niên, các cá nhân cố gắng tìm kiếm sự chấp nhận và cảm giác thuộc về, khiến họ đặc biệt dễ bị ảnh hưởng bởi bạn bè."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"their\" in paragraph 5 refers to",
+          "context": "",
+          "options": {
+            "A": "teenagers",
+            "B": "parents and educators",
+            "C": "social groups",
+            "D": "peer pressure"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu trong đoạn 5: 'adults can provide a safe space for teenagers to discuss their experiences and concerns.' Từ 'their' ám chỉ 'teenagers' (những người đang thảo luận về trải nghiệm của họ).\nTạm dịch: Bằng cách nuôi dưỡng các mối quan hệ cởi mở và hỗ trợ, người lớn có thể tạo ra một không gian an toàn cho thanh thiếu niên thảo luận về những trải nghiệm và mối quan tâm của họ."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"manifest\" in paragraph 3 could best be replaced by",
+          "context": "",
+          "options": {
+            "A": "disappear",
+            "B": "show",
+            "C": "hide",
+            "D": "decrease"
+          },
+          "correctAnswer": "B",
+          "explanation": "manifest (v): biểu lộ, thể hiện rõ = show (v): thể hiện, cho thấy.\nA. disappear (v): biến mất\nB. show (v): thể hiện, cho thấy ✓\nC. hide (v): che giấu\nD. decrease (v): giảm\nTạm dịch: Áp lực từ bạn bè có thể biểu hiện theo cả cách rõ ràng và ngầm."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Teenagers are pressured by their peers to reject certain behaviors and preferences.",
+            "B": "Teenagers might choose behaviors and attitudes that help them avoid being excluded from a group.",
+            "C": "Teenagers feel comfortable adopting their own personal preferences without pressure from peers.",
+            "D": "Teenagers feel free to ignore social expectations in favor of their personal interests."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu được gạch chân: 'Teenagers may feel compelled to adopt certain behaviors, preferences, or attitudes to fit in and avoid social rejection.'\nA sai: câu này nói rằng thanh thiếu niên bị ép phải từ chối một số hành vi và sở thích, trong khi câu gốc nói về việc họ chấp nhận những hành vi mới để hòa nhập.\nB đúng: phù hợp diễn đạt câu gạch chân (chọn hành vi để tránh bị loại khỏi nhóm).\nC sai: trái ngược ý nghĩa câu gạch chân.\nD sai: trái ngược ý nghĩa câu gốc.\nTạm dịch: Thanh thiếu niên có thể cảm thấy bị ép buộc phải áp dụng những hành vi, sở thích hoặc thái độ nhất định để hòa nhập và tránh bị từ chối xã hội."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is TRUE about implicit peer pressure according to the passage?",
+          "context": "",
+          "options": {
+            "A": "It is more powerful than explicit peer pressure.",
+            "B": "It is not as common as explicit peer pressure.",
+            "C": "It involves observing others and feeling compelled to conform.",
+            "D": "It always leads to negative outcomes."
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 3: 'Indirect or implicit peer pressure, on the other hand, is more subtle and involves observing others' behaviors and feeling pressured to conform without any explicit requests.'\nA sai: 'can be equally influential' (có thể có ảnh hưởng tương đương), không nói mạnh hơn.\nB sai: bài không so sánh mức độ phổ biến.\nD sai: đoạn 4 nói áp lực từ bạn bè có thể có tác động tích cực hoặc tiêu cực.\nC đúng: phù hợp với thông tin trong đoạn 3.\nTạm dịch: Ngược lại, áp lực từ bạn bè gián tiếp hoặc ngầm thì tinh tế hơn và liên quan đến việc quan sát hành vi của người khác và cảm thấy bị áp lực phải tuân theo mà không có bất kỳ yêu cầu rõ ràng nào."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the author highlight the dual nature of peer pressure (positive and negative effects)?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 5"
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 4: 'It is important to note that peer pressure can have positive or negative implications. Positive peer pressure can motivate teenagers… However, it can lead to risky or harmful behaviors…'\nTác giả nêu bật bản chất kép của áp lực từ bạn bè (tác động tích cực và tiêu cực) trong đoạn 4.\nTạm dịch: Điều quan trọng cần lưu ý là áp lực từ bạn bè có thể có những tác động tích cực hoặc tiêu cực."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer discuss the role of adults in addressing peer pressure?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 5"
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 5: 'Parents, educators, and mentors play a crucial role in helping teenagers navigate peer pressure.'\nTrong đoạn văn 5, tác giả thảo luận về vai trò của người lớn trong việc giải quyết áp lực từ bạn bè.\nTạm dịch: Cha mẹ, giáo viên và người hướng dẫn đóng vai trò quan trọng trong việc giúp thanh thiếu niên điều hướng áp lực từ bạn bè."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about green living and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Green Living",
+      "passage": "(I) Green living, often referred to as sustainable living, encourages individuals to adopt environmentally friendly practices in their daily lives. (II) This lifestyle includes reducing waste, conserving natural resources, and promoting eco-friendly habits, which collectively help to minimize the negative impact on the environment (Davies & Mulligan, 2017). (III) Although green living requires effort and adjustment, its benefits for the planet and future generations are substantial. (IV)\n\nOne of the fundamental aspects of green living is waste reduction. This can be achieved through practices like recycling, composting, and reducing single-use plastics. According to a report by the Environmental Protection Agency (EPA), recycling and composting can significantly decrease the amount of waste sent to landfills, which helps reduce greenhouse gas emissions and pollution (EPA, 2021). Additionally, adopting reusable items such as water bottles and shopping bags minimizes reliance on plastic, which is crucial for protecting ecosystems and wildlife.\n\nAnother key component of green living is energy conservation. Simple changes, like switching to LED light bulbs and using public transportation, can reduce an individual's carbon footprint. A study by the International Energy Agency (IEA) shows that energy efficiency improvements, if widely implemented, could decrease global energy demand by up to 40% by 2050 (IEA, 2019). By conserving energy, individuals not only lower their utility bills but also contribute to the reduction of carbon emissions, which is essential for mitigating climate change.\n\nGreen living also involves making conscious choices about the products we consume. This includes opting for sustainably sourced goods, supporting local businesses, and choosing organic produce. Sustainable agriculture practices reduce the need for chemical pesticides and fertilizers, which can harm both the soil and water sources. (Smith & Taylor, 2020). By making informed purchases, consumers can support eco-friendly industries and help create a demand for greener alternatives.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"Green living practices are gaining popularity as people become more aware of environmental issues.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu này phù hợp nhất ở vị trí (II) vì tạo nên sự liên kết hợp lý giữa nhận thức ngày càng tăng của con người về vấn đề môi trường và các hành động cụ thể trong 'green living.'\nTạm dịch: Các hoạt động sống xanh đang ngày càng phổ biến khi mọi người ngày càng nhận thức rõ hơn về các vấn đề môi trường. Lối sống này bao gồm giảm thiểu chất thải, bảo tồn tài nguyên thiên nhiên và thúc đẩy các thói quen thân thiện với môi trường..."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase \"minimizes reliance on\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "reduces dependence on",
+            "B": "completely eliminates",
+            "C": "increases awareness of",
+            "D": "advocates for"
+          },
+          "correctAnswer": "A",
+          "explanation": "minimize reliance on: giảm thiểu sự phụ thuộc vào = reduce dependence on (A).\nTạm dịch: Ngoài ra, việc áp dụng các mặt hàng có thể tái sử dụng như chai đựng nước và túi mua sắm giúp giảm thiểu sự phụ thuộc vào nhựa, một yếu tố rất quan trọng để bảo vệ hệ sinh thái và động vật hoang dã."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"This\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "Waste reduction",
+            "B": "Recycling",
+            "C": "Green living",
+            "D": "Reducing single-use plastics"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu trong đoạn 2: 'One of the fundamental aspects of green living is waste reduction. This can be achieved through practices like recycling, composting, and reducing single-use plastics.' Từ 'This' ám chỉ 'waste reduction' (giảm thiểu chất thải) - danh từ chỉ người ngay trước đó.\nTạm dịch: Một trong những khía cạnh cơ bản của sống xanh là giảm thiểu chất thải. Điều này có thể đạt được thông qua các hoạt động như tái chế, ủ phân và giảm nhựa dùng một lần."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "According to paragraph 2, which of the following is NOT a method for reducing waste?",
+          "context": "",
+          "options": {
+            "A": "Recycling plastic bottles",
+            "B": "Composting food scraps",
+            "C": "Using disposable products",
+            "D": "Switching to reusable shopping bags"
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 2 đề cập: recycling (A), composting (B), và reusable items/shopping bags (D) là các phương pháp giảm chất thải. C (Using disposable products – sử dụng sản phẩm dùng một lần) không được đề cập và thực tế trái ngược với tinh thần sống xanh.\nTạm dịch: Điều này có thể đạt được thông qua các hoạt động như tái chế, ủ phân và giảm nhựa dùng một lần. Ngoài ra, việc áp dụng các mặt hàng có thể tái sử dụng như chai đựng nước và túi mua sắm giúp giảm thiểu sự phụ thuộc vào nhựa..."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Green living involves small steps, such as using public transportation and switching to reusable items, to help conserve resources.",
+            "B": "The main focus of green living is to increase individual energy consumption by switching to energy-efficient products.",
+            "C": "Green living requires individuals to only use eco-friendly items, such as reusable shopping bags.",
+            "D": "The main goal of green living is to decrease pollution and the use of natural resources by making environmentally conscious choices."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 4 nhấn mạnh việc đưa ra lựa chọn có ý thức về sản phẩm tiêu dùng để bảo vệ môi trường, như chọn hàng hóa có nguồn gốc bền vững, hỗ trợ doanh nghiệp địa phương, chọn sản phẩm hữu cơ, và giảm sử dụng thuốc trừ sâu, phân bón hóa học.\nA sai vì đoạn không đề cập đến sử dụng phương tiện giao thông công cộng hoặc đồ tái sử dụng mà tập trung vào tiêu dùng bền vững.\nB sai vì green living không nhằm tăng tiêu thụ năng lượng.\nC sai vì không chỉ nhấn mạnh vào việc sử dụng đồ tái sử dụng.\nD đúng: phù hợp nhất để tóm tắt đoạn.\nTạm dịch: Sống xanh cũng bao gồm việc đưa ra những lựa chọn có ý thức về các sản phẩm chúng ta tiêu thụ..."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"substantial\" in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "insignificant",
+            "B": "essential",
+            "C": "considerable",
+            "D": "abundant"
+          },
+          "correctAnswer": "A",
+          "explanation": "substantial (adj): đáng kể, lớn lao >< insignificant (adj): không quan trọng, tầm thường.\nB. essential (adj): cần thiết, quan trọng\nC. considerable (adj): đáng kể, lớn → ĐỒNG NGHĨA với substantial\nD. abundant (adj): phong phú, nhiều\nTạm dịch: Mặc dù sống xanh đòi hỏi nỗ lực và sự điều chỉnh, nhưng lợi ích của nó đối với hành tinh và các thế hệ tương lai là rất lớn."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "All individuals are required to adopt energy-efficient products.",
+            "B": "Recycling has no significant impact on reducing waste.",
+            "C": "Supporting local businesses can help promote sustainable living practices.",
+            "D": "Energy conservation is irrelevant to addressing climate change."
+          },
+          "correctAnswer": "C",
+          "explanation": "A sai vì không có thông tin trong bài nói rằng tất cả mọi người bắt buộc phải sử dụng sản phẩm tiết kiệm năng lượng.\nB sai vì bài đọc khẳng định rằng tái chế có tác động lớn đến việc giảm rác thải.\nD sai vì bảo tồn năng lượng thực sự có vai trò quan trọng trong việc chống biến đổi khí hậu.\nC đúng: 'Green living also involves... supporting local businesses' → hỗ trợ doanh nghiệp địa phương là một phần của lối sống bền vững.\nTạm dịch: Sống xanh cũng bao gồm việc đưa ra những lựa chọn có ý thức về các sản phẩm chúng ta tiêu thụ. Điều này bao gồm lựa chọn hàng hóa có nguồn gốc bền vững, hỗ trợ các doanh nghiệp địa phương và lựa chọn sản phẩm hữu cơ."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Sustainable farming practices increase the use of harmful chemicals.",
+            "B": "Sustainable farming practices avoid harmful chemicals that can pollute the environment.",
+            "C": "The use of chemical fertilizers is encouraged in sustainable agriculture.",
+            "D": "Chemical pesticides help improve the soil and water sources."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gạch chân: 'Sustainable agriculture practices reduce the need for chemical pesticides and fertilizers, which can harm both the soil and water sources.'\nA sai: trái ngược ý nghĩa câu gạch chân.\nB đúng: phù hợp diễn giải tốt nhất câu gạch chân.\nC sai: trái ngược ý nghĩa câu gạch chân.\nD sai: trái ngược ý nghĩa câu gạch chân.\nTạm dịch: Các hoạt động nông nghiệp bền vững giúp giảm nhu cầu sử dụng thuốc trừ sâu và phân bón hóa học, những thứ có thể gây hại cho cả đất và nguồn nước."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Green living only requires minimal effort and does not significantly affect daily routines.",
+            "B": "Energy conservation is crucial in reducing global energy consumption and carbon emissions.",
+            "C": "Single-use plastics are essential for sustainability.",
+            "D": "Organic produce and sustainable products are irrelevant to green living."
+          },
+          "correctAnswer": "B",
+          "explanation": "A sai vì bài đọc nói rằng sống xanh cần sự điều chỉnh và nỗ lực.\nC sai vì bài đọc phản đối việc sử dụng nhựa dùng một lần và khuyến khích sử dụng đồ tái sử dụng.\nD sai vì bài đọc nói rằng việc chọn thực phẩm hữu cơ và sản phẩm bền vững là một phần quan trọng của sống xanh.\nB đúng: 'By conserving energy, individuals not only lower their utility bills but also contribute to the reduction of carbon emissions, which is essential for mitigating climate change.' → có thể suy ra bảo tồn năng lượng là yếu tố quan trọng.\nTạm dịch: Bằng cách tiết kiệm năng lượng, cá nhân không chỉ giảm hóa đơn tiền điện mà còn góp phần giảm phát thải carbon, điều cần thiết để giảm thiểu biến đổi khí hậu."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Green living only focuses on recycling and reducing waste, without considering other practices.",
+            "B": "Sustainable living encourages practices such as waste reduction, energy conservation, and conscious consumption to protect the environment.",
+            "C": "Green living mainly involves using eco-friendly products from large corporations.",
+            "D": "Sustainable living requires no effort and provides minor benefits to the environment."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 1: Green living (sống xanh) khuyến khích mọi người thực hiện các hành động thân thiện với môi trường trong cuộc sống hàng ngày, nhằm giảm tác động tiêu cực đến môi trường.\nĐoạn 2: Các hành động sống xanh bao gồm giảm chất thải, bảo tồn tài nguyên thiên nhiên, và thúc đẩy thói quen sinh thái.\nĐoạn 3: Mặc dù sống xanh yêu cầu sự nỗ lực và điều chỉnh, nhưng nó mang lại lợi ích lớn cho hành tinh.\nĐoạn 4: Sống xanh còn bao gồm việc giảm chất thải thông qua tái chế, ủ phân, và giảm sử dụng nhựa, cũng như tiết kiệm năng lượng và chọn các sản phẩm bền vững để bảo vệ môi trường.\nB đúng: bao quát tổng thể nội dung bài đọc.\nA sai vì chỉ nói về việc tái chế và giảm rác thải.\nC sai vì chỉ tập trung vào việc sử dụng sản phẩm từ các công ty lớn.\nD sai vì bài viết cho thấy lối sống bền vững đòi hỏi nỗ lực và mang lại lợi ích lớn."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.533157+00:00",
+  "updatedAt": "2026-06-08T10:41:58.533157+00:00",
+  "originalFileName": "THPT chuyen le thanh tong.json"
+}

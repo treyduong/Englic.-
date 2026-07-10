@@ -1,0 +1,627 @@
+{
+  "examId": "thpt_chuyen_tran_phu_hai_phong_2025-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Trần Phú - Hải Phòng",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Chuyen_Tran_Phu_Hai_Phong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HảiPhòng",
+    "#TốtNghiệp",
+    "#ChuyênTrầnPhú"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions from 1 to 8.",
+      "passageTitle": "",
+      "passage": "Wildlife conservation is a crucial endeavor that aims to protect animal species and their habitats. This effort is essential for maintaining biodiversity and ensuring the health of our ecosystems. Human activities such as deforestation, pollution, and climate change are some of the primary threats to wildlife. Conservation initiatives strive to mitigate these impacts through various strategies.\n\nOne significant aspect of wildlife conservation is the establishment of protected areas. National parks, wildlife reserves, and marine protected areas are created to provide safe havens for endangered species. These areas not only protect wildlife but also offer opportunities for scientific research and eco-tourism, which can benefit local economies.\n\nAnother important approach is the reintroduction of species into their natural habitats. This method has been successful in bringing several species back from the brink of extinction. Conservationists carefully monitor and support these reintroduced populations to ensure their survival.\n\nEducation and awareness campaigns play a pivotal role in wildlife conservation as well. By educating the public about the importance of biodiversity and the threats facing wildlife, these campaigns foster a sense of responsibility and encourage community involvement in conservation efforts.\n\nTechnological advancements are also aiding conservation efforts. Innovations such as satellite tracking, DNA analysis, and drone surveillance help researchers gather critical data and monitor wildlife populations more effectively. These tools enable more informed decision-making and efficient conservation strategies.\n\nPromoting sustainable practices, reducing human-wildlife conflicts, and enforcing anti-poaching laws are also integral components of wildlife conservation. These measures contribute to creating a harmonious balance between human activities and the natural world.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Reintroduction of species has never been successful.",
+            "B": "Education campaigns foster community involvement.",
+            "C": "Technological advancements are irrelevant to conservation.",
+            "D": "Only national parks can protect endangered species."
+          },
+          "correctAnswer": "B",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA. SAI vì đoạn văn đề cập việc tái du nhập thành công.\nB. ĐÚNG - Education and awareness campaigns play a pivotal role in wildlife conservation as well. By educating the public about the importance of biodiversity and the threats facing wildlife, these campaigns foster a sense of responsibility and encourage community involvement in conservation efforts.\nC. SAI vì đoạn văn này nhấn mạnh rằng những tiến bộ công nghệ thực sự có liên quan và có lợi cho việc bảo tồn động vật hoang dã.\nD. SAI vì đoạn văn này đề cập rõ ràng không chỉ các công viên quốc gia mà còn cả các khu bảo tồn động vật hoang dã và khu bảo tồn biển là những khu vực được bảo vệ quan trọng."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word \"their\" in paragraph 3 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "reintroduced populations",
+            "B": "conservationists",
+            "C": "species",
+            "D": "natural habitats"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'their' trong đoạn 3 ám chỉ đến 'species'.\nThông tin: This method has been successful in bringing several species back from the brink of extinction. Conservationists carefully monitor and support these reintroduced populations to ensure their survival. (Phương pháp này đã thành công trong việc đưa nhiều loài từ bờ vực tuyệt chủng trở lại. Các nhà bảo tồn giám sát và hỗ trợ các quần thể đã được tái thả để đảm bảo sự sống còn của chúng.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "In which paragraph does the writer explore modern methods for maintaining endangered species?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 5",
+            "C": "Paragraph 3",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "B",
+          "explanation": "Tác giả khám phá các phương pháp hiện đại để duy trì các loài có nguy cơ tuyệt chủng ở đoạn 5.\nThông tin: Innovations such as satellite tracking, DNA analysis, and drone surveillance help researchers gather critical data and monitor wildlife populations more effectively. (Những đổi mới như theo dõi vệ tinh, phân tích DNA và giám sát bằng máy bay không người lái giúp các nhà nghiên cứu thu thập dữ liệu quan trọng và theo dõi quần thể động vật hoang dã hiệu quả hơn.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "The word \"benefit\" in paragraph 2 is OPPOSITE in meaning to ________",
+          "context": "",
+          "options": {
+            "A": "sustain",
+            "B": "transform",
+            "C": "hinder",
+            "D": "advantage"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'benefit' ở đoạn 2 TRÁI NGHĨA với:\nA. sustain /səˈsteɪn/ (v): duy trì, kéo dài\nB. transform /trænsˈfɔːm/ (v): chuyển đổi, biến đổi\nC. hinder /ˈhɪn.dər/ (v): cản trở, gây trở ngại\nD. advantage /ədˈvɑːn.tɪdʒ/ (v): có lợi cho, đem lại ích cho\nbenefit /ˈben.ɪ.fɪt/ (v): mang lại lợi ích, giúp ích cho >< hinder\nThông tin: These areas not only protect wildlife but also offer opportunities for scientific research and eco-tourism, which can benefit local economies."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following is NOT mentioned as a threat to wildlife?",
+          "context": "",
+          "options": {
+            "A": "Pollution",
+            "B": "Climate change",
+            "C": "Deforestation",
+            "D": "Urbanization"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cái nào sau đây KHÔNG được đề cập đến như là mối đe dọa đối với động vật hoang dã?\nA. Ô nhiễm → CÓ đề cập\nB. Biến đổi khí hậu → CÓ đề cập\nC. Phá rừng → CÓ đề cập\nD. Đô thị hóa → KHÔNG đề cập\nThông tin: Human activities such as deforestation, pollution, and climate change are some of the primary threats to wildlife."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "In which paragraph does the writer mention a present causal relationship?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 5",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả đề cập đến mối quan hệ nhân quả hiện tại ở đoạn 4.\nThông tin: Education and awareness campaigns play a pivotal role in wildlife conservation as well. By educating the public about the importance of biodiversity and the threats facing wildlife, these campaigns foster a sense of responsibility and encourage community involvement in conservation efforts. (Các chiến dịch giáo dục và nâng cao nhận thức cũng đóng vai trò quan trọng trong bảo tồn động vật hoang dã. Bằng cách giáo dục cộng đồng về tầm quan trọng của sự đa dạng sinh học và những mối đe dọa đối với động vật hoang dã, các chiến dịch này khuyến khích ý thức trách nhiệm và tham gia của cộng đồng vào các nỗ lực bảo tồn.)"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?\n\"Innovations such as satellite tracking, DNA analysis, and drone surveillance help researchers gather critical data and monitor wildlife populations more effectively.\"",
+          "context": "",
+          "options": {
+            "A": "Technology could be another way to aid conservation efforts.",
+            "B": "Technology should be the only focus in wildlife conservation.",
+            "C": "Technological advancements hinder conservation efforts.",
+            "D": "There is no alternative to technology in saving wildlife."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân trong đoạn 5 một cách hay nhất?\nA. Công nghệ có thể là một cách khác để hỗ trợ các nỗ lực bảo tồn. → ĐÚNG với nghĩa của câu gốc.\nB. Công nghệ nên là trọng tâm duy nhất trong bảo tồn động vật hoang dã. → SAI vì câu gốc không đề cập công nghệ nên là 'trọng tâm duy nhất' trong bảo tồn động vật hoang dã.\nC. Những tiến bộ về công nghệ cản trở các nỗ lực bảo tồn. → SAI vì trái ngược với nghĩa của câu gốc.\nD. Không có giải pháp nào thay thế được công nghệ trong việc cứu động vật hoang dã. → SAI vì câu gốc không đề cập công nghệ là lựa chọn duy nhất. Nó đề cập rằng công nghệ đang giúp ích nhưng không loại trừ các phương pháp hoặc chiến lược khác trong bảo tồn."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "The word \"pivotal\" in paragraph 4 could be best replaced by ________",
+          "context": "",
+          "options": {
+            "A": "crucial",
+            "B": "trivial",
+            "C": "irrelevant",
+            "D": "secondary"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'pivotal' trong đoạn 4 có thể được thay thế tốt nhất bằng:\nA. crucial /ˈkruː.ʃəl/ (adj): quan trọng, chủ yếu\nB. trivial /ˈtrɪv.i.əl/ (adj): tầm thường, không đáng kể\nC. irrelevant /ɪˈrel.ə.vənt/ (adj): không liên quan, không thích hợp\nD. secondary /ˈsek.ən.dri/ (adj): phụ, thứ yếu\npivotal /ˈpɪv.ə.təl/ (adj): nòng cốt, chủ chốt = crucial\nThông tin: Education and awareness campaigns play a pivotal role in wildlife conservation as well."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 9 to 13.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "a. While education fosters a sense of empathy and tolerance, media outlets can facilitate positive intercultural exchange by presenting narratives that promote understanding.\nb. However, the process of integration is not always smooth, as it can give rise to cultural clashes and misunderstandings.\nc. In doing so, society can move towards a more inclusive and cohesive future where diversity is seen as a strength rather than a challenge.\nd. As the world becomes more interconnected, cultures that once existed in isolation now interact on a daily basis.\ne. Governments and policymakers must also ensure that legislation supports multicultural harmony while safeguarding the rights of minority groups.",
+          "options": {
+            "A": "d-e-a-b-c",
+            "B": "d-b-a-e-c",
+            "C": "d-b-a-c-e",
+            "D": "d-e-b-c-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý:\nd (câu mở đầu: khi thế giới ngày càng kết nối, các nền văn hóa tương tác hàng ngày) → b (tuy nhiên: quá trình hội nhập không suôn sẻ, có thể gây ra xung đột) → a (trong khi đó: giáo dục và truyền thông có thể tạo điều kiện cho sự trao đổi liên văn hóa tích cực) → e (chính phủ cũng phải đảm bảo luật pháp hỗ trợ sự hài hòa đa văn hóa) → c (kết luận: xã hội có thể hướng tới tương lai toàn diện hơn)\nTạm dịch: Khi thế giới ngày càng kết nối chặt chẽ hơn, các nền văn hóa từng tồn tại biệt lập giờ đây tương tác với nhau hàng ngày. Tuy nhiên, quá trình hội nhập không phải lúc nào cũng suôn sẻ, vì nó có thể gây ra xung đột văn hóa và hiểu lầm. Trong khi giáo dục nuôi dưỡng cảm giác đồng cảm và khoan dung, thì các phương tiện truyền thông có thể tạo điều kiện cho sự trao đổi liên văn hóa tích cực bằng cách trình bày các câu chuyện để thúc đẩy sự hiểu biết. Chính phủ và các nhà hoạch định chính sách cũng phải đảm bảo rằng luật pháp hỗ trợ sự hòa hợp đa văn hóa đồng thời bảo vệ quyền lợi của các nhóm thiểu số. Khi làm như vậy, xã hội có thể hướng tới một tương lai toàn diện và gắn kết hơn, nơi sự đa dạng được coi là một thế mạnh chứ không phải là một thách thức."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "Hi Inika,\na. Although Fahim is also busy with the new job and we don't really have much spare time, we've spent every minute we got in the house and garden.\nb. About what I've been doing since we last met, I have mostly been working on the new house and I'm quite occupied with work.\nc. We had a bit sunshine this morning, so we made the most of it: I mowed the lawn, trimmed the hedge and watered the plants while Fahim finished painting the fence.\nd. Sorry to hear you haven't been feeling well lately, but it's good that you've seen a doctor; I'm sure it's nothing serious.\ne. I apologize if this email has been boring, but there really isn't much going on in our lives right now. Anyway, let's meet up soon.\nHadia",
+          "options": {
+            "A": "a-c-d-b-e",
+            "B": "a-d-b-c-e",
+            "C": "d-b-a-c-e",
+            "D": "b-e-a-d-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý của bức thư:\nd (Mình rất tiếc khi nghe bạn gần đây không được khỏe, nhưng thật tốt là bạn đã đi khám bác sĩ; mình chắc là không có gì nghiêm trọng đâu.) → b (Về những gì mình đã làm kể từ lần gặp nhau trước, chủ yếu mình đang bận rộn với ngôi nhà mới và công việc.) → a (Mặc dù Fahim cũng bận rộn với công việc mới và chúng mình không có nhiều thời gian rảnh, nhưng chúng mình đã tận dụng mọi phút giây có được để làm việc trong nhà và vườn.) → c (Sáng nay trời có chút nắng, nên chúng mình đã tận dụng thời gian đó: mình đã cắt cỏ, tỉa cây bụi và tưới cây, trong khi Fahim hoàn thành việc sơn hàng rào.) → e (Mình xin lỗi nếu email này có vẻ nhàm chán, nhưng thực sự hiện tại không có gì mới mẻ trong cuộc sống của chúng mình. Dù sao, chúng mình hãy gặp nhau sớm nhé.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "a. Grace: It's fascinating how Ca Trù has been preserved for centuries. The performances are so rich in history and culture.\nb. Alex: Absolutely. It's wonderful to see such a beautiful part of Vietnamese heritage being kept alive.\nc. Grace: Have you ever heard of Ca Trù?\nd. Grace: Exactly. I love how it combines vocal performances with traditional instruments like \"đàn đáy\" and \"đàn nguyệt\".\ne. Alex: Yes, I have! It's a traditional Vietnamese music genre known for its unique style and poetic lyrics.",
+          "options": {
+            "A": "c-b-a-e-d",
+            "B": "c-e-d-b-a",
+            "C": "c-e-d-a-b",
+            "D": "c-e-a-b-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý của cuộc hội thoại:\nc (Grace: Bạn đã từng nghe đến Ca Trù chưa?) → e (Alex: Có chứ! Đây là một thể loại nhạc truyền thống của Việt Nam nổi tiếng với phong cách độc đáo và lời ca đầy chất thơ.) → a (Grace: Thật hấp dẫn khi Ca Trù được bảo tồn qua nhiều thế kỷ. Các buổi biểu diễn rất giàu giá trị lịch sử và văn hóa.) → b (Alex: Hoàn toàn đúng. Thật tuyệt vời khi thấy một phần di sản Việt Nam tuyệt đẹp như vậy được gìn giữ.) → d (Grace: Chính xác. Mình thích cách kết hợp các buổi biểu diễn giọng hát với các nhạc cụ truyền thống như 'đàn đáy' và 'đàn nguyệt'.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "a. My advice to anyone considering starting their own business is to have a clear vision, be prepared for the upcoming challenges and most importantly, don't be afraid to take risks.\nb. Starting my own business has been a dream of mine since I was young, so I decided to take a leap when I graduated from university three years ago.\nc. It has been an incredible journey.\nd. I have always been driven to create something new and make an impression on the world.\ne. Being an entrepreneur requires a lot of hard work and dedication, but it's all worth it when you see your dream become reality.",
+          "options": {
+            "A": "a-b-c-d-e",
+            "B": "c-a-d-b-e",
+            "C": "b-c-d-a-e",
+            "D": "d-b-c-e-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý:\nd (Tôi luôn bị thúc đẩy để tạo ra một cái gì đó mới mẻ và tạo ấn tượng với thế giới.) → b (Việc khởi nghiệp kinh doanh của riêng tôi đã là ước mơ của tôi từ khi còn trẻ, vì vậy tôi đã quyết định thực hiện bước nhảy vọt khi tôi tốt nghiệp đại học cách đây ba năm.) → c (Đó là một hành trình đáng kinh ngạc.) → e (Trở thành một doanh nhân đòi hỏi rất nhiều công sức và sự cống hiến, nhưng tất cả đều xứng đáng khi bạn thấy ước mơ của mình trở thành hiện thực.) → a (Lời khuyên của tôi cho bất kỳ ai đang cân nhắc khởi nghiệp kinh doanh là hãy có tầm nhìn rõ ràng, chuẩn bị cho những thách thức sắp tới và quan trọng nhất là đừng sợ mạo hiểm.)"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Mai: It's my pleasure, Ms Kim. I'm glad you found it of help. If you need any further information, please contact me.\nb. Ms Kim: I sure will, Mai. Thanks again.\nc. Ms Kim: Mai, thank you for presenting about those online courses.",
+          "options": {
+            "A": "b-c-a",
+            "B": "a-c-b",
+            "C": "c-b-a",
+            "D": "c-a-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý:\nc (Cô Kim: Mai, cảm ơn em đã giới thiệu về những khóa học trực tuyến đó.) → a (Mai: Đó là niềm vinh hạnh của em, cô Kim. Em rất mừng khi cô thấy nó hữu ích. Nếu cô cần thêm thông tin nào, xin đừng ngần ngại liên lạc với em.) → b (Cô Kim: Chắc chắn rồi, Mai. Cảm ơn em lần nữa.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions from 14 to 23.",
+      "passageTitle": "",
+      "passage": "(I) In recent years, social media platforms have become a central part of daily life, offering users countless ways to connect, share, and communicate. (II) While these platforms offer many advantages, experts have noted rising concerns about their effects on mental health, particularly among young people (Smith & Anderson, 2018). (III) Studies reveal that excessive social media use can contribute to feelings of anxiety, depression, and loneliness, despite its intention to promote connection and social interaction (Twenge & Campbell, 2019). (IV)\n\nA primary reason for these mental health concerns is the tendency for social media users to compare themselves to others. Platforms like Instagram and Facebook often portray idealized lifestyles, leading users to feel inadequate about their own lives. Additionally, the constant notifications and messages contribute to a \"fear of missing out,\" or FOMO, which keeps individuals in a cycle of checking their phones, often reducing the quality of sleep and overall well-being.\n\nThere is also a growing body of research suggesting a link between social media use and decreased attention spans. When users frequently switch between apps and notifications, their ability to focus for extended periods may diminish (Rosen, 2019). This shift in attention can interfere with productivity, especially in academic and professional settings, where sustained focus is essential.\n\nAddressing these challenges requires a multi-faceted approach. Some mental health professionals suggest limiting screen time and setting boundaries, such as \"device-free\" hours before bedtime. Others recommend engaging in offline activities, like reading or exercising, to minimize reliance on social media while fostering healthier habits. According to psychologists, such strategies can enhance mental resilience and allow for more meaningful, balanced relationships (Robinson & Smith, 2020).",
+      "questions": [
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The phrase \"fear of missing out\" in paragraph 2 could be best replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "desire to know",
+            "B": "longing to interact",
+            "C": "aim of satisfaction",
+            "D": "worry of exclusion"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cụm từ 'fear of missing out' ở đoạn 2 có thể được thay thế tốt nhất bằng:\nA. mong muốn được biết\nB. khao khát được tương tác\nC. mục đích của sự hài lòng\nD. lo lắng bị loại trừ\nfear of missing out: nỗi sợ bỏ lỡ = worry of exclusion\nThông tin: Additionally, the constant notifications and messages contribute to a 'fear of missing out,' or FOMO, which keeps individuals in a cycle of checking their phones, often reducing the quality of sleep and overall well-being."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?\n\"Addressing these challenges requires a multi-faceted approach.\"",
+          "context": "",
+          "options": {
+            "A": "Mental health professionals are solely responsible for regulating social media use.",
+            "B": "Dependence on social media requires a combination of therapeutic techniques.",
+            "C": "With consistent screen time, individuals can build healthier online habits.",
+            "D": "A balanced approach is required to mitigate the harmful impacts of social media."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây diễn giải lại câu được gạch chân trong đoạn 4 một cách tốt nhất?\nViệc giải quyết những thách thức này đòi hỏi một cách tiếp cận đa chiều.\nA. SAI vì đoạn văn nhấn mạnh vào các chiến lược chung (như giới hạn thời gian sử dụng màn hình, hoạt động ngoại tuyến) thay vì chỉ dựa vào các chuyên gia sức khỏe tâm thần.\nB. SAI vì câu gốc không đề cập 'các kỹ thuật trị liệu'.\nC. SAI vì câu gốc đề cập việc giải quyết các thách thức một cách toàn diện, không chỉ tập trung vào thời gian sử dụng màn hình.\nD. ĐÚNG với nghĩa của câu gốc - Cần có một cách tiếp cận cân bằng để giảm thiểu tác động có hại của phương tiện truyền thông xã hội."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "The word \"their\" in paragraph 3 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "notifications",
+            "B": "researchers",
+            "C": "users",
+            "D": "professionals"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'their' trong đoạn 3 ám chỉ đến 'users'.\nThông tin: When users frequently switch between apps and notifications, their ability to focus for extended periods may diminish (Rosen, 2019). (Khi người dùng thường xuyên chuyển đổi giữa các ứng dụng và thông báo, khả năng duy trì sự tập trung trong thời gian dài của họ có thể bị giảm sút.)"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Notifications have a minor impact on users' attention spans.",
+            "B": "Social media's primary effect is fostering productivity and interaction.",
+            "C": "Offline activities can help improve mental health by limiting social media use.",
+            "D": "Screen time restrictions are not necessary for mental health."
+          },
+          "correctAnswer": "C",
+          "explanation": "Theo đoạn văn, câu nào sau đây là ĐÚNG?\nA. SAI vì đoạn văn đề cập việc thường xuyên nhận được thông báo và chuyển đổi ứng dụng làm giảm khả năng tập trung của người dùng.\nB. SAI vì mặc dù mục đích của mạng xã hội là thúc đẩy sự tương tác, nhưng đoạn văn tập trung vào những hậu quả tiêu cực của nó như lo lắng, FOMO và giảm năng suất.\nC. ĐÚNG - Others recommend engaging in offline activities, like reading or exercising, to minimize reliance on social media while fostering healthier habits.\nD. SAI vì đoạn văn này đề cập rõ ràng đến việc hạn chế thời gian sử dụng màn hình, chẳng hạn như 'giờ không sử dụng thiết bị', như một chiến lược quan trọng để cải thiện sức khỏe tinh thần."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Balanced social media usage, along with offline activities, can reduce stress.",
+            "B": "Social media-related anxiety is often temporary and not very impactful.",
+            "C": "FOMO and lack of attention are uncommon issues among young users.",
+            "D": "Social media platforms generally have a positive influence on young users."
+          },
+          "correctAnswer": "A",
+          "explanation": "Có thể suy ra điều nào sau đây từ đoạn văn?\nA. ĐÚNG - Có thể suy ra từ thông tin này: Some mental health professionals suggest limiting screen time and setting boundaries... Others recommend engaging in offline activities, like reading or exercising, to minimize reliance on social media while fostering healthier habits.\nB. SAI vì đoạn văn đề cập những lo ngại nghiêm trọng, dai dẳng về sức khỏe tinh thần liên quan đến mạng xã hội, chẳng hạn như trầm cảm, lo âu và cô đơn, không được coi là tạm thời hoặc nhỏ nhặt.\nC. SAI vì đoạn văn này đề cập rõ ràng rằng FOMO và khả năng tập trung kém là những vấn đề phổ biến, đặc biệt là ở những người trẻ tuổi.\nD. SAI vì đoạn văn đề cập tác động tiêu cực của những nền tảng lên sức khỏe tinh thần như lo âu, trầm cảm và cô đơn."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "According to paragraph 2, which of the following is NOT an effect of social media on mental health?",
+          "context": "",
+          "options": {
+            "A": "sleep disruption",
+            "B": "fear of missing out",
+            "C": "increased anxiety",
+            "D": "improved self-esteem"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn 2, điều nào sau đây KHÔNG phải là tác động của mạng xã hội đến sức khỏe tinh thần?\nA. rối loạn giấc ngủ → CÓ đề cập\nB. nỗi sợ bỏ lỡ → CÓ đề cập\nC. lo lắng tăng lên → CÓ đề cập\nD. lòng tự trọng được cải thiện → KHÔNG đề cập\nThông tin: Studies reveal that excessive social media use can contribute to feelings of anxiety, depression, and loneliness... Additionally, the constant notifications and messages contribute to a 'fear of missing out,' or FOMO, which keeps individuals in a cycle of checking their phones, often reducing the quality of sleep and overall well-being."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Where in paragraph I does the following sentence best fit?\n\"Young people are particularly affected due to their high engagement with these platforms.\"",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Vị trí (III) phù hợp nhất vì câu liền trước thảo luận về những lo ngại ngày càng tăng liên quan đến tác động của mạng xã hội đến sức khỏe tinh thần, đặc biệt là tác động đối với những người trẻ tuổi. Điền câu này vào vị trí (III) nhằm giải thích lý do tại sao người trẻ bị ảnh hưởng nhiều nhất.\nThông tin: While these platforms offer many advantages, experts have noted rising concerns about their effects on mental health, particularly among young people (Smith & Anderson, 2018). Young people are particularly affected due to their high engagement with these platforms. Studies reveal that excessive social media use can contribute to feelings of anxiety, depression, and loneliness, despite its intention to promote connection and social interaction (Twenge & Campbell, 2019)."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Frequent notifications on social media can decrease users' attention spans and productivity.",
+            "B": "Distractions from social media only affect students' performance negatively.",
+            "C": "Social media contributes to concentration issues that affect users' academic achievements.",
+            "D": "Notifications and app-switching harm the focus needed in professional environments."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn 3?\nA. ĐÚNG - Thông báo thường xuyên trên mạng xã hội có thể làm giảm khả năng tập trung và năng suất của người dùng. (A đúng, tóm tắt được ý trong đoạn 3.)\nB. SAI vì đoạn văn này đề cập đến năng suất trong cả môi trường học thuật và chuyên nghiệp, không chỉ thành tích của học sinh.\nC. SAI vì đoạn văn này đề cập đến bối cảnh học thuật và nghề nghiệp, không chỉ thành tích học tập.\nD. SAI vì đoạn văn này đề cập đến cả bối cảnh học thuật và chuyên môn, không chỉ môi trường chuyên nghiệp.\nThông tin: There is also a growing body of research suggesting a link between social media use and decreased attention spans. When users frequently switch between apps and notifications, their ability to focus for extended periods may diminish (Rosen, 2019). This shift in attention can interfere with productivity, especially in academic and professional settings, where sustained focus is essential."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "The use of social media helps improve relationships and communication but reduces the attention spans of its users.",
+            "B": "Platforms like Instagram and Facebook serve as effective tools for social bonding, minimizing the effects of anxiety and low self-esteem.",
+            "C": "Social media, despite its benefits, presents mental health risks like anxiety and distraction, particularly among young users, and managing screen time can mitigate these effects.",
+            "D": "Social media is harmful to all users, causing loneliness and detachment, and must be restricted in all settings."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất đoạn văn này?\nA. SAI vì mặc dù đoạn văn có đề cập đến mục đích cải thiện giao tiếp của mạng xã hội, nhưng trọng tâm chính của nó lại là rủi ro đối với sức khỏe tinh thần hơn là lợi ích.\nB. SAI vì đoạn văn không nói rằng phương tiện truyền thông xã hội làm giảm sự lo lắng hoặc lòng tự trọng thấp, nó nhấn mạnh cách phương tiện truyền thông xã hội có thể làm trầm trọng thêm những vấn đề này.\nC. ĐÚNG - Phương tiện truyền thông xã hội, mặc dù có lợi ích, nhưng lại gây ra những rủi ro về sức khỏe tâm thần như lo lắng và mất tập trung, đặc biệt là ở những người dùng trẻ tuổi và việc quản lý thời gian sử dụng màn hình có thể làm giảm những tác động này.\nD. SAI vì đoạn văn không khẳng định rằng phương tiện truyền thông xã hội có hại cho tất cả người dùng hoặc hạn chế trong mọi bối cảnh."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"enhance\" in paragraph 4 is OPPOSITE in meaning to ________",
+          "context": "",
+          "options": {
+            "A": "diminish",
+            "B": "reinforce",
+            "C": "intensify",
+            "D": "appreciate"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'enhance' trong đoạn 4 TRÁI NGHĨA với:\nA. diminish /dɪˈmɪm.ɪʃ/ (v): làm giảm, hạ bớt\nB. reinforce /ˌriː.ɪnˈfɔːs/ (v): tăng cường, củng cố\nC. intensify /ɪnˈten.sɪ.faɪ/ (v): làm mãnh liệt, dữ dội\nD. appreciate /əˈpriː.ʃi.eɪt/ (v): đánh giá cao, nhận thức\nenhance /ɪmˈhɑːns/ (v): nâng cao, làm nổi bật >< diminish\nThông tin: According to psychologists, such strategies can enhance mental resilience and allow for more meaningful, balanced relationships (Robinson & Smith, 2020)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 24 to 29.",
+      "passageTitle": "EXPLORE THE VIBRANT WORLD OF CULTURE!",
+      "passage": "Discover the rich tapestry of global cultures at our upcoming festival! This event celebrates diversity through art, music, and cuisine from around the world. (24)________ numerous talented artists in the past, we invite you (25)________ yourself in this unforgettable experience.\n\nJoin us for a day filled with exciting performances and interactive workshops. To learn (26)________ different traditions is a privilege for most people (27)________ to broaden their horizons. Engage with local artisans, taste exotic dishes, and enjoy live music that will (28)________ your spirits. Our mission is to promote understanding and appreciation of cultural heritage. Don't miss the chance to connect with people from (29)________ backgrounds and create lasting memories. Come and experience the beauty of culture in every form together, we can celebrate our shared humanity!",
+      "questions": [
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Showcased",
+            "B": "To showcase",
+            "C": "Showcasing",
+            "D": "Having showcased"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về phân từ hoàn thành:\nTa dùng phân từ hoàn thành 'Having showcased' để chỉ một hành động đã hoàn thành trong quá khứ (giới thiệu nghệ sĩ) xảy ra trước hành động hiện tại (mời khán giả).\nTạm dịch: Having showcased numerous talented artists in the past, we invite you... (Với việc đã giới thiệu nhiều nghệ sĩ tài năng trong quá khứ, chúng tôi mời bạn...)"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to be immersed",
+            "B": "to immerse",
+            "C": "immersing",
+            "D": "to immersing"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc: invite somebody to do something: mời ai làm việc gì.\nTạm dịch: Having showcased numerous talented artists in the past, we invite you to immerse yourself in this unforgettable experience. (Với việc đã giới thiệu nhiều nghệ sĩ tài năng trong quá khứ, chúng tôi mời bạn hòa mình vào trải nghiệm không thể nào quên này.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "about",
+            "B": "in",
+            "C": "from",
+            "D": "at"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về dạng động từ: learn about something: học hỏi, tìm hiểu về cái gì.\nTạm dịch: To learn about different traditions is a privilege for most people... (Việc tìm hiểu về các truyền thống khác nhau là một đặc quyền đối với nhiều người...)"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "hoped",
+            "B": "hoping",
+            "C": "which hope",
+            "D": "who hoped"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ:\nMệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển V sang V-ing.\nTạm dịch: To learn about different traditions is a privilege for most people hoping to broaden their horizons. (Việc tìm hiểu về các truyền thống khác nhau là một đặc quyền đối với nhiều người mong muốn mở rộng tầm nhìn của mình.)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "lift",
+            "B": "grow",
+            "C": "climb",
+            "D": "rise"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm từ cố định: lift somebody's spirits: làm cho ai đó cảm thấy phấn chán, vui vẻ.\nTạm dịch: Engage with local artisans, taste exotic dishes, and enjoy live music that will lift your spirits. (Kết nối với các nghệ nhân địa phương, thưởng thức các món ăn độc đáo và tận hưởng âm nhạc trực tiếp sẽ làm cho bạn cảm thấy phấn chán hơn.)"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "various",
+            "B": "variant",
+            "C": "variable",
+            "D": "variety"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\nA. various /ˈveəriəs/ (adj): khác nhau, đa dạng\nB. variant /ˈveəriənt/ (n): biến thể, phiên bản khác\nC. variable /ˈveəriəbl/ (n): biến số\nD. variety /vəˈraɪ.ə.ti/ (n): sự đa dạng, phong phú\nTa dùng tính từ (various) để bổ nghĩa cho danh từ (backgrounds).\nTạm dịch: Don't miss the chance to connect with people from various backgrounds and create lasting memories. (Đừng bỏ lỡ cơ hội kết nối với những người từ nhiều nền văn hóa khác nhau và tạo ra những kỉ niệm đáng nhớ.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about identity theft and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 30 to 34.",
+      "passageTitle": "",
+      "passage": "Identity theft - cases where thieves steal your personal data to rip through your bank or credit card accounts is a fast-growing crime. Home office statistics estimate a £1.7 billion loss over the past 12 months, which, in cash terms, is far ahead of mugging. In the US, where the crime is even more rampant, (30)________.\n\nThe government believes that there are at least 100,000 identity theft victims every year. Others put the figure significantly higher, (31)________: identity thieves often stop short of clearing out an account to keep their crime profile low. Identity theft flourishes today because many financial transactions are not face to face. Once criminals get hold of data such as your bank account number and address, they can go on a spending spree. Terrifyingly, they do not need all your details; just a few will do.\n\n'It's easy,' says Glen Hastings, a reformed identity thief and author of Identity Theft, Inc. The only prerequisite is the ability to read and write. (32)________, but it's far from essential. I stole several hundred identities in my career. Hastings' modus operandi, or method of committing identify thefts, was to discover individuals with excellent credit records, (33)________. By impersonating these pillars of financial rectitude, he borrowed large amounts in their name - money that he never, of course, repaid.\n\nIn the US, one identity victim had her details (34)________ that a warrant was put out in her name. The real criminal - who was also a drug dealer - never stopped using the victim's name, even when caught and imprisoned, which led to further problems.",
+      "questions": [
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "figures point to a staggering £28 billion a year",
+            "B": "volumes peak at a staggering £28 billion a year",
+            "C": "numbers hover around a stunning £28 billion a year",
+            "D": "statistics amount to a stunning £28 billion a year"
+          },
+          "correctAnswer": "A",
+          "explanation": "Vị trí cần đề cập tác động về mặt tiền tệ của hành vi trộm cắp danh tính ở Hoa Kỳ, nhấn mạnh mức độ nghiêm trọng của nó so với Vương quốc Anh.\nA. các số liệu chỉ ra rằng thiệt hại lên tới một con số khổng lồ là 28 tỷ bảng Anh mỗi năm. → Hợp lý nhất vì đề cập bằng chứng thống kê và 'con số khổng lồ 28 tỷ bảng Anh' nhấn mạnh quy mô lớn của tổn thất.\nB. khối lượng đạt đỉnh ở mức khổng lồ 28 tỷ bảng Anh mỗi năm → Sai vì 'volume peak' phù hợp để mô tả số lượng vật lý (ví dụ: khối lượng bán hàng hoặc sản xuất) thay vì tổn thất tiền tệ.\nC. số liệu dao động quanh mức đáng kinh ngạc 28 tỷ bảng Anh mỗi năm → Sai vì cụm từ 'numbers hover' diễn tả sự không chắc chắn, không phù hợp vì vị trí cần sự chắc chắn, khi so sánh khoản lỗ 1,7 tỷ bảng Anh của Vương quốc Anh với con số lớn hơn nhiều của Hoa Kỳ.\nD. số liệu thống kê lên tới con số đáng kinh ngạc là 28 tỷ bảng Anh mỗi năm → Sai vì thường dùng 'amount to' thường dùng trong những tình huống về tổng số tiền hoặc tổng số thu được từ việc cộng các thứ lại, nhưng vị trí cần dữ liệu dẫn trực tiếp đến kết luận cụ thể, không chỉ là tổng hoặc phép tính.\nTạm dịch: In the US, where the crime is even more rampant, figures point to a staggering £28 billion a year."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "because they have seen higher numbers in other parts of the world",
+            "B": "for identity theft is more prevalent in urban areas rather than rural ones",
+            "C": "since the repercussions are much more far-reaching than expectations",
+            "D": "as some people may not even know their accounts have been raided"
+          },
+          "correctAnswer": "D",
+          "explanation": "Vị trí cần một mệnh đề độc lập liên kết mạch lạc với ý phía trước: 'Những người khác đưa ra con số cao hơn đáng kể' và ý sau: 'kẻ trộm danh tính thường không xóa sạch tài khoản để giữ cho hồ sơ phạm tội của mình không bị lộ.'\nA. bởi vì họ đã thấy số lượng cao hơn ở những nơi khác trên thế giới → Sai vì phần trước của đoạn văn không đề cập đến so sánh toàn cầu.\nB. vì trộm cắp danh tính phổ biến hơn ở khu vực thành thị hơn là nông thôn → Sai vì ý trước không đề cập bất kỳ thông tin nào về sự phân bổ địa lý của nạn nhân trộm cắp danh tính.\nC. vì hậu quả có thể sâu rộng hơn nhiều so với mong đợi → Sai vì ý trước không tập trung nhiều vào hậu quả sâu rộng của hành vi trộm cắp danh tính; nó thảo luận về mức độ phổ biến và cách hoạt động của tội phạm.\nD. vì một số người thậm chí có thể không biết tài khoản của họ đã bị đột kích → Hợp lý nhất, đoạn văn đề cập kẻ trộm danh tính thường không rút hết tiền trong tài khoản để tránh bị phát hiện. Nó giải thích lý do tại sao một số chính phủ ước tính về nạn nhân còn có thể cao hơn, vì không phải tất cả nạn nhân đều biết rằng họ đã trở thành mục tiêu.\nTạm dịch: Others put the figure significantly higher, as some people may not even know their accounts have been raided: identity thieves often stop short of clearing out an account to keep their crime profile low."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Being tech-savvy is also a must in this job",
+            "B": "It certainly helps to be computer literate",
+            "C": "Several criminals are found to be young adults",
+            "D": "Some identity thieves have a dashing appearance"
+          },
+          "correctAnswer": "B",
+          "explanation": "Vị trí cần một mệnh đề độc lập liên kết mạch lạc với ý của câu trước: 'Yêu cầu duy nhất là khả năng đọc và viết.' và ý liền sau: 'nhưng không phải là yếu tố bắt buộc.'\nA. có hiểu biết về công nghệ cũng là điều bắt buộc trong công việc này → Sai vì câu phía trước nhấn mạnh rằng điều kiện là có 'khả năng đọc và viết', ám chỉ ra rằng ngay cả những kỹ năng cơ bản, không phải kiến thức công nghệ tiên tiến, cũng đủ để đánh cắp danh tính.\nB. việc biết sử dụng máy tính sẽ giúp ích → Hợp lý nhất vì liên kết mạch lạc ý của câu trước và ý liền sau.\nC. Nhiều tội phạm được phát hiện là thanh thiếu niên → Sai vì không liên kết mạch lạc ý của câu trước và ý liền sau.\nD. một số kẻ trộm danh tính có vẻ ngoài bảnh bao → Sai vì không liên kết mạch lạc ý của câu trước và ý liền sau.\nTạm dịch: The only prerequisite is the ability to read and write. It certainly helps to be computer literate, but it's far from essential."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "by which banks often express gratitude",
+            "B": "by whom banks often show appreciation",
+            "C": "for whom banks often show appreciation",
+            "D": "for which banks often express gratitude"
+          },
+          "correctAnswer": "C",
+          "explanation": "Vị trí cần một mệnh đề quan hệ để bổ nghĩa cho cụm từ 'individuals with excellent credit records' và liên kết mạch lạc với ý liền trước: 'Phương thức hoạt động của Hastings, hay cách thức ông thực hiện hành vi trộm cắp danh tính, là tìm ra những cá nhân có hồ sơ tín dụng tốt'.\nA. Sai vì không dùng đại từ quan hệ 'which' để thay thế cho cụm từ chỉ người 'individuals with excellent credit records'.\nB. những ngân hàng đánh giá cao bởi những người này → Sai vì không liên kết mạch lạc với ý liền trước.\nC. những người mà ngân hàng thường đánh giá cao → Hợp lý nhất vì đúng ngữ pháp và liên kết mạch lạc với ý liền trước.\nD. Sai vì không dùng đại từ quan hệ 'which' để thay thế cho cụm từ chỉ người 'individuals with excellent credit records'.\nTạm dịch: Hastings' modus operandi, or method of committing identify thefts, was to discover individuals with excellent credit records, for whom banks often show appreciation."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "enough being combined with a $50,000 criminal spending spree",
+            "B": "too much familiarized with a $50,000 criminal spending spree",
+            "C": "so closely associated with a $50,000 criminal spending spree",
+            "D": "such extremely similar to a $50,000 criminal spending spree"
+          },
+          "correctAnswer": "C",
+          "explanation": "Vị trí cần một cấu trúc liên kết mạch lạc với ý liền trước: 'danh tính của một nạn nhân' và ý liền sau: 'đến mức một lệnh bắt giữ đã được ban hành dưới tên của cô ấy'.\nA. đủ khi kết hợp với một cuộc chi tiêu tội phạm trị giá 50.000 đô la → Sai vì không liên kết mạch lạc với ý liền trước và ý liền sau.\nB. quá quen thuộc với vụ chi tiêu tội phạm trị giá 50.000 đô la → Sai vì không liên kết mạch lạc với ý liền trước và ý liền sau.\nC. có liên quan chặt chẽ đến vụ chi tiêu tội phạm trị giá 50.000 đô la → Hợp lý nhất, làm rõ mối liên hệ chặt chẽ, trực tiếp giữa thông tin chi tiết về nạn nhân và hành động của tội phạm.\nD. cực kỳ giống với một vụ chi tiêu tội phạm trị giá 50.000 đô la → Sai vì không liên kết mạch lạc với ý liền trước và ý liền sau.\nTạm dịch: In the US, one identity victim had her details so closely associated with a $50,000 criminal spending spree that a warrant was put out in her name."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 35 to 40.",
+      "passageTitle": "",
+      "passage": "Engaging in part-time employment can (35)________ a lot of benefits for teenagers. When taking on a part-time job, teenagers acquire valuable skills and experiences that can shape their personal and professional growth. Managing responsibilities such as teamwork and time management fosters a sense of accountability and (36)________ among teenagers. Part-time jobs also provide opportunities for them to explore their interests and passions, allowing them to make (37)________ about their future career paths.\n\nFurthermore, teenagers who work part-time often learn the importance of financial (38)________ and develop budgeting skills as they handle their earnings. (39)________ benefit is that part-time employment can boost their self-esteem as they navigate real-world scenarios and interact with diverse individuals. (40)_________, it is crucial that teenagers balance their work commitments with their academic responsibilities and personal well-being.",
+      "questions": [
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "get over",
+            "B": "bring forth",
+            "C": "give away",
+            "D": "come across"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ:\nA. get over somebody/something: chấm dứt cảm xúc với ai, khỏi phục sau cái gì (bệnh tật,...)\nB. bring forth somebody/something: sinh ra ai, mang lại cái gì\nC. give away somebody/something: tiết lộ thông tin, tặng quà cho ai/cái gì\nD. come across somebody/something: tình cờ gặp ai/cái gì\nTạm dịch: Engaging in part-time employment can bring forth a lot of benefits for teenagers. (Việc tham gia vào công việc làm thêm có thể mang lại rất nhiều lợi ích cho thanh thiếu niên.)"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "ethics strong work",
+            "B": "work ethics strong",
+            "C": "strong work ethics",
+            "D": "strong ethics work"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về trật tự từ:\n- strong /strɒŋ/ (adj): mạnh mẽ, vững mạnh\n- work ethics (np): đạo đức làm việc\nTa dùng tính từ trước cụm danh từ: strong work ethics.\nTạm dịch: Managing responsibilities such as teamwork and time management fosters a sense of accountability and strong work ethics among teenagers. (Quản lý các trách nhiệm như làm việc nhóm và quản lý thời gian giúp rèn luyện tinh thần trách nhiệm và đạo đức làm việc tốt ở thanh thiếu niên.)"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "contributions",
+            "B": "decisions",
+            "C": "concerns",
+            "D": "influences"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm từ thông dụng: make decisions: đưa ra quyết định.\nTạm dịch: Part-time jobs also provide opportunities for them to explore their interests and passions, allowing them to make decisions about their future career paths. (Công việc bán thời gian cũng mang đến cơ hội cho họ khám phá sở thích và đam mê, từ đó giúp họ đưa ra quyết định về con đường sự nghiệp trong tương lai.)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "development",
+            "B": "capability",
+            "C": "education",
+            "D": "literacy"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. development /dɪˈvel.əp.mənt/ (n): sự phát triển, mở rộng\nB. capability /ˌkeɪpəˈbɪləti/ (n): khả năng, năng lực\nC. education /ˌedʒ.uˈkeɪ.ʃən/ (n): giáo dục\nD. literacy /ˈlɪtərəsi/ (n): khả năng đọc và viết, sự hiểu biết\nfinancial literacy: kiến thức tài chính\nTạm dịch: Furthermore, teenagers who work part-time often learn the importance of financial literacy and develop budgeting skills as they handle their earnings. (Hơn nữa, thanh thiếu niên làm việc bán thời gian thường học được tầm quan trọng của kiến thức tài chính và phát triển kỹ năng lập ngân sách khi họ quản lý thu nhập của mình.)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Any other",
+            "B": "Another",
+            "C": "The other",
+            "D": "Others"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. any other + N (số nhiều/không đếm được): bất kỳ những người khác, bất kỳ cái nào khác\nB. another + N (số ít): người khác, cái khác\nC. the other + N (số nhiều/số ít): (những) người còn lại, (những) cái còn lại\nD. others: những người còn lại, những cái còn lại\nTạm dịch: Another benefit is that part-time employment can boost their self-esteem as they navigate real-world scenarios and interact with diverse individuals. (Một lợi ích khác là công việc bán thời gian có thể giúp nâng cao lòng tự trọng của họ khi đối mặt với các tình huống thực tế và giao tiếp với nhiều cá nhân khác nhau.)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Thence",
+            "B": "Regardless",
+            "C": "Eventually",
+            "D": "Henceforth"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. thence /ðens/ (adv): từ nơi đó, từ thời điểm đó\nB. regardless /rɪˈɡɑːd.ləs/ (adv): bất kể, dù sao đi nữa\nC. eventually /ɪˈven.tʃu.ə.li/ (adv): cuối cùng\nD. henceforth /ˌhensˈfɔːθ/ (adv): kể từ bây giờ, từ này trở đi\nTạm dịch: Regardless, it is crucial that teenagers balance their work commitments with their academic responsibilities and personal well-being. (Dù sao đi nữa, điều quan trọng là thanh thiếu niên phải cân bằng giữa cam kết công việc với trách nhiệm học tập và sức khỏe cá nhân.)"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.560198+00:00",
+  "updatedAt": "2026-06-08T10:41:58.560198+00:00",
+  "originalFileName": "THPT_Chuyen_Tran_Phu_Hai_Phong_2025.json"
+}

@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_quang_nam_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Cụm Liên Trường THPT Quảng Nam",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Quang_Nam_2025_TiengAnh.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#QuảngNam",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following festival description and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "THE MID-AUTUMN FESTIVAL",
+      "passage": "The Mid-Autumn Festival is a traditional celebration (1)________ on the 15th day of the eighth lunar month. It is widely known in many Asian countries. In Vietnam, it is a (2)________ occasion for families to gather, and for children to enjoy various activities. Children tend (3)________ up the streets with colorful lanterns of all shapes and sizes, creating a festive atmosphere. Mooncakes, a symbolic treat of the festival, are shared (4)________ family members and given as gifts to friends.\n\nChildren participate in lion dances, play folk games, and listen to the legend of the Moon Lady and the Moon Boy. The festival also represents the appreciation of a (5)______. It's not only a cultural event but also a cherished time to express love, gratitude, and unity. Even today, it still (6)________ an important part of Vietnamese culture.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "held",
+            "B": "is held",
+            "C": "holding",
+            "D": "which held"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về rút gọn mệnh đề quan hệ:\nCâu đã có chủ ngữ chính 'The Mid-Autumn Festival' và động từ chính 'is'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại B vì sử dụng động từ chia thì 'is'.\nLoại C vì sử dụng hiện tại phân từ không phù hợp. Phải dùng 'held' (dạng rút gọn 'which is held').\nLoại D vì sử dụng sai mệnh đề quan hệ. (which is held)\nTạm dịch: Tết Trung Thu là một lễ hội truyền thống được tổ chức vào ngày 15 tháng 8 âm lịch."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "specialize",
+            "B": "specially",
+            "C": "special",
+            "D": "specialty"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ loại:\nA. specialize /ˈspeʃəlaɪz/ (v): chuyên môn hóa\nB. specially /ˈspeʃəli/ (adv): đặc biệt là\nC. special /ˈspeʃl/ (adj): đặc biệt\nD. specialty /ˈspeʃəlti/ (n): đặc sản, chuyên môn\nTrước danh từ 'occasion' (dịp), ta dùng tính từ để bổ nghĩa → ta chọn 'special'.\nTạm dịch: Ở Việt Nam, đây là dịp đặc biệt để gia đình sum họp và trẻ em được tham gia nhiều hoạt động thú vị."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to light",
+            "B": "light",
+            "C": "lighting",
+            "D": "to lighting"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to':\ntend to do something: thường làm gì đó, có xu hướng làm gì đó\nTạm dịch: Trẻ em thường thắp sáng đường phố bằng những chiếc lồng đèn rực rỡ với nhiều hình dáng và kích thước khác nhau, tạo nên một bầu không khí lễ hội."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to",
+            "B": "among",
+            "C": "with",
+            "D": "for"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cấu trúc đi với giới từ:\nshare something with somebody: có hoặc dùng cái gì cùng với những người khác; có chung cái gì\nshare something among/between somebody: chia phần của cái gì cho những người khác\nDựa vào ngữ cảnh ta chọn giới từ 'among' là phù hợp nhất.\nTạm dịch: Bánh trung thu, một món ăn mang tính biểu tượng của dịp lễ này, được chia cho các thành viên trong gia đình và được tặng cho bạn bè như món quà."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "harvest successful season",
+            "B": "successful season harvest",
+            "C": "successful harvest season",
+            "D": "season harvest successful"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về trật tự từ:\nTa dùng tính từ 'successful' (bội thu, thành công) đứng trước danh từ 'harvest season' (mùa vụ) để bổ sung ý nghĩa.\nTạm dịch: Lễ hội cũng là dịp để bày tỏ lòng biết ơn về một mùa vụ bội thu."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "takes",
+            "B": "sets",
+            "C": "makes",
+            "D": "plays"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc:\nplay an important part of something: đóng vai trò quan trọng trong cái gì đó\nTạm dịch: Cho đến ngày nay, Tết Trung Thu vẫn đóng vai trò quan trọng trong văn hóa Việt Nam."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "CITIES OF THE FUTURE: BUILDING TOMORROW'S URBAN LANDSCAPE",
+      "passage": "Define the Vision\n(7)________ sustainable cities, it is essential to establish clear urban goals. From reducing carbon footprints to increasing connectivity, setting these (8)________ will steer urban development and ensure that our cities are ready to meet future demands.\n\nDesign Infrastructure\nA (9)________ city must incorporate advanced infrastructure that promotes both resilience and adaptability. Smart energy grids, green buildings, and sustainable transportation are essential to creating an urban environment that (10)________ as one of the most charming among global cities.\n\nConnect Communities and Technology\nBy connecting communities with (11)________ innovative technologies such as digital platforms, data analytics, and IoT, we can create an inclusive urban ecosystem giving everyone a(n) (12)________ in accessing services, amenities, and opportunities.\n\n(Adapted from bbc.com)",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "On account of",
+            "B": "Regardless of",
+            "C": "In spite of",
+            "D": "For the sake of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm giới từ:\nA. On account of: bởi vì, do\nB. Regardless of: bất kể, bất chấp\nC. In spite of: mặc dù\nD. For the sake of: vì, vì lợi ích của\nTạm dịch: Vì lợi ích của các thành phố bền vững, điều cần thiết là phải thiết lập các mục tiêu đô thị rõ ràng."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "objectives",
+            "B": "commercials",
+            "C": "essentials",
+            "D": "basics"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. objective /əbˈdʒektɪv/ (n): mục tiêu\nB. commercial /kəˈmɜːrʃl/ (n): quảng cáo\nC. essential /ɪˈsenʃl/ (n): yếu tố thiết yếu\nD. basics /ˈbeɪsɪks/ (n): những điều cơ bản\nTạm dịch: Từ việc giảm lượng khí thải carbon đến tăng cường kết nối, việc đặt ra những mục tiêu này sẽ định hướng cho sự phát triển đô thị và đảm bảo rằng các thành phố của chúng ta sẵn sàng đáp ứng nhu cầu trong tương lai."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "futuristic",
+            "B": "weird",
+            "C": "local",
+            "D": "historic"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. futuristic /ˌfjuːtʃəˈrɪstɪk/ (adj): thuộc về tương lai, mang tính tương lai\nB. weird /wɪərd/ (adj): kỳ lạ, khác thường\nC. local /ˈləʊkl/ (adj): địa phương\nD. historic /hɪˈstɒrɪk/ (adj): mang tính lịch sử, có tính lịch sử\nTạm dịch: Một thành phố mang tính tương lai phải tích hợp cơ sở hạ tầng tiên tiến giúp tăng cường khả năng phục hồi và khả năng thích ứng."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "gets off",
+            "B": "stands out",
+            "C": "brings up",
+            "D": "breaks out"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. get off: xuống xe, rời khỏi\nB. stand out: nổi bật\nC. bring up: nuôi dưỡng, đề cập đến\nD. break out: bùng nổ, nổ ra\nTạm dịch: Các hệ thống lưới điện thông minh, tòa nhà xanh và phương tiện giao thông thân thiện bền vững là những yếu tố thiết yếu để tạo ra một đô thị có thể nổi bật là một trong những thành phố quyến rũ nhất trên thế giới."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "some",
+            "B": "another",
+            "C": "the other",
+            "D": "little"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về lượng từ:\nA. some + N (số nhiều/không đếm được): một số\nB. another + N (số ít): một người/cái khác\nC. the other + N (số ít/số nhiều): (những) người/cái còn lại\nD. little + N (không đếm được): một chút, một ít\nTạm dịch: Bằng cách kết nối cộng đồng với một số công nghệ sáng tạo như nền tảng kỹ thuật số, phân tích dữ liệu và Internet vạn vật (IoT), chúng ta có thể tạo ra một hệ sinh thái đô thị toàn diện."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "brink",
+            "B": "edge",
+            "C": "side",
+            "D": "verge"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc:\ngive somebody an edge in something: mang lại lợi thế cho ai trong việc gì đó\nTạm dịch: Bằng cách kết nối cộng đồng với một số công nghệ sáng tạo như nền tảng kỹ thuật số, phân tích dữ liệu và Internet vạn vật (IoT), chúng ta có thể tạo ra một hệ sinh thái đô thị toàn diện, mang lại lợi thế cho mọi người trong việc tiếp cận các dịch vụ, tiện ích và cơ hội."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Mai: I love that! It's a great way to help the environment.\nb. Mai: That's awesome, Phuc! How does this work?\nc. Phuc: Our school started a recycling program and I'm so excited to be a part of it.\nd. Phuc: Exactly, everyone should get involved in this initiative.\ne. Phuc: We collect plastic and paper every week to reduce waste.",
+          "options": {
+            "A": "c-b-e-a-d",
+            "B": "a-d-c-e-b",
+            "C": "c-d-e-b-a",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hợp lý của đoạn hội thoại:\nc. Phục chia sẻ: Trường chúng ta đã bắt đầu chương trình tái chế và mình rất vui được tham gia.\nb. Mai hỏi: Tuyệt vời quá Phúc! Chương trình này hoạt động thế nào?\ne. Phục giải thích: Chúng ta thu gom nhựa và giấy hàng tuần để giảm rác thải.\na. Mai phản hồi: Mình thích điều đó! Đó là một cách tuyệt vời để giúp môi trường.\nd. Phục kết luận: Chính xác, mọi người nên tham gia vào sáng kiến này."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Having a diverse group of friends can significantly enhance one's social life an emotional well-being.\nb. Moreover, a wider circle of friends provides emotional support during difficult times, as different people can offer various types of encouragement.\nc. With many friends, individuals can benefit from different perspectives, helping them grow and develop a more open-minded outlook.\nd. Friendships also lead to networking opportunities, which can be beneficial for both personal and professional growth.\ne. In conclusion, while friendships require effort to maintain, the numerous benefits of having many friends make it a worthwhile pursuit.",
+          "options": {
+            "A": "a-d-c-b-e",
+            "B": "a-c-b-d-e",
+            "C": "b-c-a-d-e",
+            "D": "c-a-d-b-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hợp lý của đoạn văn:\na. Câu chủ đề: Có một nhóm bạn đa dạng có thể nâng cao đáng kể đời sống xã hội và tình cảm.\nc. Ý 1: Với nhiều bạn bè, các cá nhân có thể được hưởng lợi từ những quan điểm khác nhau, giúp họ trưởng thành và phát triển quan điểm cởi mở hơn.\nb. Ý 2: Hơn nữa, một vòng kết nối bạn bè rộng rãi hơn sẽ mang lại sự hỗ trợ về mặt tinh thần trong những thời điểm khó khăn.\nd. Ý 3: Tình bạn cũng dẫn đến các cơ hội kết nối, có thể mang lại lợi ích cho cả sự phát triển cá nhân và nghề nghiệp.\ne. Kết luận: Tóm lại, mặc dù tình bạn đòi hỏi nỗ lực để duy trì, nhưng vô số lợi ích của việc có nhiều bạn bè khiến việc theo đuổi trở nên đáng giá."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. David: Hey, Sarah! You've been traveling a lot lately, right?\nb. David: That's amazing! How was the experience?\nc. Sarah: Hi, David! Yes, I just got back from Europe.",
+          "options": {
+            "A": "a-b-c",
+            "B": "c-a-b",
+            "C": "a-c-b",
+            "D": "b-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hợp lý của đoạn hội thoại:\na. David hỏi: Này, Sarah! Gần đây cậu đi du lịch rất nhiều phải không?\nc. Sarah trả lời: Chào David! Đúng vậy, mình vừa trở về từ Châu Âu.\nb. David hỏi tiếp: Thật tuyệt vời! Trải nghiệm thế nào?"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Another challenge is adjusting to the demands of higher education, which can be a significant transition for those coming from different backgrounds.\nb. University life can be challenging for many students, who often face various academic and personal pressures during their studies.\nc. Therefore, it is important for universities to provide resources and support systems that help students navigate these challenges successfully.\nd. Balancing coursework, part-time jobs, and social activities can lead to increased stress and feelings of overwhelm among students.\ne. In summary, addressing the difficulties of university life is crucial for promoting student well-being and academic success.",
+          "options": {
+            "A": "c-a-d-b-e",
+            "B": "b-e-a-c-d",
+            "C": "b-d-a-c-e",
+            "D": "b-d-c-a-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự hợp lý của đoạn văn:\nb. Câu chủ đề: Cuộc sống đại học có thể là thử thách đối với nhiều sinh viên, những người thường phải đối mặt với nhiều áp lực học tập và cá nhân.\nd. Ý 1: Cân bằng giữa các môn học, công việc bán thời gian và các hoạt động xã hội có thể làm tăng căng thẳng và cảm giác choáng ngợp ở sinh viên.\na. Ý 2: Một thách thức khác là việc điều chỉnh theo những nhu cầu của giáo dục đại học, đây có thể là một sự chuyển đổi đáng kể đối với những người đến từ các hoàn cảnh khác nhau.\nc. Giải pháp: Vì vậy, điều quan trọng là các trường đại học phải cung cấp nguồn lực và hệ thống hỗ trợ để giúp sinh viên vượt qua những thách thức này một cách thành công.\ne. Kết luận: Tóm lại, giải quyết những khó khăn trong cuộc sống đại học là rất quan trọng để thúc đẩy hạnh phúc và thành công trong học tập của sinh viên."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "Hi Alice,\na. I'm sure we can mix both relaxation and a bit of adventure. Would the end of this month work for you to go?\nb. I hope you're doing well! I've been thinking about how we could really use a break, and I wanted to suggest we plan a trip.\nc. What do you think about Da Lat? It's got beautiful scenery, cool weather, and lots of outdoor activities like trekking, visiting flower gardens, and exploring nature.\nd. If you're up for something more adventurous, I found a few options like kayaking on the lake and hiking through the forests.\ne. Let me know what you think - I'm excited about the idea!\nBest,\nLK",
+          "options": {
+            "A": "b-c-d-a-e",
+            "B": "a-d-c-b-e",
+            "C": "b-a-e-d-c",
+            "D": "c-a-d-b-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hợp lý của bức thư:\nb. Mở đầu: Mình hy vọng cậu vẫn đang ổn! Mình đang nghĩ xem chúng ta có thể tận dụng thời gian nghỉ ngơi như thế nào và mình muốn đề nghị chúng ta lên kế hoạch cho một chuyến đi.\nc. Gợi ý địa điểm: Cậu nghĩ gì về Đà Lạt? Nơi đây có phong cảnh đẹp, thời tiết mát mẻ và nhiều hoạt động ngoài trời như leo núi, tham quan vườn hoa và khám phá thiên nhiên.\nd. Thêm lựa chọn: Nếu cậu thích điều gì đó mạo hiểm hơn, mình đã tìm thấy một số lựa chọn như chèo thuyền kayak trên hồ và đi bộ xuyên rừng.\na. Đảm bảo: Mình chắc chắn chúng ta có thể kết hợp cả sự thư giãn và một chút phiêu lưu. Cuối tháng này cậu có đi được không?\ne. Kết thúc: Hãy cho mình biết suy nghĩ của cậu - Mình rất hào hứng với ý tưởng này!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 18 to 25.",
+      "passageTitle": "Gap Year",
+      "passage": "More and more young people are choosing to take a gap year between finishing school and starting university. Alternatively, they may decide to take a gap year between graduating from university and starting a career feeling the need for some time out before joining the rat race. Most students see the time as an opportunity to travel. The idea of traveling to as many foreign places as possible appeals greatly.\n\nA large percentage of gap-year students have wealthy parents who can easily subsidize their travel. Others have to save up before they go, or look for some form of employment while travelling. For example, they may work on local farms or in local hotels. By doing so, they not only earn some money, but they are likely to meet local people and acquire some understanding of their culture.\n\nThere are some students who choose to work for the whole of their gap year. A number may decide to get work experience, either at home or abroad, in an area which they hope to make their careers, such as medicine or computers. A large proportion of students are now choosing to work with a charity that arranges voluntary work in various parts of the world. The projects provide hands-on experience of a very varied nature, from teaching to helping build roads or dams.\n\nThe gap year is not just an adventure. Young people can benefit greatly from encountering new and varied experiences and from communication with a wide range of people. Perhaps most importantly, gap-year students have to learn to stand on their own two feet.\n\n(Adapted from Thematic Vocabulary & Comprehension by Betty Kirkpatrick and Rebecca Mok)",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The word \"hands-on\" in paragraph 3 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "imposing",
+            "B": "impartial",
+            "C": "impossible",
+            "D": "impractical"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'hands-on' ở đoạn 3 TRÁI NGHĨA với:\nA. imposing /ɪmˈpəʊzɪŋ/ (adj): uy nghi, hùng vĩ\nB. impartial /ɪmˈpɑːrʃl/ (adj): công bằng, khách quan\nC. impossible /ɪmˈpɒsəbl/ (adj): không thể\nD. impractical /ɪmˈpræktɪkl/ (adj): không thực tế\nhands-on /ˈhændz ɒn/ (adj): thực tế, thực tiễn >< impractical (adj)\nThông tin: The projects provide hands-on experience of a very varied nature, from teaching to helping build roads or dams."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "In which paragraph does the writer mention the potential financial challenges faced by some gap-year students?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 4",
+            "C": "Paragraph 1",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "A",
+          "explanation": "Tác giả đề cập đến những thách thức tài chính tiềm ẩn mà một số sinh viên gap-year phải đối mặt ở đoạn 2.\nThông tin: A large percentage of gap-year students have wealthy parents who can easily subsidize their travel. Others have to save up before they go, or look for some form of employment while travelling. (Một tỷ lệ lớn sinh viên nghỉ gap year có bố mẹ giàu có, có thể dễ dàng hỗ trợ tài chính cho chuyến đi của họ. Những người khác phải tiết kiệm trước khi đi hoặc tìm một số hình thức việc làm khi đi du lịch.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Gap-year students need to rely on their friends for emotional support.",
+            "B": "Gap-year students must develop their independence, and self-sufficiency.",
+            "C": "Gap-year students are encouraged to seek assistance from mentors.",
+            "D": "Gap-year students should maintain close ties with their families for guidance."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải tốt nhất câu được gạch chân ở đoạn 4?\nA. Sai ở 'rely on their friends for emotional support' không được đề cập trong câu gốc.\nB. Sinh viên gap-year phải phát huy tính độc lập và tự chủ của mình. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nC. Sai ở 'seek assistance from mentors' không được đề cập trong câu gốc.\nD. Sai vì nghĩa có hàm ý trái ngược với câu gốc, đề cập về sự độc lập và tự chủ.\nThông tin: Perhaps most importantly, gap-year students have to learn to stand on their own two feet."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "The word \"subsidize\" in paragraph 2 could be best replaced by ______",
+          "context": "",
+          "options": {
+            "A": "pay for",
+            "B": "ask for",
+            "C": "work for",
+            "D": "apply for"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'subsidize' ở đoạn 2 có thể được thay thế tốt nhất bằng:\nA. pay for: trả tiền cho\nB. ask for: yêu cầu, xin\nC. work for: làm việc cho\nD. apply for: nộp đơn xin\nsubsidize /ˈsʌbsɪdaɪz/ (v): trợ cấp = pay for\nThông tin: A large percentage of gap-year students have wealthy parents who can easily subsidize their travel."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Students can take a gap year only before starting university.",
+            "B": "None of the students choose to work for the whole of their gap year to get experience.",
+            "C": "Most students consider a gap year as a chance to travel.",
+            "D": "The number of students taking a gap year between high school and university is falling."
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây là ĐÚNG theo bài đọc?\nA. Sai vì sinh viên có thể nghỉ gap year giữa lúc tốt nghiệp đại học và bắt đầu sự nghiệp.\nB. Sai: There are some students who choose to work for the whole of their gap year.\nC. Đúng: Most students see the time as an opportunity to travel.\nD. Sai: More and more young people are choosing to take a gap year.\nThông tin: Most students see the time as an opportunity to travel. (Hầu hết sinh viên coi đây là cơ hội để đi du lịch.)"
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"their\" in paragraph 2 refers to ________",
+          "context": "",
+          "options": {
+            "A": "local hotels",
+            "B": "local people",
+            "C": "gap-year students",
+            "D": "local farms"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'their' ở đoạn 2 để cập tới 'local people' (người dân địa phương).\nThông tin: By doing so, they not only earn some money, but they are likely to meet local people and acquire some understanding of their culture. (Bằng cách này, họ không chỉ kiếm được một số tiền mà còn có cơ hội gặp gỡ người dân địa phương và hiểu thêm về văn hóa của họ.)"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "In which paragraph does the writer discuss the personal growth and independence gained from taking a gap year?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả thảo luận về sự phát triển cá nhân và sự độc lập có được từ việc nghỉ gap year ở đoạn 4.\nThông tin: Young people can benefit greatly from encountering new and varied experiences and from communication with a wide range of people. Perhaps most importantly, gap-year students have to learn to stand on their own two feet."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "According to the passage, all of the following are mentioned as ways gap-year students spend their time EXCEPT ________",
+          "context": "",
+          "options": {
+            "A": "volunteering with charities",
+            "B": "gaining work experience",
+            "C": "working on local farms or in local hotels",
+            "D": "traveling without any financial support"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo bài đọc, tất cả những điều sau đây được đề cập đến như là cách mà sinh viên nghỉ gap year sử dụng thời gian của họ NGOẠI TRỪ:\nA. tham gia tình nguyện với các tổ chức từ thiện → được đề cập\nB. tích lũy kinh nghiệm làm việc → được đề cập\nC. làm việc tại các trang trại địa phương hoặc tại các khách sạn địa phương → được đề cập\nD. đi du lịch mà không có bất kỳ sự hỗ trợ tài chính nào → không được đề cập. Bài đọc đề cập rằng một số có bố mẹ giàu có hỗ trợ hoặc họ phải tiết kiệm/làm việc."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 26 to 30.",
+      "passageTitle": "Children and Social Media Addiction",
+      "passage": "In recent years, the phenomenon of children becoming addicted to social media at a young age has gained significant attention. To explain this, experts argue (26)________. Many parents are concerned about their children's excessive screen time, which often leads to a decrease in face-to-face interactions and physical activities. This situation is viewed as a concerning shift in how social interactions are conduct among the younger generation, (27)________.\n\nMoreover, the development of pressures to curate an ideal online presence (28)________, as children are finding it challenging to disconnect from their online personas. As they navigate their social lives through digital means, the importance of developing real-life skills may be diminished.\n\nAddressing this growing concern, (29)________, emphasizing the need for parents to monitor and limit their children's social media usage. Ultimately,(30)________, including anxiety and depression. This requires a collective effort from parents, educators, and policymakers, to ensure a balanced approach to technology use.",
+      "questions": [
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the alarming trend is largely driven by the accessibility of smartphones and tablets among children",
+            "B": "social media is designed only for educational purposes, not entertainment",
+            "C": "children have minimal interest in using social media, so addiction is unlikely",
+            "D": "the effects of social media are relatively positive and encourage children to be more social in real life"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần một mệnh đề phù hợp về ngữ nghĩa và ngữ cảnh.\nA. xu hướng đáng báo động này phần lớn xuất phát từ việc trẻ em dễ dàng tiếp cận với điện thoại thông minh và máy tính bảng. → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nB. mạng xã hội chỉ được thiết kế cho mục đích giáo dục chứ không phải giải trí. → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nC. trẻ em ít quan tâm đến việc sử dụng mạng xã hội nên khó có khả năng gây nghiện. → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nD. tác động của mạng xã hội là tương đối tích cực và khuyến khích trẻ em hòa đồng hơn trong cuộc sống thực tế. → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nTạm dịch: Để giải thích điều này, các chuyên gia cho rằng xu hướng đáng báo động này phần lớn xuất phát từ việc trẻ em dễ dàng tiếp cận với điện thoại thông minh và máy tính bảng."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which encouraging online engagement in likes, shares, and comments",
+            "B": "gave rise to the growing online engagement through likes, shares, and comments",
+            "C": "strongly encouraged engagement through likes, shares, and comments",
+            "D": "whose engagement online is heavily influenced by likes, shares, and comments"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'this situation' (tình huống này) và động từ chính 'is'. Do vậy, ta có thể sử dụng mệnh đề quan hệ hoặc rút gọn mệnh đề quan hệ.\nLoại A vì mệnh đề quan hệ sai ngữ pháp.\nLoại B và C vì sử dụng động từ chia thì 'gave' và 'encouraged'.\nTạm dịch: Tình huống này được xem là một sự thay đổi đáng lo ngại trong cách thế hệ trẻ tương tác xã hội, sự tham gia trực tuyến của họ bị ảnh hưởng đáng kể bởi lượt thích, chia sẻ và bình luận."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that has been motivated by the pervasive influence of social media",
+            "B": "having been motivated by the pervasive influence of social media",
+            "C": "is motivated by the pervasive influence of social media",
+            "D": "of which the motivation is derived from the pervasive influence of social media"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'the development of pressures to curate an ideal online presence' (sự tăng lên của áp lực phải tạo dựng một hình ảnh lý tưởng trên mạng xã hội). Do vậy, ta cần một động từ chính có chia thì.\nLoại A và D vì sử dụng mệnh đề quan hệ.\nLoại B vì sử dụng phân từ hoàn thành.\nTạm dịch: Hơn nữa, sự tăng lên của áp lực phải tạo dựng một hình ảnh lý tưởng trên mạng xã hội được xuất phát từ sự ảnh hưởng sâu rộng của các nền tảng này, thực tế là trẻ em gặp khó khăn trong việc tách rời bản thân khỏi danh tính trực tuyến của mình."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "families are being educated on healthy technology habits through programs from several organizations",
+            "B": "programs have been introduced to educate families on healthy technology habits by organizations",
+            "C": "organizations have begun to advocate for programs to educate families on healthy technology habits",
+            "D": "advocacy has been provided for programs to educate families on healthy technology habits"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy mệnh đề phía trước sử dụng hiện tại phân từ 'addressing'. Ta xét từng đáp án:\nA – chủ ngữ chung 'families' (các gia đình) → Sai vì ngữ nghĩa không thể kết hợp với 'addressing' ở mệnh đề phía trước.\nB – chủ ngữ chung 'programs' (các chương trình) → Sai vì không thể kết hợp với 'addressing' ở mệnh đề phía trước.\nC – chủ ngữ chung 'organizations' (các tổ chức) → Đúng vì phù hợp về ngữ nghĩa khi kết hợp với 'addressing' ở mệnh đề phía trước.\nD – chủ ngữ chung 'advocacy' (sự ủng hộ) → Sai vì không thể kết hợp với 'addressing' ở mệnh đề phía trước.\nTạm dịch: Để giải quyết mối lo ngại ngày càng gia tăng này, các tổ chức đã bắt đầu kêu gọi thực hiện các chương trình giáo dục nhằm hướng dẫn các gia đình về thói quen sử dụng công nghệ lành mạnh, nhấn mạnh sự cần thiết của việc cha mẹ giám sát và hạn chế thời gian sử dụng mạng xã hội của con cái."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the best solution is to ban children from using social media entirely to avoid any negative effects",
+            "B": "allowing children unrestricted access to social media will naturally teach them to self-regulate over time",
+            "C": "reducing excessive social media use can help lower the risks of mental health issues in children",
+            "D": "limiting social media use is unnecessary, as it has no real impact on children's mental well-being"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta cần một mệnh đề phù hợp về ngữ nghĩa và ngữ cảnh.\nA. giải pháp tốt nhất là cấm hoàn toàn trẻ em sử dụng mạng xã hội để tránh bất cứ tác động tiêu cực → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nB. cho phép trẻ em truy cập không hạn chế vào mạng xã hội sẽ dạy chúng tự điều chỉnh theo thời gian một cách tự nhiên → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nC. giảm bớt tình trạng lạm dụng mạng xã hội có thể giúp giảm nguy cơ mắc các vấn đề sức khỏe tâm lý ở trẻ em → Đúng vì phù hợp về ngữ nghĩa và ngữ cảnh.\nD. hạn chế sử dụng mạng xã hội là không cần thiết vì nó không có tác động thực sự đến sức khỏe tinh thần của trẻ em → Sai vì ý nghĩa câu không phù hợp về ngữ cảnh.\nTạm dịch: Cuối cùng, giảm bớt tình trạng lạm dụng mạng xã hội có thể giúp giảm nguy cơ mắc các vấn đề sức khỏe tâm lý ở trẻ em, bao gồm lo âu và trầm cảm."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Biodiversity Loss and AI Conservation",
+      "passage": "The loss of biodiversity on Earth is accelerating due to human-induced factors such as climate change and pollution. In response, both governments and conservation organizations are implementing various initiatives to protect wildlife and combat this alarming trend. Recently, the integration of artificial intelligence (AI) into conservation efforts has proven to be a game-changer, offering innovative solutions to mitigate the rapid decline of plant and animal species.\n\nIllegal poaching remains one of the most significant threats to endangered species, particularly in forests and protected areas. Rangers, who are responsible for safeguarding these regions, often face immense challenges in monitoring vast landscapes. To support them, AI-powered cameras have been introduced in several national parks, enabling real-time tracking of wildlife and poachers. These advanced systems can detect illegal activities even in low-visibility conditions, such as at night, and send alerts to rangers within moments. Additionally, AI technology plays a critical role in identifying unauthorized vehicles or boats entering conservation zones.\n\nAnother major driver of biodiversity loss is the destruction of natural habitats. (I) Shifting environmental conditions often make it difficult for scientists to detect changes until substantial evidence emerges. (II) For example, in certain regions, the combined impact of economic development and climate change has drastically reduced water resources. (III) These issues have only come to light through the use of AI, which allows researchers to collect and analyze extensive data. (IV)\n\nTo effectively combat biodiversity loss, a multifaceted approach is necessary. Expanding the use of AI tools in wildlife protection can enhance monitoring and enforcement capabilities. Governments should also prioritize policies such as habitat restoration, stricter anti-poaching laws, and sustainable development practices. Public awareness campaigns can encourage community involvement, emphasizing the importance of preserving ecosystems. By leveraging advanced technologies and collective action, we can create a more sustainable future for all living organisms.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Shifting environmental conditions hinder scientists' ability to identify changes until clear evidence emerges.",
+            "B": "Scientists have developed methods to detect environmental changes without relying on advanced technologies.",
+            "C": "Governments and conservation organizations have not taken significant action to address biodiversity loss.",
+            "D": "Climate change has a greater impact than economic development in reducing water resources in some regions."
+          },
+          "correctAnswer": "A",
+          "explanation": "Điều nào sau đây là ĐÚNG theo bài đọc?\nA. Đúng: Shifting environmental conditions often make it difficult for scientists to detect changes until substantial evidence emerges.\nB. Sai vì các nhà khoa học đã phát triển các phương pháp phát hiện sự thay đổi của môi trường mà không cần dựa vào công nghệ tiên tiến.\nC. Sai: both governments and conservation organizations are implementing various initiatives.\nD. Sai vì biến đổi khí hậu và phát triển kinh tế có tác động như nhau.\nThông tin: Shifting environmental conditions often make it difficult for scientists to detect changes until substantial evidence emerges."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word \"them\" in paragraph 2 refers to?",
+          "context": "",
+          "options": {
+            "A": "regions",
+            "B": "rangers",
+            "C": "challenges",
+            "D": "landscapes"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'them' ở đoạn 2 để cập đến 'rangers' (những người kiểm lâm).\nThông tin: Rangers, who are responsible for safeguarding these regions, often face immense challenges in monitoring vast landscapes. To support them, AI-powered cameras have been introduced in several national parks."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Where in paragraph 3 does the following sentence best fit? \"Without these technologies, identifying and responding to such challenges in a timely manner would have been almost impossible.\"",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(III)",
+            "C": "(II)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (IV) vì liên kết mạch lạc với ý nghĩa câu phía trước. Câu phía trước đề cập đến việc phát hiện các vấn đề môi trường nhờ AI nên câu này nhấn mạnh rằng nếu không có công nghệ AI thì không thể xác định và ứng phó với các vấn đề đó kịp thời.\nThông tin: These issues have only come to light through the use of AI, which allows researchers to collect and analyze extensive data. Without these technologies, identifying and responding to such challenges in a timely manner would have been almost impossible."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following best summarises paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "AI systems have significantly enhanced efforts to detect poaching and safeguard endangered species.",
+            "B": "AI systems are only effective during low-visibility conditions and in detecting unauthorized vehicles.",
+            "C": "Illegal poaching remains the biggest challenge for conservation efforts despite technological advancements.",
+            "D": "AI technology has replaced the role of rangers in monitoring vast forests and ensuring the protection of wildlife."
+          },
+          "correctAnswer": "A",
+          "explanation": "Điều nào sau đây tóm tắt tốt nhất đoạn 2?\nA. Hệ thống AI đã tăng cường đáng kể nỗ lực phát hiện nạn săn trộm và bảo vệ các loài có nguy cơ tuyệt chủng. → Đúng vì tóm tắt đầy đủ ý của đoạn văn.\nB. Sai ở 'only' vì AI không chỉ hiệu quả trong điều kiện tầm nhìn kém.\nC. Sai ở 'the biggest challenge' vì săn bắt trái phép vẫn là một trong những mối đe dọa lớn nhất chứ không được khẳng định là lớn nhất.\nD. Sai ở 'replaced the role of rangers' vì AI không thay thế hoàn toàn vai trò của những người kiểm lâm mà là để hỗ trợ họ."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Preventing biodiversity loss involves focusing solely on habitat restoration initiatives.",
+            "B": "Addressing biodiversity loss requires a combination of strategies to ensure effectiveness.",
+            "C": "A single method is enough to combat the challenges of biodiversity loss effectively.",
+            "D": "Biodiversity loss can be effectively tackled through technological solutions alone."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu nào sau đây diễn giải tốt nhất câu được gạch chân ở đoạn 4?\nA. Sai vì trái ngược với câu gốc, đề cập cần một phương pháp toàn diện để chống lại sự mất mát sinh học một cách hiệu quả.\nB. Giải quyết tình trạng mất đa dạng sinh học đòi hỏi phải kết hợp nhiều chiến lược để đảm bảo tính hiệu quả. → Diễn đạt đúng và đầy đủ ý nghĩa câu gốc.\nC. Sai vì trái ngược với câu gốc.\nD. Sai vì trái ngược với câu gốc.\nThông tin: To effectively combat biodiversity loss, a multifaceted approach is necessary."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "According to paragraph 1, the use of artificial intelligence in conservation efforts ________.",
+          "context": "",
+          "options": {
+            "A": "has helped mitigate the effects of climate change by reducing harmful emissions",
+            "B": "has replaced traditional methods of wildlife conservation",
+            "C": "is mainly applied to combating pollution caused by industrial activities",
+            "D": "has introduced effective solutions to address biodiversity loss"
+          },
+          "correctAnswer": "D",
+          "explanation": "Theo đoạn 1, việc sử dụng trí tuệ nhân tạo trong nỗ lực bảo tồn ________.\nA. đã giúp giảm thiểu tác động của biến đổi khí hậu bằng cách giảm lượng khí thải độc hại. → Sai\nB. đã thay thế các phương pháp bảo tồn động vật hoang dã truyền thống. → Sai\nC. chủ yếu được áp dụng để chống ô nhiễm do các hoạt động công nghiệp gây ra. → Sai\nD. đã đưa ra các giải pháp hiệu quả để giải quyết tình trạng mất đa dạng sinh học. → Đúng\nThông tin: the integration of artificial intelligence (AI) into conservation efforts has proven to be a game-changer, offering innovative solutions to mitigate the rapid decline of plant and animal species."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The phrase \"come to light\" in paragraph 3 could be best replaced by ________",
+          "context": "",
+          "options": {
+            "A": "remained unclear",
+            "B": "remained unchanged",
+            "C": "become known",
+            "D": "become obscure"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ 'come to light' trong đoạn 3 có thể được thay thế tốt nhất bằng:\nA. vẫn chưa rõ ràng\nB. vẫn không thay đổi\nC. trở nên nổi tiếng, được biết đến\nD. trở nên mơ hồ\ncome to light: trở nên rõ ràng, được phát hiện = become known\nThông tin: These issues have only come to light through the use of AI, which allows researchers to collect and analyze extensive data."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Conservation organizations are shifting focus away from public awareness campaigns.",
+            "B": "Governments should focus on technological solutions like AI rather than implementing policies.",
+            "C": "AI technology will likely become more widely used in future conservation efforts.",
+            "D": "Economic development has had minimal impact on biodiversity loss."
+          },
+          "correctAnswer": "C",
+          "explanation": "Điều nào sau đây có thể được suy ra từ bài đọc?\nA. Sai vì thông tin đề cập các chiến dịch nâng cao nhận thức cộng đồng là cần thiết.\nB. Sai vì thông tin đề cập bên cạnh AI, các chính phủ cũng nên ưu tiên các chính sách như phục hồi môi trường sống, luật chống săn trộm nghiêm khắc hơn và các hoạt động phát triển bền vững.\nC. Công nghệ AI có thể sẽ được sử dụng rộng rãi hơn trong các nỗ lực bảo tồn trong tương lai. → Có thể suy ra từ bài đọc.\nD. Sai vì có dẫn chứng cho thấy phát triển kinh tế cùng với biến đổi khí hậu đã làm giảm nghiêm trọng nguồn nước ở một số khu vực nên phát triển kinh tế cũng có tác động lớn đến tình trạng mất đa dạng sinh học.\nThông tin: Expanding the use of AI tools in wildlife protection can enhance monitoring and enforcement capabilities."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "The destruction of natural habitats is widely regarded as the primary reason behind the rapid decline in biodiversity worldwide, as it disrupts ecosystems.",
+            "B": "AI technology is being increasingly used to support conservation efforts and improve wildlife monitoring in response to biodiversity loss.",
+            "C": "Governments and conservation organizations are primarily focused on tackling pollution.",
+            "D": "Biodiversity loss caused by human activities is being addressed through AI and comprehensive efforts, aiming to protect ecosystems and ensure a sustainable future."
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu nào sau đây tóm tắt tốt nhất bài đọc?\nA. Sai ở 'the primary reason' vì sự phá hủy môi trường sống là một trong những nguyên nhân, không phải nguyên nhân chính.\nB. Sai vì chỉ đề cập đến một phần thông tin, chưa đề cập đến các nỗ lực khác như các chính sách mà các chính phủ đề ra và các chiến dịch nâng cao nhận thức cộng đồng về bảo vệ hệ sinh thái.\nC. Sai vì các chính phủ và các tổ chức bảo tồn thực hiện nhiều sáng kiến khác nhau để giải quyết nhiều vấn đề, ví dụ như săn trộm bất hợp pháp, phục hồi môi trường sống, hoạt động phát triển bền vững,...\nD. Sự mất mát đa dạng sinh học do hoạt động của con người gây ra đang được giải quyết thông qua AI và các nỗ lực toàn diện nhằm bảo vệ hệ sinh thái và đảm bảo một tương lai bền vững. → Đúng vì tóm tắt được đầy đủ nội dung bài đọc."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "The word \"accelerating\" in paragraph 1 is OPPOSITE in meaning to ________",
+          "context": "",
+          "options": {
+            "A": "slowing down",
+            "B": "cutting back",
+            "C": "speeding up",
+            "D": "building up"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'accelerating' ở đoạn 1 TRÁI NGHĨA với:\nA. slow down: làm chậm lại\nB. cut back: cắt giảm\nC. speed up: tăng tốc\nD. build up: xây dựng, tích lũy\naccelerate /əkˈseləreɪt/ (v): tăng tốc, tăng nhanh >< slow down\nThông tin: The loss of biodiversity on Earth is accelerating due to human-induced factors such as climate change and pollution."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.615729+00:00",
+  "updatedAt": "2026-06-08T10:41:58.615729+00:00",
+  "originalFileName": "THPT_Quang_Nam_2025_TiengAnh.json"
+}

@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_bac_ninh_2025-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục và Đào Tạo Bắc Ninh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Bac_Ninh_2025_TiengAnh.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BắcNinh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "A PLACE IN THE SUN",
+      "passage": "To think that there are places where the sky is always blue and the flowers bloom in January! … Goodness me! Is that the time! And I've such a lot to do. I seem to have no (1)_______, these days. I think perhaps it's the weather… If only I could get away from it all!\n\nYes, we are all children (2)_______ circumstances, and life today moves faster than it did. In the effort to keep pace, we burn up precious energy more freely than we should. (3)_______ if at times the daily strain becomes too heavy! Then it is that Milo can be a great help and benefit. It helps (4)_______ the balance between energy spent and energy gained. Day by day, each day a little, it supplements the intake of those (5)_______ and energy-giving elements which are now known to be most beneficial in helping to restore and sustain nervous and physical energy.\n\nMilo is easily digested, and readily assimilated. It (6)_______ a soothing, sustaining and most delicious drink at any time.\n\nMilo cup of health to strengthen the young and comfort the old.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "feeling",
+            "B": "energy",
+            "C": "health",
+            "D": "spirit"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. feeling /ˈfiːlɪŋ/ (n): cảm giác, cảm xúc\nB. energy (n): năng lượng\nC. health (n): sức khỏe\nD. spirit (n): tinh thần, tâm linh\nTạm dịch: I seem to have no energy, these days. (Dạo này tôi chẳng còn chút năng lượng nào.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "under",
+            "B": "of",
+            "C": "with",
+            "D": "in"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cụm từ cố định: Children of circumstances (idiom): những người bị ảnh hưởng hoặc quyết định bởi hoàn cảnh sống của họ, thay vì hoàn toàn do bản thân họ tự quyết định.\nTạm dịch: Yes, we are all children of circumstances, and life today moves faster than it did. (Đúng là chúng ta đều bị ảnh hưởng bởi hoàn cảnh, và cuộc sống ngày nay trôi qua nhanh hơn rất nhiều so với trước đây.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "A sense of wonder",
+            "B": "Great wonder",
+            "C": "In wonder",
+            "D": "Little wonder"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cụm từ thông dụng (Collocation): little wonder: dễ đoán, không có gì lạ\nTạm dịch: Little wonder if at times the daily strain becomes too heavy! (Chẳng có gì lạ khi đôi lúc áp lực hàng ngày trở nên quá sức chịu đựng!)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sustaining",
+            "B": "to sustaining",
+            "C": "sustained",
+            "D": "to sustain"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to': help + to V: giúp làm gì đó\nTạm dịch: It helps to sustain the balance between energy spent and energy gained. (Milo giúp duy trì sự cân bằng giữa năng lượng tiêu hao và năng lượng nạp vào.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "nutritional",
+            "B": "nutrient",
+            "C": "nutritious",
+            "D": "nutrition"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ loại:\nA. nutritional /njuːˈtrɪʃənl/ (adj): thuộc về dinh dưỡng\nB. nutrient /ˈnjuːtrɪənt/ (n): chất dinh dưỡng\nC. nutritious /nuːˈtrɪʃəs/ (adj): bổ dưỡng, giàu dinh dưỡng\nD. nutrition /nʊˈtrɪʃən/ (n): sự dinh dưỡng, chế độ ăn uống\nTrước 'elements' ta cần một tính từ để song hành với tính từ ghép 'energy-giving'. 'nutritional' thường đi với 'elements' tạo thành cụm 'nutritional elements' (các yếu tố dinh dưỡng).\nTạm dịch: it supplements the intake of those nutritional and energy-giving elements."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "has",
+            "B": "makes",
+            "C": "proves",
+            "D": "takes"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. has: có\nB. make: tạo ra\nC. prove: chứng minh\nD. take: lấy\nmake something: tạo ra, chuẩn bị một thứ gì đó\nTạm dịch: It makes a soothing, sustaining and most delicious drink at any time. (Nó mang đến một thức uống nhẹ nhàng, bổ dưỡng và cực kỳ thơm ngon vào bất kỳ thời điểm nào trong ngày.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "CAN YOU HELP SAVE OUR PLANET?",
+      "passage": "What's wrong with burning waste?\n\nThe burning of rubbish and organic waste in open fires is very bad for the environment. It produces nearly a third of global black carbon emissions. Soot from open waste burning has (7)_______ strong warming effect on the earth. It warms the earth by trapping sunlight and releasing it as heat. It is one of the main causes of global warming.\n\nBan open waste burning!\n\nHow dangerous is using solid fuels at home?\n\nMany people still use solid fuels like coal and wood for heating and cooking. (8)_______, when burnt at home, they produce black carbon and (9)_______ pollutants. The tiny pieces of indoor carbon (10)_______ from indoor stoves can enter the human body and cause serious health problems. Research shows that household air (11)_______ kills millions of people every year.\n\nRenewable energy is the future!\n\nRenewable energy is clean and free of black carbon and greenhouse gases, so it does not pollute the environment. Renewable energy can replace fossil fuels because it is convenient and reliable. Fossil fuels will be (12)_______ in this century while renewable energy will never run out because it comes from the Earth's natural resources.\n\nPower the planet with renewable energy!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "an",
+            "B": "the",
+            "C": "a",
+            "D": "no article"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức mạo từ: Ta có 'strong warming effect' là danh từ đếm được số ít bắt đầu bằng phụ âm và chưa xác định nên ta dùng mạo từ 'a'.\nTạm dịch: Soot from open waste burning has a strong warming effect on the earth. (Bụi than từ việc đốt rác ngoài trời có tác động làm ấm mạnh mẽ lên Trái đất.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Moreover",
+            "B": "Meanwhile",
+            "C": "However",
+            "D": "Whereas"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về từ nối:\nA. Moreover: hơn nữa, ngoài ra, thêm vào đó\nB. Meanwhile: trong khi đó\nC. However: tuy nhiên, tuy vậy\nD. Whereas: trong khi\nCâu trước nói người dùng nhiên liệu rắn để sưởi và nấu ăn; câu sau nêu mặt tiêu cực → cần từ nối tương phản 'However'.\nTạm dịch: However, when burnt at home, they produce black carbon and... (Tuy nhiên, khi đốt trong nhà, chúng tạo ra carbon đen và...)"
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "others",
+            "C": "another",
+            "D": "other"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về lượng từ:\nA. the others: những cái/người khác (xác định)\nB. others: những cái khác (phía sau không có danh từ)\nC. another + N số ít: cái khác\nD. other + N số nhiều/không đếm được: khác\n'pollutants' là danh từ số nhiều → dùng 'other'.\nTạm dịch: However, when burnt at home, they produce black carbon and other pollutants."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "release",
+            "B": "releases",
+            "C": "released",
+            "D": "releasing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ: Ta rút gọn mệnh đề quan hệ 'which is released' bằng cách lược bỏ đại từ quan hệ và to be, giữ lại động từ ở V3 'released'.\nTạm dịch: The tiny pieces of indoor carbon released from indoor stoves can enter the human body and cause serious health problems."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "component",
+            "B": "substance",
+            "C": "pollutant",
+            "D": "pollution"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. component /kəmˈpəʊnənt/ (n): thành phần, bộ phận\nB. substance /ˈsʌbstəns/ (n): chất, vật chất\nC. pollutant /pəˈluːtənt/ (n): chất ô nhiễm\nD. pollution /pəˈluːʃən/ (n): sự ô nhiễm\n'household air pollution' là cụm danh từ cố định (ô nhiễm không khí trong nhà).\nTạm dịch: Research shows that household air pollution kills millions of people every year."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "used up",
+            "B": "built up",
+            "C": "burnt down",
+            "D": "made up"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ thông dụng:\nA. use up: dùng hết, tiêu hết, làm cạn kiệt\nB. build up: tăng lên, xây dựng, tích lũy\nC. burn down: thiêu rụi, đốt cháy hoàn toàn\nD. make up: bịa đặt, tạo ra, làm hòa, trang điểm\nNgữ cảnh nói nhiên liệu hóa thạch sẽ cạn kiệt → 'used up'.\nTạm dịch: Fossil fuels will be used up in this century while renewable energy will never run out."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Mai: You're right. But I'm sure I can.\nb. Mum: Besides medical knowledge, a surgeon must have physical and mental strength. Most surgeons are also men…\nc. Mum: I'm afraid I disagree. It's not easy to be a surgeon.\nd. Mai: Absolutely. That's why we need more women surgeons. We can be as good as men.\ne. Mum: Mai, Dad and I would like you to be a shop assistant.\nf. Mai: I'm sorry, but that's not possible. I want to go to medical school and become a surgeon.",
+          "options": {
+            "A": "e-d-c-a-f-b",
+            "B": "e-f-c-a-b-d",
+            "C": "c-a-b-d-e-f",
+            "D": "d-c-a-b-f-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mum bắt đầu bằng việc muốn con làm nhân viên bán hàng (e). Mai từ chối và nói muốn trở thành bác sĩ phẫu thuật (f). Mum không đồng ý vì không dễ (c). Mai vẫn tự tin có thể làm được (a). Mum đưa ra lý do thêm về sức mạnh thể chất và tinh thần, và hầu hết bác sĩ phẫu thuật là nam (b). Mai phản bác và ủng hộ phụ nữ trong nghề (d)."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Each day brings new challenges that require me to think logically to write different codes.\nb. After all, my job is highly demanding, but it's fulfilling to create something practically functional.\nc. As a software developer, my job involves solving complex problems and even unexpected ones.\nd. My job requires collaboration, so I often work with other developers to brainstorm solutions.\ne. Therefore, there's a real sense of satisfaction in completing a project in a team.\nf. Some friends of mine think I often stay up late, working on my laptop alone, but it's not true at all.",
+          "options": {
+            "A": "e-a-f-d-c-b",
+            "B": "c-a-f-d-e-b",
+            "C": "c-d-a-b-e-f",
+            "D": "c-a-f-d-e-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu mở đầu giới thiệu nghề lập trình viên (c). Mỗi ngày có thách thức mới (a). Bạn bè nghĩ anh ta làm việc một mình - nhưng không đúng (f). Công việc cần sự hợp tác (d). Do đó có sự thỏa mãn khi hoàn thành dự án nhóm (e). Kết luận: công việc đòi hỏi cao nhưng xứng đáng (b)."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. Hoa: Thank you. I appreciate the compliment.\nb. Hoa: I'm glad you like it, Linda. I worked really hard to prepare for it.\nc. Linda: It was also well organised. And I noticed that your English has improved a lot. It's excellent!\nd. Linda: I was at the workshop at the ASEAN Youth Volunteer Conference. You gave the best presentation!",
+          "options": {
+            "A": "b-d-a-c",
+            "B": "c-b-d-a",
+            "C": "a-b-c-d",
+            "D": "d-b-c-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "Linda mở đầu bằng lời khen bài thuyết trình tại hội nghị (d). Hoa cảm ơn và nói đã chuẩn bị kỹ (b). Linda tiếp tục khen về tổ chức và tiếng Anh xuất sắc (c). Hoa cảm ơn lời khen (a)."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "Dear Sir or Madam,\na. I believe I am perfectly suited for this role. I have a bachelor's degree in IT from the University of Leeds, and I have recently completed a master's in IT management.\nb. I am very adaptable, reliable and excellent at multitasking, and I have strong communication skills and natural problem-solving abilities.\nc. I would be very grateful if you would consider me for the position of IT support technician.\nd. I am available for an interview at any time. I have attached a copy of my CV to this letter for your review. If you have any questions about me, please let me know.\ne. Last year, I gained valuable experience working part-time at a local computer repair centre, and I also spent six months as a tech support trainee at a major IT firm.\nf. I am writing to apply for the IT support technician position advertised in the local newspaper on Tuesday 5th July.\ng. I can work independently or as a part of a team as I have experience working in a collaborative environment.\nI look forward to hearing from you soon.\nYours faithfully,\nBen Watts",
+          "options": {
+            "A": "f-c-a-b-e-g-d",
+            "B": "f-a-e-b-g-c-d",
+            "C": "f-b-a-d-e-c-g",
+            "D": "f-g-d-c-a-e-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc thư xin việc chuẩn: Mở đầu nêu lý do viết thư (f), tiếp theo giới thiệu bằng cấp và lý do phù hợp (a), nêu kinh nghiệm làm việc (e), kỹ năng cá nhân (b), khả năng làm việc độc lập hoặc nhóm (g), xin xem xét đơn (c), kết thúc nêu sẵn sàng phỏng vấn và đính kèm CV (d)."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. To give an effective presentation, start by preparing your speech carefully and practising beforehand.\nb. Making a presentation is very common but challenging for some students.\nc. With regular practice and preparation, you can carry out better presentations soon.\nd. Second, focus on speaking clearly and interestingly, so everyone can understand you.\ne. At the beginning of the presentation, make your eye contact with your audience first to keep them engaged.\nf. Finally, if you get nervous, breathe deeply and slowly several times to feel relieved.",
+          "options": {
+            "A": "b-a-e-d-f-c",
+            "B": "d-c-f-e-b-a",
+            "C": "a-b-f-c-e-d",
+            "D": "c-e-d-a-b-f"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu mở đầu giới thiệu chủ đề: thuyết trình phổ biến nhưng thách thức (b). Lời khuyên đầu tiên: chuẩn bị kỹ bài phát biểu và luyện tập trước (a). Lời khuyên khi bắt đầu: giao tiếp mắt với khán giả (e). Lời khuyên thứ hai: nói rõ ràng và thú vị (d). Cuối cùng: thở sâu nếu lo lắng (f). Kết luận: luyện tập thường xuyên sẽ giúp thuyết trình tốt hơn (c)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the rise of Airbnb and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 25.",
+      "passageTitle": "The Rise of Airbnb",
+      "passage": "In 2007, design graduates, Joe Gebbie and Brian Chesky, were struggling to pay the rent for their San Francisco apartment. Hearing that there was a conference coming to town and there were no hotel rooms available, they created the website airbedandbreakfast.com where they advertised three airbeds in their home at $80 each a night, breakfast included. Only six days later, they had three guests sleeping on their floor. They knew immediately that this was the start of something big.\n\nBeing budding entrepreneurs, the pair decided to take their idea further. They enlisted Gebbie's former flatmate, Nathan Blecharczyk, a computer science graduate, to develop their website. Their idea was to target conferences and festivals across the USA, getting local people to list their rooms and travelers to book them. The new website was completed just in time for the 2008 Democratic National Convention in Denver, at which Barack Obama was due to speak in front of 80,000 people. Within a week, they had 800 listings, an achievement which dealt in part with the shortage of hotel rooms, but did not solve their financial problems, as the site was not making any money.\n\nThe team decided that they would have to handle payment for the bookings. They began to charge three per cent to the host and between six and twelve per cent to the traveler, depending on the price of the booking. Meanwhile, investors had started showing interest in the company. By April 2009, when larger investments began to arrive, they moved the company out of their flat into a new state-of-the-art office and hired more staff.\n\nSince then Airbnb has gone from strength to strength. The company now has over 1.5 million listings in 34,000 cities in 190 countries, and is rumoured to be worth around $20 billion.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "The word 'state-of-the-art' in paragraph 3 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "unconventional",
+            "B": "modern",
+            "C": "old-fashioned",
+            "D": "cutting-edge"
+          },
+          "correctAnswer": "C",
+          "explanation": "state-of-the-art (adj): công nghệ tiên tiến, hiện đại nhất >< old-fashioned (lỗi thời, cổ hủ)\nA. unconventional /ˌʌnkənˈvenʃənl/ (adj): khác thường, không theo lối mòn\nB. modern /ˈmɒdərn/ (adj): hiện đại (đồng nghĩa)\nC. old-fashioned /ˌəʊldˈfæʃənd/ (adj): lỗi thời, cổ hủ (trái nghĩa đúng)\nD. cutting-edge /ˈkʌtɪŋˌedʒ/ (adj): tiên tiến, hiện đại nhất (đồng nghĩa)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "Which of the following is NOT mentioned as the reason for the creation of the website airbedandbreakfast.com?",
+          "context": "",
+          "options": {
+            "A": "Joe Gebbie and Brian Chesky were trying very hard to cover the rent for their San Francisco apartment.",
+            "B": "There were no hotel rooms available at that time.",
+            "C": "They heard that a conference was coming to San Francisco.",
+            "D": "They were looking for bed and breakfast accommodations in private homes."
+          },
+          "correctAnswer": "D",
+          "explanation": "A được đề cập: 'were struggling to pay the rent for their San Francisco apartment'\nB được đề cập: 'there were no hotel rooms available'\nC được đề cập: 'there was a conference coming to town'\nD KHÔNG được đề cập: họ không tìm kiếm chỗ nghỉ và bữa sáng trong các ngôi nhà riêng, mà chính họ là người cung cấp dịch vụ đó."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "The word 'handle' in paragraph 3 could be best replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "refuse",
+            "B": "operate",
+            "C": "receive",
+            "D": "manage"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. refuse /rɪˈfjuːz/ (v): từ chối, không chấp nhận\nB. operate /ˈɒpəreɪt/ (v): vận hành, điều khiển\nC. receive /rɪˈsiːv/ (v): nhận, tiếp nhận\nD. manage /ˈmænɪdʒ/ (v): quản lý, điều hành, xoay xở\nhandle (v): xử lý = manage\nTạm dịch: The team decided that they would have to handle payment for the bookings. (Nhóm sáng lập quyết định họ sẽ phải xử lý thanh toán cho các đặt phòng.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "In which paragraph does the writer imply that there was a temporary need for accommodation in the city, which led to Gebbie and Chesky's decision?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "paragraph 2",
+            "C": "Paragraph 1",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trong đoạn 1, người viết ám chỉ nhu cầu tạm thời về chỗ ở: 'Hearing that there was a conference coming to town and there were no hotel rooms available' - hội nghị tạm thời, không có phòng khách sạn → dẫn đến quyết định tạo website."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word 'their' in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "conferences",
+            "B": "festivals",
+            "C": "local people",
+            "D": "entrepreneurs"
+          },
+          "correctAnswer": "C",
+          "explanation": "Từ 'their' trong đoạn 2 ám chỉ local people: 'getting local people to list their rooms and travelers to book them.' - 'their' thay thế cho 'local people' (phòng của những người dân địa phương)."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "In which paragraph does the writer mention the method of payment for booking on Airbnb?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 1",
+            "C": "Paragraph 4",
+            "D": "paragraph 2"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trong đoạn 3, người viết đề cập đến phương thức thanh toán khi đặt phòng: 'They began to charge three per cent to the host and between six and twelve per cent to the traveler, depending on the price of the booking.'"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following is TRUE about the new website designed by Nathan Blecharczyk?",
+          "context": "",
+          "options": {
+            "A": "It helped Gebbie and Chesky to make a huge profit as soon as it was launched.",
+            "B": "It aided Gebbie and Chesky to rent out properties nationally.",
+            "C": "It enabled Gebbie and Chesky to accommodate the guests at a Denver convention.",
+            "D": "It made it easier to put travelers in touch with hosts abroad."
+          },
+          "correctAnswer": "C",
+          "explanation": "C đúng: 'The new website was completed just in time for the 2008 Democratic National Convention in Denver' - website mới giúp Gebbie và Chesky tiếp đón khách tại hội nghị Denver.\nA sai: '800 listings... did not solve their financial problems, as the site was not making any money'\nB sai: website nhắm đến hội nghị và lễ hội trên toàn quốc, không trực tiếp giúp cho thuê bất động sản quốc gia\nD sai: website không hướng tới kết nối khách du lịch với chủ nhà ở nước ngoài ngay từ đầu"
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Airbnb has built up more strength in the present economic climate.",
+            "B": "Since that time Airbnb has been out of the frying pan into the fire.",
+            "C": "Airbnb has become more and more successful ever since.",
+            "D": "From that moment on Airbnb has been supposed to be smooth sailing."
+          },
+          "correctAnswer": "C",
+          "explanation": "'Since then Airbnb has gone from strength to strength' = Kể từ đó, Airbnb đã ngày càng phát triển mạnh mẽ.\nA sai: diễn đạt khác nghĩa, 'in the present economic climate' không có trong câu gốc\nB sai: 'out of the frying pan into the fire' = từ tình huống xấu sang tình huống tệ hơn - trái nghĩa\nC đúng: Airbnb has become more and more successful ever since = ngày càng thành công hơn\nD sai: 'supposed to be smooth sailing' = dự kiến suôn sẻ - không đúng nghĩa"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about power of connection and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 26 to 30.",
+      "passageTitle": "Power of Connection",
+      "passage": "Technology can exert its power on almost every aspect of our lives, and personal relationships are no exception. We are now becoming more attached to technological devices and (26)_______.\n\nWe work longer hours on computers, meet fewer friends, text more often, and watch more videos than have a true conversation with friends or family members. (27)_______. Social media link us all together, but we mistake them for a perfect replacement for relationships. It is time we realised that the power of connections is built from our own efforts. (28)_______, we have to spend a considerable amount of time doing activities together, listening, understanding, and sharing feelings. This helps strengthen our mind and body, keeping us away from isolation and loneliness.\n\nIt is not difficult to balance between connections through technology and those through real interactions. (29)_______. We should spend more time visiting our parents and siblings, besides keeping in touch with them on social media. We should learn to cherish the moments we spend with them. It is never too late to strengthen the bonds with school friends and teachers. Don't hesitate to participate in sports clubs or a hiking trip where we can build up true friendships. And above all, remember that time commitment counts in relationships, (30)_______.",
+      "questions": [
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "staying more connected to people around us or even our loved ones",
+            "B": "less connected to the people around us or even our loved ones",
+            "C": "directly connected to the people around us or even our loved ones",
+            "D": "having people around us or even our loved ones connected closely"
+          },
+          "correctAnswer": "B",
+          "explanation": "B phù hợp ngữ cảnh: câu nói về việc ta ngày càng gắn bó với thiết bị công nghệ VÀ ít kết nối hơn với người xung quanh → đối lập logic.\nA sai: 'staying more connected' mâu thuẫn với ý toàn đoạn\nC sai: 'directly connected' không phù hợp\nD sai: cấu trúc không phù hợp\nTạm dịch: We are now becoming more attached to technological devices and less connected to the people around us or even our loved ones."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Technology gives rise to a number of conflicts within the family",
+            "B": "Relationships at home and at work are not dependent on technology",
+            "C": "People don't appreciate both technology and relationships at home and at work",
+            "D": "Technology enhances relationships at home and at work"
+          },
+          "correctAnswer": "D",
+          "explanation": "D phù hợp: Technology enhances relationships at home and at work.\nCâu này liên kết với câu trước (làm việc nhiều hơn trên máy tính, ít gặp bạn bè hơn) và câu sau (Social media link us all together, but...) - công nghệ tăng cường kết nối nhưng cũng có mặt tiêu cực.\nTạm dịch: Technology enhances relationships at home and at work. (Công nghệ giúp tăng cường các mối quan hệ ở nhà và tại nơi làm việc.)"
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Whether we choose to stay technologically or socially connected",
+            "B": "Because we choose to stay technologically or socially connected",
+            "C": "Although we choose to stay technologically or socially connected",
+            "D": "While we choose to stay technologically or socially connected"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Whether: cho dù - phù hợp ngữ pháp và ngữ cảnh\nB. Because: bởi vì - sai logic (không phải nguyên nhân)\nC. Although: mặc dù - sai (không có sự tương phản cần thiết)\nD. While: trong khi - sai\nTạm dịch: Whether we choose to stay technologically or socially connected, we have to spend a considerable amount of time doing activities together."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "We established a relationship of trust within our family",
+            "B": "Building strong relationships was essential within our family",
+            "C": "We tried everything to make the relationships work within our family",
+            "D": "We can start by nurturing the relationships within our family"
+          },
+          "correctAnswer": "D",
+          "explanation": "D phù hợp: 'We can start by nurturing the relationships within our family' - phù hợp để đề xuất cách cân bằng, liên kết mạch lạc với câu trước 'It is not difficult to balance...' và câu sau 'We should spend more time visiting our parents and siblings...'.\nA, B, C đều sai vì không phù hợp liên kết với ngữ cảnh."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "and there is a danger that we will run out of time for connections",
+            "B": "but it is possible for us not to have enough time for connections",
+            "C": "so running short of time for connections is impossible",
+            "D": "or connections is likely to be established in the long run"
+          },
+          "correctAnswer": "C",
+          "explanation": "C phù hợp: 'so running short of time for connections is impossible' - 'so' dùng để chỉ kết quả, tạo thành câu hoàn chỉnh: vì cam kết về thời gian rất quan trọng trong mối quan hệ, do đó không thể thiếu thời gian cho các kết nối.\nTạm dịch: remember that time commitment counts in relationships, so running short of time for connections is impossible."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about powering the future and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 31 to 40.",
+      "passageTitle": "Powering the Future",
+      "passage": "As we continue to face the impacts of climate change, having a green environment has become increasingly important to the future of our society. To achieve this, the world is shifting towards green energy, and two particular types of energy at the centre of this movement are solar power and wind power.\n\n[I]This highly efficient form of energy produces zero emissions, so it can significantly reduce our carbon footprint. [II] Moreover, solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan. [III] However, the ability to generate solar power depends on the time of day and weather conditions. This means that solar panels are often less useful if they are installed in places where sunny weather is not typical. [IV]\n\nWind power, on the other hand, involves converting the energy of the wind into electricity using large turbines. Wind power doesn't produce any greenhouse gases, but it is not ideal for private use since turbines require consistent care. However, wind farms can be installed on a large scale and are able to produce electricity continuously regardless of the time of day. This means that if there were more investments in wind power, it could be a viable way to provide energy for major cities and even for whole regions.\n\nWind and solar power contribute significantly to a green environment by reducing our reliance on fossil fuels, helping us cut down on pollution and slow climate change. Additionally, using renewable energy sources helps promote spending on sustainable development by creating new career opportunities in the green energy sector.\n\nFor now, the biggest challenge of adopting green energy is the costs associated with installation and infrastructure, but the benefits unquestionably outweigh the downsides. If we want to stop the climate crisis and create a better and more sustainable future, green energy sources will undoubtedly be the key.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 2 does the following sentence best fit?\n'Solar power is all about harnessing the energy of the sun by using solar panels to convert sunlight into usable electricity.'",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(III)"
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu 'Solar power is all about harnessing the energy of the sun by using solar panels to convert sunlight into usable electricity' phù hợp vị trí (I) để mở đoạn vì liên kết mạch lạc với câu sau: 'This highly efficient form of energy' - 'This' thay thế cho 'Solar power', và 'highly efficient form of energy' liên kết với 'the energy of the sun'."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word 'they' in paragraph 2 refers to ______.",
+          "context": "",
+          "options": {
+            "A": "weather conditions",
+            "B": "private homes",
+            "C": "zero emissions",
+            "D": "solar panels"
+          },
+          "correctAnswer": "D",
+          "explanation": "Từ 'they' trong đoạn 2 ám chỉ solar panels: 'This means that solar panels are often less useful if they are installed in places where sunny weather is not typical.' - 'they' thay thế cho 'solar panels'."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "According to paragraph 2, what is TRUE about solar panels?",
+          "context": "",
+          "options": {
+            "A": "They contribute to our carbon footprint.",
+            "B": "They can be used for long periods.",
+            "C": "They aren't well suited to personal use.",
+            "D": "They create fewer emissions."
+          },
+          "correctAnswer": "B",
+          "explanation": "B đúng: 'solar panels are perfect for installation on a small scale, such as in private homes, since they require very little maintenance and have a long lifespan' → They can be used for long periods (tuổi thọ lâu dài).\nA sai: năng lượng mặt trời tạo ra zero emissions, giảm carbon footprint.\nC sai: 'perfect for installation on a small scale, such as in private homes' - phù hợp sử dụng cá nhân.\nD sai: tạo ra zero emissions, không phải 'fewer emissions'."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word 'viable' in paragraph 3 is OPPOSITE in meaning to ______.",
+          "context": "",
+          "options": {
+            "A": "possible",
+            "B": "practicable",
+            "C": "unworkable",
+            "D": "feasible"
+          },
+          "correctAnswer": "C",
+          "explanation": "viable (adj): khả thi, có thể thực hiện được >< unworkable (không khả thi)\nA. possible /ˈpɒsɪbəl/ (adj): có thể (gần nghĩa)\nB. practicable /ˈpræktɪkəbəl/ (adj): có thể thực hiện được, khả thi (đồng nghĩa)\nC. unworkable /ʌnˈwɜːrkəbəl/ (adj): không khả thi (trái nghĩa đúng)\nD. feasible /ˈfiːzɪbəl/ (adj): khả thi (đồng nghĩa)"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "According to paragraph 4, what is NOT mentioned regarding wind and solar power?",
+          "context": "",
+          "options": {
+            "A": "They encourage investment in green energy.",
+            "B": "They make us reliant on green energy.",
+            "C": "They help combat climate change.",
+            "D": "They create new jobs for people."
+          },
+          "correctAnswer": "B",
+          "explanation": "B không được đề cập: 'They make us reliant on green energy' - đoạn văn nói về việc GIẢM sự phụ thuộc vào nhiên liệu hóa thạch, không đề cập việc phụ thuộc vào năng lượng xanh.\nA được đề cập: 'helps promote spending on sustainable development'\nC được đề cập: 'helping us cut down on pollution and slow climate change'\nD được đề cập: 'creating new career opportunities in the green energy sector'"
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following best summarises paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Wind and solar power make a considerable contribution to a green environment, and switching to green energy sources promotes investment in sustainable development.",
+            "B": "Using renewable energy sources can boost sustainable development and create ecosystem resiliency.",
+            "C": "Switching to renewable energy sources like wind and solar power can enhance energy independence and mitigate climate change.",
+            "D": "Wind and solar energy have an important role in reducing greenhouse gas emissions and mitigating climate change."
+          },
+          "correctAnswer": "A",
+          "explanation": "A tóm tắt đúng nhất đoạn 4: wind and solar power đóng góp đáng kể vào môi trường xanh, và việc chuyển sang năng lượng xanh thúc đẩy đầu tư vào phát triển bền vững.\nB sai: không đề cập 'ecosystem resiliency'\nC sai: không đề cập 'energy independence'\nD sai: chỉ đề cập một phần, bỏ qua việc tạo cơ hội nghề nghiệp mới"
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The word 'outweigh' in paragraph 5 could be best replaced by ______.",
+          "context": "",
+          "options": {
+            "A": "decrease",
+            "B": "surpass",
+            "C": "defeat",
+            "D": "captivate"
+          },
+          "correctAnswer": "B",
+          "explanation": "outweigh (v): vượt xa, quan trọng hơn = surpass\nA. decrease /dɪˈkriːs/ (v): giảm bớt, làm giảm\nB. surpass /səˈpɑːs/ (v): vượt qua, vượt trội hơn\nC. defeat /dɪˈfiːt/ (v): đánh bại, đánh tan\nD. captivate /ˈkæptɪveɪt/ (v): làm say đắm, thu hút sự chú ý\nTạm dịch: the benefits unquestionably outweigh the downsides (những lợi ích chắc chắn vượt xa những bất lợi)"
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "Should we want to halt global warming and foster more sustainable development, renewable energy sources will, without doubt, be the most important determining factor.",
+            "B": "Green energy stands as a positive example for a sustainable future, offering many benefits, from stopping the climate crisis and creating a better and more sustainable future.",
+            "C": "Green energy is another important step in stopping the climate crisis and creating a better and sustainable future.",
+            "D": "The key to tackling the climate crisis is to end our reliance on energy generated from fossil fuels and take advantage of renewable energy."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gạch chân: 'If we want to stop the climate crisis and create a better and more sustainable future, green energy sources will undoubtedly be the key.'\nA đúng: 'Should we want to halt global warming and foster more sustainable development' = If we want to stop the climate crisis... 'renewable energy sources will, without doubt, be the most important determining factor' = green energy sources will undoubtedly be the key.\nB sai: không tập trung vào vai trò trung tâm của năng lượng tái tạo\nC sai: chỉ nói 'another important step', không nhấn mạnh tầm quan trọng cốt lõi\nD sai: tập trung vào chấm dứt phụ thuộc hóa thạch, không nhấn mạnh năng lượng tái tạo là yếu tố quyết định"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "What can be inferred from the last paragraph of the text?",
+          "context": "",
+          "options": {
+            "A": "There exists little infrastructure for renewable energy at present.",
+            "B": "Green energy costs are rising.",
+            "C": "The downsides of green energy could soon outweigh the benefits.",
+            "D": "Green energy will enhance green living."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn cuối nói về thách thức (chi phí lắp đặt và hạ tầng) nhưng khẳng định lợi ích vượt xa nhược điểm; năng lượng xanh sẽ là chìa khóa cho tương lai bền vững → ngụ ý năng lượng xanh sẽ thúc đẩy lối sống bền vững, 'xanh' hơn.\nA sai: không đề cập hạ tầng hiện tại còn ít\nB sai: không đề cập chi phí đang tăng\nC sai: ngược lại, 'benefits unquestionably outweigh the downsides'"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "In response to the challenges of climate change, the growing use of renewable energy sources is the cornerstone of the energy transition, and no type of energy is better than solar and wind power.",
+            "B": "In the context of climate change, the energy transition with two particular types of energy at the centre of this movement, namely solar power and wind power, will definitely address the need for a better and more sustainable future.",
+            "C": "In response to climate change, the green transition is adopted to reduce emissions and mitigate climate change, as well as preserve and improve the state of the environment.",
+            "D": "The critical importance of and the strong commitment to energy transition in climate change response are highlighted."
+          },
+          "correctAnswer": "B",
+          "explanation": "B tóm tắt tốt nhất toàn bài: trong bối cảnh biến đổi khí hậu, quá trình chuyển đổi năng lượng với hai loại năng lượng cụ thể là mặt trời và gió sẽ giải quyết nhu cầu về tương lai bền vững.\nA sai: bài văn không nói không có loại năng lượng nào tốt hơn mặt trời và gió\nC sai: quá chung, không đề cập rõ năng lượng mặt trời và gió là trọng tâm\nD sai: quá chung, không nêu rõ nội dung chính của bài"
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.542168+00:00",
+  "updatedAt": "2026-06-08T10:41:58.542168+00:00",
+  "originalFileName": "THPT_Bac_Ninh_2025_TiengAnh.json"
+}

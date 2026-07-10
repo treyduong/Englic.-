@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_nam_dan_thai_hoa_nghe_an_2025-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Cụm liên trường THPT Nam Đàn - Thái Hòa (Nghệ An)",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Nam_Dan_Thai_Hoa_Nghe_An_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#NghệAn",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "Join the Green Revolution!",
+      "passage": "Are you looking for ways to live a more sustainable life? At EcoSolutions, we provide innovative products and services to help you reduce your (1)_______ on the environment. From (2)_______ to energy-saving tips, we've got everything you need to make a difference.\n\nOur solutions are designed to fit seamlessly into your lifestyle, offering convenience and sustainability all in one. The latest product in our lineup is the EcoSmart Bulb, (3)_______ energy consumption by up to 80% compared to traditional lighting.\n\nIn addition, we are proud to launch a series of free workshops (4)_______ green habits and practices. Whether you're interested in reducing waste, conserving water, or using renewable energy, there's something for everyone!\n\nDon't miss this opportunity to (5)_______ steps towards a greener future. Sign up today (6)_______ more about how small changes can have a big impact. Let's create a better planet together by starting with the way we live.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "depend",
+            "B": "dependable",
+            "C": "dependence",
+            "D": "depending"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ loại: sau tính từ sở hữu 'your' cần danh từ. 'dependence' (n) = sự phụ thuộc. Cấu trúc: reduce your dependence on the environment = giảm sự phụ thuộc vào môi trường."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "eco-friendly home appliances",
+            "B": "eco-friendly appliances home",
+            "C": "home appliances eco-friendly",
+            "D": "home eco-friendly appliances"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức trật tự từ: tính từ đứng trước cụm danh từ. 'eco-friendly' là tính từ ghép bổ nghĩa cho 'home appliances' (thiết bị gia dụng). Thứ tự đúng: tính từ + danh từ → eco-friendly home appliances."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which reduces",
+            "B": "that reduces",
+            "C": "having reduced",
+            "D": "reducing"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức mệnh đề quan hệ: 'EcoSmart Bulb' là danh từ số ít, đứng sau dấu phẩy nên dùng mệnh đề quan hệ không xác định với đại từ 'which'. Đáp án 'that' không dùng sau dấu phẩy."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "about",
+            "B": "with",
+            "C": "of",
+            "D": "on"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức giới từ: cụm cố định 'workshop on something' = hội thảo về chủ đề gì đó. Tương đương: a series of free workshops on green habits and practices."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "take",
+            "C": "create",
+            "D": "make"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm từ thông dụng: 'take steps' = tiến hành, thực hiện các bước. Đây là cụm từ cố định trong tiếng Anh."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "learn",
+            "B": "learning",
+            "C": "to learning",
+            "D": "to learn"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc 'to infinitive': 'sign up to do something' = đăng ký để làm gì. Sau 'to' dùng động từ nguyên mẫu (bare infinitive): sign up today to learn more."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Join Our Cooking Classes!",
+      "passage": "Do you love cooking and want to learn new skills? Come and (7)_______ us for an exciting experience in the kitchen.\n\nWe offer (8)_______ courses for beginners and advanced cooks. Whether you want to learn the basics or master international dishes, our team of professional chefs is here to help.\n\nClasses are held every Saturday at our studio. Each class lasts 3 hours, and participants will (9)_______ new recipes while enjoying a fun and friendly atmosphere.\n\nBy the end of the course, you will feel (10)_______ in preparing meals for your friends and family. Don't miss this chance to learn and (11)_______ delicious food!\n\nSign up now! Contact us at cookingfun@example.com or call (12)_______ 555-123-456. Spots are limited, so hurry up!\n\nWe look forward to welcoming you. Let's make cooking an adventure!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take part in",
+            "B": "involve",
+            "C": "participate",
+            "D": "join"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng: 'join somebody' = tham gia cùng ai. Cấu trúc: Come and join us = Hãy đến và tham gia cùng chúng tôi. Các phương án khác không phù hợp ngữ pháp: 'take part in' và 'participate' cần thêm 'in', 'involve' mang nghĩa khác."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "much",
+            "B": "few",
+            "C": "some",
+            "D": "any"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức lượng từ: 'courses' là danh từ đếm được số nhiều. 'some' + N số nhiều = một vài, phù hợp vì đề cập nhiều khóa học khác nhau mà không nêu số lượng cụ thể. 'much' dùng với danh từ không đếm được, 'few' mang hàm ý tiêu cực (ít)."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "pick up",
+            "B": "give up",
+            "C": "take after",
+            "D": "set off"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức cụm động từ: 'pick up something' = học được, tiếp thu được cái gì. Participants will pick up new recipes = Người tham gia sẽ học được các công thức nấu ăn mới. 'give up' = từ bỏ, 'take after' = giống ai, 'set off' = khởi hành."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "meaningful",
+            "B": "confident",
+            "C": "confidential",
+            "D": "enjoyable"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng: cấu trúc 'feel + adj'. 'confident' = tự tin, phù hợp ngữ cảnh 'cảm thấy tự tin trong việc chuẩn bị bữa ăn'. 'confidential' = bí mật (sai nghĩa), 'meaningful' = có ý nghĩa, 'enjoyable' = vui vẻ (không phù hợp)."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "cook",
+            "B": "make",
+            "C": "enjoy",
+            "D": "taste"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng: 'make food' = bao gồm toàn bộ quá trình chuẩn bị món ăn từ nguyên liệu đến thành phẩm. Câu nhấn mạnh học toàn bộ quá trình nên 'make' phù hợp hơn 'cook' (chỉ quá trình dùng nhiệt)."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with",
+            "B": "on",
+            "C": "to",
+            "D": "at"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức giới từ: cụm cố định 'call at [phone number]' = gọi điện theo số nào. Cấu trúc: call at 555-123-456."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the A, B, C or D on your answer sheet to indicate the best arrangement of utterances of sentences to make a meaningful exchange or set in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Rapid growth can lead to a lack of affordable housing and overcrowded public spaces\nb. More people are moving to cities in search of better job opportunities and access to services like education and healthcare\nc. While cities offer many advantages, they also face challenges such as traffic congestion and pollution\nd. To manage urbanisation effectively, governments must invest in sustainable infrastructure\ne. Urbanisation has become a major trend in the modern world\nf. With proper planning, cities can become better places for people to live and work",
+          "options": {
+            "A": "e-c-b-a-d-f",
+            "B": "e-b-c-a-d-f",
+            "C": "e-a-b-c-f-d",
+            "D": "e-d-b-a-c-f"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự logic: (e) Giới thiệu chủ đề đô thị hóa → (b) Nguyên nhân: người dân chuyển đến thành phố → (c) Ưu điểm nhưng cũng có thách thức → (a) Hậu quả của tăng trưởng nhanh → (d) Giải pháp: chính phủ đầu tư → (f) Kết luận tích cực nếu quy hoạch tốt."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Alex: Hot, please. And could you add a shot of caramel?\nb. Swe: Sure! Would you like it hot or iced?\nc. Alex: Hi! Can I get a medium latte, please?",
+          "options": {
+            "A": "c-b-a",
+            "B": "c-a-b",
+            "C": "b-c-a",
+            "D": "b-a-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự hội thoại tại quán cà phê: (c) Alex gọi đồ uống → (b) Swe hỏi nóng hay đá → (a) Alex trả lời nóng và thêm caramel."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Dear Sir/Madam,\na. Could you please provide detailed information, including pricing and availability?\nb. Please let me know if there is a preferred method for contacting you for further inquiries.\nc. I am writing to inquire about the services your organization provides.\nd. Thank you for your assistance. I look forward to your reply.\ne. Specifically, I am interested in learning more about your insurance service.\nf. Additionally, I would appreciate it if you could include any brochures or online resources that might help me better understand your offerings.\nSincerely,\nAlex",
+          "options": {
+            "A": "a-c-e-f-b-d",
+            "B": "c-e-a-f-b-d",
+            "C": "b-c-e-f-a-d",
+            "D": "c-e-a-f-d-b"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc thư hỏi thăm: (c) Giới thiệu mục đích viết thư → (e) Cụ thể hóa dịch vụ quan tâm → (a) Yêu cầu thông tin chi tiết → (f) Yêu cầu thêm tài liệu → (b) Hỏi phương thức liên hệ → (d) Lời cảm ơn và kết thư."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Tom: Got it. Thank you so much!\nb. Stranger: No problem! Have a great day!\nc. Tom: Excuse me, could you tell me how to get to the library?\nd. Stranger: Sure! It's about a 10-minute walk from here. Just go straight and turn left at the second traffic light.\ne. Tom: Okay, and then?\nf. Stranger: After you turn left, you'll see a park on your right. The library is right across from it.",
+          "options": {
+            "A": "c-f-e-d-a-b",
+            "B": "c-d-e-f-a-b",
+            "C": "c-d-a-b-e-f",
+            "D": "c-b-a-f-e-d"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự hội thoại hỏi đường: (c) Tom hỏi đường → (d) Người lạ chỉ đường đến ngã tư → (e) Tom hỏi tiếp → (f) Người lạ chỉ tiếp → (a) Tom cảm ơn → (b) Người lạ đáp lại."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. This diversity allows individuals to learn and appreciate cultures beyond their own\nb. However, living in a multicultural society also requires tolerance and open-mindedness\nc. Living in a multicultural world is both exciting and enriching\nd. For example, festivals like Diwali, Chinese New Year, and Thanksgiving are celebrated globally, promoting mutual understanding\ne. People from different backgrounds bring unique traditions, languages, and cuisines\nf. By respecting each other's differences, we can build harmonious communities where everyone feels valued and included",
+          "options": {
+            "A": "c-e-a-d-b-f",
+            "B": "a-b-c-d-e-f",
+            "C": "c-b-e-a-d-f",
+            "D": "e-c-f-d-a-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự logic: (c) Giới thiệu chủ đề thế giới đa văn hóa → (e) Sự đa dạng từ các nền tảng khác nhau → (a) Lợi ích của sự đa dạng đó → (d) Ví dụ cụ thể về lễ hội → (b) Tuy nhiên, cũng cần sự khoan dung → (f) Kết luận: tôn trọng để xây dựng cộng đồng hài hòa."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about humanoid robots and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "International Organizations (Cloze)",
+      "passage": "International organizations, (18)_________, bring countries together to solve shared problems. These organizations work on issues like poverty, health, and climate change, creating policies that benefit people worldwide. The United Nations (19)_______. It is one of the most influential organizations in the world.\n\nFocusing on global challenges, international organizations often provide aid and expertise to countries in need. For example, the World Health Organization (WHO), which is responsible for public health, helps combat diseases by providing vaccines and sharing knowledge. (20)_______, such organizations have improved the lives of millions.\n\nAnother example is the World Bank, whose mission is to reduce poverty and support economic development. It funds projects in developing countries, (21)_______. Countries receiving these funds often achieve better living standards over time.\n\n(22)_______. Bringing nations together, they foster dialogue and collaboration. These efforts, while not perfect, remain essential for addressing global issues.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which play a vital role in global cooperation",
+            "B": "played a vital role in global cooperation",
+            "C": "play a vital role in global cooperation",
+            "D": "that play a vital role in global cooperation"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức mệnh đề quan hệ: 'International organizations' là danh từ số nhiều, sau dấu phẩy cần mệnh đề quan hệ không xác định với 'which' + động từ chia theo số nhiều ('play'). Đáp án B sai (dùng thì quá khứ 'played'), C sai (thiếu đại từ quan hệ), D sai (không dùng 'that' sau dấu phẩy)."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which was founded in 1945",
+            "B": "found in 1945",
+            "C": "founded in 1945",
+            "D": "was founded in 1945"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức bị động: cần động từ ở dạng bị động để mô tả sự thành lập của Liên Hợp Quốc: 'be + V3' = 'was founded'. A sai vì là mệnh đề quan hệ không phù hợp. B sai vì 'found' là quá khứ của 'find'. C sai vì thiếu động từ 'to be'."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "To have worked tirelessly",
+            "B": "Having been worked tirelessly",
+            "C": "Having worked tirelessly",
+            "D": "Worked tirelessly"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức phân từ hoàn thành chủ động: mệnh đề chính đã có 'such organizations have improved...', nên vị trí này cần cụm phân từ. 'Having worked tirelessly' (V-ing hoàn thành chủ động) diễn tả hành động chủ động, liên tục. B sai vì bị động không phù hợp. A sai vì 'to have' chỉ mục đích."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to help improve infrastructure and education",
+            "B": "help improve infrastructure and education",
+            "C": "helped improve infrastructure and education",
+            "D": "helping improve infrastructure and education"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức rút gọn mệnh đề quan hệ: vị trí cần rút gọn mệnh đề quan hệ bổ nghĩa cho việc tài trợ dự án, dùng V-ing chủ động: 'helping improve infrastructure and education'. A sai vì 'to help' chỉ mục đích. B và C sai về cấu trúc ngữ pháp."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Because they face criticism, international organizations still continue to work for a more peaceful and prosperous world",
+            "B": "Since they face criticism, international organizations still continue to work for a more peaceful and prosperous world",
+            "C": "When they face criticism, international organizations still continue to work for a more peaceful and prosperous world",
+            "D": "Although they face criticism, international organizations still continue to work for a more peaceful and prosperous world"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức liên từ tương phản: hai ý 'đối mặt với chỉ trích' và 'vẫn tiếp tục làm việc' mang nghĩa tương phản → dùng 'although' (mặc dù). 'Because/Since' diễn tả nguyên nhân (sai). 'When' diễn tả thời điểm (sai)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "International Organizations",
+      "passage": "International organizations are groups that work across different countries to address global problems. One well-known example is the United Nations (UN). The UN was founded in 1945 after World War II to promote peace and security worldwide. It also focuses on human rights, development, and helping during disasters. Another important organization is the World Health Organization (WHO). The WHO works to improve health by fighting diseases, providing vaccines, and sharing knowledge about medical care.\n\nMany international organizations also help with economic issues. The World Bank and the International Monetary Fund (IMF) support countries by giving loans and advice on how to improve their economies. These organizations often focus on developing countries, which may need extra help to grow and reduce poverty. Another well-known group is the European Union (EU). It is unique because its member countries work very closely together, even sharing a common currency called the euro.\n\nDespite their efforts, international organizations face challenges. Sometimes, they face difficulties because not all countries agree on solutions. Some people also think the organizations do not always act fairly, as richer countries may have more power in decision-making. However, their work is still essential to create a better, safer world for everyone.\n\nIn conclusion, international organizations play a big role in solving global issues. They promote peace, improve health, and help economies grow. While they face difficulties, they remain important for international cooperation and progress.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as a focus of international organizations in the passage?",
+          "context": "",
+          "options": {
+            "A": "Promoting peace and security",
+            "B": "Establishing trade agreements between nations",
+            "C": "Reducing poverty in developing countries",
+            "D": "Providing medical care and vaccines"
+          },
+          "correctAnswer": "B",
+          "explanation": "Bài đọc đề cập: A (UN thúc đẩy hòa bình và an ninh), C (các tổ chức giúp giảm nghèo ở nước đang phát triển), D (WHO cung cấp vắc-xin và chăm sóc y tế). Không có đề cập đến B (thiết lập hiệp định thương mại)."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "The European Union (EU) shares a common currency called the euro.",
+            "B": "The World Bank and the IMF often focus on underdeveloped countries to reduce poverty.",
+            "C": "The UN was founded before World War II to promote peace and security worldwide.",
+            "D": "The WHO's mission is only providing vaccines, and other medical aids."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: bài đọc ghi rõ EU chia sẻ đồng tiền chung gọi là euro. B sai: bài đọc nói 'developing countries' (đang phát triển), không phải 'underdeveloped'. C sai: UN được thành lập SAU Thế chiến II. D sai: WHO còn đấu tranh với bệnh tật và chia sẻ kiến thức y tế."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "Which paragraph focuses on economic help provided by international organizations?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 2 mở đầu bằng 'Many international organizations also help with economic issues', đề cập World Bank, IMF và EU → tập trung vào hỗ trợ kinh tế."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "In which paragraph does the writer mention the difficulties of international organizations?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 4",
+            "C": "Paragraph 3",
+            "D": "Paragraph 2"
+          },
+          "correctAnswer": "C",
+          "explanation": "Đoạn 3 mở đầu bằng 'Despite their efforts, international organizations face challenges', liệt kê các khó khăn như bất đồng giữa các quốc gia và quyền lực không đồng đều."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "The word \"it\" in paragraph 2 refers to ________.",
+          "context": "",
+          "options": {
+            "A": "The EU",
+            "B": "The World Bank",
+            "C": "The IMF",
+            "D": "The UN"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu trong đoạn 2: 'Another well-known group is the European Union (EU). It is unique because...' → 'It' thay thế cho 'the European Union (EU)'."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"security\" in paragraph 1 is OPPOSITE in meaning to ________.",
+          "context": "",
+          "options": {
+            "A": "peace",
+            "B": "danger",
+            "C": "health",
+            "D": "economy"
+          },
+          "correctAnswer": "B",
+          "explanation": "'Security' /sɪˈkjʊərɪti/ (n) = an ninh, sự an toàn. Từ trái nghĩa: 'danger' /ˈdeɪndʒər/ (n) = sự nguy hiểm. 'Peace' là từ đồng nghĩa/liên quan, không phải trái nghĩa."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The word \"promote\" in paragraph 4 could be best replaced by ________.",
+          "context": "",
+          "options": {
+            "A": "prevent",
+            "B": "encourage",
+            "C": "ignore",
+            "D": "punish"
+          },
+          "correctAnswer": "B",
+          "explanation": "'Promote' /prəˈməʊt/ (v) = thúc đẩy, khuyến khích. Từ đồng nghĩa: 'encourage' /ɪnˈkʌrɪdʒ/ (v) = khuyến khích, động viên. 'Prevent' = ngăn chặn (trái nghĩa), 'ignore' = phớt lờ, 'punish' = trừng phạt."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1?",
+          "context": "",
+          "options": {
+            "A": "The WHO takes many actions to improve global health.",
+            "B": "The WHO focuses only on fighting diseases.",
+            "C": "The WHO does not focus on health issues.",
+            "D": "The WHO helps countries create their own vaccines."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu gốc: 'The WHO works to improve health by fighting diseases, providing vaccines, and sharing knowledge about medical care.' → WHO thực hiện nhiều hành động (đấu tranh bệnh tật, cung cấp vắc-xin, chia sẻ kiến thức) để cải thiện sức khỏe. A diễn giải đúng nhất. B sai vì WHO không chỉ đấu tranh bệnh tật. D sai vì WHO cung cấp vắc-xin, không giúp các quốc gia tự tạo ra."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "Water Scarcity",
+      "passage": "Water is one of the most essential resources on our planet, vital for all forms of life. However, increasing demand and pollution are putting immense pressure on our freshwater supplies. [I] According to recent studies, nearly 2 billion people worldwide live in countries experiencing high water stress, leading to a decline in the availability of this precious resource. This situation not only affects drinking water but also agriculture, sanitation, and energy production. [II]\n\nThe primary causes of water scarcity include population growth, urbanization, and climate change. As cities expand, the demand for water increases significantly. Moreover, agricultural practices that rely heavily on water are becoming unsustainable in many regions. Climate change further exacerbates these issues, causing unpredictable weather patterns and extreme droughts, which reduce water availability.\n\nIn response to this growing crisis, everyone must prioritize water conservation. Simple actions, such as fixing leaks, using water-efficient appliances, and practicing mindful consumption, can make a significant difference. Additionally, implementing policies that promote sustainable water management and investing in technologies for water recycling can help mitigate the impacts of water scarcity. [III] [IV]\n\nDespite these efforts, the challenges remain substantial. It is crucial that we recognize the importance of conserving water and take immediate steps to protect this vital resource for future generations.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following best paraphrases the underlined part in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Individuals should consider water conservation a secondary concern when addressing this problem.",
+            "B": "Society needs to focus on water conservation to effectively address the growing water shortage problem.",
+            "C": "People can manage the crisis without prioritizing water conservation.",
+            "D": "Water conservation is not an urgent issue for people facing this crisis."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: 'In response to this growing crisis, everyone must prioritize water conservation.' → Xã hội cần ưu tiên bảo tồn nước để giải quyết cuộc khủng hoảng. B diễn giải đúng nhất. A sai vì câu gốc nhấn mạnh 'ưu tiên'. C và D sai vì mâu thuẫn với câu gốc."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "Where in this passage does the following sentence best fit? \"These strategies can significantly improve water availability in stressed regions.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(I)",
+            "C": "(IV)",
+            "D": "(II)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu cần điền đề cập 'These strategies' (những chiến lược này) → cần đứng sau đoạn đề cập các chiến lược bảo tồn nước (chính sách quản lý bền vững và công nghệ tái chế nước). Vị trí (IV) đứng ngay sau các chiến lược đó là phù hợp nhất."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"vital\" paragraph 1 could be best replaced by:",
+          "context": "",
+          "options": {
+            "A": "optional",
+            "B": "crucial",
+            "C": "harmful",
+            "D": "unimportant"
+          },
+          "correctAnswer": "B",
+          "explanation": "'Vital' /ˈvaɪtəl/ (adj) = cực kỳ cần thiết, quan trọng. Từ đồng nghĩa: 'crucial' /ˈkruːʃəl/ (adj) = then chốt, rất quan trọng. 'Optional' = tùy chọn (trái nghĩa), 'harmful' = có hại, 'unimportant' = không quan trọng (trái nghĩa)."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Governments should focus solely on technology to solve water issues.",
+            "B": "Water conservation is primarily a government responsibility, not individual.",
+            "C": "The role of each individual in protecting water resources is very important.",
+            "D": "Both the government and each individual have a role to play in protecting water resources."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 3 đề cập cả hành động cá nhân (sửa rò rỉ, dùng thiết bị tiết kiệm nước) VÀ chính sách của chính phủ (quản lý bền vững, tái chế nước) → D tóm tắt đúng nhất. A và B thiếu một trong hai vế. C bỏ qua vai trò chính phủ."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Immediate action is needed to address the growing water shortage crisis.",
+            "B": "The impact of water shortage due to climate change on human life and agricultural development.",
+            "C": "The importance of water conservation to combat the growing water shortage caused by increased demand and climate change.",
+            "D": "Water shortage is a major problem that requires immediate government action."
+          },
+          "correctAnswer": "C",
+          "explanation": "Bài đọc bao gồm: nguyên nhân thiếu nước (nhu cầu tăng, biến đổi khí hậu), tầm quan trọng của bảo tồn nước, và các giải pháp. C tóm tắt đầy đủ nhất cả ba yếu tố này. A thiếu nguyên nhân. B chỉ đề cập biến đổi khí hậu. D bỏ qua vai trò cá nhân và bảo tồn nước."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The phrase \"high water stress\" in paragraph 1 refers to:",
+          "context": "",
+          "options": {
+            "A": "reduced water demand",
+            "B": "excessive rainfall",
+            "C": "improved water quality",
+            "D": "significant water shortage"
+          },
+          "correctAnswer": "D",
+          "explanation": "'High water stress' (tình trạng căng thẳng về nước nghiêm trọng) trong ngữ cảnh bài đọc đề cập đến 'a decline in the availability of this precious resource' → tức là tình trạng thiếu nước đáng kể. D là đáp án đúng."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The phrase \"exacerbates\" in paragraph 3 is OPPOSITE in meaning to:",
+          "context": "",
+          "options": {
+            "A": "alleviates",
+            "B": "maintains",
+            "C": "worsens",
+            "D": "complicates"
+          },
+          "correctAnswer": "A",
+          "explanation": "'Exacerbate' /ɪɡˈzæs.ə.beɪt/ (v) = làm trầm trọng thêm, làm xấu đi. Từ trái nghĩa: 'alleviate' /əˈliː.vi.eɪt/ (v) = xoa dịu, làm giảm bớt. 'Worsen' = làm tệ hơn (đồng nghĩa), 'maintain' = duy trì, 'complicate' = làm phức tạp."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Governments play an important role in protecting polluted water sources.",
+            "B": "Water conservation measures need to be widely applied to create an impact.",
+            "C": "Applying technology can solve all problems of water shortage.",
+            "D": "Climate change is an important factor that affects water resources globally."
+          },
+          "correctAnswer": "D",
+          "explanation": "Bài đọc ghi: 'Climate change further exacerbates these issues, causing unpredictable weather patterns and extreme droughts, which reduce water availability' → có thể suy ra biến đổi khí hậu là yếu tố quan trọng ảnh hưởng đến tài nguyên nước toàn cầu. A không có thông tin, B không được đề cập, C sai vì bài không khẳng định công nghệ giải quyết được tất cả."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "According to paragraph 2, which of the following is NOT a contributing factor to water scarcity?",
+          "context": "",
+          "options": {
+            "A": "Population growth",
+            "B": "Urbanization",
+            "C": "Extreme droughts",
+            "D": "City expansion"
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 2 liệt kê nguyên nhân: 'population growth, urbanization, and climate change' (A, B) và 'extreme droughts' do biến đổi khí hậu (C). 'City expansion' (mở rộng thành phố, D) không được liệt kê trực tiếp là nguyên nhân, mặc dù là hệ quả của đô thị hóa."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Climate change negatively impacts water availability.",
+            "B": "Urbanization decreases the demand for water.",
+            "C": "Sustainable practices are unnecessary for water management.",
+            "D": "Water scarcity affects only drinking water supplies."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: 'Climate change further exacerbates these issues...which reduce water availability' → biến đổi khí hậu tác động tiêu cực đến nguồn nước. B sai: đô thị hóa làm TĂNG nhu cầu nước. C sai: bài đọc nhấn mạnh các hoạt động bền vững là cần thiết. D sai: thiếu nước ảnh hưởng cả nước uống, nông nghiệp, vệ sinh và sản xuất năng lượng."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.591142+00:00",
+  "updatedAt": "2026-06-08T10:41:58.591142+00:00",
+  "originalFileName": "THPT_Nam_Dan_Thai_Hoa_Nghe_An_2025.json"
+}

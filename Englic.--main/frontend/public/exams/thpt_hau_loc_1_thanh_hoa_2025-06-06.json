@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_hau_loc_1_thanh_hoa_2025-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Hậu Lộc 1, Thanh Hóa",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Hau_Loc_1_Thanh_Hoa_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#ThanhHoa",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 1 to 5.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "a. David: Hey, Sarah! You've been traveling a lot lately, right?\nb. David: That's amazing!\nc. Sarah: Hi, David! Yes, I just got back from Europe.",
+          "options": {
+            "A": "a-b-c",
+            "B": "c-a-b",
+            "C": "a-c-b",
+            "D": "b-a-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự hợp lý: David hỏi Sarah về việc đi du lịch (a) → Sarah trả lời vừa trở về từ châu Âu (c) → David khen 'Thật tuyệt vời!' (b).\nTạm dịch: David: Này, Sarah! Dạo này cậu đi du lịch nhiều lắm phải không? / Sarah: Chào, David! Đúng vậy, mình vừa trở về từ châu Âu. / David: Thật tuyệt vời!"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "a. Liam: I'm sure they'd be up for it. I'll text them now and see if they're free.\nb. Sophia: Great! If they agree, I'll book the session. Let's aim for Saturday afternoon!\nc. Sophia: Yes, but we'll need a group. Do you think we could convince Mia and Ethan to join us?\nd. Sophia: Hey Liam, have you heard about the new escape room that just opened?\ne. Liam: I have! People say it's pretty challenging. Are you thinking of trying it this weekend?",
+          "options": {
+            "A": "d-e-c-a-b",
+            "B": "d-a-c-e-b",
+            "C": "b-a-c-e-d",
+            "D": "d-a-b-e-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự hợp lý: Sophia hỏi về phòng thoát khỏi mới mở (d) → Liam xác nhận và hỏi Sophia có muốn thử không (e) → Sophia đồng ý nhưng cần nhóm (c) → Liam chắc họ sẽ đồng ý và nhắn tin (a) → Sophia vui mừng và đặt lịch (b).\nTạm dịch: Sophia hỏi về escape room mới → Liam biết và hỏi về ý định thử → Sophia muốn thử nhưng cần nhóm → Liam sẽ nhắn tin Mia và Ethan → Sophia hài lòng và đặt lịch chiều thứ Bảy."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "Hi Jordan,\na. It's been so rewarding to finally make time for my painting, which I had always wanted to pursue.\nb. The workshops are also a great way to meet people who share similar interests and exchange ideas.\nc. Thanks again for recommending the local art studio near my place - it has been a wonderful discovery!\nd. I've been learning new techniques and experimenting with abstract themes, which has been really exciting.\ne. Perhaps you could join me for a class sometime? It would be great to create something together.\nWrite back soon,\nAlex",
+          "options": {
+            "A": "c-a-d-b-e",
+            "B": "c-e-a-b-d",
+            "C": "a-c-d-b-e",
+            "D": "c-a-b-d-e"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự hợp lý trong thư: Cảm ơn Jordan giới thiệu studio (c) → Thật bổ ích khi có thời gian cho hội họa (a) → Học kỹ thuật mới và thử nghiệm chủ đề trừu tượng (d) → Các buổi hội thảo cũng là cách gặp gỡ người cùng sở thích (b) → Mời Jordan tham gia lớp học cùng (e).\nTạm dịch: Cảm ơn giới thiệu studio → Bổ ích khi theo đuổi hội họa → Học kỹ thuật mới, thử chủ đề trừu tượng → Workshop giúp gặp gỡ người cùng sở thích → Mời cùng tham gia lớp."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "a. He built his wealth by investing in strong companies and making smart financial decisions over many years.\nb. Warren Buffett is one of the most successful people in the world of finance.\nc. Despite his great success, he is known for living a simple and humble life, which inspires many people.\nd. Buffett also believes in giving back to society and has donated a large part of his wealth to charity.\ne. His hard work, smart decisions, and generosity make him a role model for people everywhere.",
+          "options": {
+            "A": "e-a-b-d-c",
+            "B": "b-a-c-d-e",
+            "C": "e-c-d-a-b",
+            "D": "b-e-c-d-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trình tự hợp lý: Giới thiệu Warren Buffett (b) → Cách ông xây dựng sự giàu có (a) → Dù thành công vẫn sống giản dị (c) → Ông tin vào việc cống hiến cho xã hội và làm từ thiện (d) → Ông là hình mẫu cho mọi người (e).\nTạm dịch: Warren Buffett là người thành công nhất trong tài chính → Xây dựng sự giàu có qua đầu tư thông minh → Vẫn sống giản dị dù thành công → Tin vào cống hiến và từ thiện → Trở thành hình mẫu cho mọi người."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "a. In some countries, more young people are joining volunteer programs than before.\nb. However, in other places, the number of volunteers is going down, as adults have less free time to help.\nc. These changes show that age, time, and support can all affect how many people volunteer.\nd. This increase might be because schools and groups are encouraging students to help their communities.\ne. The percentage of people who volunteer has changed over time.",
+          "options": {
+            "A": "e-a-d-c-b",
+            "B": "d-a-c-b-e",
+            "C": "e-a-d-b-c",
+            "D": "e-c-a-d-b"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trình tự hợp lý: Tỷ lệ người tình nguyện thay đổi theo thời gian (e) → Ở một số quốc gia, người trẻ tình nguyện nhiều hơn (a) → Sự gia tăng này do trường học và nhóm khuyến khích (d) → Ở những nơi khác, số lượng giảm vì người lớn ít thời gian (b) → Những thay đổi này cho thấy tuổi tác, thời gian và hỗ trợ đều ảnh hưởng (c).\nTạm dịch: Tỷ lệ tình nguyện thay đổi → Một số nơi người trẻ tình nguyện nhiều hơn → Do trường học khuyến khích → Nơi khác số lượng giảm → Kết luận về các yếu tố ảnh hưởng."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 6 to 11.",
+      "passageTitle": "LANGBOT: THE ULTIMATE AI LANGUAGE LEARNING APP FOR TEENS!",
+      "passage": "Are you a teen eager to master a foreign language but feeling disappointed by traditional learning methods? Meet LangBot, an AI-powered app (6)_______ just for you! With LangBot, you'll (7)_______ control of your language journey through interactive games and (8)_________. This innovative app offers real-time feedback and daily challenges to help you succeed (9)_______ building fluency, vocabulary, and confidence. Fancy (10)_______ your speaking skills with virtual tutors? Or perhaps you'd love to brush up on grammar without the boring drills? LangBot has it all! Plus, you'll never get stuck with its easy-to-use support features. Whether you're studying solo or with friends, this app will keep you (11)_______ every step of the way. Ready to kick off your language adventure? Download LangBot now and start seeing results!",
+      "questions": [
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "is designed",
+            "B": "designing",
+            "C": "which designs",
+            "D": "designed"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ: Ta rút gọn mệnh đề quan hệ 'which is designed' bằng cách lược bỏ đại từ quan hệ 'which' và động từ to be 'is', giữ lại 'designed'.\nTạm dịch: Hãy làm quen với LangBot, một ứng dụng hỗ trợ AI được thiết kế dành riêng cho bạn!"
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "make",
+            "B": "put",
+            "C": "take",
+            "D": "raise"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ thông dụng: take control of = kiểm soát.\nTạm dịch: Với LangBot, bạn sẽ kiểm soát hành trình học ngôn ngữ của mình thông qua các trò chơi tương tác và..."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "practice personalised sessions",
+            "B": "sessions personalised practice",
+            "C": "personalised practice sessions",
+            "D": "personalised sessions practice"
+          },
+          "correctAnswer": "C",
+          "explanation": "Trật tự từ: practice sessions (np) = các buổi thực hành; personalised (adj) = cá nhân hoá. Ta dùng tính từ 'personalised' trước cụm danh từ 'practice sessions' để bổ nghĩa.\nTạm dịch: Với LangBot, bạn sẽ kiểm soát hành trình học ngôn ngữ của mình thông qua các trò chơi tương tác và các buổi thực hành được cá nhân hóa."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "for",
+            "B": "at",
+            "C": "on",
+            "D": "in"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về giới từ: succeed in = thành công trong (việc gì).\nTạm dịch: Ứng dụng sáng tạo này cung cấp phản hồi theo thời gian thực và các thử thách hàng ngày để giúp bạn thành công trong việc xây dựng sự trôi chảy, vốn từ vựng và sự tự tin."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "improving",
+            "B": "to improve",
+            "C": "to improving",
+            "D": "improve"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về danh động từ: fancy + V-ing = thích thú, mong muốn làm gì.\nTạm dịch: Bạn có muốn cải thiện kỹ năng nói của mình với gia sư ảo không?"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "engaging",
+            "B": "engaged",
+            "C": "engagement",
+            "D": "engage"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ loại: keep somebody + adj = giữ cho ai đó ở trạng thái nào đó. Sau 'keep you' ta dùng một tính từ, vì vậy 'engaged' (adj) = tham gia, gắn bó với app là phù hợp.\nA. engaging (adj) = hấp dẫn, thú vị\nB. engaged (adj) = đính hôn, bận rộn, tham gia\nC. engagement (n) = sự đính hôn, sự cam kết, sự tham gia\nD. engage (v) = tham gia, thu hút, cam kết\nTạm dịch: Cho dù bạn học một mình hay với bạn bè, ứng dụng này sẽ giúp bạn luôn tập trung trong từng bước."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 12 to 17.",
+      "passageTitle": "HARRY POTTER REBOOT MOVIE!",
+      "passage": "Join the Journey of the Harry Potter Rework Movie!\n\nExperience the World of Magic Once Again!\nStep back into the magical world of Hogwarts, where courage, friendship, and adventure await. The Harry Potter reboot movie brings a fresh take to the (12)_______ story we all love. With new faces and magical (13) _______, it's a chance to see (14)_______ world of wizards like never before!\n\nBehind the Scenes Magic!\n- Breathtaking New Scenes - (15)________ newly expanded locations and fresh character moments that add depth and excitement to the story.\n- Fresh Talent and Passionate Cast - With a (16)_______ of new and familiar faces, our cast brings a powerful energy to each role, from Harry's courage to Hermione's wisdom and Ron's loyalty.\n- A Movie for All Generations - (17)________ whether you grew up with the books or are new to the magic, this movie invites fans of all ages to experience the wonder anew.",
+      "questions": [
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "anxious",
+            "B": "iconic",
+            "C": "delicious",
+            "D": "powerful"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ vựng:\nA. anxious = lo lắng, bồn chồn\nB. iconic = mang tính biểu tượng\nC. delicious = ngon miệng\nD. powerful = mạnh mẽ, có sức ảnh hưởng\nTạm dịch: Phim khởi động lại Harry Potter mang đến một góc nhìn mới mẻ cho câu chuyện mang tính biểu tượng mà tất cả chúng ta đều yêu thích."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sceneries",
+            "B": "landscapes",
+            "C": "sights",
+            "D": "scenes"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. scenery = phong cảnh, cảnh vật\nB. landscape = cảnh quan, quang cảnh (thường dùng để chỉ khu vực rộng lớn ngoài trời)\nC. sight = cảnh đẹp, điểm tham quan hoặc thứ gì đó đáng chú ý mà bạn nhìn thấy\nD. scene = cảnh phim, kịch, hoặc một tình huống cụ thể nào đó\nTạm dịch: Với những gương mặt mới và bối cảnh phép thuật, đây là cơ hội để nhìn thấy..."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "other",
+            "C": "others",
+            "D": "the others"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về lượng từ:\nA. another + N đếm được số ít = một cái/người khác\nB. other + N đếm được số nhiều/không đếm được = cái/người khác\nC. others = những cái/người khác\nD. the others = những cái/người còn lại\nTạm dịch: Với những gương mặt mới và bối cảnh phép thuật, đây là cơ hội để nhìn thấy một thế giới phù thủy khác chưa từng có!"
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Bring about",
+            "B": "Dive into",
+            "C": "Join in",
+            "D": "Hand down"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về cụm động từ thông dụng:\nA. bring about = gây ra, dẫn đến\nB. dive into = đắm mình, dấn thân, tập trung hoàn toàn vào một việc\nC. join in = tham gia vào\nD. hand down = truyền lại, để lại\nTạm dịch: Những cảnh quay mới ngoạn mục - Đắm mình vào những địa điểm mới được mở rộng và những khoảnh khắc nhân vật mới mẻ, mang đến chiều sâu và sự phấn khích cho câu chuyện."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "quantity",
+            "B": "amount",
+            "C": "number",
+            "D": "blend"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về cụm từ chỉ lượng:\nA. a quantity of + N đếm được/không đếm được = lượng\nB. amount of + N không đếm được = lượng\nC. a number of + N = số nhiều\nD. a blend of + N = sự kết hợp\nTa dùng 'a blend of' để diễn tả sự kết hợp giữa 'new faces' và 'familiar faces'.\nTạm dịch: Với sự kết hợp giữa những gương mặt mới và quen thuộc, dàn diễn viên của chúng tôi mang đến nguồn năng lượng mạnh mẽ cho từng vai diễn."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "In spite of",
+            "B": "Regardless of",
+            "C": "Owing to",
+            "D": "In light of"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức về từ nối:\nA. In spite of = mặc dù, bất chấp\nB. Regardless of = bất kể, không quan tâm\nC. Owing to = do, bởi vì\nD. In light of = dựa trên, xét đến\nTạm dịch: Bất kể bạn lớn lên cùng những cuốn sách hay mới biết đến phép thuật, bộ phim này đều mời người hâm mộ ở mọi lứa tuổi trải nghiệm điều kỳ diệu một lần nữa."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about coffee and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 18 to 25.",
+      "passageTitle": "Russia's Cancer Vaccine",
+      "passage": "Russia is on track to introduce its first cancer vaccine by early 2025, marking a significant milestone in medical innovation. This vaccine is developed by a Russian team in collaboration with major research institutions, including the Moscow State University and the Cancer Research Institute. It uses cutting-edge mRNA technology, which has already proven effective in COVID-19 vaccines, to target specific tumor cells and stimulate the body's immune response to fight cancer more effectively.\n\nThe vaccine is currently undergoing the final stages of clinical trials. These trials are designed to evaluate its safety and efficacy in treating certain types of cancers, particularly those related to lung and liver, which are among the most common globally. Preliminary results suggest that this vaccine could significantly improve survival rates and reduce recurrence risks for cancer patients, bringing hope to millions worldwide.\n\nHowever, accessibility and affordability remain critical concerns. Experts highlight the potential challenge of high production costs, which may limit access to this life-saving innovation in lower-income regions. To address this, Russia is exploring partnerships with global health organizations and pharmaceutical companies to scale production and distribution. This effort aims to make the vaccine available to a broader population and integrate it into public health systems.\n\nThe introduction of this vaccine aligns with the growing global momentum in cancer prevention and treatment. Similar initiatives, such as trials conducted by BioNTech in the UK, underline the global effort to combat cancer with advanced technologies. If successful, Russia's vaccine could complement these efforts, marking a new era in the fight against one of the world's leading causes of death.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "Which of the following is NOT a feature of Russia's cancer vaccine?",
+          "context": "",
+          "options": {
+            "A": "It uses mRNA technology.",
+            "B": "It is undergoing clinical trials.",
+            "C": "It predicts specific cancer types.",
+            "D": "It improves immune response to tumors."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\nA được đề cập: It uses cutting-edge mRNA technology.\nB được đề cập: The vaccine is currently undergoing the final stages of clinical trials.\nD được đề cập: It uses mRNA technology to target specific tumor cells and stimulate the body's immune response.\nC không được đề cập - vắc-xin không dự đoán loại ung thư mà nhắm vào tế bào khối u cụ thể.\nTạm dịch: Đặc điểm nào sau đây KHÔNG phải là đặc điểm của vắc-xin ung thư của Nga?"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "The word 'this' in paragraph 3 refers to________",
+          "context": "",
+          "options": {
+            "A": "the challenge of high production costs",
+            "B": "the effort to make the vaccine available",
+            "C": "the accessibility and affordability",
+            "D": "the life-saving innovation"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Experts highlight the potential challenge of high production costs, which may limit access to this life-saving innovation in lower-income regions. To address this, Russia is exploring partnerships...\nTừ 'this' trong câu 'To address this' ám chỉ thách thức về chi phí sản xuất cao đã được đề cập ở câu trước.\nTạm dịch: Từ 'this' trong đoạn 3 đề cập đến thách thức về chi phí sản xuất cao."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "The word 'preliminary' in paragraph 2 could best be replaced by________",
+          "context": "",
+          "options": {
+            "A": "initial",
+            "B": "final",
+            "C": "conclusive",
+            "D": "secondary"
+          },
+          "correctAnswer": "A",
+          "explanation": "preliminary (adj) = sơ bộ, mở đầu = initial (adj) = ban đầu, lúc đầu.\nA. initial = ban đầu, lúc đầu\nB. final = cuối cùng, sau cùng\nC. conclusive = mang tính kết luận, chắc chắn\nD. secondary = thứ cấp, phụ, không quan trọng\nThông tin: Preliminary results suggest that this vaccine could significantly improve survival rates."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "The word 'accessibility' in paragraph 3 is OPPOSITE in meaning to________",
+          "context": "",
+          "options": {
+            "A": "uncertainty",
+            "B": "unreliability",
+            "C": "unpredictability",
+            "D": "unavailability"
+          },
+          "correctAnswer": "D",
+          "explanation": "accessibility (n) = khả năng tiếp cận >< unavailability (n) = sự không có sẵn, sự không thể tiếp cận được.\nA. uncertainty = sự không chắc chắn\nB. unreliability = sự không đáng tin cậy\nC. unpredictability = sự không thể đoán trước\nD. unavailability = sự không có sẵn, sự không thể tiếp cận được\nThông tin: However, accessibility and affordability remain critical concerns."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "The production of this vaccine demonstrates the potential of biotechnology in addressing global health challenges.",
+            "B": "Efforts to create this vaccine emphasize the need for investment in medical research to tackle complex diseases.",
+            "C": "The launch of this vaccine supports the increasing worldwide efforts in cancer prevention and treatment.",
+            "D": "The development of this vaccine highlights the importance of collaborative research in advancing healthcare innovation."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu được gạch chân: The introduction of this vaccine aligns with the growing global momentum in cancer prevention and treatment.\nC đúng: Việc ra mắt vắc-xin này hỗ trợ cho các nỗ lực ngày càng tăng trên toàn thế giới trong việc phòng ngừa và điều trị ung thư - diễn đạt phù hợp ý nghĩa câu gạch chân.\nA, B, D sai vì khác nghĩa câu gạch chân."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Russia's cancer vaccine uses mRNA technology.",
+            "B": "The vaccine has already completed all trials.",
+            "C": "It will only be available for liver cancer.",
+            "D": "Affordability is not a concern for its distribution."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: It uses cutting-edge mRNA technology.\nB sai: The vaccine is currently undergoing the final stages of clinical trials - chưa hoàn tất.\nC sai: Các thử nghiệm nhắm vào lung and liver, không chỉ gan.\nD sai: However, accessibility and affordability remain critical concerns.\nTạm dịch: Vắc-xin ung thư của Nga sử dụng công nghệ mRNA."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "In which part of the text does the author mention the potential challenges of vaccine affordability?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "C",
+          "explanation": "Tác giả đề cập đến những thách thức tiềm ẩn về khả năng chi trả cho vắc-xin trong đoạn 3.\nThông tin: Experts highlight the potential challenge of high production costs, which may limit access to this life-saving innovation in lower-income regions."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "In which part of the text does the author explain the broader global effort to fight cancer with vaccines?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tác giả giải thích về nỗ lực toàn cầu rộng lớn hơn trong việc chống lại bệnh ung thư bằng vắc-xin trong đoạn 4.\nThông tin: The introduction of this vaccine aligns with the growing global momentum in cancer prevention and treatment. Similar initiatives, such as trials conducted by BioNTech in the UK, underline the global effort to combat cancer with advanced technologies."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks.",
+      "passageTitle": "Living with Parents as an Adult",
+      "passage": "Living with your parents as an adult can be a unique and, at times, challenging experience. One of the first things (26)_______. No matter how understanding your parents are, there's always the feeling of being monitored. They'll ask where you're going, when you'll be back, or why you need to stay out late. It's not necessarily because they don't trust you, but because they're simply used to taking care of you. (27)_______, but it's also a sign of their love and concern.\n\nAnother reality of living with parents is the lack of complete independence. While it's convenient to have meals prepared or laundry done without asking, (28)_______. Whether it's helping with chores or keeping your room tidy, you might feel like a teenager again. However, this dynamic also teaches you patience and compromise, which are valuable skills in any relationship. Additionally, sharing a space with your family can lead to occasional conflicts, especially when opinions clash, but it also strengthens your bond in unexpected ways.\n\nOn the bright side, living with your parents can save a significant amount of money. (29)_________. You also enjoy the comfort of home-cooked meals and the emotional support that only family can provide. While it's not always easy, the experience of living with your parents is often a mix of gratitude, frustration, and growth. It's a phase of life that (30)_________.",
+      "questions": [
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "you realize is that privacy becomes a luxury",
+            "B": "that realizing is that privacy becomes a luxury",
+            "C": "of which you realize is that privacy becomes a luxury",
+            "D": "to realizing is that privacy becomes a luxury"
+          },
+          "correctAnswer": "A",
+          "explanation": "Sau 'One of the first things' ta cần một mệnh đề.\nB sai cấu trúc ngữ pháp 'that realizing' - V-ing không phù hợp đứng sau 'that'.\nC sai cấu trúc ngữ pháp 'of which you realize', 'of which' thường được dùng để thay thế cho danh từ trước đó, nhưng trong câu này, không có danh từ phù hợp.\nD sai cấu trúc ngữ pháp 'to realizing', ta dùng to + V (nguyên mẫu) chứ không phải V-ing.\nA đúng ngữ pháp và phù hợp ngữ nghĩa.\nTạm dịch: Một trong những điều đầu tiên bạn nhận ra là sự riêng tư trở thành một thứ xa xỉ."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Although the constant check-ins may sometimes feel like a burden",
+            "B": "Having to constantly check in on a regular basis.",
+            "C": "This constant check-in can sometimes feel overwhelming",
+            "D": "The constant check-in can sometimes feel like an obligation"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta có mệnh đề chính 'it's also a sign of their love and concern', phía trước cần một mệnh đề phụ phù hợp.\nC, D sai vì là mệnh đề độc lập, không phải mệnh đề phụ.\nB sai vì ta cần một chủ ngữ phù hợp với 'having to...' nhưng chủ ngữ 'it' trong mệnh đề chính chưa được xác định rõ ràng.\nA đúng, là mệnh đề phụ với liên từ 'although' và chủ ngữ 'the constant check-ins' phù hợp.\nTạm dịch: Mặc dù việc liên tục kiểm tra đôi khi có thể khiến bạn cảm thấy như một gánh nặng, nhưng đó cũng là dấu hiệu cho thấy tình yêu thương và sự quan tâm của họ."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "you're often expected to follow their house rules",
+            "B": "occasionally expecting to follow the rules of their house",
+            "C": "in terms of expecting to follow the rules of their house",
+            "D": "which expects to follow the rules of their house"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta có mệnh đề phụ 'While it's convenient to have meals prepared or laundry done without asking', phía sau cần một mệnh đề chính phù hợp.\nB, C sai vì không phải mệnh đề độc lập.\nD sai vì là mệnh đề quan hệ.\nA đúng vì là mệnh đề chính hoàn chỉnh phù hợp.\nTạm dịch: Mặc dù việc chuẩn bị bữa ăn hoặc giặt giũ mà không cần yêu cầu rất tiện lợi, nhưng bạn thường phải tuân theo các quy tắc trong nhà của họ."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Building your career or saving for future, rent-free living allows you to focus",
+            "B": "Rent-free living which allows you to focus on building your career or saving for future",
+            "C": "Building your career can lead to saving for future with rent-free living",
+            "D": "Rent-free living allows you to focus on building your career or saving for future goals"
+          },
+          "correctAnswer": "D",
+          "explanation": "Ta cần một câu hoàn chỉnh liên kết mạch lạc với câu trước và sau đó nói về lợi ích của việc sống cùng với bố mẹ.\nA sai, không phù hợp ngữ pháp và diễn đạt nghĩa không tự nhiên.\nB sai vì đại từ quan hệ 'which', khiến câu trở thành mệnh đề quan hệ chứ không phải câu hoàn chỉnh.\nC sai, không phù hợp ngữ cảnh và liên kết với câu sau đó.\nD đúng, phù hợp cấu trúc và ngữ cảnh.\nTạm dịch: Cuộc sống không cần thuê nhà cho phép bạn tập trung vào việc xây dựng sự nghiệp hoặc tiết kiệm cho các mục tiêu trong tương lai."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "teaches you to appreciate family while preparing for independence",
+            "B": "appreciation of family while you are preparing for independence",
+            "C": "preparing for independence to teach you how to appreciate family",
+            "D": "independence for which you prepare and teaches you to appreciate family"
+          },
+          "correctAnswer": "A",
+          "explanation": "Sau 'that' ta cần một động từ chính phù hợp.\nB, C, D sai vì không bắt đầu bằng một động từ chính.\nA đúng, động từ chính 'teaches' phù hợp.\nTạm dịch: Đây là giai đoạn của cuộc sống dạy bạn cách trân trọng gia đình trong khi chuẩn bị cho sự độc lập."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the future of energy and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each of the following questions.",
+      "passageTitle": "Nyepi: The Balinese Day of Silence",
+      "passage": "[I] Nestling within dynamic Balinese culture comes one of the world's most intriguing and peculiar events: Nyepi. The Balinese New Year, better known as Nyepi, doesn't involve parties or fireworks. [II] This follows with a deep silent day of self-meditation and spiritual cleansing [III]. It is a holy day, derived from the Saka Calendar, when the predominantly Hindu population of this island gets an opportunity to reunite with their inner self and their gods. [IV]\n\nThe preparation for Nyepi starts days in advance, with the execution of various colored and meaningful rituals. The most interesting include an Ogoh-Ogoh parade where huge and artistic statues, which represent evil spirits, are taken along the streets. Made from bamboo and paper, these statues constitute both kinds of artistic work and forms of exorcising the island from all negative feelings. The Ogoh-Ogoh figures are ritually burned in a spectacular display as the sun is setting, a ritual that symbolizes destruction to evil spirits and spiritual rejuvenation.\n\nBut on Nyepi Day itself, the island is supposed to be in full stillness-no flights, no traffic, no lights, and no noise. Even tourists are encouraged to stay indoors and minimize activities by this convention. The streets are empty; it is a case whereby the island stood still, holding its breath. This silence amongst the Balinese people is an inside thing, deeply. They go into meditation, fasting, and reflection on life for a balance between good and evil in themselves. The silence is said to deceive the evil spirits that the island is indeed uninhabited, thus offering protection for the forthcoming year.\n\nMore than a religious holiday, Nyepi is deeply enriching in culture and spirituality, underlining the values of harmony and introspection particular to the Balinese. For any visitor, the experience of Nyepi is at once an exercise in humility and a source of inspiration. A stepping back from the din of modern life into the emotive power of silence, leaving with great respect for timeless traditions and the never-failing devotion of the people to beliefs.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph I does the following sentence best fit? 'It is a rare experience given to both locals and visitors of the deep stillness in harmony of the whole island.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu trên phù hợp nhất ở vị trí (IV) vì phù hợp nhấn mạnh lại về việc trải nghiệm lễ hội vừa kể, đồng thời phù hợp là câu kết đoạn.\nTạm dịch: Đây là một trải nghiệm hiếm có dành cho cả người dân địa phương và du khách về sự tĩnh lặng sâu lắng trong sự hòa hợp của toàn bộ hòn đảo."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The phrase 'in advance' in the second paragraph could be best replaced by________",
+          "context": "",
+          "options": {
+            "A": "beforehand",
+            "B": "after-hours",
+            "C": "immediately",
+            "D": "during the event"
+          },
+          "correctAnswer": "A",
+          "explanation": "in advance = trước một khoảng thời gian, trước một sự kiện cụ thể = beforehand (trước đó).\nA. beforehand = trước đó\nB. after-hours = sau giờ làm việc hoặc giờ hoạt động chính thức\nC. immediately = ngay lập tức\nD. during the event = trong suốt sự kiện hoặc khi sự kiện đang diễn ra\nThông tin: The preparation for Nyepi starts days in advance, with the execution of various colored and meaningful rituals."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word 'its' in paragraph 3 refers to________.",
+          "context": "",
+          "options": {
+            "A": "case",
+            "B": "island",
+            "C": "convention",
+            "D": "silence"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: The streets are empty; it is a case whereby the island stood still, holding its breath.\nTừ 'its' ám chỉ 'island' - hòn đảo đứng yên, nín thở.\nTạm dịch: Đường phố vắng tanh; đó là trường hợp hòn đảo đứng yên, nín thở."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following is NOT mentioned as part of the Nyepi preparation in the passage?",
+          "context": "",
+          "options": {
+            "A": "Ogoh-Ogoh parade",
+            "B": "Exorcising evil spirits",
+            "C": "Ritual burning of statues",
+            "D": "Elaborate fireworks displays"
+          },
+          "correctAnswer": "D",
+          "explanation": "A được đề cập: The most interesting include an Ogoh-Ogoh parade.\nB được đề cập: forms of exorcising the island from all negative feelings / symbolizes destruction to evil spirits.\nC được đề cập: The Ogoh-Ogoh figures are ritually burned.\nD không xảy ra: The Balinese New Year, better known as Nyepi, doesn't involve parties or fireworks.\nTạm dịch: Cái nào sau đây KHÔNG được đề cập như một phần của sự chuẩn bị Nyepi trong bài đọc?"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarizes paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Nyepi Day involves a complete halt of all activities, including travel, lights, and noise, creating a rare experience of stillness.",
+            "B": "The island prepares for Nyepi by engaging in large parades, including loud celebrations and fireworks.",
+            "C": "Tourists are invited to join in traditional ceremonies, including meditation and spiritual cleansing.",
+            "D": "The silence during Nyepi is an opportunity for residents to engage in large community events for spiritual renewal."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: Ngày Nyepi bao gồm việc dừng hoàn toàn mọi hoạt động, bao gồm đi lại, đèn và tiếng ồn, tạo ra trải nghiệm tĩnh lặng hiếm có.\nB sai vì đoạn không đề cập các thông tin này và hòn đảo cũng không kỷ niệm lớn hay bắn pháo hoa.\nC sai vì đoạn đề cập rằng khách du lịch được khuyến khích ở trong nhà.\nD sai vì sự im lặng trong Nyepi không phải là cơ hội để người dân tham gia vào các sự kiện cộng đồng lớn."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word 'stillness' in paragraph 3 is OPPOSITE in meaning to________.",
+          "context": "",
+          "options": {
+            "A": "chaos",
+            "B": "quiet",
+            "C": "reflection",
+            "D": "peace"
+          },
+          "correctAnswer": "A",
+          "explanation": "stillness (n) = sự tĩnh lặng >< chaos (n) = sự hỗn loạn, sự lộn xộn.\nA. chaos = sự hỗn loạn, sự lộn xộn\nB. quiet = yên lặng, sự yên tĩnh\nC. reflection = sự suy ngẫm, sự phản chiếu\nD. peace = hòa bình, sự bình yên\nThông tin: But on Nyepi Day itself, the island is supposed to be in full stillness - no flights, no traffic, no lights, and no noise."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Nyepi is celebrated with loud fireworks and festive celebrations.",
+            "B": "The Ogoh-Ogoh statues are burned as a part of a purification ritual.",
+            "C": "Tourists are encouraged to take part in every Nyepi ritual with the locals.",
+            "D": "The silence on Nyepi is meant to symbolize the island's abandonment by the spirits."
+          },
+          "correctAnswer": "B",
+          "explanation": "A không đúng: The Balinese New Year, better known as Nyepi, doesn't involve parties or fireworks.\nC không đúng: Even tourists are encouraged to stay indoors and minimize activities by this convention.\nD không đúng vì cụm từ 'deceive the evil spirits' thể hiện rõ ý định giả vờ rằng hòn đảo không có người ở, không phải là biểu tượng cho việc các linh hồn rời bỏ hòn đảo.\nB đúng: The Ogoh-Ogoh figures are ritually burned in a spectacular display as the sun is setting, a ritual that symbolizes destruction to evil spirits and spiritual rejuvenation."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "The absence of noise makes evil spirits believe that no one is living on the island, offering protection for the coming year.",
+            "B": "The noise of Nyepi is thought to be a signal to evil spirits, making them think the island is empty and keeping it safe for the year ahead.",
+            "C": "The stillness during Nyepi keeps the islanders safe by making evil spirits believe the island is inhabited.",
+            "D": "The silence of Nyepi creates an illusion for the evil spirits, ensuring its protection for the following year."
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu được gạch chân: The silence is said to deceive the evil spirits that the island is indeed uninhabited, thus offering protection for the forthcoming year.\nA đúng: Sự vắng mặt của tiếng ồn khiến các linh hồn ma quỷ tin rằng không có ai sống trên đảo, mang đến sự bảo vệ cho năm tới.\nB sai ở 'The noise of Nyepi', trái ngược nghĩa câu gạch chân.\nC sai ở 'believe the island is inhabited', trái ngược nghĩa câu gạch chân.\nD sai 'creates an illusion for the evil spirits', câu gạch chân không đề cập ý này."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "The silence of Nyepi is a form of spiritual reflection and a way to protect the islanders.",
+            "B": "The preparation for Nyepi includes loud parades and celebrations, which contrast with the quiet of the actual day.",
+            "C": "The Ogoh-Ogoh statues are destroyed in a ritual that symbolizes cleansing the island from negative forces.",
+            "D": "Nyepi is an event mostly aimed at tourists who visit Bali for a cultural experience."
+          },
+          "correctAnswer": "A",
+          "explanation": "A đúng: Có thể suy luận rằng sự im lặng của Nyepi vừa là hình thức phản ánh tâm linh (meditation, fasting, reflection) vừa là cách bảo vệ người dân đảo (deceive evil spirits).\nB sai vì không có thông tin nào suy luận được rằng việc chuẩn bị này ồn ào.\nC sai vì đây là thông tin được đề cập sẵn trong bài đọc, không phải suy luận.\nD sai vì Nyepi là sự kiện tôn giáo quan trọng trong văn hóa Hindu của người Bali, được thực hiện chủ yếu bởi người dân địa phương."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Nyepi is a day of profound spiritual reflection, where both locals and visitors take part in complete silence to foster self-awareness and protection from evil spirits.",
+            "B": "Nyepi is an annual event in Bali, featuring parades, silence, and rituals, all aimed at cleansing the spirit and creating harmony between locals and visitors.",
+            "C": "Nyepi is a significant religious event in Bali, observed with various rituals, a grand parade, and a complete day of silence for everyone, fostering spiritual awareness and inner peace.",
+            "D": "During Nyepi, the residents of the island practice complete silence, and tourists are encouraged to stay indoors and reflect on the cultural significance and traditions of the holiday."
+          },
+          "correctAnswer": "C",
+          "explanation": "Tóm tắt: Đoạn 1 giới thiệu Nyepi, tập trung vào sự tĩnh lặng, thiền định, và thanh tẩy tâm hồn. Đoạn 2: chuẩn bị Nyepi - lễ diễu hành Ogoh-Ogoh và đốt tượng. Đoạn 3: Vào ngày Nyepi, toàn đảo chìm trong tĩnh lặng. Đoạn 4: Nyepi là sự kiện tôn giáo quan trọng.\nC đúng: Nyepi là sự kiện tôn giáo quan trọng ở Bali, được tổ chức với nhiều nghi lễ khác nhau, một cuộc diễu hành lớn và một ngày im lặng hoàn toàn cho mọi người, nuôi dưỡng nhận thức về mặt tâm linh và sự bình yên nội tâm.\nA sai vì chỉ tập trung vào ngày Nyepi mà không bao quát cả giai đoạn chuẩn bị trước đó.\nB sai vì nhấn mạnh sự hoà hợp giữa địa phương và du khách trong khi bài đọc chỉ đề cập một ý nhỏ về du khách.\nD sai vì chỉ có ý về du khách, thiếu các ý chính quan trọng về ngày lễ."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.578589+00:00",
+  "updatedAt": "2026-06-08T10:41:58.578589+00:00",
+  "originalFileName": "THPT_Hau_Loc_1_Thanh_Hoa_2025.json"
+}

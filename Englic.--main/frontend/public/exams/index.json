@@ -1,0 +1,1078 @@
+{
+  "exams": [
+    {
+      "id": "cum_chuyen_mon_so_3_dak_lak_2026-06-06",
+      "title": "Cụm Chuyên môn số 3 - Đắk Lắk",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ĐắkLắk",
+        "#TốtNghiệp"
+      ],
+      "file": "cum_chuyen_mon_so_3_dak_lak_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.512989+00:00",
+      "updatedAt": "2026-06-08T10:41:58.512989+00:00"
+    },
+    {
+      "id": "de5_mt4_thpt_2025_2026-06-05",
+      "title": "Đề Tham Khảo Theo Đề Minh Họa BGD Năm 2024 – Đề 5 MT4 – Kỳ Thi Tốt Nghiệp THPT 2025 – Môn Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ĐềMinhHọa",
+        "#MT4"
+      ],
+      "file": "de5_mt4_thpt_2025_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.516738+00:00",
+      "updatedAt": "2026-06-08T10:41:58.516738+00:00"
+    },
+    {
+      "id": "so_giao_duc_va_dao_tao_yen_bai_2026_06_06",
+      "title": "10. Sở giáo dục và đào tạo Yên Bái (Mã lẻ) (Tốt nghiệp THPT 2025 môn Tiếng Anh)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#YênBái",
+        "#TốtNghiệp"
+      ],
+      "file": "so_giao_duc_va_dao_tao_yen_bai_2026_06_06.json",
+      "createdAt": "2026-06-08T10:41:58.519362+00:00",
+      "updatedAt": "2026-06-08T10:41:58.519362+00:00"
+    },
+    {
+      "id": "so_giao_duc_vinh_phuc_ma_de_901_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục và Đào Tạo Vĩnh Phúc - Mã đề: 901",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VĩnhPhúc",
+        "#TốtNghiệp"
+      ],
+      "file": "so_giao_duc_vinh_phuc_ma_de_901_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.521950+00:00",
+      "updatedAt": "2026-06-08T10:41:58.521950+00:00"
+    },
+    {
+      "id": "so_gd_thanh_hoa_thpt_2025_2026-06-08",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở Giáo Dục và Đào Tạo Thanh Hóa",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ThanhHoa",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_thanh_hoa_thpt_2025_2026-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.524667+00:00",
+      "updatedAt": "2026-06-08T10:41:58.524667+00:00"
+    },
+    {
+      "id": "thpt_le_loi_thanh_hoa_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Lê Lợi, Thanh Hóa",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ThanhHóa",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_le_loi_thanh_hoa_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.527519+00:00",
+      "updatedAt": "2026-06-08T10:41:58.527519+00:00"
+    },
+    {
+      "id": "thpt_chuyen_chu_van_an_lang_son_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Chuyên Chu Văn An, Lạng Sơn",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#LạngSơn",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_chu_van_an_lang_son_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.530302+00:00",
+      "updatedAt": "2026-06-08T10:41:58.530302+00:00"
+    },
+    {
+      "id": "thpt_chuyen_le_thanh_tong_quang_nam_2026-06-08",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh – THPT Chuyên Lê Thánh Tông, Quảng Nam",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#QuảngNam",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_le_thanh_tong_quang_nam_2026-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.533157+00:00",
+      "updatedAt": "2026-06-08T10:41:58.533157+00:00"
+    },
+    {
+      "id": "thpt_ba_dinh_thanh_hoa_2025-06-08",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh – THPT Ba Đình – Thanh Hóa",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ThanhHoa",
+        "#BaDinh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_ba_dinh_thanh_hoa_2025-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.536343+00:00",
+      "updatedAt": "2026-06-08T10:41:58.536343+00:00"
+    },
+    {
+      "id": "thpt_bac_giang_2025-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục Và Đào Tạo Bắc Giang",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BắcGiang",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_bac_giang_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.539314+00:00",
+      "updatedAt": "2026-06-08T10:41:58.539314+00:00"
+    },
+    {
+      "id": "so_gd_bac_ninh_2025-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục và Đào Tạo Bắc Ninh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BắcNinh",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_bac_ninh_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.542168+00:00",
+      "updatedAt": "2026-06-08T10:41:58.542168+00:00"
+    },
+    {
+      "id": "thpt_chuyen_binh_long_binh_phuoc_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Chuyên Bình Long, Bình Phước",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BìnhPhước",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_binh_long_binh_phuoc_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.544615+00:00",
+      "updatedAt": "2026-06-08T10:41:58.544615+00:00"
+    },
+    {
+      "id": "thpt_chuyen_ha_long_quang_ninh_2026-06-08",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Chuyên Hạ Long, Quảng Ninh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#QuảngNinh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_ha_long_quang_ninh_2026-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.547414+00:00",
+      "updatedAt": "2026-06-08T10:41:58.547414+00:00"
+    },
+    {
+      "id": "thpt_chuyen_nguyen_tat_thanh_kon_tum_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Nguyễn Tất Thành - Kon Tum",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#KonTum",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_nguyen_tat_thanh_kon_tum_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.550028+00:00",
+      "updatedAt": "2026-06-08T10:41:58.550028+00:00"
+    },
+    {
+      "id": "thpt_chuyen_nguyen_tat_thanh_yen_bai_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Chuyên Nguyễn Tất Thành, Yên Bái",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#YênBái",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_nguyen_tat_thanh_yen_bai_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.552512+00:00",
+      "updatedAt": "2026-06-08T10:41:58.552512+00:00"
+    },
+    {
+      "id": "thpt_chuyen_nguyen_van_troi_ha_tinh_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Nguyễn Văn Trỗi, Hà Tĩnh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HàTĩnh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_nguyen_van_troi_ha_tinh_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.554867+00:00",
+      "updatedAt": "2026-06-08T10:41:58.554867+00:00"
+    },
+    {
+      "id": "thpt_chuyen_phan_boi_chau_nghe_an_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Chuyên Phan Bội Châu, Nghệ An",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#NghệAn",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_phan_boi_chau_nghe_an_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.557431+00:00",
+      "updatedAt": "2026-06-08T10:41:58.557431+00:00"
+    },
+    {
+      "id": "thpt_chuyen_tran_phu_hai_phong_2025-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Trần Phú - Hải Phòng",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HảiPhòng",
+        "#TốtNghiệp",
+        "#ChuyênTrầnPhú"
+      ],
+      "file": "thpt_chuyen_tran_phu_hai_phong_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.560198+00:00",
+      "updatedAt": "2026-06-08T10:41:58.560198+00:00"
+    },
+    {
+      "id": "thpt_chuyen_vinh_phuc_lan1_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Vĩnh Phúc (Lần 1)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VĩnhPhúc",
+        "#TốtNghiệp",
+        "#Chuyên"
+      ],
+      "file": "thpt_chuyen_vinh_phuc_lan1_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.562733+00:00",
+      "updatedAt": "2026-06-08T10:41:58.562733+00:00"
+    },
+    {
+      "id": "thpt_chuyen_vo_nguyen_giap_quang_binh_2025_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh (Chuyên Võ Nguyên Giáp – Quảng Bình)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#QuangBinh",
+        "#TốtNghiệp",
+        "#TiengAnh"
+      ],
+      "file": "thpt_chuyen_vo_nguyen_giap_quang_binh_2025_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.565347+00:00",
+      "updatedAt": "2026-06-08T10:41:58.565347+00:00"
+    },
+    {
+      "id": "cum_lien_truong_thpt_thanh_hoa_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh – Cụm Liên Trường THPT Thanh Hóa",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ThanhHoa",
+        "#TốtNghiệp"
+      ],
+      "file": "cum_lien_truong_thpt_thanh_hoa_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.568482+00:00",
+      "updatedAt": "2026-06-08T10:41:58.568482+00:00"
+    },
+    {
+      "id": "thpt_dao_duy_tu_thanh_hoa_lan2_2025-06-06",
+      "title": "THPT Đào Duy Từ - Thanh Hóa (Lần 2) – Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ThanhHoa",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_dao_duy_tu_thanh_hoa_lan2_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.570994+00:00",
+      "updatedAt": "2026-06-08T10:41:58.570994+00:00"
+    },
+    {
+      "id": "thpt_go_cong_dong_tien_giang_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Gò Công Đông, Tiền Giang",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#TiềnGiang",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_go_cong_dong_tien_giang_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.573173+00:00",
+      "updatedAt": "2026-06-08T10:41:58.573173+00:00"
+    },
+    {
+      "id": "thpt_hai_duong_cum_lien_truong_2025",
+      "title": "Kì thi Tốt nghiệp THPT năm 2025 - Môn Tiếng Anh - Cụm Liên trường THPT Hải Dương",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "TaiLieuOnThi.org",
+      "tags": [
+        "#THPT2025",
+        "#HảiDương",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_hai_duong_cum_lien_truong_2025.json",
+      "createdAt": "2026-06-08T10:41:58.576144+00:00",
+      "updatedAt": "2026-06-08T10:41:58.576144+00:00"
+    },
+    {
+      "id": "thpt_hau_loc_1_thanh_hoa_2025-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Hậu Lộc 1, Thanh Hóa",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#ThanhHoa",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_hau_loc_1_thanh_hoa_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.578589+00:00",
+      "updatedAt": "2026-06-08T10:41:58.578589+00:00"
+    },
+    {
+      "id": "thpt_ky_anh_ha_tinh_2025-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Kỳ Anh - Hà Tĩnh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HàTĩnh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_ky_anh_ha_tinh_2025-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.581063+00:00",
+      "updatedAt": "2026-06-08T10:41:58.581063+00:00"
+    },
+    {
+      "id": "thpt_lien_truong_hai_phong_2025-06-07",
+      "title": "Kì thi Tốt nghiệp THPT năm 2025 – Môn: Tiếng Anh – Liên trường THPT Hải Phòng",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HảiPhòng",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_lien_truong_hai_phong_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.583706+00:00",
+      "updatedAt": "2026-06-08T10:41:58.583706+00:00"
+    },
+    {
+      "id": "lien_truong_thpt_nghe_an_2025-06-06",
+      "title": "Liên trường THPT Nghệ An – Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn: Tiếng Anh (Mã đề chẵn)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#NghệAn",
+        "#TốtNghiệp"
+      ],
+      "file": "lien_truong_thpt_nghe_an_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.586171+00:00",
+      "updatedAt": "2026-06-08T10:41:58.586171+00:00"
+    },
+    {
+      "id": "thpt_my_duc_b_ha_noi_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh – THPT Mỹ Đức B, Hà Nội",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HàNội",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_my_duc_b_ha_noi_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.588740+00:00",
+      "updatedAt": "2026-06-08T10:41:58.588740+00:00"
+    },
+    {
+      "id": "thpt_nam_dan_thai_hoa_nghe_an_2025-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Cụm liên trường THPT Nam Đàn - Thái Hòa (Nghệ An)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#NghệAn",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_nam_dan_thai_hoa_nghe_an_2025-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.591142+00:00",
+      "updatedAt": "2026-06-08T10:41:58.591142+00:00"
+    },
+    {
+      "id": "lien_truong_thpt_nghe_an_le_2025_2026-06-08",
+      "title": "Kì thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Liên trường THPT Nghệ An (Mã đề Lẻ)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#NghệAn",
+        "#TốtNghiệp",
+        "#MãĐềLẻ"
+      ],
+      "file": "lien_truong_thpt_nghe_an_le_2025_2026-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.593289+00:00",
+      "updatedAt": "2026-06-08T10:41:58.593289+00:00"
+    },
+    {
+      "id": "thpt_nghen_ha_tinh_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – THPT Nghèn, Hà Tĩnh – Môn: Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HàTĩnh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_nghen_ha_tinh_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.595881+00:00",
+      "updatedAt": "2026-06-08T10:41:58.595881+00:00"
+    },
+    {
+      "id": "thpt_ngo_gia_tu_vinh_phuc_2026-06-05",
+      "title": "THPT Ngô Gia Tự - Vĩnh Phúc - Lần 1 - Tốt Nghiệp THPT 2025 - Môn: Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VĩnhPhúc",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_ngo_gia_tu_vinh_phuc_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.598183+00:00",
+      "updatedAt": "2026-06-08T10:41:58.598183+00:00"
+    },
+    {
+      "id": "thpt_nguyen_khuyen_binh_duong_2026-06-05",
+      "title": "Đề thi thử Tốt nghiệp THPT năm 2025 - Môn Tiếng Anh - THPT Nguyễn Khuyến, Bình Dương",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BìnhDương",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_nguyen_khuyen_binh_duong_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.600425+00:00",
+      "updatedAt": "2026-06-08T10:41:58.600425+00:00"
+    },
+    {
+      "id": "thpt_nguyen_khuyen_tphcm_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Nguyễn Khuyến TP.HCM",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#TPHCM",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_nguyen_khuyen_tphcm_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.603033+00:00",
+      "updatedAt": "2026-06-08T10:41:58.603033+00:00"
+    },
+    {
+      "id": "thpt_nguyen_quang_dieu_dong_thap_2026-06-05",
+      "title": "Đề Thi Thử Tốt Nghiệp THPT Năm 2025 Lần 1 – THPT Nguyễn Quang Diệu, Đồng Tháp – Môn: Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#DongThap",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_nguyen_quang_dieu_dong_thap_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.605614+00:00",
+      "updatedAt": "2026-06-08T10:41:58.605614+00:00"
+    },
+    {
+      "id": "thpt_ninh_binh_2025_tieng_anh_ma_de_le_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 – Môn Tiếng Anh (Sở GD&ĐT Ninh Bình, Mã Đề Lẻ)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#NinhBinh",
+        "#TốtNghiệp",
+        "#TiengAnh"
+      ],
+      "file": "thpt_ninh_binh_2025_tieng_anh_ma_de_le_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.607818+00:00",
+      "updatedAt": "2026-06-08T10:41:58.607818+00:00"
+    },
+    {
+      "id": "cum_truong_phu_nam_hung_yen_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Cụm Các Trường Phía Nam Hưng Yên",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HưngYên",
+        "#TốtNghiệp"
+      ],
+      "file": "cum_truong_phu_nam_hung_yen_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.610510+00:00",
+      "updatedAt": "2026-06-08T10:41:58.610510+00:00"
+    },
+    {
+      "id": "so_gd_phu_tho_thpt_2025_2026-06-08",
+      "title": "Kì thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo dục và Đào tạo Phú Thọ",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#PhúThọ",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_phu_tho_thpt_2025_2026-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.613186+00:00",
+      "updatedAt": "2026-06-08T10:41:58.613186+00:00"
+    },
+    {
+      "id": "thpt_quang_nam_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Cụm Liên Trường THPT Quảng Nam",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#QuảngNam",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_quang_nam_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.615729+00:00",
+      "updatedAt": "2026-06-08T10:41:58.615729+00:00"
+    },
+    {
+      "id": "thpt_son_thinh_yen_bai_2026-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Sơn Thịnh, Yên Bái",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#YênBái",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_son_thinh_yen_bai_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.619030+00:00",
+      "updatedAt": "2026-06-08T10:41:58.619030+00:00"
+    },
+    {
+      "id": "thpt_thanh_dong_hai_duong_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Thành Đông, Hải Dương",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HảiDương",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_thanh_dong_hai_duong_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.621803+00:00",
+      "updatedAt": "2026-06-08T10:41:58.621803+00:00"
+    },
+    {
+      "id": "thpt_thuan_thanh_3_bac_ninh_2026-06-05",
+      "title": "Ki Thi Tot Nghiep THPT Nam 2025 - Mon Tieng Anh - THPT Thuan Thanh 3, Bac Ninh (Ma de chan)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "De tieng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BacNinh",
+        "#TotNghiep"
+      ],
+      "file": "thpt_thuan_thanh_3_bac_ninh_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.624239+00:00",
+      "updatedAt": "2026-06-08T10:41:58.624239+00:00"
+    },
+    {
+      "id": "thpt_thuan_thanh_bac_ninh_2025-06-08",
+      "title": "THPT Thuận Thành 1&2 - Bắc Ninh (Mã đề lẻ) - Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BắcNinh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_thuan_thanh_bac_ninh_2025-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.626751+00:00",
+      "updatedAt": "2026-06-08T10:41:58.626751+00:00"
+    },
+    {
+      "id": "thpt_tue_tinh_hai_duong_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Tuệ Tĩnh - Hải Dương",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HaiDuong",
+        "#TueTinh",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_tue_tinh_hai_duong_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.628950+00:00",
+      "updatedAt": "2026-06-08T10:41:58.628950+00:00"
+    },
+    {
+      "id": "thpt_tuyen_quang_ma_de_chan_2025-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Tuyên Quang (Mã đề chẵn)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#TuyênQuang",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_tuyen_quang_ma_de_chan_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.631382+00:00",
+      "updatedAt": "2026-06-08T10:41:58.631382+00:00"
+    },
+    {
+      "id": "thpt_tuyen_quang_ma_de_le_2025-06-07",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Tuyên Quang - Mã đề lẻ",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#TuyenQuang",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_tuyen_quang_ma_de_le_2025-06-07.json",
+      "createdAt": "2026-06-08T10:41:58.633929+00:00",
+      "updatedAt": "2026-06-08T10:41:58.633929+00:00"
+    },
+    {
+      "id": "thpt_vinh_phuc_902_2025-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Vĩnh Phúc - Mã đề 902",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VĩnhPhúc",
+        "#TốtNghiệp",
+        "#MãĐề902"
+      ],
+      "file": "thpt_vinh_phuc_902_2025-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.636591+00:00",
+      "updatedAt": "2026-06-08T10:41:58.636591+00:00"
+    },
+    {
+      "id": "so_gd_vinh_phuc_ma_de_904_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - Sở Giáo Dục Và Đào Tạo Vĩnh Phúc - Mã Đề 904",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VinhPhuc",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_vinh_phuc_ma_de_904_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.639478+00:00",
+      "updatedAt": "2026-06-08T10:41:58.639478+00:00"
+    },
+    {
+      "id": "so_gd_vinh_phuc_ma_de_901_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Vĩnh Phúc - Mã đề 901",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VinhPhuc",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_vinh_phuc_ma_de_901_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.642266+00:00",
+      "updatedAt": "2026-06-08T10:41:58.642266+00:00"
+    },
+    {
+      "id": "so_gd_vinh_phuc_ma903_2026-06-06",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở GD&ĐT Vĩnh Phúc - Mã đề 903",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#VĩnhPhúc",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_vinh_phuc_ma903_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.645973+00:00",
+      "updatedAt": "2026-06-08T10:41:58.645973+00:00"
+    },
+    {
+      "id": "so_gd_dt_ha_tinh_2026-06-06",
+      "title": "De_thi_thu_tot_nghiep_THPT_nam_2025_mon_Tieng_Anh_Ha_Tinh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HàTĩnh",
+        "#TốtNghiệp"
+      ],
+      "file": "so_gd_dt_ha_tinh_2026-06-06.json",
+      "createdAt": "2026-06-08T10:41:58.649706+00:00",
+      "updatedAt": "2026-06-08T10:41:58.649706+00:00"
+    },
+    {
+      "id": "so_gd_ninh_binh_lan2_thpt_2025_2026-06-08",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - Sở Giáo Dục và Đào Tạo Ninh Bình (Lần 2)",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#NinhBinh",
+        "#TốtNghiệp",
+        "#Lan2"
+      ],
+      "file": "so_gd_ninh_binh_lan2_thpt_2025_2026-06-08.json",
+      "createdAt": "2026-06-08T10:41:58.652138+00:00",
+      "updatedAt": "2026-06-08T10:41:58.652138+00:00"
+    },
+    {
+      "id": "thpt_chuyen_quang_trung_binh_phuoc_2026-06-05",
+      "title": "Đề Thi Thử Tốt Nghiệp THPT Năm 2025 Lần 1 – THPT Chuyên Quang Trung, Bình Phước – Môn: Tiếng Anh",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#BìnhPhước",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_chuyen_quang_trung_binh_phuoc_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.654608+00:00",
+      "updatedAt": "2026-06-08T10:41:58.654608+00:00"
+    },
+    {
+      "id": "thpt_hoang_van_thu_ha_noi_lan1_2026-06-05",
+      "title": "De Thi Thu Tot Nghiep THPT Nam 2025 Lan 1 - Mon Tieng Anh - THPT Hoang Van Thu, Ha Noi",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "So GD-DT Ha Noi / THPT Hoang Van Thu",
+      "tags": [
+        "#THPT2025",
+        "#HaNoi",
+        "#HoangVanThu",
+        "#ThiThu"
+      ],
+      "file": "thpt_hoang_van_thu_ha_noi_lan1_2026-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.657391+00:00",
+      "updatedAt": "2026-06-08T10:41:58.657391+00:00"
+    },
+    {
+      "id": "thpt_kinh_mon_hai_duong_2025-06-05",
+      "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Kinh Môn, Hải Dương",
+      "category": "Tiếng Anh",
+      "time": "50 Phút",
+      "questions": 40,
+      "attempts": 0,
+      "rating": 5,
+      "reviews": 0,
+      "source": "Đề tiếng anh Englic free",
+      "tags": [
+        "#THPT2025",
+        "#HảiDương",
+        "#TốtNghiệp"
+      ],
+      "file": "thpt_kinh_mon_hai_duong_2025-06-05.json",
+      "createdAt": "2026-06-08T10:41:58.659610+00:00",
+      "updatedAt": "2026-06-08T10:41:58.659610+00:00"
+    }
+  ]
+}

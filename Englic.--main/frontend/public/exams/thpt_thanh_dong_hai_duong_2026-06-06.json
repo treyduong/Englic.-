@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_thanh_dong_hai_duong_2026-06-06",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Thành Đông, Hải Dương",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Thanh_Dong_Hai_Duong_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HảiDương",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "Developing Urbanization in Remote Areas!",
+      "passage": "Urbanization in faraway places presents exciting opportunities for growth. (1)________ may underestimate the potential of these regions, but with strategic (2)________, they can flourish.\nCommunities must turn in to sustainable practices that enhance both living (3)______ and economic prospects.\nInvesting in essential infrastructure, such as roads and schools, is crucial for accessibility. Green energy solutions and affordable housing are vital (4)________ that can significantly improve quality of life.\n(5)________ should we overlook the importance of engaging local residents in the planning process. The number of initiatives (6)_______ urbanization is increasing, showcasing a commitment to transforming remote areas into thriving communities.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Another",
+            "B": "Other",
+            "C": "The other",
+            "D": "Others"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ hạn định:\nA. another + N (số ít): người khác, cái khác\nB. other + N (số nhiều/không đếm được): những người khác, những cái khác\nC. the other + N (số ít/số nhiều): (những) người còn lại, (những) cái còn lại\nD. others: những người khác, những cái khác (đại từ, dùng độc lập không đi kèm danh từ)\nTạm dịch: Others may underestimate the potential of these regions... (Những người khác có thể đánh giá thấp tiềm năng của các khu vực này...)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "investment",
+            "B": "development",
+            "C": "planning",
+            "D": "decision"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. investment /ɪnˈvest.mənt/ (n): sự đầu tư, vốn đầu tư\nB. development /dɪˈvel.əp.mənt/ (n): sự phát triển, mở rộng\nC. planning /ˈplæn.ɪŋ/ (n): kế hoạch, sự quy hoạch\nD. decision /dɪˈsɪʒ.ən/ (n): quyết định, sự giải quyết\nTạm dịch: Others may underestimate the potential of these regions, but with strategic planning, they can flourish. (Những người khác có thể đánh giá thấp tiềm năng của các khu vực này, nhưng với quy hoạch có chiến lược, chúng có thể phát triển mạnh mẽ.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "arrangement",
+            "B": "conditions",
+            "C": "area",
+            "D": "environment"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. arrangement /əˈreɪndʒ.mənt/ (n): sự sắp xếp, sự sắp đặt\nB. condition /kənˈdɪʃ.ən/ (n): điều kiện, hoàn cảnh → living condition: điều kiện sống\nC. area /ˈeə.ri.ə/ (n): khu vực, diện tích\nD. environment /ɪnˈvaɪ.rə.mənt/ (n): môi trường\nTạm dịch: Communities must turn in to sustainable practices that enhance both living conditions and economic prospects. (Các cộng đồng cần hướng đến các biện pháp lâu dài, cải thiện cả điều kiện sống lẫn tiềm năng phát triển kinh tế.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "amounts",
+            "B": "numbers",
+            "C": "items",
+            "D": "portions"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức từ vựng:\nA. amount /əˈmaʊnt/ (n): lượng\nB. number /ˈnʌm.bər/ (n): số lượng\nC. item /ˈaɪ.təm/ (n): món, vật, mặt hàng\nD. portion /ˈpɔː.ʃən/ (n): phần, khẩu phần\nTạm dịch: Green energy solutions and affordable housing are vital items that can significantly improve quality of life. (Các giải pháp năng lượng xanh và nhà ở giá cả phải chăng là những yếu tố có thể cải thiện chất lượng cuộc sống.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Irrespective of",
+            "B": "At no time",
+            "C": "In account of",
+            "D": "With regard to"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ nối:\nA. irrespective of N/Ving: không kể, bất chấp\nD. with regard to N/Ving: về mặt, liên quan đến\nCụm: on account of something: vì cái gì\nĐảo ngữ: at no time + trợ động từ + S + V: không bao giờ\nTạm dịch: At no time should we overlook the importance of engaging local residents in the planning process. (Chúng ta không nên bỏ qua tầm quan trọng của việc thu hút cư dân địa phương tham gia vào quá trình lập kế hoạch.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "focused on",
+            "B": "turned off",
+            "C": "got away",
+            "D": "went into"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. focus on somebody/something: tập trung vào ai/cái gì\nB. turn off something: tắt cái gì\nC. get away with/from something: thành công là việc gì đó bất hợp pháp mà không bị phát hiện\nD. go into something: bắt đầu làm cái gì\nTạm dịch: The number of initiatives focused on urbanization is increasing, showcasing a commitment to transforming remote areas into thriving communities. (Số lượng sáng kiến tập trung vào đô thị hóa ngày càng tăng, cho thấy cam kết biến các khu vực hẻo lánh thành nơi thịnh vượng.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Experience the Wonders of Chinese Culture!",
+      "passage": "Join us for an extraordinary celebration of Chinese culture at our annual festival! This vibrant event showcases the rich heritage of China through traditional performances, art exhibits, and authentic cuisine. Having captivated audiences in previous years, we invite you to immerse yourself in this unique experience. To learn about ancient customs and (7)______ is an opportunity not to be missed. Engage with skilled artisans, participate (8)_______ calligraphy workshops, and savor delicious dishes (9)________ centuries of tradition.\nOur mission is (10)_______ understanding and appreciation of Chinese cultural heritage. Don't miss the chance to connect with diverse communities and (11)________ lasting memories. Come and discover the beauty of Chinese (12)_________ in every form—together, let's celebrate the spirit of unity and diversity!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "innovations modern",
+            "B": "modernly innovations",
+            "C": "modern innovations",
+            "D": "modern innovation"
+          },
+          "correctAnswer": "C",
+          "explanation": "Dùng tính từ 'modern' để bổ nghĩa cho danh từ 'innovations'. Vì phía trước không có mạo từ nên danh từ 'innovation' đếm được phải có 's'.\nTạm dịch: To learn about ancient customs and modern innovations is an opportunity not to be missed. (Tìm hiểu về các phong tục cổ xưa và những thay đổi hiện đại là một cơ hội không thể bỏ qua.)"
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "at",
+            "B": "from",
+            "C": "in",
+            "D": "about"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs): participate in something: tham gia vào cái gì đó.\nTạm dịch: Engage with skilled artisans, participate in calligraphy workshops, and savor delicious dishes reflecting centuries of tradition."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that reflects",
+            "B": "reflected",
+            "C": "reflecting",
+            "D": "which reflects"
+          },
+          "correctAnswer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển V sang V-ing.\nTạm dịch: ...savor delicious dishes reflecting centuries of tradition. (...thưởng thức những món ăn ngon thể hiện được truyền thống hàng thế kỷ.)"
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to promoting",
+            "B": "promoting",
+            "C": "to promote",
+            "D": "to be promoted"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức về động từ nguyên mẫu có 'to': sb's mission to do sth: sứ mệnh của ai là làm gì.\nTạm dịch: Our mission is to promote understanding and appreciation of Chinese cultural heritage. (Sứ mệnh của chúng tôi là thúc đẩy sự hiểu biết và trân trọng di sản văn hóa Trung Hoa.)"
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "create",
+            "B": "bring",
+            "C": "do",
+            "D": "make"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ vựng:\nA. create /kriˈeɪt/ (v): tạo ra, sáng tạo\nB. bring /brɪŋ/ (v): mang lại, đưa ra\nC. do /duː/ (v): làm, thực hiện\nD. make /meɪk/ (v): làm, chế tạo\nTạm dịch: Don't miss the chance to connect with diverse communities and create lasting memories. (Đừng bỏ lỡ cơ hội kết nối với nhiều cộng đồng khác nhau và tạo ra những kỷ niệm đáng nhớ.)"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "culture",
+            "B": "cultural",
+            "C": "culturally",
+            "D": "cultures"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\n- culture (n): văn hóa\n- cultural (adj): thuộc văn hóa\n- culturally (adv): về văn hóa\nChỗ trống đứng sau tính từ 'Chinese' → cần danh từ.\nTạm dịch: Come and discover the beauty of Chinese culture in every form - together, let's celebrate the spirit of unity and diversity!"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct arrangement of the sentences to make a meaningful exchange or text in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Tom: Why a cooking class?\nb. Sarah: I'm planning to take a cooking class.\nc. Tom: How are you going to learn to cook?\nd. Tom: I think classes can be quite pricey. I might just watch videos instead.\ne. Sarah: They teach hands-on skills, and it's fun to cook with others.",
+          "options": {
+            "A": "d-b-a-e-c",
+            "B": "c-e-d-b-a",
+            "C": "d-e-a-b-c",
+            "D": "c-b-a-e-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự hợp lý: c (Tom hỏi cách học nấu ăn) → b (Sarah trả lời sẽ học lớp nấu ăn) → a (Tom hỏi tại sao lại học lớp) → e (Sarah giải thích lợi ích) → d (Tom bày tỏ lo ngại về chi phí).\nTạm dịch: Tom: Bạn định học nấu ăn như thế nào? / Sarah: Mình đang định tham gia một lớp học nấu ăn. / Tom: Tại sao lại là lớp học nấu ăn? / Sarah: Họ dạy các kỹ năng thực tế, và việc nấu ăn cùng người khác cũng rất vui. / Tom: Mình nghĩ các lớp học có thể khá tốn kém. Có lẽ mình sẽ chỉ xem video thay vậy."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Occasionally, working long hours to meet project deadlines is a small price to pay for the importance of public consultations and regulations.\nb. My passion for sustainable living and urban planning has led me to pursue a rewarding profession in city planning.\nc. For the past five years, I have excelled in my role at a planning agency, where I develop green spaces and community projects.\nd. In the end, I get a lot of satisfaction from using my work to create thriving, sustainable communities.\ne. Working in a multidisciplinary team fuels my inspiration and drives innovative solutions for urban challenges.",
+          "options": {
+            "A": "b-c-d-a-e",
+            "B": "b-c-e-a-d",
+            "C": "a-c-b-d-e",
+            "D": "c-a-d-b-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: b (giới thiệu đam mê) → c (kinh nghiệm hiện tại) → e (làm việc nhóm) → a (thách thức) → d (kết luận, sự hài lòng).\nTạm dịch: Niềm đam mê của tôi đối với cuộc sống lâu dài và quy hoạch đô thị đã dẫn tôi theo đuổi công việc trong lĩnh vực quy hoạch thành phố. Trong năm năm qua, tôi đã xuất sắc trong vai trò của mình tại một công ty quy hoạch, nơi tôi phát triển các không gian xanh và các dự án cộng đồng. Làm việc trong một nhóm đa ngành thúc đẩy cảm hứng của tôi và thúc đẩy các giải pháp sáng tạo cho các thách thức đô thị. Đôi khi, làm việc nhiều giờ để đáp ứng thời hạn dự án là một cái giá nhỏ phải trả cho tầm quan trọng của các cuộc tư vấn và các quy định. Cuối cùng, tôi cảm thấy hài lòng khi công việc của mình để tạo ra các cộng đồng thịnh vượng và bền vững."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "Hi Gemma,\na. Thanks also for the tip about the free websites with musical lesson videos- they are much better than the sites I've been following.\nb. Thanks so much for the guitar lesson videos you sent me last week.\nc. But it was interesting to watch these videos.\nd. You know, we ought to practise together for some time. What do you think?\ne. It's really nice to learn how to play a new instrument like the guitar, but I am too busy at the moment, so I'm focusing on my violin lessons for now.\nWrite back soon.\nBilly",
+          "options": {
+            "A": "a-c-d-b-e",
+            "B": "a-d-b-c-e",
+            "C": "b-e-c-a-d",
+            "D": "d-b-a-c-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: b (cảm ơn về video guitar) → e (thích học nhưng bận, tập trung vào violin) → c (nhưng thú vị khi xem các video này) → a (cảm ơn về mẹo website miễn phí) → d (đề xuất cùng luyện tập).\nTạm dịch: Cảm ơn bạn rất nhiều vì những video hướng dẫn chơi guitar mà bạn đã gửi cho tôi tuần trước. Thật tuyệt khi được học cách chơi một nhạc cụ mới như guitar, nhưng hiện tại tôi quá bận rộn, vì thế tôi đang tập trung vào các bài học violin của mình. Nhưng xem các video này rất thú vị hơn. Cũng cảm ơn bạn đã chỉ cho tôi mẹo về các trang web miễn phí có video hướng dẫn chơi nhạc, chúng hay hơn nhiều so với các trang web tôi đã theo dõi. Bạn biết đấy, thi thoảng chúng ta nên cùng nhau luyện tập. Bạn nghĩ sao?"
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Tam: Hi, Nicole! Long time, no see. You look lively!\nb. Tam: I've joined a dance class!\nc. Nicole: Hi, Tam! Thanks! I've been going hiking on weekends. How are you?",
+          "options": {
+            "A": "b-c-a",
+            "B": "a-c-b",
+            "C": "c-a-b",
+            "D": "c-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự hợp lý: a (Tam chào Nicole, khen trông tươi vui) → c (Nicole cảm ơn, chia sẻ đi bộ đường dài, hỏi thăm Tam) → b (Tam trả lời đã tham gia lớp khiêu vũ).\nTạm dịch: Tam: Chào, Nicole! Đã lâu không gặp. Trông bạn thật tràn đầy sức sống! / Nicole: Mình cảm ơn! Mình đã đi bộ đường dài vào các ngày cuối tuần. Bạn thế nào? / Tam: Mình đã tham gia một lớp học khiêu vũ!"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. While community engagement and outreach are essential, the occasional late-night event planning is a small compromise.\nb. I naturally pursued a fulfilling profession in cultural promotion because of my love for maintaining regional customs.\nc. Over the past year, I have thrived in my role at a cultural center, where I organize festivals and workshops.\nd. In summary, I am deeply fulfilled in my position as it allows me to celebrate and share our cultural heritage.\ne. Collaborating with artisans and community leaders inspires my creativity and enhances our events.",
+          "options": {
+            "A": "d-b-c-e-a",
+            "B": "a-b-c-d-e",
+            "C": "b-c-e-a-d",
+            "D": "b-c-d-a-e"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự hợp lý: b (giới thiệu nghề nghiệp vì yêu văn hóa địa phương) → c (kinh nghiệm hiện tại tại trung tâm văn hóa) → e (hợp tác với nghệ nhân và nhà lãnh đạo cộng đồng) → a (thách thức nhỏ: lên kế hoạch đêm khuya) → d (kết luận, sự mãn nguyện).\nTạm dịch: Tôi theo đuổi công việc trong ngành quảng bá văn hóa vì tình yêu của tôi đối với việc duy trì các phong tục địa phương. Trong năm qua, tôi làm việc tại một trung tâm văn hóa, nơi tôi tổ chức các lễ hội và hội thảo. Việc hợp tác với các nghệ nhân và nhà lãnh đạo cộng đồng truyền cảm hứng cho sự sáng tạo của tôi và nâng cao các sự kiện của chúng tôi. Tham gia và tiếp xúc cộng đồng là điều cần thiết, nhưng việc thỉnh thoảng lên kế hoạch cho sự kiện vào đêm khuya là một sự đánh đổi nhỏ. Tóm lại, tôi thực sự mãn nguyện với vị trí của mình vì nó cho phép tôi tôn vinh và chia sẻ di sản văn hóa của chúng tôi."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "PROTECTING VIETNAMESE CULTURE",
+      "passage": "Vietnamese culture is rich and diverse, shaped by thousands of years of history. (18)______. The government, along with various organizations, actively promotes traditional customs, music, and festivals to ensure they are passed down to future generations. Events such as the Tet Festival and the Mid-Autumn Festival are celebrated widely, showcasing the country's unique heritage. These events not only bring communities together but also serve as a reminder of Vietnam's cultural identity (19)________.\n\nEducation plays a crucial role in preserving cultural values. (20). ______. Schools often incorporate lessons about Vietnamese history, literature, and art into their curricula, fostering a sense of pride and belonging among students.\n\nHowever, globalization poses challenges to cultural preservation. (21)________. It is essential for individuals and communities to actively engage in cultural activities and advocate for the importance of heritage.\n\nLocal artisans are also vital in this effort. (22)________. By supporting traditional crafts, people can help sustain the livelihoods of artisans while keeping cultural practices alive.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Many efforts have been made to safeguard it",
+            "B": "Local communities contribute to its preservation",
+            "C": "The beauty of its traditions is celebrated worldwide",
+            "D": "It is essential to recognize its significance in a globalized world"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Nhiều nỗ lực đã được thực hiện để bảo vệ nó → Phù hợp vì các câu sau đang nói về những hành động bảo vệ văn hóa.\nB. Cộng đồng địa phương đóng góp vào việc bảo tồn nó → Không phù hợp vì các câu sau không chỉ trực tiếp đến 'địa phương' mà đang nói rộng ra toàn thể.\nC. Vẻ đẹp của truyền thống được tôn vinh trên toàn thế giới → Không phù hợp vì không liên kết đến câu liền trước và liền sau.\nD. Điều cần thiết là phải nhận ra tầm quan trọng của nó trong một thế giới toàn cầu hóa → Không phù hợp vì không liên kết đến câu liền trước và liền sau.\nTạm dịch: Many efforts have been made to safeguard it. (Nhiều nỗ lực đã được thực hiện để bảo vệ nó.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "enabling people to connect with their roots",
+            "B": "which highlight the importance of cultural heritage",
+            "C": "that help raise awareness about local traditions",
+            "D": "reflecting the values and beliefs of the community"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. giúp mọi người kết nối với cội nguồn của họ → phù hợp về ngữ nghĩa.\nB. nhấn mạnh tầm quan trọng của di sản văn hóa → sai ngữ pháp vì cần dùng mệnh đề quan hệ để bổ nghĩa cho cả câu nên động từ cần chia theo chủ ngữ dạng số ít.\nC. giúp nâng cao nhận thức về các truyền thống địa phương → sai ngữ pháp vì không dùng đại từ quan hệ 'that' để bổ nghĩa cho cả mệnh đề đứng trước.\nD. phản ánh các giá trị và tín ngưỡng của cộng đồng → không phù hợp về ngữ nghĩa.\nTạm dịch: These events not only bring communities together but also serve as a reminder of Vietnam's cultural identity, enabling people to connect with their roots."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Schools provide resources for learning about traditional practices",
+            "B": "Educational programs are designed to include cultural studies",
+            "C": "Students are encouraged to explore their cultural heritage",
+            "D": "This awareness helps foster respect for different cultures"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Trường học cung cấp tài nguyên để tìm hiểu các hoạt động truyền thống → Không phù hợp vì không liên kết với ý ở câu liền sau.\nB. Các chương trình giáo dục được thiết kế để bao gồm các nghiên cứu văn hóa → Phù hợp vì câu sau đề cập đến 'lessons', liên quan trực tiếp đến 'Educational programs'.\nC. Học sinh được khuyến khích khám phá di sản văn hóa → Không phù hợp vì không liên kết với ý ở câu liền sau.\nD. Nhận thức này giúp nuôi dưỡng sự tôn trọng đối với các nền văn hóa khác nhau → Không phù hợp vì câu trước không đề cập gì đến 'This awareness'.\nTạm dịch: Educational programs are designed to include cultural studies. (Các chương trình giáo dục được thiết kế bao gồm các nghiên cứu văn hóa.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "The influence of foreign cultures is often welcomed",
+            "B": "Cultural homogenization threatens local identities",
+            "C": "Efforts to preserve culture are sometimes met with resistance",
+            "D": "Many people prefer modern lifestyles over traditional practices"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. Ảnh hưởng của nền văn hóa nước ngoài thường được đón nhận → Không phù hợp vì giải pháp được đưa ra ở câu liền sau không liên quan trực tiếp đến việc 'thích lối sống hiện đại hơn là lối sống truyền thống'.\nB. Sự đồng nhất văn hóa đe dọa bản sắc địa phương → Phù hợp vì 'sự đồng nhất văn hóa' là kết quả của 'toàn cầu hóa' ở câu liền trước.\nC. Những nỗ lực bảo tồn văn hóa đôi khi gặp phải sự phản kháng → Không phù hợp vì không có liên kết trực tiếp với 'toàn cầu hóa' ở câu liền trước.\nD. Nhiều người thích lối sống hiện đại hơn là lối sống truyền thống → Không phù hợp vì giải pháp được đưa ra ở câu liền sau không liên quan trực tiếp.\nTạm dịch: Cultural homogenization threatens local identities. (Sự đồng nhất về văn hóa đe dọa đến bản sắc địa phương.)"
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "By learning traditional techniques, young people can continue the legacy",
+            "B": "Their crafts are showcased in various exhibitions",
+            "C": "Artisans often face challenges in a competitive market",
+            "D": "Community support helps sustain these crafts"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Bằng cách học các kỹ thuật truyền thống, những người trẻ tuổi có thể tiếp tục duy trì di sản → Không phù hợp vì đoạn văn không đề cập đến 'người trẻ'.\nB. Hàng thủ công của họ được trưng bày trong nhiều cuộc triển lãm khác nhau → Không phù hợp vì không liên kết với ý ở câu liền sau.\nC. Những người thợ thủ công thường phải đối mặt với những thách thức trong một thị trường cạnh tranh → Không phù hợp vì không liên kết với ý ở câu liền sau.\nD. Sự ủng hộ của cộng đồng giúp duy trì các nghề thủ công này → Phù hợp vì câu liền sau đang làm rõ nghĩa cho 'Community support'.\nTạm dịch: Community support helps sustain these crafts. (Sự ủng hộ của cộng đồng giúp duy trì các nghề thủ công này.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C, D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "",
+      "passage": "In recent years, the job market has undergone significant changes, driven by advancements in technology and shifts in worker preferences. Remote work has gained immense popularity, allowing employees to work from home or anywhere with an internet connection. This flexibility has become a top priority for many job seekers, leading companies to adopt hybrid work models to attract and retain talent.\n\nThe demand for skilled workers in fields such as technology, healthcare, and renewable energy is on the rise. Employers are increasingly looking for candidates with specialized skills, prompting many individuals to pursue further education and training to enhance their employability. Online courses and certification programs have made it easier for people to acquire new skills while balancing other commitments.\n\nHowever, the job market is not without its challenges. Many industries are facing labor shortages, leading to increased competition for qualified candidates. This has resulted in higher wages and better benefits for workers, but it also means that companies must adapt quickly to meet their staffing needs. Additionally, workers are becoming more vocal about their rights and working conditions, pushing for more equitable practices in the workplace.\n\nJob seekers today are also placing greater emphasis on company culture and values. They prefer employers who prioritize diversity, equity, and inclusion, as well as those who demonstrate a commitment to social and environmental responsibility. As a result, companies are reevaluating their corporate practices to align with these expectations, aiming to create a more positive work environment.\n\nOverall, the current job market is dynamic and evolving. As technology continues to reshape industries and worker preferences shift, both employers and employees must remain adaptable to succeed in this changing landscape.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"pursue\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "To end",
+            "B": "To ignore",
+            "C": "To give up",
+            "D": "To follow or seek"
+          },
+          "correctAnswer": "D",
+          "explanation": "pursue /pəˈsjuː/ (v): theo đuổi = follow or seek.\nThông tin: Employers are increasingly looking for candidates with specialized skills, prompting many individuals to pursue further education and training to enhance their employability.\nTạm dịch: Từ 'pursue' trong đoạn 2 đề cập đến: Để theo dõi hoặc tìm kiếm."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "In which paragraph does the writer explore the impact of technology on the job market?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 5",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: Remote work has gained immense popularity, allowing employees to work from home or anywhere with an internet connection. This flexibility has become a top priority for many job seekers, leading companies to adopt hybrid work models to attract and retain talent.\nĐoạn 1 đề cập đến tác động của công nghệ (làm việc từ xa, mô hình hybrid) lên thị trường việc làm."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"immense\" in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "Considerable",
+            "B": "Huge",
+            "C": "Significant",
+            "D": "Tiny"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. considerable /kənˈsɪd.ər.ə.bəl/ (adj): đáng kể\nB. huge /hjuːdʒ/ (adj): khổng lồ\nC. significant (adj): quan trọng, đáng kể\nD. tiny /ˈtaɪ.ni/ (adj): tí hon, rất nhỏ\nimmense /ɪˈmens/ (adj): mênh mông, rộng lớn >< tiny"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following best paraphrases the underlined sentence \"Workers are becoming more vocal about their rights\" in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Employees are discouraged from speaking up.",
+            "B": "Workers are expressing their concerns more openly.",
+            "C": "Employees are silent about their issues.",
+            "D": "Laborers are indifferent to their rights."
+          },
+          "correctAnswer": "B",
+          "explanation": "Workers are becoming more vocal about their rights. (Người lao động ngày càng lên tiếng về quyền của mình.)\nB. Workers are expressing their concerns more openly. (Người lao động đang bày tỏ mối quan ngại của mình nhiều hơn.) → Phù hợp."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following is NOT mentioned as a change in the job market?",
+          "context": "",
+          "options": {
+            "A": "Increased remote work",
+            "B": "Higher wages",
+            "C": "Demand for skilled workers",
+            "D": "Decline in technology jobs"
+          },
+          "correctAnswer": "D",
+          "explanation": "A. Làm việc từ xa gia tăng → đúng (Remote work has gained immense popularity)\nB. Mức lương cao hơn → đúng (This has resulted in higher wages)\nC. Nhu cầu về người lao động có tay nghề cao → đúng (The demand for skilled workers in fields such as technology is on the rise)\nD. Sự suy giảm việc làm về công nghệ → Sai - bài nói nhu cầu TĂNG, không giảm."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The word \"equitable\" in paragraph 3 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "Fair",
+            "B": "Unjust",
+            "C": "Unequal",
+            "D": "Biased"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. fair /feər/ (adj): công bằng, hợp lý\nB. unjust /ʌnˈdʒʌst/ (adj): không công bằng, bất công\nC. unequal /ʌnˈiː.kwəl/ (adj): không công bằng, bất công\nD. biased /ˈbaɪ.əst/ (adj): thiên vị, định kiến\nequitable /ˈek.wɪ.tə.bəl/ (adj): công bằng, hợp lý = fair"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer discuss the importance of company culture?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 4",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Job seekers today are also placing greater emphasis on company culture and values. (Những người tìm việc ngày nay cũng đang chú trọng hơn vào văn hóa và giá trị của công ty.) → Đoạn 4."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Companies are adjusting to meet staffing needs.",
+            "B": "The job market is static and unchanging.",
+            "C": "Remote work is decreasing in popularity.",
+            "D": "Workers are less concerned about company culture."
+          },
+          "correctAnswer": "A",
+          "explanation": "B. Thị trường việc làm là ổn định và không thay đổi → Sai (the current job market is dynamic and evolving)\nC. Làm việc từ xa đang ngày càng giảm sút → Sai (Remote work has gained immense popularity)\nD. Người lao động ít quan tâm đến văn hóa công ty → Sai (Job seekers today are also placing greater emphasis on company culture and values)\nA. Các công ty đang điều chỉnh để đáp ứng nhu cầu nhân sự → Đúng (companies must adapt quickly to meet their staffing needs; companies are reevaluating their corporate practices)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about AI and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "",
+      "passage": "(I) Artificial Intelligence (AI) has rapidly become a major force in transforming various sectors of modern life, from healthcare to education and beyond. (II) As AI technologies continue to evolve, more industries are adopting AI-driven solutions to streamline operations and enhance services. For example, AI algorithms are being used to diagnose medical conditions, recommend products to consumers, and even assist in self-driving cars. (III) However, with the rise of AI come both opportunities and challenges. (IV) While AI brings about efficiencies and innovations, it also raises ethical concerns, such as privacy issues and the potential loss of jobs due to automation.\n\nThe integration of AI into everyday life is driven by a combination of push and pull factors. Push factors include the need for increased efficiency, accuracy, and cost savings in industries like manufacturing, healthcare, and retail. AI systems can process large amounts of data quickly, making them invaluable in decision-making processes. Pull factors include the allure of enhanced customer experiences, improved accessibility to services, and the ability to provide personalized recommendations. For instance, AI-powered chatbots assist customers 24/7, offering immediate solutions to queries and reducing waiting times.\n\nHowever, AI's widespread adoption is not without its challenges. The reliance on AI systems can lead to concerns about job displacement, as automation takes over tasks that were once performed by humans. Additionally, there are risks related to data privacy and the security of sensitive information, as AI systems often require vast amounts of data to function effectively. Finally, there is the challenge of ensuring that AI is used ethically, with clear guidelines to prevent biases and misuse.\n\nIn conclusion, while AI holds immense potential for improving various aspects of life, it is crucial to manage its development responsibly. By creating clear regulations and addressing ethical concerns, we can ensure that AI contributes to a positive and sustainable future for society.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "The word \"widespread\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "restricted",
+            "B": "rare",
+            "C": "local",
+            "D": "popular"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. restricted /rɪˈstrɪk.tɪd/ (adj): bị hạn chế, có giới hạn\nB. rare /reər/ (adj): hiếm có, rất quý\nC. local /ˈləʊ.kəl/ (adj): địa phương, khu vực\nD. popular (adj): phổ biến\nwidespread /ˌwaɪdˈspred/ (adj): lan rộng, phổ biến >< restricted\nThông tin: However, AI's widespread adoption is not without its challenges."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word \"challenges\" in paragraph 3 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "causes",
+            "B": "obstacles",
+            "C": "shows",
+            "D": "solutions"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. cause /kɔːz/ (n): nguyên nhân, lý do\nB. obstacle /ˈɒb.stə.kəl/ (n): sự cản trở, trở ngại\nC. show /ʃəʊ/ (n): sự trưng bày, bày tỏ\nD. solution /səˈluː.ʃən/ (n): sự giải quyết, giải pháp\nchallenge /ˈtʃæl.mʤʒ/ (n): thách thức = obstacle"
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "AI has been successfully integrated into every sector of society.",
+            "B": "AI adoption leads to job creation and enhanced security.",
+            "C": "The rise of AI has raised concerns about privacy and job loss.",
+            "D": "AI has only been implemented in customer service industries."
+          },
+          "correctAnswer": "C",
+          "explanation": "A. AI đã được tích hợp thành công vào mọi lĩnh vực của xã hội → Sai (AI has rapidly become a major force in transforming various sectors - from healthcare to education and beyond, không phải 'mọi lĩnh vực')\nB. Việc áp dụng AI sẽ tạo ra việc làm và tăng cường an ninh → Sai (có risks related to data privacy and security)\nC. Sự nổi lên của AI đã làm dấy lên mối lo ngại về quyền riêng tư và mất việc → Đúng (it also raises ethical concerns, such as privacy issues and the potential loss of jobs due to automation)\nD. AI chỉ được ứng dụng trong ngành dịch vụ khách hàng → Sai (AI has rapidly become a major force in transforming various sectors)"
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"them\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "industries",
+            "B": "AI systems",
+            "C": "customers",
+            "D": "algorithms"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: AI systems can process large amounts of data quickly, making them invaluable in decision-making processes. (Các hệ thống AI có thể xử lý nhanh chóng lượng lớn dữ liệu, khiến chúng trở nên có giá trị trong các quá trình ra quyết định.)\n'them' = AI systems"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "People will reject AI in favor of traditional systems.",
+            "B": "Proper regulation can help mitigate the negative impacts of AI.",
+            "C": "AI will continue to evolve without causing any issues.",
+            "D": "AI will eliminate the need for human workers entirely."
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: In conclusion, while AI holds immense potential for improving various aspects of life, it is crucial to manage its development responsibly. (Tóm lại, mặc dù AI có tiềm năng to lớn trong việc cải thiện nhiều khía cạnh trong cuộc sống, nhưng điều quan trọng là phải quản lý sự phát triển của nó một cách có trách nhiệm.)\nB. Quy định phù hợp có thể giúp giảm thiểu những tác động tiêu cực của AI → Phù hợp, có thể suy ra từ đoạn kết."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Where in paragraph 1 does the following sentence best fit? \"AI is becoming a powerful tool across different sectors.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(II)",
+            "C": "(I)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu trên phù hợp nhất ở vị trí (I) để cung cấp phần giới thiệu chung về chủ đề ảnh hưởng của AI trước khi đi sâu vào các ví dụ và chi tiết cụ thể trong các câu sau."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "According to paragraph 2, which of the following is NOT a push factor?",
+          "context": "",
+          "options": {
+            "A": "Faster decision-making",
+            "B": "Accuracy and cost savings",
+            "C": "Enhanced customer experience",
+            "D": "Increased efficiency"
+          },
+          "correctAnswer": "C",
+          "explanation": "Push factors include the need for increased efficiency, accuracy, and cost savings in industries like manufacturing, healthcare, and retail. AI systems can process large amounts of data quickly, making them invaluable in decision-making processes.\nCác yếu tố đẩy bao gồm: tăng tính hiệu quả (D), độ chính xác và tiết kiệm chi phí (B), quyết định nhanh hơn (A).\nC. Trải nghiệm khách hàng được nâng cao → đây là yếu tố KÉO (pull factor), không phải yếu tố đẩy."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "The ethical concerns surrounding AI must be addressed before further implementation.",
+            "B": "AI adoption is widespread and will lead to increased efficiency in all industries.",
+            "C": "AI is mostly beneficial for enhancing customer experiences, but it poses risks to job security.",
+            "D": "AI is transforming many sectors, bringing both benefits and challenges that require careful management and regulation."
+          },
+          "correctAnswer": "D",
+          "explanation": "Tóm tắt:\n+ Đoạn 1: AI đang ngày càng có ảnh hưởng lớn trong các lĩnh vực khác nhau, mang lại cả cơ hội và thách thức đạo đức.\n+ Đoạn 2: Việc áp dụng AI được thúc đẩy bởi các yếu tố đẩy như hiệu quả và độ chính xác, và các yếu tố kéo như trải nghiệm khách hàng nâng cao.\n+ Đoạn 3: Việc sử dụng rộng rãi AI gây ra mối lo ngại về việc mất việc làm, quyền riêng tư và bảo mật dữ liệu, các vấn đề về đạo đức.\n+ Đoạn 4: Quản lý có trách nhiệm và quy định rõ ràng là rất cần thiết để đảm bảo AI đóng góp tích cực cho tương lai của xã hội.\nD phù hợp nhất."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4? \"AI contributes to a positive and sustainable future for society\"",
+          "context": "",
+          "options": {
+            "A": "AI contributes to a positive future for society.",
+            "B": "AI contribute to a positive and sustainable future for society.",
+            "C": "AI plays a key role in creating a positive and sustainable future for society.",
+            "D": "AI contributes to a negative and unsustainable future for society."
+          },
+          "correctAnswer": "C",
+          "explanation": "AI contributes to a positive and sustainable future for society. (AI góp phần tạo nên tương lai sáng sủa và lâu dài cho xã hội.)\nC. AI plays a key role in creating a positive and sustainable future for society. (AI đóng vai trò quan trọng trong việc tạo ra một tương lai tích cực và bền vững cho xã hội.) → Đây là cách diễn đạt paraphrase tốt nhất."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "AI systems replace human jobs, leading to unemployment.",
+            "B": "AI improves customer experience but brings about ethical concerns.",
+            "C": "AI helps industries save money and improve accuracy.",
+            "D": "AI creates efficiencies but also poses significant ethical and privacy concerns."
+          },
+          "correctAnswer": "D",
+          "explanation": "Đoạn 3 đề cập về những thách thức của việc áp dụng AI rộng rãi, như việc làm bị thay thế do tự động hóa, mối lo ngại về quyền riêng tư và bảo mật dữ liệu, các vấn đề về đạo đức, bao gồm thiên vị và sử dụng sai mục đích. Tuy nhiên, đoạn văn đề cập AI cũng mang lại hiệu quả và sự đổi mới.\nD. AI creates efficiencies but also poses significant ethical and privacy concerns. → Phù hợp nhất."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.621803+00:00",
+  "updatedAt": "2026-06-08T10:41:58.621803+00:00",
+  "originalFileName": "THPT_Thanh_Dong_Hai_Duong_2025.json"
+}

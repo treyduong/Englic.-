@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_phan_boi_chau_nghe_an_2026-06-05",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh - THPT Chuyên Phan Bội Châu, Nghệ An",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Chuyen_Phan_Boi_Chau_Nghe_An_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#NghệAn",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following announcement and mark the letter A, B, C or D to indicate the correct option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "ANNUAL DEBATING CONTEST - JOIN THE DEBATE!",
+      "passage": "We're excited to announce our Annual Debating Contest will (1)_______ on December 15, 2024, at The Grand Hall! This is a fantastic opportunity for both experienced debaters and newcomers to (2)_______ their skills in argumentation and public speaking. Contestants will tackle timely and thought-provoking topics in both individual and team formats.\n\nCompete for exciting prizes (3)_______ trophies and certificates for top performers! Whether you're a participant or an audience member, (4)_______ event promises lively discussions and intellectual engagement.\n\nSpectators are welcome to cheer on their favorite debaters and enjoy (5)_______ the exciting atmosphere. Don't miss your chance to be part of this stimulating event! RSVP today and be ready (6)_______ a night of powerful debates.\n\nThe Grand Hall | December 15, 2024 | 3:00 PM",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "take place",
+            "B": "go for",
+            "C": "bring in",
+            "D": "work out"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về cụm động từ (Phrasal verbs):\nA. take place: diễn ra\nB. go for: chọn, theo đuổi\nC. bring in: mang vào\nD. work out: giải quyết, tập luyện\nTạm dịch: Chúng tôi vui mừng thông báo Cuộc Thi Hùng Biện Thường Niên sẽ được tổ chức vào ngày 15 tháng 12 năm 2024 tại The Grand Hall!"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "mitigate",
+            "B": "distort",
+            "C": "exclude",
+            "D": "showcase"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức về từ vựng:\nA. mitigate /ˈmɪtɪɡeɪt/ (v): giảm bớt, làm dịu đi\nB. distort /dɪsˈtɔːt/ (v): bóp méo, xuyên tạc\nC. exclude /ɪkˈskluːd/ (v): loại trừ, không bao gồm\nD. showcase /ˈʃəʊkeɪs/ (v): giới thiệu, thể hiện\nTạm dịch: Đây là cơ hội tuyệt vời cho cả những người có kinh nghiệm lẫn các bạn mới thể hiện kỹ năng tranh luận và diễn thuyết trước công chúng của mình."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "including",
+            "B": "which includes",
+            "C": "include",
+            "D": "included"
+          },
+          "correctAnswer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ: Để rút gọn mệnh đề quan hệ dạng chủ động, ta loại bỏ đại từ quan hệ và to be (nếu có), chuyển V thành V-ing. (which include → including)\nTạm dịch: Hãy tranh tài để giành những giải thưởng hấp dẫn, bao gồm cúp vô địch và giấy chứng nhận dành cho những thí sinh xuất sắc nhất!"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "these",
+            "B": "this",
+            "C": "others",
+            "D": "many"
+          },
+          "correctAnswer": "B",
+          "explanation": "A. these + N đếm được số nhiều: những cái/người này\nB. this + N đếm được số ít: cái/người này\nC. others: những cái/người khác\nD. many + N đếm được số nhiều: nhiều\nTa thấy danh từ 'event' là danh từ đếm được số ít nên ta chọn this.\nTạm dịch: Dù bạn là thí sinh hay khán giả, sự kiện này hứa hẹn sẽ mang đến những màn tranh luận sôi nổi và những góc nhìn trí tuệ đầy thú vị."
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "watching",
+            "B": "to watch",
+            "C": "watch",
+            "D": "to watching"
+          },
+          "correctAnswer": "A",
+          "explanation": "enjoy doing something: thích, tận hưởng làm gì → enjoy + V-ing\nTạm dịch: Khán giả được chào đón đến cổ vũ cho các thí sinh yêu thích và hòa mình vào bầu không khí sôi động của cuộc thi."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "out",
+            "B": "from",
+            "C": "of",
+            "D": "for"
+          },
+          "correctAnswer": "D",
+          "explanation": "be ready for something: sẵn sàng cho cái gì đó\nTạm dịch: Hãy đăng ký ngay hôm nay và sẵn sàng cho một đêm tranh luận bùng nổ!"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C or D to indicate the correct option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "INTRODUCING THE IPHONE 16 - THE FUTURE OF MOBILE TECHNOLOGY!",
+      "passage": "The iPhone 16 is here, (7)_______ a new standard in smartphone innovation. With advanced features and unbeatable performance, it's the perfect device for those who demand the best, (8)_______ you can enjoy an entirely next-level experience.\n\nStunning Display: Enjoy a breathtaking Super Retina XDR display with (9)_______ and ultra-clear resolution.\n\nRevolutionary Camera System: Capture professional-quality photos and videos with the all-new 200MP camera and advanced AI features.\n\nLightning-Fast Performance: Powered by the A18 Bionic chip for smooth, lag-free multitasking and gaming.\n\nAll-Day Battery Life: (10)_______ connected longer with improved battery efficiency.\n\nEco-Friendly Design: Built with (11)_______ materials to reduce your carbon footprint.\n\nUpgrade to the iPhone 16 today and experience the future in the (12)_______ of your hand. Available now at your local Apple store!",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "setting",
+            "B": "taking",
+            "C": "doing",
+            "D": "changing"
+          },
+          "correctAnswer": "A",
+          "explanation": "set a standard: đặt ra tiêu chuẩn → setting a new standard (phân từ hiện tại rút gọn mệnh đề quan hệ)\nTạm dịch: iPhone 16 đã chính thức ra mắt, thiết lập một tiêu chuẩn mới trong việc đổi mới công nghệ smartphone."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "however",
+            "B": "although",
+            "C": "despite",
+            "D": "so"
+          },
+          "correctAnswer": "D",
+          "explanation": "Mệnh đề quan hệ kết quả:\nA. however: tuy nhiên\nB. although: mặc dù\nC. despite: mặc dù\nD. so: vì thế, vì vậy\nTạm dịch: Với các tính năng tiên tiến và hiệu năng vượt trội, đây là thiết bị hoàn hảo cho những ai yêu cầu chất lượng tốt nhất, vì vậy bạn có thể tận hưởng trải nghiệm hoàn toàn đột phá."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "vibrant incredibly colors",
+            "B": "incredibly vibrant colors",
+            "C": "incredibly colors vibrant",
+            "D": "vibrant colors incredibly"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trật tự từ: Ta có danh từ 'colors'. Do vậy, ta cần cụm tính từ 'incredibly vibrant' (cực kỳ sống động) đứng trước danh từ để bổ sung ý nghĩa.\nCấu trúc: (a/an/the) + ADV + ADJ + N\nTạm dịch: Màn hình tuyệt đẹp: Thưởng thức màn hình Super Retina XDR tuyệt đỉnh với màu sắc cực kỳ sống động và độ phân giải siêu sắc nét."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Go",
+            "B": "Stay",
+            "C": "Do",
+            "D": "Make"
+          },
+          "correctAnswer": "B",
+          "explanation": "stay connected: giữ kết nối\nTạm dịch: Thời lượng pin cả ngày: Giữ kết nối lâu hơn nhờ hiệu suất pin được cải thiện."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sustainable",
+            "B": "sustain",
+            "C": "sustainably",
+            "D": "sustainability"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về từ loại:\nA. sustainable /səˈsteɪnəbl/ (adj): bền vững\nB. sustain /səˈsteɪn/ (v): duy trì, bảo vệ\nC. sustainably /səˈsteɪnəbli/ (adv): một cách bền vững\nD. sustainability /səˌsteɪnəˈbɪləti/ (n): tính bền vững\nTa cần 1 tính từ đứng trước danh từ 'materials' (các vật liệu).\nTạm dịch: Thiết kế thân thiện với môi trường: Được chế tạo từ các vật liệu bền vững để giảm thiểu dấu chân carbon của bạn."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "palm",
+            "B": "finger",
+            "C": "thumb",
+            "D": "top"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cụm từ cố định (Collocations): in the palm of one's hand: trong khả năng, trong tầm kiểm soát\nTạm dịch: Nâng cấp lên iPhone 16 ngay hôm nay và trải nghiệm tương lai trong tầm tay của bạn."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D to indicate the correct arrangement of the sentences to make a meaningful letter/paragraph in each of the following questions.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "a. Binh: I'm pretty much ready, just waiting for the family to arrive. I'm really looking forward to all the festive food and, of course, the Christmas movies!\nb. Binh: I can't believe Christmas is just around the corner! Are you ready for the holidays?\nc. Mark: Almost! I've done most of my shopping, but I still need to decorate the tree. How about you?",
+          "options": {
+            "A": "b-c-a",
+            "B": "c-b-a",
+            "C": "c-a-b",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự hợp lý: Binh mở đầu bày tỏ sự hào hứng về Giáng sinh (b) → Mark trả lời và hỏi lại Binh (c) → Binh trả lời câu hỏi của Mark (a).\nDịch bài: Binh: Mình không thể tin được Giáng sinh sắp đến rồi! Bạn đã sẵn sàng cho kỳ nghỉ chưa? / Mark: Gần xong rồi! Mình đã mua sắm xong phần lớn rồi, nhưng vẫn còn phải trang trí cây thông. Còn bạn thì sao? / Binh: Mình gần như đã sẵn sàng, chỉ đang chờ gia đình đến thôi."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. Lan: Yeah, that's true. But I feel like some students use their phones for educational apps or to take notes, so it could be inconvenient for them.\nb. Jane: Honestly, I think it might be a good idea. Phones can be a huge distraction, and it's hard to focus when everyone's texting or scrolling during class.\nc. Jane: I get that, but maybe they could have certain times or areas where phones are allowed. It would be more about controlling when and where they're used, not a full ban.\nd. Lan: That sounds fair. A balance between using them for learning and keeping them out of the way during lessons might work best.\ne. Lan: I heard mobile phones will be banned at school next semester. What do you think about that?",
+          "options": {
+            "A": "e-b-a-c-d",
+            "B": "e-b-d-a-c",
+            "C": "c-d-e-a-b",
+            "D": "a-c-e-d-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự: Lan nêu vấn đề (e) → Jane đưa ra ý kiến ủng hộ (b) → Lan đồng ý nhưng đưa ra phản biện (a) → Jane hiểu và đề xuất giải pháp linh hoạt hơn (c) → Lan đồng ý với giải pháp đó (d).\nDịch bài: Lan: Mình nghe nói điện thoại di động sẽ bị cấm ở trường vào học kỳ tới. Bạn nghĩ sao? / Jane: Thành thật mà nói, mình nghĩ đây có thể là một ý tưởng tốt. / Lan: Đúng vậy, nhưng mình cảm thấy một số học sinh dùng điện thoại để sử dụng ứng dụng học tập. / Jane: Mình hiểu, nhưng có thể họ sẽ có những khoảng thời gian hoặc khu vực cụ thể mà điện thoại được phép sử dụng. / Lan: Cũng hợp lý."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. One major concern is the potential for job displacement, as automation and AI technologies may replace human workers in industries like manufacturing, customer service, and even healthcare.\nb. Finally, the rapid development of AI technologies may outpace the creation of proper regulations, leading to ethical dilemmas and risks associated with their unchecked use in areas like military applications or decision making in law enforcement.\nc. Additionally, AI systems can perpetuate biases, as they are often trained on data that reflects existing societal inequalities, leading to unfair or discriminatory outcomes.\nd. While AI offers numerous benefits, there are significant disadvantages to consider.\ne. In addition to biases, privacy is another issue, as AI can collect and analyze vast amounts of personal data, raising concerns about surveillance and data security.",
+          "options": {
+            "A": "b-a-d-c-e",
+            "B": "d-a-c-e-b",
+            "C": "d-c-e-a-b",
+            "D": "c-d-e-b-a"
+          },
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc đoạn văn: Câu chủ đề giới thiệu nhược điểm của AI (d) → Nhược điểm 1: nguy cơ mất việc làm (a) → Nhược điểm 2: định kiến hệ thống AI (c) → Nhược điểm 3: quyền riêng tư (e) → Nhược điểm 4: quy định pháp lý (b).\nDịch bài: Mặc dù AI mang lại nhiều lợi ích, nhưng cũng có những nhược điểm đáng chú ý. Một mối quan tâm lớn là khả năng thay thế công việc của con người. Thêm vào đó, các hệ thống AI có thể duy trì những định kiến. Ngoài những định kiến, quyền riêng tư cũng là một vấn đề. Cuối cùng, sự phát triển nhanh chóng của các công nghệ AI có thể dẫn đến những tình huống đạo đức khó khăn."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "Dear Sir,\na. On 16th November, I took a ride in one of your taxis from 21 Ho Tung Mau to 123 Le Hong Phong. The taxi number was 99A 249822 and the driver's name was Hoa.\nb. Thank you very much for your prompt attention to this matter. I look forward to your reply and hope for a swift resolution.\nc. If necessary, I am happy to provide any additional details to help in the search or to arrange a suitable time for collection.\nd. Unfortunately, upon arriving at my destination, I accidentally left behind a folder containing several important papers in the backseat of the taxi. The documents are essential for my work, and I would be grateful if you could assist in locating them.\ne. I am writing to inform you that I accidentally left a folder containing important papers in one of your taxis.\nYours sincerely,",
+          "options": {
+            "A": "e-a-d-c-b",
+            "B": "d-a-c-e-b",
+            "C": "c-e-d-a-b",
+            "D": "e-d-c-b-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cấu trúc bức thư: Mở đầu nêu mục đích (e) → Chi tiết về chuyến đi (a) → Chi tiết sự cố (d) → Sẵn sàng cung cấp thêm thông tin (c) → Lời cảm ơn và kết thư (b).\nDịch bài: Kính gửi Quý ngài, / Tôi viết thư này để thông báo rằng tôi vô tình để quên một tập hồ sơ chứa các giấy tờ quan trọng trong một chiếc taxi của quý công ty. / Vào ngày 16 tháng 11, tôi đã đi một chuyến taxi từ 21 Hồ Tùng Mậu đến 123 Lê Hồng Phong. / Thật không may, khi đến nơi, tôi đã vô tình để quên một tập hồ sơ. / Nếu cần thiết, tôi sẵn sàng cung cấp thêm chi tiết. / Xin chân thành cảm ơn. / Trân trọng,"
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. Despite these modern developments, Tokyo continues to host major international events while preserving its rich cultural heritage, making it a dynamic blend of the old and new.\nb. To support these advancements, Tokyo is expanding its infrastructure with eco-friendly public transit systems and new, energy-efficient buildings that contribute to reducing congestion and carbon emissions.\nc. The city is focusing on inclusivity and smart city concepts by integrating digital solutions to improve public services and enhance residents' quality of life.\nd. Moreover, a key part of this transformation is the rise of green architecture, which emphasizes sustainable design and advanced energy-saving technologies.\ne. In 2024, Tokyo is solidifying its position as a global leader in technology, sustainability, and urban innovation.",
+          "options": {
+            "A": "a-d-b-c-e",
+            "B": "c-e-d-b-a",
+            "C": "e-b-a-d-c",
+            "D": "e-c-b-d-a"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc đoạn văn: Câu chủ đề (e) → Ý 1: tập trung vào tính toàn diện và thành phố thông minh (c) → Ý 2: hỗ trợ cơ sở hạ tầng (b) → Ý 3: kiến trúc xanh (d) → Kết luận: cân bằng giữa hiện đại và truyền thống (a).\nDịch bài: Vào năm 2024, Tokyo đang củng cố vị thế của mình như một nhà lãnh đạo toàn cầu về công nghệ, tính bền vững và đổi mới đô thị. Thành phố đang tập trung vào tính toàn diện và các khái niệm thành phố thông minh. Để hỗ trợ những tiến bộ này, Tokyo đang mở rộng cơ sở hạ tầng. Hơn nữa, một phần quan trọng trong sự chuyển mình này là sự phát triển của kiến trúc xanh. Mặc dù có những sự phát triển hiện đại này, Tokyo vẫn tiếp tục tổ chức các sự kiện quốc tế lớn đồng thời bảo tồn di sản văn hóa phong phú của mình."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about vocation education and mark the letter A, B, C, or D to indicate the correct option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "",
+      "passage": "Vocational schools offer a compelling alternative to traditional four-year degrees, providing high school graduates and career changers with a practical, fast-track path to success. These schools focus on hands-on training from day one, (18)_______. This approach accelerates entry into the workforce, enabling graduates to quickly secure jobs with in-demand skills.\n\n(19)_______. This means students can avoid large amounts of debt and start earning money sooner. With smaller class sizes, vocational schools offer personalized attention and direct mentorship, creating a collaborative and supportive learning environment.\n\nVocational schools often provide great career services, such as help with job searching and building a resume. This support makes it easier for students to connect with employers. Many industries, such as healthcare, technology, and construction, need skilled workers, (20)_______.\n\nAdditionally, vocational education fosters a sense of purpose by allowing students to pursue careers in fields they are passionate about, whether in healthcare, automotive repair, or the culinary arts. ATA College, with its hands-on learning environment and expert faculty, (21)_______.\n\nIn conclusion, vocational schools are a valuable pathway to a rewarding career, offering practical training, quicker employment, financial savings, and industry connections. (22)_______.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "ensuring students gain real-world experience that enhances skill retention",
+            "B": "ensured students obtain hands-on experience that improves skill retention",
+            "C": "that helps students gain real-life experience and reinforce skill retention",
+            "D": "to guarantee students develop practical knowledge that boosts skill retention"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'these schools' và động từ chính 'focus'. Do vậy, ta có thể dùng mệnh đề quan hệ hoặc mệnh đề quan hệ rút gọn.\nLoại B vì sử dụng động từ chia thì 'ensured'. Loại C vì sử dụng mệnh đề quan hệ sai (sử dụng that). Loại D vì sử dụng động từ có to.\nTạm dịch: Những trường này tập trung vào đào tạo thực hành ngay từ ngày đầu tiên, đảm bảo học sinh có được kinh nghiệm thực tế giúp nâng cao khả năng ghi nhớ kỹ năng."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "One of the best things about vocational schools is that they are more affordable than four-year degrees",
+            "B": "One of the key advantages of vocational schools was their lower cost compared to four-year degrees",
+            "C": "That they are generally more budget-friendly than four-year college programs",
+            "D": "Vocational schools are not always often a more cost-effective option than pursuing a four year degree"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ta cần 1 câu hoàn chỉnh phù hợp về ngữ nghĩa. Ta xét từng đáp án:\nA. Một trong những điều tốt nhất về các trường dạy nghề là chúng có chi phí thấp hơn so với bằng cử nhân bốn năm. => Đúng vì phù hợp về ngữ nghĩa.\nB. Sai vì sử dụng thì sai (thì quá khứ đơn).\nC. Sai vì không phải câu hoàn chỉnh.\nD. Sai vì không phù hợp về nghĩa trong đoạn.\nTạm dịch: Một trong những điểm nổi bật của các trường nghề là chúng có chi phí phải chăng hơn so với các bằng đại học bốn năm. Điều này có nghĩa là sinh viên có thể tránh được một khoản nợ lớn và bắt đầu kiếm tiền sớm hơn."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "but vocational education offers a solid path for individuals seeking stable, well-paying jobs",
+            "B": "so vocational education is a good choice for those looking for stable jobs with good pay",
+            "C": "however, for those aiming for reliable employment with competitive salaries, vocational education is a great option",
+            "D": "make vocational education an excellent choice for those who want secure jobs and decent wages"
+          },
+          "correctAnswer": "B",
+          "explanation": "B. vì vậy, giáo dục nghề nghiệp là một lựa chọn tốt cho những ai tìm kiếm công việc ổn định với mức lương tốt. → Đúng vì dùng 'so' (liên từ kết quả) phù hợp với ngữ cảnh câu trước đề cập nhu cầu lao động.\nTạm dịch: Nhiều ngành nghề, như y tế, công nghệ và xây dựng, cần những người lao động có tay nghề, vì vậy giáo dục nghề nghiệp là một lựa chọn tốt cho những ai tìm kiếm công việc ổn định với mức lương tốt."
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "demonstrated the potential for personal and career development offered by vocational schools",
+            "B": "showing how vocational schools foster growth in both personal and career aspects",
+            "C": "exemplifies the opportunities vocational schools provide for personal and professional growth",
+            "D": "highlight the opportunities for both personal and professional advancement available through vocational education"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu đã có chủ ngữ chính 'ATA College', do vậy ta cần 1 động từ chính có chia thì.\nLoại A vì sử dụng sai thì (thì quá khứ đơn). Loại B vì sử dụng danh động từ. Loại D vì 'highlight' chia sai (chủ ngữ là số ít nên động từ phải thêm s/es).\nTạm dịch: ATA College, với môi trường học tập thực hành và đội ngũ giảng viên chuyên môn cao, là một ví dụ điển hình về những cơ hội mà các trường nghề mang lại cho sự phát triển cá nhân và nghề nghiệp."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "For those seeking a direct route to success, vocational education offers a promising solution",
+            "B": "Vocational education provided an effective pathway for those aiming for a direct route to success",
+            "C": "Vocational education offers a rough route to success for those seeking direct career advancement",
+            "D": "For individuals looking for a challenging path to success, vocational education presents a valuable option"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Đối với những ai tìm kiếm một con đường trực tiếp đến thành công, giáo dục nghề nghiệp mang đến một giải pháp đầy hứa hẹn. => Đúng vì phù hợp về ngữ nghĩa.\nB. Sai về thì.\nC. Sai ở 'rough' và ý nghĩa câu.\nD. Sai ở 'challenging'.\nTạm dịch: Tóm lại, các trường nghề là một con đường quý giá để có một sự nghiệp thành công, mang lại đào tạo thực tế, cơ hội việc làm nhanh chóng, tiết kiệm chi phí và kết nối với nhiều ngành công nghiệp. Đối với những ai đang tìm kiếm một con đường trực tiếp dẫn đến thành công, giáo dục nghề nghiệp là một giải pháp đầy hứa hẹn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about AI robots and mark the letter A, B, C, or D to indicate the correct answer to each of the questions from 23 to 30.",
+      "passageTitle": "",
+      "passage": "Artificial intelligence (AI) and robotics are revolutionizing medicine, especially in areas like disease diagnosis and surgical procedures. Robotic surgical systems, like the da Vinci Surgical System, assist human surgeons in performing minimally invasive surgeries, offering precision and efficiency. While AI-powered robots can process vast amounts of data and learn from previous surgeries, the key question is whether they can fully replace human surgeons. AI's potential lies in its ability to navigate surgeries with remarkable precision, reducing human error, fatigue, and emotional influence, which results in quicker recovery and improved patient outcomes.\n\nAI-powered robots can also help address the shortage of experienced surgeons and improve healthcare availability. Although implementing robotic systems is costly, their long-term benefits, including fewer surgeries and reduced healthcare costs, may ultimately make them more cost-effective. However, significant challenges remain. One of the main concerns is the human element in surgery. Patients rely on their surgeons for empathy, clear communication, and comfort, which AI robots currently cannot provide. There are also legal questions surrounding responsibility in case of complications during surgery- whether it should fall on the surgeon, AI developers, or the hospital.\n\nAdditionally, AI systems depend on high-quality, unbiased data to make accurate decisions. If the data used for training is flawed, it could lead to safety risks. There are also concerns about cybersecurity, as AI powered robots connected to networks could be vulnerable to cyber-attacks. Moreover, the high upfront costs of robotic systems may limit their availability to certain medical facilities, deepening healthcare disparities.\n\nDespite these challenges, many experts believe AI and robotics will complement rather than replace surgeons. AI can assist by providing guidance during surgeries, performing repetitive tasks, and improving accuracy, allowing human surgeons to focus on more complex aspects. The future of surgery may involve a collaborative approach, where AI and human surgeons work together, combining AI's precision with human empathy and judgment. Balancing the benefits of AI with the ethical and emotional complexities it presents will be crucial in shaping the future of healthcare.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "The word \"they\" in paragraph 1 refers to",
+          "context": "",
+          "options": {
+            "A": "AI-powered robots",
+            "B": "previous surgeries",
+            "C": "human surgeons",
+            "D": "surgical systems"
+          },
+          "correctAnswer": "A",
+          "explanation": "Từ 'they' trong đoạn 1 ám chỉ AI-powered robots (Robot sử dụng AI).\nThông tin: While AI-powered robots can process vast amounts of data and learn from previous surgeries, the key question is whether they can fully replace human surgeons. (Trong khi các robot sử dụng AI có thể xử lý lượng lớn dữ liệu và học từ những ca phẫu thuật trước, câu hỏi then chốt là liệu chúng có thể thay thế hoàn toàn các bác sĩ phẫu thuật con người hay không.)"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"address\" in paragraph 2 is CLOSEST in meaning to",
+          "context": "",
+          "options": {
+            "A": "solve",
+            "B": "encourage",
+            "C": "delay",
+            "D": "ignore"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. solve /sɒlv/ (v): giải quyết\nB. encourage /ɪnˈkʌrɪdʒ/ (v): khuyến khích\nC. delay /dɪˈleɪ/ (v): trì hoãn\nD. ignore /ɪɡˈnɔːr/ (v): bỏ qua, phớt lờ\naddress /əˈdres/ (v): giải quyết, xử lý = solve (v)\nThông tin: AI-powered robots can also help address the shortage of experienced surgeons and improve healthcare availability."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"flawed\" in paragraph 3 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "perfect",
+            "B": "defective",
+            "C": "inaccurate",
+            "D": "dangerous"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. perfect /ˈpɜːfɪkt/ (adj): hoàn hảo\nB. defective /dɪˈfektɪv/ (adj): bị lỗi, hỏng\nC. inaccurate /ɪnˈækjʊrət/ (adj): không chính xác\nD. dangerous /ˈdeɪndʒərəs/ (adj): nguy hiểm\nflawed /flɔːd/ (adj): có khuyết điểm, sai sót >< perfect (adj)\nThông tin: If the data used for training is flawed, it could lead to safety risks."
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following is NOT mentioned as a concern regarding AI-powered robots in surgery?",
+          "context": "",
+          "options": {
+            "A": "The lack of human empathy and communication skills in AI robots",
+            "B": "Legal responsibility for complications",
+            "C": "The high upfront cost of implementing robotic systems",
+            "D": "The difficulty of programming AI robots for complex surgeries"
+          },
+          "correctAnswer": "D",
+          "explanation": "D không được đề cập trong bài.\nA được đề cập: Patients rely on their surgeons for empathy, clear communication, and comfort, which AI robots currently cannot provide.\nB được đề cập: There are also legal questions surrounding responsibility in case of complications during surgery.\nC được đề cập: Moreover, the high upfront costs of robotic systems may limit their availability to certain medical facilities."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "AI-powered robots can entirely replace human surgeons, eliminating the need for human intervention in surgeries.",
+            "B": "The implementation of AI in surgery is considered cost-effective by all healthcare providers, regardless of facility size.",
+            "C": "Despite the high cost, AI-powered robotic systems may lead to long-term savings by reducing the number of surgeries and overall healthcare expenses.",
+            "D": "Depending on high-quality, unbiased data to make accurate decisions, AI-powered robots are subject to cyber-attacks."
+          },
+          "correctAnswer": "C",
+          "explanation": "C đúng: Although implementing robotic systems is costly, their long-term benefits, including fewer surgeries and reduced healthcare costs, may ultimately make them more cost-effective. (Mặc dù việc triển khai các hệ thống robot có chi phí cao, nhưng những lợi ích lâu dài của chúng, bao gồm việc giảm số ca phẫu thuật và chi phí chăm sóc sức khỏe, có thể khiến chúng trở nên hiệu quả hơn về mặt chi phí.)\nA sai: Bài đọc nói AI sẽ bổ sung chứ không thay thế bác sĩ.\nB sai: 'by all healthcare providers' là không đúng.\nD sai: Bài đọc không nói rằng việc các robot AI phụ thuộc vào dữ liệu sẽ dễ dẫn tới bị tấn công mạng."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "It will be essential to weigh the benefits of AI against the medical and physical issues it raises to shape the future of healthcare effectively.",
+            "B": "Striking a balance between the advantages of AI and the ethical and emotional challenges it brings will play a key role in determining the future of healthcare.",
+            "C": "The future of healthcare is independent of managing both the positive aspects of AI and the ethical and emotional dilemmas it introduces.",
+            "D": "Reconciling AI's benefits with the ethical and emotional concerns it entails has little effects on shaping healthcare's future."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gạch chân: 'Balancing the benefits of AI with the ethical and emotional complexities it presents will be crucial in shaping the future of healthcare.'\nB đúng: Việc cân bằng giữa những lợi ích của AI và những thách thức đạo đức và cảm xúc mà nó mang lại sẽ đóng vai trò quan trọng trong việc xác định tương lai của ngành y tế."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer discuss the potential benefits of AI-powered robotic systems in addressing the shortage of surgeons and improving healthcare services?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin ở đoạn 2: AI-powered robots can also help address the shortage of experienced surgeons and improve healthcare availability. (Các robot sử dụng AI cũng có thể giúp giải quyết tình trạng thiếu bác sĩ phẫu thuật có kinh nghiệm và cải thiện khả năng tiếp cận dịch vụ chăm sóc sức khỏe.)"
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer explore the potential for collaboration between AI and human surgeons, highlighting the complementary roles they could play in the future of surgery?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 2",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin ở đoạn 4: Despite these challenges, many experts believe AI and robotics will complement rather than replace surgeons... The future of surgery may involve a collaborative approach, where AI and human surgeons work together. (Mặc dù có những thách thức này, nhiều chuyên gia tin rằng AI và robot sẽ bổ sung chứ không thay thế bác sĩ phẫu thuật... Tương lai của phẫu thuật có thể sẽ là một cách tiếp cận mang tính hợp tác.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the passage about green and sustainable tourism and mark the letter A, B, C, or D to indicate the correct answer to each of the questions from 31 to 40.",
+      "passageTitle": "",
+      "passage": "Vietnam's tourism sector has seen significant growth in recent years, with increasing numbers of both international and domestic visitors. However, this growth has put pressure on the environment and cultural heritage, particularly in rapidly developing tourist destinations. To address these challenges, the country is shifting towards green tourism, emphasizing sustainability and responsibility towards nature and local communities.\n\nStudies show that many tourists are increasingly conscious of their environmental impact. A 2020 European Commission report found that 82% of EU citizens were willing to adjust their habits to ensure sustainable tourism, such as reducing waste, paying extra to protect the environment, and supporting local communities. Similarly, a survey by Vietnam's National Administration of Tourism (VNAT) revealed that 76% of international tourists were ready to reduce waste, 62% would buy local products, and 45% preferred eco friendly travel options like low-impact vehicles and off-peak season visits.\n\nIn Vietnam, the trend towards green tourism is gaining traction, with more tourists seeking outdoor activities that allow them to enjoy nature while minimizing their impact. The COVID-19 pandemic has further motivated domestic tourists to adopt more sustainable travel behaviors, with 88% of them embracing green tourism practices, according to Booking.com.\n\n[I] Several Vietnamese destinations have pioneered green tourism initiatives. [II] For example, Hoi An has promoted \"no plastic waste\" hotels and aims to reduce plastic waste by 13-15% annually, targeting zero plastic by 2025. [III] Additionally, green tours such as garbage collection boat tours in Hoi An, cave exploration in Phong Nha-Ke Bang, and turtle watching tours in Con Dao are attracting tourists. [IV]\n\nVietnam's government supports this shift towards sustainability through its National Action Plan on Green Growth (2021-2030) and tourism strategies emphasizing eco-tourism, community-based tourism, and the use of clean energy. Experts suggest that investment in green tourism technologies, promotion of eco-friendly products, and public awareness campaigns are essential to furthering the sustainable tourism agenda.\n\nUltimately, green tourism in Vietnam aims to create immersive experiences that benefit both tourists and local communities while preserving the environment for future generations.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1?",
+          "context": "",
+          "options": {
+            "A": "In response to these challenges, the country is embracing green tourism, ignoring environmental sustainability and social responsibility towards local communities.",
+            "B": "To tackle these issues, the country is moving towards green tourism, focusing on sustainability and being responsible towards both nature and local communities.",
+            "C": "To overcome these obstacles, the country is adopting green tourism, highlighting its commitment to sustainability and its responsibility to industry and local populations.",
+            "D": "The country is switching to green tourism, with an emphasis on sustainable practices and a commitment to protecting endangered species to combat these challenges."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gạch chân: 'To address these challenges, the country is shifting towards green tourism, emphasizing sustainability and responsibility towards nature and local communities.'\nB đúng: Để giải quyết những vấn đề này, đất nước đang chuyển hướng sang du lịch xanh, tập trung vào tính bền vững và có trách nhiệm đối với thiên nhiên cũng như cộng đồng địa phương.\nA sai ở 'bỏ qua tính bền vững môi trường'. C sai ở 'industry'. D sai ở 'protecting endangered species'."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word \"conscious\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "aware",
+            "B": "worried",
+            "C": "nervous",
+            "D": "selfish"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. aware /əˈweə/ (adj): nhận thức, hiểu biết\nB. worried /ˈwɜːrid/ (adj): lo lắng\nC. nervous /ˈnɜːvəs/ (adj): lo âu, căng thẳng\nD. selfish /ˈselfɪʃ/ (adj): ích kỷ\nconscious /ˈkɒnʃəs/ (adj): nhận thức được, có ý thức = aware (adj)\nThông tin: Studies show that many tourists are increasingly conscious of their environmental impact."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "Which of the following best summarises paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "A majority of tourists are more informed about their environmental impact and are willing to adopt sustainable travel practices.",
+            "B": "Tourists are unwilling to change their travel habits and do not support sustainable tourism initiatives.",
+            "C": "Tourists in the EU and Vietnam have no interest in reducing their environmental footprint when traveling.",
+            "D": "The European Commission and VNAT found that tourists prefer to travel during peak seasons and avoid ecofriendly options."
+          },
+          "correctAnswer": "A",
+          "explanation": "Đoạn văn nói về việc nhiều du khách ngày càng ý thức về tác động môi trường của mình. Theo báo cáo của Ủy ban Châu Âu năm 2020, 82% công dân EU sẵn sàng thay đổi thói quen để đảm bảo du lịch bền vững. Khảo sát của VNAT cho thấy 76% du khách quốc tế sẵn sàng giảm rác thải, 62% sẽ mua sản phẩm địa phương, và 45% ưa chuộng du lịch thân thiện với môi trường.\nA đúng."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "The word \"them\" in paragraph 3 refers to",
+          "context": "",
+          "options": {
+            "A": "sustainable travel behaviors",
+            "B": "tourists",
+            "C": "outdoor activities",
+            "D": "tourism practices"
+          },
+          "correctAnswer": "B",
+          "explanation": "Từ 'them' trong đoạn 3 ám chỉ tourists (du khách).\nThông tin: In Vietnam, the trend towards green tourism is gaining traction, with more tourists seeking outdoor activities that allow them to enjoy nature while minimizing their impact."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Where in paragraph 4 does the following sentence best fit? 'Similarly, Co To Island has implemented rules banning plastic bottles and bags to protect the environment.'",
+          "context": "",
+          "options": {
+            "A": "(I)",
+            "B": "(II)",
+            "C": "(III)",
+            "D": "(IV)"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ta thấy câu trước vị trí (III) đang nêu ví dụ về Hội An trong những sáng kiến về du lịch xanh. Câu cần điền bắt đầu bằng 'Similarly' và nêu ví dụ về đảo Cô Tô. Hai câu liên mạch về ý.\nThông tin: For example, Hoi An has promoted 'no plastic waste' hotels and aims to reduce plastic waste by 13-15% annually, targeting zero plastic by 2025. Similarly, Co To Island has implemented rules banning plastic bottles and bags to protect the environment."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Vietnam's tourism sector is facing no environmental challenges despite its growth.",
+            "B": "A majority of domestic tourists in Vietnam are unwilling to adopt sustainable travel behaviors.",
+            "C": "The Vietnamese government is actively supporting green tourism initiatives and sustainability.",
+            "D": "International tourists in Vietnam are not concerned about the impact of tourism on the environment."
+          },
+          "correctAnswer": "C",
+          "explanation": "C đúng: Vietnam's government supports this shift towards sustainability through its National Action Plan on Green Growth (2021-2030) and tourism strategies emphasizing eco-tourism, community-based tourism, and the use of clean energy. (Chính phủ Việt Nam hỗ trợ sự chuyển hướng này thông qua Kế hoạch Hành động Quốc gia về Tăng trưởng Xanh (2021-2030).)\nA sai: Bài đọc đề cập đến áp lực môi trường. B sai: 88% du khách nội địa ủng hộ du lịch xanh. D sai: VNAT cho thấy 76% du khách quốc tế sẵn sàng giảm rác thải."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is NOT mentioned in the passage as a factor related to the growth of green tourism in Vietnam?",
+          "context": "",
+          "options": {
+            "A": "The rise of eco-friendly travel options, such as low-impact vehicles and off-peak season visits.",
+            "B": "Increased awareness of environmental sustainability among international tourists.",
+            "C": "The adoption of sustainable tourism practices by domestic tourists, particularly after the COVID-19 pandemic.",
+            "D": "The decline in the number of international tourists due to travel restrictions."
+          },
+          "correctAnswer": "D",
+          "explanation": "D không có thông tin trong bài. Bài đọc đề cập đến sự tăng trưởng đáng kể của ngành du lịch Việt Nam với số lượng khách quốc tế và nội địa ngày càng tăng, không phải suy giảm.\nA được đề cập: 45% preferred eco-friendly travel options like low-impact vehicles and off-peak season visits.\nB được đề cập: Studies show that many tourists are increasingly conscious of their environmental impact.\nC được đề cập: The COVID-19 pandemic has further motivated domestic tourists to adopt more sustainable travel behaviors."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "The word \"immersive\" in paragraph 5 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "superficial",
+            "B": "engaging",
+            "C": "involving",
+            "D": "interactive"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. superficial /ˌsuːpəˈrɪʃəl/ (adj): hời hợt, nông cạn\nB. engaging /ɪnˈɡeɪdʒɪŋ/ (adj): hấp dẫn, lôi cuốn\nC. involving /ɪnˈvɒlvɪŋ/ (adj): liên quan, hấp dẫn\nD. interactive /ˌɪntərˈæktɪv/ (adj): mang tính tương tác\nimmersive /ɪˈmɜːsɪv/ (adj): làm say mê, tạo cảm giác hòa nhập >< superficial (adj)"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Green tourism in Vietnam is mostly driven by the Vietnamese government's policies.",
+            "B": "Most tourists in Vietnam prefer visiting crowded destinations to enjoy a variety of services.",
+            "C": "The COVID-19 pandemic has had no impact on the growth of green tourism in Vietnam.",
+            "D": "Tourists are increasingly interested in sustainable travel practices to protect the environment."
+          },
+          "correctAnswer": "D",
+          "explanation": "D đúng: Studies show that many tourists are increasingly conscious of their environmental impact. (Các nghiên cứu cho thấy nhiều du khách ngày càng nhận thức rõ hơn về tác động môi trường của mình.) → Du khách ngày càng quan tâm đến các thực hành du lịch bền vững để bảo vệ môi trường.\nA sai ở 'mostly'. B không có thông tin trong bài. C sai vì đại dịch COVID-19 đã thúc đẩy du khách nội địa áp dụng các hoạt động du lịch bền vững hơn."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "Vietnam's tourism industry is expanding rapidly, with the government prioritizing green tourism efforts to promote sustainability, protect the environment, and support local communities.",
+            "B": "The increase in international tourists to Vietnam has led to environmental challenges, and the government is struggling to address them with minimal success.",
+            "C": "Vietnam is shifting towards green tourism by emphasizing eco-friendly travel options, and tourists are increasingly adopting sustainable behaviors.",
+            "D": "Green tourism in Vietnam is only popular among international tourists, with limited interest from domestic travelers."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tóm tắt nội dung chính:\nĐoạn 1: Ngành du lịch Việt Nam phát triển, gây áp lực môi trường, nên đất nước chuyển hướng sang du lịch xanh.\nĐoạn 2-3: Du khách ngày càng ý thức về môi trường và ủng hộ du lịch bền vững.\nĐoạn 4: Các điểm đến Việt Nam đi đầu trong sáng kiến du lịch xanh.\nĐoạn 5: Chính phủ hỗ trợ du lịch bền vững.\nĐoạn 6: Du lịch xanh hướng đến trải nghiệm sâu sắc và bảo vệ môi trường.\nA đúng vì tóm tắt đầy đủ nội dung chính của bài đọc.\nB sai vì bài đọc không nói rằng chính phủ 'đấu tranh với ít thành công'.\nC sai vì chưa tóm tắt đầy đủ.\nD sai về thông tin trong bài đọc."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.557431+00:00",
+  "updatedAt": "2026-06-08T10:41:58.557431+00:00",
+  "originalFileName": "THPT_Chuyen_Phan_Boi_Chau_Nghe_An_2025.json"
+}

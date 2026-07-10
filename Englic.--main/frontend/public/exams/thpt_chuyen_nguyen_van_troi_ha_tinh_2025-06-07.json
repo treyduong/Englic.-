@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_chuyen_nguyen_van_troi_ha_tinh_2025-06-07",
+  "title": "Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn Tiếng Anh - THPT Chuyên Nguyễn Văn Trỗi, Hà Tĩnh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Chuyen_Nguyen_Van_Troi_Ha_Tinh_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HàTĩnh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about skulls and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 1 to 8.",
+      "passageTitle": "Skulls and Smartphones",
+      "passage": "The hours we spend scrolling through our smartphones appear to be changing the shape of our skulls. This may be the reason why some people - especially the younger crowd - are developing a weird, bony spike just above their necks. This spike, known as an external occipital protuberance, appears at the lower end of the skull, and is sometimes so large, you can feel it by pressing your fingers on the base of your skull.\n\nA study published in the Journal of Anatomy found that the spike was becoming more frequent - especially among 18 to 30-year-olds. David Shahar, the Australian health scientist who conducted the research, believes the development was triggered by prolonged use of smartphones or tablets. As people tilt their head forward to look at the screen, they put pressure on where the neck muscles meet the skull, so the body then develops more bone layers to be able to withstand it, said Shahar.\n\nIn the study, Shahar and a colleague looked at the radiographs of 218 young patients, aged 18 to 30, to determine how many had these spikes. In all, 41% of the group had an enlarged spike and 10% had an especially large spike measuring at least 0.7 inches (20 mm), the doctors found. In general, enlarged spikes were more common in males than in females. The largest spike belonged to a man, sticking out at 1.4 inches (35.7 mm).\n\nShahar believes that the spikes will continue to grow in size as people keep hunching over their handheld devices, but adds that they should not be very harmful and rarely cause serious medical issues. \"But if you are experiencing discomfort, maybe you should try improving your posture,\" he said.",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "Which of the following is NOT mentioned as a group that experiences skull spikes?",
+          "context": "",
+          "options": {
+            "A": "Adults",
+            "B": "Young adults",
+            "C": "Elderly people",
+            "D": "Teenagers"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\n+ A study published in the Journal of Anatomy found that the spike was becoming more frequent - especially among 18 to 30-year-olds. → A và B được đề cập\n+ This may be the reason why some people - especially the younger crowd - are developing a weird, bony spike just above their necks. → D được đề cập\nNhóm người cao tuổi (Elderly people) không được đề cập trong bài."
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "The word 'it' in paragraph 1 refers to ___.",
+          "context": "",
+          "options": {
+            "A": "spike",
+            "B": "skull",
+            "C": "neck",
+            "D": "end"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: This spike, known as an external occipital protuberance, appears at the lower end of the skull, and is sometimes so large, you can feel it by pressing your fingers on the base of your skull.\nTừ 'it' đề cập đến 'spike' (gai xương) - danh từ gần nhất mà đại từ có thể thay thế trong ngữ cảnh 'feel it'."
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "The word 'triggered' in paragraph 2 could be best replaced by ___.",
+          "context": "",
+          "options": {
+            "A": "caused",
+            "B": "encouraged",
+            "C": "fired",
+            "D": "developed"
+          },
+          "correctAnswer": "A",
+          "explanation": "trigger /ˈtrɪɡə(r)/ (v): kích hoạt, gây ra = cause\nA. cause /kɔːz/ (v): gây ra ✓\nB. encourage /ɪnˈkʌrɪdʒ/ (v): khuyến khích\nC. fire /ˈfaɪə(r)/ (v): sa thải\nD. develop /dɪˈveləp/ (v): phát triển\nTạm dịch: David Shahar, nhà khoa học sức khỏe người Úc thực hiện nghiên cứu, tin rằng sự phát triển này bị kích hoạt bởi việc sử dụng điện thoại thông minh hoặc máy tính bảng trong thời gian dài."
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "The word 'enlarged' in paragraph 3 is OPPOSITE in meaning to ___.",
+          "context": "",
+          "options": {
+            "A": "reduced",
+            "B": "expanded",
+            "C": "prominent",
+            "D": "noticeable"
+          },
+          "correctAnswer": "A",
+          "explanation": "enlarged /ɪnˈlɑːdʒd/ (adj): to, tăng kích thước >< reduced (giảm)\nA. reduced /rɪˈdjuːst/ (adj): giảm ✓\nB. expanded /ɪkˈspændɪd/ (adj): mở rộng (đồng nghĩa)\nC. prominent /ˈprɒmɪnənt/ (adj): nổi bật\nD. noticeable /ˈnəʊtɪsəbl/ (adj): đáng chú ý"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Male patients tend to have larger spikes compared to females.",
+            "B": "Skull spikes are most common among elderly individuals.",
+            "C": "Skull spikes have caused severe medical issues for most patients.",
+            "D": "50% of young adults examined had spikes measuring over 20 mm."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: In general, enlarged spikes were more common in males than in females. → A đúng\nB sai: gai xương phổ biến nhất ở người 18-30 tuổi, không phải người cao tuổi.\nC sai: Shahar adds that they should not be very harmful and rarely cause serious medical issues.\nD sai: chỉ 10% có gai xương đặc biệt lớn (≥ 20mm), không phải 50%."
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "In which paragraph does the writer mention the exact size of the largest spike found?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 3",
+            "C": "Paragraph 1",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: The largest spike belonged to a man, sticking out at 1.4 inches (35.7 mm). → Đoạn 3."
+        },
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "In which paragraph does the writer explore potential solutions for dealing with skull spikes?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 3",
+            "C": "Paragraph 4",
+            "D": "Paragraph 1"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: \"But if you are experiencing discomfort, maybe you should try improving your posture,\" he said. → Giải pháp được đề cập ở Đoạn 4."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "context": "",
+          "options": {
+            "A": "Discomfort caused by posture issues cannot be resolved easily.",
+            "B": "Improving your posture could help reduce any discomfort you feel.",
+            "C": "Only by avoiding devices can discomfort be completely eliminated.",
+            "D": "Experiencing discomfort is unavoidable when using handheld devices."
+          },
+          "correctAnswer": "B",
+          "explanation": "Câu gốc: \"But if you are experiencing discomfort, maybe you should try improving your posture.\"\nDịch: Nhưng nếu bạn cảm thấy khó chịu, có lẽ bạn nên thử cải thiện tư thế của mình.\n→ B: Cải thiện tư thế có thể giúp giảm bớt bất kỳ sự khó chịu nào bạn cảm thấy. ✓"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 9 to 14.",
+      "passageTitle": "ACTIVITY BREAKS AT BROOKE'S LEISURE CENTRE",
+      "passage": "If you are looking for a fun and rewarding job to do over the summer holidays, then we have just the answer! Brook's Leisure Centre is excited (9)_______ that we are running activity weeks for groups of 11-13 year-olds. We need reliable and inspiring organizers who can ensure that all activities run smoothly and that the children (10)_______ here will have a great time.\n\nAre you interested in and skilled (11)_______ a wide range of sports? Do you (12)_______ experience in managing children? Do you have (13)_______ during the week? If you answered \"yes\" to these questions, we want to hear from you! Please write to us, providing details of your experience, skills, and (14)_______ for an interview. Please also give the name of a referee.\nSend your letter to: The Director, Brooke's Leisure Centre, Hill Park, Bournemouth.",
+      "questions": [
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "announced",
+            "B": "to announce",
+            "C": "announcing",
+            "D": "announce"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dạng tính từ: be excited to do something: háo hức làm gì\nTạm dịch: Trung tâm giải trí Brook rất vui mừng thông báo rằng chúng tôi đang tổ chức các tuần hoạt động cho các nhóm trẻ em từ 11 đến 13 tuổi."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "to come",
+            "B": "coming",
+            "C": "who came",
+            "D": "come"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ: Mệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển V thành V-ing (who come → coming).\nTạm dịch: Chúng tôi cần những người tổ chức đáng tin cậy và truyền cảm hứng, những người có thể đảm bảo rằng mọi hoạt động diễn ra suôn sẻ và trẻ em đến đây sẽ có khoảng thời gian tuyệt vời."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "of",
+            "B": "at",
+            "C": "about",
+            "D": "for"
+          },
+          "correctAnswer": "B",
+          "explanation": "Dạng tính từ: be skilled at something/doing something: có kỹ năng làm gì\nTạm dịch: Bạn có quan tâm và có kỹ năng ở nhiều môn thể thao khác nhau không?"
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "do",
+            "B": "make",
+            "C": "have",
+            "D": "get"
+          },
+          "correctAnswer": "C",
+          "explanation": "Cụm từ (Collocations): have experience in something/doing something: có kinh nghiệm làm gì\nTạm dịch: Bạn có kinh nghiệm quản lý trẻ em không?"
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "working flexible hours",
+            "B": "hours working flexible",
+            "C": "flexible hours working",
+            "D": "flexible working hours"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\n- flexible /ˈflek.sə.bəl/ (adj): linh hoạt\n- working hours /ˈwɜː.kɪŋ /aʊər/ (n): giờ làm việc\nTrật tự từ: adj (flexible) + n-phrase (working hours)\nTạm dịch: Bạn có giờ làm việc linh hoạt trong tuần không?"
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "availably",
+            "B": "availability",
+            "C": "available",
+            "D": "unavailable"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ loại:\nA. availably /əˈveɪləbli/ (adv): một cách có sẵn\nB. availability /əˌveɪləˈbɪləti/ (n): sự có sẵn ✓\nC. available /əˈveɪləbl/ (adj): có sẵn, rảnh\nD. unavailable /ˌʌnəˈveɪləbl/ (adj): không có sẵn, không rảnh\nChỗ trống đứng sau liên từ \"and\" nối các danh từ \"experience\" và \"skills\" → cần danh từ\nTạm dịch: Hãy viết thư cho chúng tôi, cung cấp thông tin chi tiết về kinh nghiệm, kỹ năng và thời gian rảnh để phỏng vấn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 15 to 20.",
+      "passageTitle": "NURTURING YOUR MIND AND SPIRIT",
+      "passage": "Taking care of our mental health is just as important as our physical health, which helps us (15)_______ stress, build resilience, and lead fulfilling lives.\n\nFacts and Figures\n• Nature's Impact: Studies show that spending time outdoors can significantly reduce stress (16)_________. However, many people feel they lack access to green spaces.\n• Screen Time Concerns: Excessive daily screen time is linked to increased anxiety and depression. (17)_________ spending too much time on the phone screen, why don't we go outside and get some fresh air?\n\nPositive Actions You Can Take\n• Make time for meaningful (18)_________ with family and friends. Connect with (19)_________ regularly help (20)_______ your support network and combats feelings of isolation.",
+      "questions": [
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "begin with",
+            "B": "cope with",
+            "C": "agree with",
+            "D": "go with"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\nA. begin with something: bắt đầu với cái gì\nB. cope with somebody/something: đối phó với ai/cái gì ✓\nC. agree with somebody/something: đồng ý với ai/cái gì\nD. go with something: đi cùng với cái gì\nTạm dịch: Chăm sóc sức khỏe tinh thần cũng quan trọng như sức khỏe thể chất, điều này giúp chúng ta đối phó với căng thẳng, xây dựng sự kiên cường và sống một cuộc sống trọn vẹn."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "proportions",
+            "B": "levels",
+            "C": "extents",
+            "D": "quantities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. proportion /prəˈpɔːʃn/ (n): tỷ lệ\nB. level /ˈlevl/ (n): mức độ ✓\nC. extent /ɪkˈstent/ (n): phạm vi\nD. quantity /ˈkwɒntɪti/ (n): số lượng\nTạm dịch: Các nghiên cứu cho thấy việc dành thời gian ngoài trời có thể giảm đáng kể mức độ căng thẳng."
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "Irrespective of",
+            "C": "Although",
+            "D": "On account of"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức về liên từ:\nA. Instead of: thay vì ✓\nB. Irrespective of: bất chấp\nC. Although: mặc dù\nD. On account of: vì lý do, do\nTạm dịch: Thay vì dành quá nhiều thời gian vào màn hình điện thoại, tại sao chúng ta không ra ngoài và hít thở không khí trong lành?"
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "sayings",
+            "B": "conversations",
+            "C": "stories",
+            "D": "proverbs"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\nA. saying /ˈseɪŋ/ (n): câu nói, tục ngữ\nB. conversation /ˌkɒnvəˈseɪʃn/ (n): cuộc trò chuyện ✓\nC. story /ˈstɔːri/ (n): câu chuyện\nD. proverb /ˈprɒvɜːb/ (n): thành ngữ\nTạm dịch: Hãy dành thời gian cho những cuộc trò chuyện có ý nghĩa với gia đình và bạn bè."
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "another",
+            "B": "the others",
+            "C": "others",
+            "D": "other"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức:\nA. another + N (số ít): một cái khác, một người khác\nB. the others: những cái còn lại, những người còn lại\nC. others: những cái khác, những người khác ✓\nD. other + N (số nhiều/không đếm được): những cái khác, những người khác\nTạm dịch: Hãy kết nối với những người khác thường xuyên để giúp củng cố mạng lưới hỗ trợ của bạn và chống lại cảm giác cô đơn."
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "weaken",
+            "B": "worsen",
+            "C": "lengthen",
+            "D": "strengthen"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\nA. weaken /ˈwiːkən/ (v): làm yếu đi\nB. worsen /ˈwɜːsn/ (v): làm tồi tệ hơn\nC. lengthen /ˈleŋkθən/ (v): kéo dài\nD. strengthen /ˈstreŋθn/ (v): làm mạnh hơn, củng cố ✓\nTạm dịch: Kết nối với những người khác thường xuyên để giúp củng cố mạng lưới hỗ trợ của bạn và chống lại cảm giác cô đơn."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about tooth decay and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 21 to 30.",
+      "passageTitle": "Tooth Decay",
+      "passage": "(I) The cause of tooth decay is acid, which is produced by bacteria in the mouth. (II) The rate at which bacteria in the mouth produce acid depends on the amount of plaque on the teeth, the composition of the microbial flora, and whether the bacteria of the plaque have been \"primed\" by frequent exposure to sugar. (III) To keep your teeth healthy, a regular dental hygiene program should be followed. (IV)\n\nRemoving plaque with a toothbrush and dental floss temporarily reduces the numbers of harmful bacteria in the mouth, thereby lowering the risk of tooth decay. This practice also makes the surfaces of the teeth more accessible, which enables saliva to neutralize acid and remineralize lesions. If fluoride is present in drinking water when teeth are forming, some fluoride is incorporated into the enamel of the teeth, making them more resistant to attack by acid. Fluoride toothpaste seems to act in another way, by promoting the remineralization of early carious lesions.\n\nIn addition to a regular dental hygiene program, a good way to keep your teeth healthy is to reduce your intake of sweet food. The least cavity-causing way to eat sweets is to have them with meals and not between. The number of times you eat sweets rather than the total amount determines how much harmful acid the bacteria in your saliva produce. But the amount of sweets influences the quality of your saliva. Avoid, if you can, sticky sweets that stay in your mouth a long time. Also try to brush and floss your teeth after eating sugary foods. Even rinsing your mouth with water is effective.\n\nWhenever possible, opt for foods with fiber, such as raw carrot sticks, apples, celery sticks, etc., that naturally scrape off plaque, acting as a toothbrush. Following these guidelines when consuming sweets and maintaining a thorough oral care routine can significantly reduce the risk of cavities and improve overall dental health.",
+      "questions": [
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"The acid removes minerals from tooth enamel, allowing tooth decay to begin.\"",
+          "context": "",
+          "options": {
+            "A": "(II)",
+            "B": "(IV)",
+            "C": "(III)",
+            "D": "(I)"
+          },
+          "correctAnswer": "A",
+          "explanation": "Câu cần điền phù hợp nhất ở vị trí (II) vì hai câu liên kết với nhau ở 'the acid' và 'tooth decay'.\nThông tin: The cause of tooth decay is acid, which is produced by bacteria in the mouth. [II] The acid removes minerals from tooth enamel, allowing tooth decay to begin. → câu liên kết chặt với câu trước bằng 'the acid'."
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "The word 'them' in paragraph 2 refers to ___.",
+          "context": "",
+          "options": {
+            "A": "lesions",
+            "B": "bacteria",
+            "C": "teeth",
+            "D": "drinking water"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: If fluoride is present in drinking water when teeth are forming, some fluoride is incorporated into the enamel of the teeth, making them more resistant to attack by acid.\nTừ 'them' đề cập đến 'the teeth' (răng) - danh từ gần nhất mà đại từ thay thế."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "Toothbrushes and dental floss remove bacteria and plaque from the mouth, but in fact they do not reduce the risk of tooth decay.",
+            "B": "The risk of tooth decay temporarily increases when plaque is not removed by dental floss and a toothbrush.",
+            "C": "Cleaning teeth using a toothbrush and dental floss can help remove plaque and temporarily decrease the bacteria that cause tooth decay.",
+            "D": "Using dental floss and a toothbrush permanently eliminates all harmful bacteria present in the mouth and prevents tooth from decaying."
+          },
+          "correctAnswer": "C",
+          "explanation": "Câu gốc: Removing plaque with a toothbrush and dental floss temporarily reduces the numbers of harmful bacteria in the mouth, thereby lowering the risk of tooth decay.\nDịch: Loại bỏ mảng bám bằng bàn chải và chỉ nha khoa sẽ tạm thời làm giảm số lượng vi khuẩn có hại trong miệng, từ đó giảm nguy cơ sâu răng.\n→ C: Làm sạch răng bằng bàn chải và chỉ nha khoa có thể giúp loại bỏ mảng bám và tạm thời giảm số lượng vi khuẩn gây sâu răng. ✓"
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word 'sticky' in paragraph 3 is OPPOSITE in meaning to ___.",
+          "context": "",
+          "options": {
+            "A": "loose",
+            "B": "soft",
+            "C": "dry",
+            "D": "adhesive"
+          },
+          "correctAnswer": "A",
+          "explanation": "sticky /ˈstɪki/ (adj): bám dính >< loose (lỏng lẻo)\nA. loose /luːs/ (adj): lỏng lẻo ✓\nB. soft /sɒft/ (adj): mềm\nC. dry /draɪ/ (adj): khô, thiếu nước\nD. adhesive /ədˈhiːsɪv/ (adj): dính (đồng nghĩa)\nThông tin: Avoid, if you can, sticky sweets that stay in your mouth a long time."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "We can infer from the passage that one benefit of fluoride to healthy teeth is ___.",
+          "context": "",
+          "options": {
+            "A": "It makes teeth whiter",
+            "B": "It stimulates saliva production",
+            "C": "It strengthens tooth enamel",
+            "D": "It is a replacement for brushing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: If fluoride is present in drinking water when teeth are forming, some fluoride is incorporated into the enamel of the teeth, making them more resistant to attack by acid.\nDịch: Nếu fluoride có trong nước uống khi răng đang hình thành, một phần fluoride sẽ được tích hợp vào men răng, làm cho răng chống lại sự tấn công của axit tốt hơn.\n→ C: Nó làm men răng chắc hơn ✓"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Eating more sweets with meals, avoiding sticky ones, and brushing can prevent cavities effectively.",
+            "B": "Reducing sweets, avoiding sticky ones, and maintaining oral hygiene can lower tooth decay risk.",
+            "C": "A balanced diet and fiber-rich foods can remove plaque and prevent decay better than oral hygiene.",
+            "D": "Fiber-rich foods, increased sweets, and rinsing can help maintain oral health and prevent cavities."
+          },
+          "correctAnswer": "B",
+          "explanation": "Đoạn 3 nói về: giảm lượng đồ ngọt tiêu thụ, ưu tiên ăn đồ ngọt trong bữa ăn, tránh các loại đồ ngọt dính lâu trong miệng, và duy trì vệ sinh răng miệng như đánh răng, dùng chỉ nha khoa hoặc súc miệng sau khi ăn.\n→ B: Giảm đồ ngọt, tránh loại dính, và duy trì vệ sinh răng miệng có thể giảm nguy cơ sâu răng. ✓"
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "According to the passage, which of the following is NOT mentioned as a factor affecting the production of acid by bacteria in the mouth?",
+          "context": "",
+          "options": {
+            "A": "The frequency of sugar consumption",
+            "B": "The amount of plaque on the teeth",
+            "C": "The composition of the microbial flora",
+            "D": "The amount of water consumed daily"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: The rate at which bacteria in the mouth produce acid depends on the amount of plaque on the teeth, the composition of the microbial flora, and whether the bacteria of the plaque have been \"primed\" by frequent exposure to sugar.\n→ A, B, C đều được đề cập. D (lượng nước tiêu thụ hàng ngày) không được đề cập là yếu tố ảnh hưởng."
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "The author states that the amount of acid produced by the bacteria in your saliva increases ___.",
+          "context": "",
+          "options": {
+            "A": "with the total amount of sweets you eat",
+            "B": "with the number of times you consume sweets",
+            "C": "if you consume sticky sweets on a regular basis",
+            "D": "if you eat a lot of sweets with your meals"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin: The number of times you eat sweets rather than the total amount determines how much harmful acid the bacteria in your saliva produce.\nDịch: Số lần bạn ăn đồ ngọt, chứ không phải tổng số lượng, quyết định lượng axit có hại mà vi khuẩn trong nước bọt tạo ra.\n→ B: cùng với số lần bạn tiêu thụ đồ ngọt ✓"
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "The phrase 'scrape off' can best be replaced by ___.",
+          "context": "",
+          "options": {
+            "A": "take on",
+            "B": "check in",
+            "C": "wipe off",
+            "D": "build up"
+          },
+          "correctAnswer": "C",
+          "explanation": "scrape off: cạo đi = wipe off: lau sạch\nA. take on: đảm nhận\nB. check in: làm thủ tục nhận phòng\nC. wipe off: lau sạch ✓\nD. build up: tích lũy\nThông tin: Whenever possible, opt for foods with fiber... that naturally scrape off plaque, acting as a toothbrush."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Fluoride use is a sufficient way for people to prevent tooth from decaying, without the need for brushing",
+            "B": "The key to healthy teeth is avoiding all sweets and only using fluoride toothpaste to prevent decay.",
+            "C": "Eating sweets with meals and brushing immediately after helps reduce the risk of cavities without fluoride.",
+            "D": "Regular dental hygiene and a diet low in sugar help prevent tooth decay and promote healthy teeth."
+          },
+          "correctAnswer": "D",
+          "explanation": "Tóm tắt:\n+ Đoạn 1: Nguyên nhân gây sâu răng là axit từ vi khuẩn; axit này làm mất khoáng chất từ men răng. Tốc độ tạo axit phụ thuộc vào lượng mảng bám, thành phần vi khuẩn, và mức độ tiếp xúc với đường.\n+ Đoạn 2: Loại bỏ mảng bám bằng bàn chải và chỉ nha khoa giúp giảm vi khuẩn có hại. Fluoride giúp tăng cường men răng.\n+ Đoạn 3: Giảm lượng đồ ngọt tiêu thụ và ăn đồ ngọt trong bữa ăn để giảm nguy cơ sâu răng.\n+ Đoạn 4: Chọn thực phẩm có chất xơ giúp cạo sạch mảng bám; duy trì thói quen chăm sóc răng miệng kỹ lưỡng.\n→ D: Vệ sinh răng miệng thường xuyên và chế độ ăn ít đường giúp ngăn ngừa sâu răng và duy trì răng khỏe mạnh. ✓"
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 31 to 35.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "a. The town's shopping district has also expanded, with new stores and cafes along Main Street.\nb. Over the past few years, Hillcrest has changed drastically, with rapid growth and new businesses setting up.\nc. However, the expansion has led to rising property prices, making it harder for longtime residents to afford living in the area.\nd. This economic boom has attracted young professionals, leading to an increase in demand for housing and entertainment options.\ne. Despite these improvements, Hillcrest still lacks basic facilities like a community center or hospital, which residents have long requested.",
+          "options": {
+            "A": "b-a-e-c-d",
+            "B": "b-d-a-c-e",
+            "C": "a-b-e-c-d",
+            "D": "d-b-a-e-c"
+          },
+          "correctAnswer": "B",
+          "explanation": "Trình tự logic: b (giới thiệu sự thay đổi ở Hillcrest) → d (sự bùng nổ kinh tế thu hút người trẻ) → a (khu mua sắm mở rộng) → c (tuy nhiên, giá bất động sản tăng) → e (dù có cải thiện, vẫn thiếu cơ sở hạ tầng cơ bản)."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "a. Alex: Exactly! Even small things like turning off unused appliances can save a lot.\nb. Alex: That's smart! Let's make it a habit and maybe encourage others to do the same.\nc. Alex: Hey, do you ever think about how much electricity we use daily?\nd. Sam: Good point! I've started unplugging chargers when I'm not using them.\ne. Sam: Yeah, especially when I leave lights on by accident. It adds up, you know?",
+          "options": {
+            "A": "c-a-e-d-b",
+            "B": "d-a-c-b-e",
+            "C": "b-a-d-e-c",
+            "D": "c-e-a-d-b"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trình tự hội thoại: c (Alex hỏi về điện) → e (Sam đồng ý, ví dụ để đèn) → a (Alex: ngay cả việc nhỏ như tắt thiết bị) → d (Sam: tôi đã bắt đầu rút phích cắm bộ sạc) → b (Alex: tuyệt vời, hãy biến thành thói quen)."
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "",
+          "context": "Dear Mrs. Black,\na. I'll make sure everything is set up so it's easy for you to find.\nb. The plants only need a light watering once a day, especially the ones near the windows.\nc. Thank you so much for your help - it would mean a lot to us!\nd. I hope this note finds you well.\ne. We'll be away for three days, and I wonder if you can help us by watering our plants.\nBest regards,",
+          "options": {
+            "A": "b-a-c-e-d",
+            "B": "d-c-b-a-e",
+            "C": "e-a-c-b-d",
+            "D": "d-e-b-a-c"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trình tự thư: d (lời chào hỏi) → e (nêu yêu cầu: nhờ tưới cây) → b (hướng dẫn tưới cây) → a (đảm bảo sắp xếp mọi thứ) → c (lời cảm ơn)."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "",
+          "context": "a. My background in graphic design has been invaluable in my current role.\nb. I have always had a deep interest in art and technology, which led me to pursue a career in digital marketing.\nc. Over the last two years, I have grown tremendously, developing my skills and contributing to various projects.\nd. Although working in a fast-paced environment can be demanding, I find it incredibly rewarding.\ne. In summary, I am thrilled with my journey so far and excited about the opportunities ahead.",
+          "options": {
+            "A": "a-c-b-d-e",
+            "B": "c-d-a-b-e",
+            "C": "d-b-a-c-e",
+            "D": "b-c-d-a-e"
+          },
+          "correctAnswer": "D",
+          "explanation": "Trình tự đoạn văn: b (giới thiệu sở thích và định hướng nghề nghiệp) → c (phát triển trong 2 năm qua) → d (môi trường làm việc nhanh nhưng bổ ích) → a (nền tảng thiết kế đồ họa hữu ích) → e (tóm lại, hài lòng với hành trình)."
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "",
+          "context": "a. Kevin: That sounds fantastic! Did you do any hiking?\nb. Kevin: Hi, Lucy! How was your weekend trip to the mountains?\nc. Lucy: Hey, Kevin! It was amazing! The scenery was breathtaking.",
+          "options": {
+            "A": "b-c-a",
+            "B": "c-a-b",
+            "C": "b-a-c",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trình tự hội thoại: b (Kevin hỏi về chuyến đi) → c (Lucy trả lời: tuyệt vời, cảnh đẹp) → a (Kevin khen và hỏi thêm về hiking)."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about reading skill and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 36 to 40.",
+      "passageTitle": "Reading Skills",
+      "passage": "Reading is an essential skill that enhances our cognitive abilities in many ways. Firstly, it improves our language skills. When we read, we learn new words and understand how they are used in context, (36)_______. This helps in improving our communication skills. Secondly, reading boosts our imagination and creativity. (37)_______, it takes us to different worlds and situations we might not experience in real life. This stimulates our creativity and helps us think outside the box. Thirdly, regular reading enhances our concentration and focus, (38)_______. Additionally, reading provides us with knowledge about various subjects and cultures. It allows us to gain insights into (39)_______.\n\nThis broadens our perspective and helps us become more empathetic and understanding. Finally, reading is a great way to relax and de-stress. It can be a form of escapism, where we can lose ourselves in a story and forget about our daily worries. In conclusion, reading is not just a leisure activity. It plays a significant role in our cognitive development, helping us to (40)_________. Therefore, it's important to cultivate a habit of reading from a young age.",
+      "questions": [
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "which contribute to expanding our vocabulary",
+            "B": "it contributes to expanding our vocabulary",
+            "C": "contributing to expanding our vocabulary",
+            "D": "contributes to expanding our vocabulary"
+          },
+          "correctAnswer": "C",
+          "explanation": "Phân tích thành phần câu:\n- Trạng ngữ: \"When we read\"\n- Mệnh đề chính: \"we learn new words and understand how they are used in context\"\n→ Chỗ trống cần mệnh đề phụ thuộc (mệnh đề trạng ngữ/danh ngữ/quan hệ)\nMệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và to be (nếu có), chuyển V sang V-ing (which contributes to expanding our vocabulary → contributing to expanding our vocabulary)\nTạm dịch: Khi chúng ta đọc, chúng ta học được những từ mới và hiểu cách chúng được sử dụng trong ngữ cảnh, điều này giúp mở rộng từ vựng của chúng ta."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "When we read interesting stories",
+            "B": "To read interesting stories",
+            "C": "Reads interesting stories",
+            "D": "Having read interesting stories"
+          },
+          "correctAnswer": "A",
+          "explanation": "A. Khi chúng ta đọc những câu chuyện thú vị → Đúng vì phù hợp về ngữ pháp và ngữ nghĩa ✓\nB. Để đọc những câu chuyện thú vị → Sai vì không phù hợp về ngữ nghĩa\nC. Đọc những câu chuyện thú vị → Sai về ngữ pháp câu\nD. Đã đọc những câu chuyện thú vị → Sai vì chủ ngữ chung 'it' không thể kết hợp với 'having read'\nTạm dịch: Khi chúng ta đọc những câu chuyện thú vị, nó đưa chúng ta đến những thế giới và tình huống mà chúng ta có thể không trải nghiệm trong cuộc sống thực."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "it requires us to pay attention to details and follow complex narratives",
+            "B": "this requires us to pay attention to details and follow complex narratives",
+            "C": "required us to pay attention to details and follow complex narratives",
+            "D": "which requires us to pay attention to details and follow complex narratives"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu đã có mệnh đề chính \"Regular reading enhances our concentration and focus\" → chỗ trống cần mệnh đề phụ thuộc (mệnh đề trạng ngữ/danh ngữ/quan hệ)\nD: which requires us to pay attention to details and follow complex narratives → mệnh đề quan hệ bổ nghĩa cho 'concentration and focus' ✓\nTạm dịch: Việc đọc thường xuyên giúp tăng cường khả năng tập trung và chú ý, điều này đòi hỏi chúng ta phải chú ý đến chi tiết và theo dõi các câu chuyện phức tạp."
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the lives and experiences of people from diverse backgrounds",
+            "B": "people of experiences and lives from diverse backgrounds",
+            "C": "diverse backgrounds of people's lives and experiences",
+            "D": "people from diverse experiences and the backgrounds of their lives"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự từ đúng trong tiếng Anh: the lives and experiences of people from diverse backgrounds (cuộc sống và kinh nghiệm của những người từ các nền tảng đa dạng)\nTạm dịch: Nó cho phép chúng ta có cái nhìn sâu sắc về cuộc sống và kinh nghiệm của những người từ các nền tảng khác nhau."
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "improve mentally and emotionally",
+            "B": "mentally and emotionally improved",
+            "C": "be improved mentally and emotionally",
+            "D": "improving mentally and emotionally"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dạng động từ: help somebody to do something: giúp đỡ ai làm gì\nCấu trúc: helping us to + V (nguyên thể) → helping us to improve mentally and emotionally\nTạm dịch: Nó đóng vai trò quan trọng trong sự phát triển nhận thức của chúng ta, giúp chúng ta cải thiện về mặt tinh thần và cảm xúc."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.554867+00:00",
+  "updatedAt": "2026-06-08T10:41:58.554867+00:00",
+  "originalFileName": "THPT_Chuyen_Nguyen_Van_Troi_Ha_Tinh_2025.json"
+}

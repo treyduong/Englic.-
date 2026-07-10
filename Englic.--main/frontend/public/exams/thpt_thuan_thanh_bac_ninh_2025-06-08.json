@@ -1,0 +1,626 @@
+{
+  "examId": "thpt_thuan_thanh_bac_ninh_2025-06-08",
+  "title": "THPT Thuận Thành 1&2 - Bắc Ninh (Mã đề lẻ) - Kì Thi Tốt Nghiệp THPT Năm 2025 - Môn: Tiếng Anh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file THPT_Thuan_Thanh_Bac_Ninh_2025.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#BắcNinh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C and D on your answer sheet to indicate the option that best fit each of the numbered blanks from 1 to 6.",
+      "passageTitle": "New Horizons Language Academy",
+      "passage": "Do you want to learn a new language quickly and easily? Join New Horizons Language Academy and start learning languages. Our academy offers both online and in-person classes taught by (1)_______ instructors. Each class is only $20, and you'll have access to a(n) (2)_______ learning environment.\n\nEnroll today and take advantage of our discounts (3)_______ reduced fees when you take more than one language class. Classes are held at our modern facilities or can be attended from your home. Start your language journey today and meet new people, gain skills, and connect (4)_______ the world.\n\nLearning a new language has never been easier! Let's break (5)_______ barriers together at New Horizons Language Academy. Join now and (6)_______ your first class free!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "experiencedly",
+            "B": "experiences",
+            "C": "experience",
+            "D": "experienced"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ loại:\n- experience /ɪkˈspɪərɪəns/ (n): kinh nghiệm, trải nghiệm\n- experienced /ɪkˈspɪərɪənst/ (adj): có kinh nghiệm\nChỗ trống đứng trước danh từ 'instructors' → cần tính từ.\nTạm dịch: Our academy offers both online and in-person classes taught by experienced instructors. (Học viện của chúng tôi cung cấp cả lớp học trực tuyến và trực tiếp do các giảng viên giàu kinh nghiệm giảng dạy.)"
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "inspiring big new",
+            "B": "big inspiring new",
+            "C": "new inspiring big",
+            "D": "new big inspiring"
+          },
+          "correctAnswer": "A",
+          "explanation": "Trật tự tính từ: O-S-A-S-C-O-M-P (Opinion – Size – Age – Shape – Color – Origin – Material – Purpose)\n- opinion → inspiring\n- size → big\n- age → new\nTạm dịch: Each class is only $20, and you'll have access to an inspiring big new learning environment. (Mỗi lớp học chỉ có giá 20 đô la và bạn sẽ được tiếp cận với một môi trường học tập mới tuyệt vời và đầy cảm hứng.)"
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that offering",
+            "B": "to offer",
+            "C": "offered",
+            "D": "offering"
+          },
+          "correctAnswer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ:\nMệnh đề quan hệ dạng chủ động rút gọn bằng cách lược bỏ đại từ quan hệ và tobe (nếu có), chuyển V sang V-ing (which offer → offering).\nTạm dịch: Enroll today and take advantage of our discounts offering reduced fees when you take more than one language class. (Hãy đăng ký ngay hôm nay và tận dụng các chương trình giảm giá của chúng tôi, giảm học phí khi bạn tham gia nhiều hơn một lớp ngôn ngữ.)"
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with",
+            "B": "by",
+            "C": "over",
+            "D": "in"
+          },
+          "correctAnswer": "A",
+          "explanation": "Dạng động từ: connect with somebody/something: kết nối với ai/cái gì\nTạm dịch: Start your language journey today and meet new people, gain skills, and connect with the world. (Hãy bắt đầu hành trình ngôn ngữ của bạn ngay hôm nay và gặp gỡ những người mới, trau dồi kỹ năng và kết nối với thế giới.)"
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "border",
+            "B": "word",
+            "C": "travel",
+            "D": "language"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\n- border /ˈbɔː.dər/ (n): biên giới\n- word /wɜːd/ (n): từ\n- travel /ˈtræv.əl/ (n): du lịch\n- language /ˈlæŋ.gwɪdʒ/ (n): ngôn ngữ\nTạm dịch: Let's break language barriers together at New Horizons Language Academy. (Hãy cùng nhau phá vỡ rào cản ngôn ngữ tại Học viện Ngôn ngữ New Horizons.)"
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "receives",
+            "B": "received",
+            "C": "receiving",
+            "D": "receive"
+          },
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc song song: Chỗ trống đứng sau liên từ 'and' nối với động từ nguyên mẫu 'join' → cần động từ nguyên mẫu.\nTạm dịch: Join now and receive your first class free! (Hãy tham gia ngay và nhận lớp học đầu tiên miễn phí!)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 7 to 16.",
+      "passageTitle": "Urbanization: Reasons and Results",
+      "passage": "Urbanization, the movement of people from rural to urban areas, has become a defining trend globally. [I]. The primary reason for urbanization is the search for better economic opportunities. Cities typically offer more jobs, higher wages, and career growth potential, attracting people from less developed regions. [II]. In addition, urban areas often provide greater access to education, healthcare, and essential services, which are typically limited in rural regions. [III]. Collectively, these factors make cities particularly appealing to young people who seek to improve their quality of life and to families looking for better opportunities for their children. [IV]\n\nAnother major driver of urbanization is infrastructure development. Cities often invest heavily in transportation, advanced communication networks, and reliable public services, which make urban living more convenient and efficient. Such infrastructure attracts both businesses and residents, contributing to a city's economic expansion and reinforcing the cycle of urban growth. This availability of resources and opportunities makes cities desirable for companies and individuals, boosting both local economies and international business appeal.\n\nHowever, urbanization also presents significant challenges. Overcrowding, traffic congestion, and increased pollution are common in highly urbanized areas. These problems strain city resources and can reduce the quality of life for residents. Furthermore, as cities expand, they often encroach on natural landscapes, leading to habitat destruction and a loss of biodiversity. This encroachment affects local ecosystems and can create environmental issues that extend beyond city borders. Balancing urban growth with sustainable practices remains a critical issue for many cities worldwide.\n\nIn response, some cities are adopting \"smart growth\" policies. These policies aim to manage urban expansion in a way that minimizes environmental impact and promotes a higher quality of life. By focusing on sustainable infrastructure, green spaces, and efficient resource management, smart growth policies attempt to address the downsides of urbanization while still supporting economic and social development.",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "The word \"expansion\" in paragraph 2 is closest in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "development",
+            "B": "reduction",
+            "C": "decrease",
+            "D": "suppression"
+          },
+          "correctAnswer": "A",
+          "explanation": "expansion /ɪkˈspæn.ʃən/ (n): sự mở rộng = development\n- reduction /rɪˈdʌkʃn/ (n): sự giảm bớt\n- decrease /dɪˈkriːs/ (n): sự giảm sút\n- suppression /səˈpreʃn/ (n): sự đàn áp, sự ngăn chặn\nThông tin: Such infrastructure attracts both businesses and residents, contributing to a city's economic expansion and reinforcing the cycle of urban growth."
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "Which of the following best summarizes the passage?",
+          "context": "",
+          "options": {
+            "A": "Cities are expanding too quickly, that's why it often leads to overpopulation, pollution and lack of resources.",
+            "B": "Smart growth policies are urgently needed to address the consequences of rapid urbanization in rural areas.",
+            "C": "Urbanization in many developing countries often results in significant economic benefits for rural regions.",
+            "D": "Urbanization is driven by economic opportunities and improved services but causes environmental challenges."
+          },
+          "correctAnswer": "D",
+          "explanation": "Tóm tắt bài:\n+ Đoạn 1: Đô thị hóa chủ yếu do nhu cầu tìm kiếm cơ hội kinh tế tốt hơn, cùng với việc tiếp cận giáo dục, y tế và các dịch vụ thiết yếu, vốn dễ dàng có ở thành phố.\n+ Đoạn 2: Các thành phố thu hút cả doanh nghiệp và cư dân thông qua việc đầu tư vào giao thông, mạng lưới truyền thông và các dịch vụ công cộng.\n+ Đoạn 3: Đô thị hóa có thể gây ra tình trạng quá tải dân số, tắc nghẽn giao thông và ô nhiễm.\n+ Đoạn 4: Một số thành phố áp dụng chính sách 'tăng trưởng thông minh'.\n==> Đô thị hóa được thúc đẩy bởi cơ hội kinh tế và các dịch vụ cải thiện nhưng gây ra các thách thức về môi trường."
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "Which of the following is NOT mentioned as a cause of urbanization?",
+          "context": "",
+          "options": {
+            "A": "Greater educational opportunities",
+            "B": "Search for employment",
+            "C": "Need for environmental policies",
+            "D": "Development of infrastructure"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin:\n+ In addition, urban areas often provide greater access to education → A được đề cập\n+ The primary reason for urbanization is the search for better economic opportunities (tìm kiếm việc làm) → B được đề cập\n+ Another major driver of urbanization is infrastructure development → D được đề cập\nC. Need for environmental policies (Nhu cầu về chính sách môi trường) → KHÔNG được đề cập là nguyên nhân."
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "The word \"challenges\" in paragraph 3 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "problems",
+            "B": "opportunities",
+            "C": "difficulties",
+            "D": "obstacles"
+          },
+          "correctAnswer": "B",
+          "explanation": "challenge /ˈtʃæl.mndʒ/ (n): thách thức >< opportunity\n- problem /ˈprɒbləm/ (n): vấn đề\n- opportunity /ˌɒpəˈtjuːnɪti/ (n): cơ hội\n- difficulty /ˈdɪfɪkəlti/ (n): khó khăn\n- obstacle /ˈɒbstəkl/ (n): trở ngại\nThông tin: However, urbanization also presents significant challenges."
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "Which of the following best summarizes paragraph 2?",
+          "context": "",
+          "options": {
+            "A": "People move to cities for education and healthcare access.",
+            "B": "Urbanization often causes environmental challenges for cities.",
+            "C": "Infrastructure development enhances urban life and drives economic growth.",
+            "D": "Smart growth policies can manage urban expansion."
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Đoạn 2 nói về những lợi ích của việc phát triển cơ sở hạ tầng đối với đô thị hóa.\nDựa vào câu chủ đề đầu đoạn: Another major driver of urbanization is infrastructure development."
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "According to the passage, which of the following is TRUE about smart growth policies?",
+          "context": "",
+          "options": {
+            "A": "They focus on green spaces and infrastructure to manage urbanization sustainably.",
+            "B": "They emphasize industrial development and economic incentives in cities.",
+            "C": "They aim to reduce access to education and healthcare in rural areas.",
+            "D": "They limit job growth in order to reduce population density."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: By focusing on sustainable infrastructure, green spaces, and efficient resource management, smart growth policies attempt to address the downsides of urbanization while still supporting economic and social development.\nA đúng: Chúng tập trung vào không gian xanh và cơ sở hạ tầng để quản lý đô thị hóa một cách bền vững."
+        },
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Urbanization is likely to decrease in the future as cities face more issues.",
+            "B": "The majority of urban growth happens in developing countries.",
+            "C": "Cities with limited infrastructure are better suited to handle population growth.",
+            "D": "Managing urban growth sustainably is a challenge many cities currently face."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Balancing urban growth with sustainable practices remains a critical issue for many cities worldwide.\nD đúng: Quản lý sự phát triển đô thị một cách bền vững là thách thức mà nhiều thành phố đang đối mặt."
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "The phrase \"these factors\" in paragraph 1 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "population and income",
+            "B": "cities and rural areas",
+            "C": "jobs, education, and healthcare",
+            "D": "infrastructure and environmental policies"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: Cities typically offer more jobs, higher wages, and career growth potential... In addition, urban areas often provide greater access to education, healthcare, and essential services... Collectively, these factors make cities particularly appealing...\nCác yếu tố được đề cập trước đó là công việc (jobs), giáo dục (education) và chăm sóc sức khỏe (healthcare)."
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 1? \"The primary reason for urbanization is the search for better economic opportunities.\"",
+          "context": "",
+          "options": {
+            "A": "Economic opportunity drives many people to move to cities.",
+            "B": "Better living conditions are the main reason for migration.",
+            "C": "People move to cities mainly to find improved education.",
+            "D": "Urban areas are attracting residents due to economic incentives."
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: The primary reason for urbanization is the search for better economic opportunities. (Lý do chính cho quá trình đô thị hóa là tìm kiếm các cơ hội kinh tế tốt hơn.)\nA đúng: Cơ hội kinh tế thúc đẩy nhiều người chuyển đến sống ở thành phố."
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "Where in paragraph 1 would the following sentence best fit in the passage? \"This population shift can have both positive and negative impacts on cities.\"",
+          "context": "",
+          "options": {
+            "A": "(III)",
+            "B": "(IV)",
+            "C": "(II)",
+            "D": "(I)"
+          },
+          "correctAnswer": "D",
+          "explanation": "Câu trên phù hợp nhất ở vị trí (I) vì vị trí này tạo ra sự chuyển đổi tự nhiên và tạo tiền đề cho việc thảo luận về những tác động khác nhau của quá trình đô thị hóa.\nThông tin: Urbanization, the movement of people from rural to urban areas, has become a defining trend globally. [I] This population shift can have both positive and negative impacts on cities."
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 17 to 21.",
+      "passageTitle": "Mother Teresa",
+      "passage": "Mother Teresa, who is remembered as a remarkable humanitarian, (17)_______. Born in 1910 in Skopje, now part of North Macedonia, she joined a religious order in her teens and moved to India, where she dedicated her life to helping the poor and marginalized. In 1950, she established the Missionaries of Charity, a religious congregation (18)_______.\n\nMother Teresa believed that her mission was to care for \"the poorest of the poor.\" (19)_______. Throughout her life, she continued expanding her organization, creating hospices and homes for orphans and the sick across many countries. Even when faced with challenges and criticisms, Mother Teresa remained devoted to her work, emphasizing compassion and dignity for all individuals. She often said that each person she helped was \"Jesus in disguise,\" reflecting her deep faith and empathy. (20)_______.\n\nToday, the work she began has spread worldwide, impacting countless lives. It (21)_______, serving as a source of encouragement for those who seek to make a positive impact and reminding us of the power of kindness and selflessness in making the world a better place.",
+      "questions": [
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with mission is inspiring millions around the globe",
+            "B": "her dedication has been reflected in her lifelong service",
+            "C": "began her mission with a focus on serving the needy",
+            "D": "who was recognized for her efforts to help the poor"
+          },
+          "correctAnswer": "C",
+          "explanation": "Phân tích thành phần câu:\n- Chủ ngữ: 'Mother Teresa'\n- Mệnh đề quan hệ: 'who is remembered as a remarkable humanitarian'\n→ Chỗ trống cần vị ngữ (động từ chính có chia thì)\nA: với nhiệm vụ là truyền cảm hứng cho hàng triệu người trên toàn cầu → Sai vì là mệnh đề hoàn chỉnh\nB: sự tận tụy của cô đã được phản ánh trong sự phục vụ suốt đời của cô ấy → Sai vì là mệnh đề hoàn chỉnh\nC: đã bắt đầu sứ mệnh của mình bằng cách tập trung vào việc phục vụ những người gặp khó khăn → Đúng\nD: người mà đã được công nhận vì những nỗ lực để giúp đỡ những người nghèo → Sai vì là mệnh đề quan hệ\nTạm dịch: Mother Teresa, who is remembered as a remarkable humanitarian, began her mission with a focus on serving the needy."
+        },
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that was aimed at alleviating poverty through compassionate care",
+            "B": "which purpose was to serve the poor and marginalized",
+            "C": "where provided essential services for the people in desperate need",
+            "D": "of which the mission focused on helping those in need"
+          },
+          "correctAnswer": "A",
+          "explanation": "Mệnh đề quan hệ: Dùng đại từ quan hệ 'that' làm chủ ngữ để thay thế cho danh từ chỉ vật đứng trước (a religious congregation).\nTạm dịch: In 1950, she established the Missionaries of Charity, a religious congregation that was aimed at alleviating poverty through compassionate care. (Năm 1950, bà thành lập Hội Truyền giáo Bác ái, một giáo đoàn tôn giáo nhằm mục đích xóa đói giảm nghèo thông qua việc chăm sóc tận tình.)"
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Expanding her work, she inspired many others to join her cause.",
+            "B": "Her faith motivated her to overcome every obstacle she faced.",
+            "C": "Her organization grew to help those in need worldwide.",
+            "D": "She continued her mission despite challenges and criticisms."
+          },
+          "correctAnswer": "C",
+          "explanation": "Tạm dịch: Mother Teresa believed that her mission was to care for 'the poorest of the poor.' Her organization grew to help those in need worldwide. (Mẹ Teresa tin rằng sứ mệnh của bà là chăm sóc 'những người nghèo nhất trong số những người nghèo'. Tổ chức của bà đã phát triển để giúp đỡ những người khó khăn trên toàn thế giới.)"
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Her life became a testament to compassion and dedication.",
+            "B": "Her philosophy of kindness shaped her global legacy.",
+            "C": "Her commitment to serving others touched countless lives.",
+            "D": "She inspired hope for those who needed it most."
+          },
+          "correctAnswer": "A",
+          "explanation": "Tạm dịch: She often said that each person she helped was 'Jesus in disguise,' reflecting her deep faith and empathy. Her life became a testament to compassion and dedication. (Bà thường nói rằng mỗi người mà bà giúp đỡ đều là 'Chúa Jesus ngụy trang', phản ánh đức tin sâu sắc và sự đồng cảm của bà. Cuộc đời bà đã trở thành minh chứng cho lòng trắc ẩn và sự tận tụy.)"
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "serves as an example of the power of kindness and faith",
+            "B": "lives on through the work of the Missionaries of Charity",
+            "C": "remains a source of encouragement for future generations",
+            "D": "continues to inspire people worldwide with its impact and vision"
+          },
+          "correctAnswer": "D",
+          "explanation": "Tạm dịch: Today, the work she began has spread worldwide, impacting countless lives. It continues to inspire people worldwide with its impact and vision, serving as a source of encouragement for those who seek to make a positive impact and reminding us of the power of kindness and selflessness in making the world a better place. (Ngày nay, công việc mà bà bắt đầu đã lan rộng trên toàn thế giới, tác động đến vô số cuộc sống. Tổ chức này tiếp tục truyền cảm hứng cho mọi người trên toàn thế giới bằng tác động và tầm nhìn của mình.)"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that bestfits each of the numbered blanks from 22 to 27.",
+      "passageTitle": "Practical Tips to Reduce Waste at Home",
+      "passage": "Making small changes at home can make a big difference. Here are some effective actions you can take:\n\n- Use reusable items instead of disposable ones to reduce (22)_______ waste produced each year.\n- Save water by fixing leaks and installing water-efficient fixtures. This action helps (23)_______ the consumption of valuable resources and reduces your water bill.\n- Sort your recyclables like plastic, metal, and paper. Proper sorting makes (24)_______ easier and helps prevent waste.\n- (25)_______ using plastic bags, choose a reusable bag that lasts longer and is eco-friendly.\n- Buy local products with minimal packaging. Supporting local goods reduces the need for long-distance (26)_______, which lowers emissions and benefits the environment.\n- Compost food scraps if possible, as this process transforms organic waste into (27)_______ soil, useful for plants and gardens.",
+      "questions": [
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "many",
+            "B": "every",
+            "C": "some",
+            "D": "much"
+          },
+          "correctAnswer": "D",
+          "explanation": "Lượng từ:\n- many + N (số nhiều): nhiều\n- every + N (số ít): mọi, mỗi\n- some + N (số nhiều/không đếm được): một số\n- much + N (không đếm được): nhiều\n'waste' là danh từ không đếm được → dùng 'much'.\nTạm dịch: Use reusable items instead of disposable ones to reduce much waste produced each year."
+        },
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "run out of",
+            "B": "hold back",
+            "C": "cut down on",
+            "D": "put up with"
+          },
+          "correctAnswer": "C",
+          "explanation": "Kiến thức cụm động từ (Phrasal verbs):\n- run out of something: cạn kiệt cái gì\n- hold back somebody/something: kiềm chế ai/cái gì\n- cut down on something: cắt giảm cái gì\n- put up with somebody/something: chịu đựng ai/cái gì\nTạm dịch: This action helps cut down on the consumption of valuable resources and reduces your water bill."
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "recycling",
+            "B": "collection",
+            "C": "storage",
+            "D": "conservation"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kiến thức từ vựng:\n- recycling /ˌriːˈsaɪ.klɪŋ/ (n): sự tái chế\n- collection /kəˈlek.ʃən/ (n): bộ sưu tập\n- storage /ˈstɔː.rɪdʒ/ (n): sự lưu trữ\n- conservation /ˌkɒn.səˈveɪ.ʃən/ (n): sự bảo tồn\nTạm dịch: Proper sorting makes recycling easier and helps prevent waste."
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Although",
+            "B": "However",
+            "C": "Even if",
+            "D": "Instead of"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức liên từ/cụm giới từ:\n- Although: Mặc dù\n- However: Tuy nhiên\n- Even if: Ngay cả khi\n- Instead of: Thay vì\nTạm dịch: Instead of using plastic bags, choose a reusable bag that lasts longer and is eco-friendly. (Thay vì sử dụng túi nhựa, hãy chọn loại túi tái sử dụng có độ bền lâu hơn và thân thiện với môi trường.)"
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "travel",
+            "B": "transport",
+            "C": "development",
+            "D": "connection"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kiến thức từ vựng:\n- travel /ˈtræv.əl/ (n): sự đi lại, du lịch\n- transport /ˈtræn.spɔːt/ (n): sự vận chuyển\n- development /dɪˈvel.əp.mənt/ (n): sự phát triển\n- connection /kəˈnek.ʃən/ (n): sự kết nối\nTạm dịch: Supporting local goods reduces the need for long-distance transport, which lowers emissions and benefits the environment."
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "various",
+            "B": "abundant",
+            "C": "healthy",
+            "D": "fertile"
+          },
+          "correctAnswer": "D",
+          "explanation": "Kiến thức từ vựng:\n- various /ˈveə.ri.əs/ (adj): đa dạng\n- abundant /əˈbʌn.dənt/ (adj): dồi dào\n- healthy /ˈhel.θi/ (adj): lành mạnh\n- fertile /ˈfɜː.taɪl/ (adj): màu mỡ\nTạm dịch: Compost food scraps if possible, as this process transforms organic waste into fertile soil, useful for plants and gardens."
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 28 to 32.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "",
+          "context": "Hi Freddie,\na. I did that last year in the park near my house and the trees have already grown taller.\nb. I'd love to get together next weekend, especially as I am having more free time now.\nc. Can we visit the national park near your village, too? We could take a picnic if the weather is nice.\nd. Anyway, I'll be at your house early on Saturday morning.\ne. The environmental club sounds fun! I'd rather help to plant trees, I think.\nI can't wait to see you,\nCheers,\nRyan",
+          "options": {
+            "A": "a-d-b-c-e",
+            "B": "b-e-a-c-d",
+            "C": "c-a-d-b-e",
+            "D": "d-b-a-c-e"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thứ tự đúng: b-e-a-c-d\nDịch bài:\nb: Mình rất thích được gặp nhau vào cuối tuần tới, đặc biệt là vì dạo này mình có nhiều thời gian rảnh hơn.\ne: Câu lạc bộ môi trường nghe có vẻ thú vị! Mình nghĩ là mình thích giúp trồng cây hơn.\na: Năm ngoái, mình đã làm điều đó ở công viên gần nhà và những cái cây giờ đã cao hơn rồi.\nc: Chúng mình có thể ghé thăm công viên quốc gia gần làng bạn không? Nếu thời tiết đẹp, chúng ta có thể đi dã ngoại.\nd: Dù sao thì, mình sẽ có mặt tại nhà bạn vào sáng sớm thứ Bảy nhé."
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "",
+          "context": "a. Moreover, social media has created new opportunities for businesses to reach a wider audience.\nb. The rapid growth of cities has led to an increase in the use of social media as people connect with others in their communities.\nc. In addition, social media has made it easier for people to stay informed about current events and to express their opinions.\nd. Excessive use of social media can also have negative consequences, such as addiction and cyberbullying.\ne. The rise of social media has had a profound impact on the way we live, work, and interact with each other.",
+          "options": {
+            "A": "b-c-d-a-e",
+            "B": "a-b-c-d-e",
+            "C": "c-a-d-b-e",
+            "D": "b-e-a-c-d"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thứ tự đúng: b-e-a-c-d\nDịch bài:\nb: Sự phát triển nhanh chóng của các thành phố đã dẫn đến sự gia tăng trong việc sử dụng phương tiện truyền thông xã hội.\ne: Sự gia tăng của phương tiện truyền thông xã hội đã có tác động sâu sắc đến cách chúng ta sống, làm việc và tương tác với nhau.\na: Hơn nữa, phương tiện truyền thông xã hội đã tạo ra những cơ hội mới cho các doanh nghiệp.\nc: Ngoài ra, phương tiện truyền thông xã hội đã giúp mọi người dễ dàng cập nhật thông tin.\nd: Việc sử dụng quá nhiều phương tiện truyền thông xã hội cũng có thể gây ra những hậu quả tiêu cực."
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "",
+          "context": "a. Jim: Exactly. I've secured a university place to study economics. And how about you? What kind of career are you looking for, Mai?\nb. Mai: Well, I'd love to work in a hospital. I want to become a doctor.\nc. Jim: I'm looking for work in marketing companies. I'd love to do smartphone marketing.\nd. Mai: What kind of job are you looking for?\ne. Mai: I see. You want to gain work experience, and save up some money for university.",
+          "options": {
+            "A": "d-c-e-a-b",
+            "B": "c-b-a-e-d",
+            "C": "c-e-d-b-a",
+            "D": "d-e-a-b-c"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đúng: d-c-e-a-b\nDịch bài:\nd: Mai: Bạn đang tìm kiếm công việc gì vậy?\nc: Jim: Mình đang tìm việc ở các công ty marketing. Mình rất thích làm về marketing điện thoại thông minh.\ne: Mai: Mình hiểu rồi. Bạn muốn tích lũy kinh nghiệm làm việc và tiết kiệm tiền cho đại học đúng không?\na: Jim: Chính xác. Mình đã có một suất vào đại học để học kinh tế rồi. Còn bạn thì sao? Bạn muốn theo đuổi nghề nghiệp gì, Mai?\nb: Mai: Mình rất thích làm việc trong bệnh viện. Mình muốn trở thành bác sĩ."
+        },
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "",
+          "context": "a. Despite these issues, the allure of exploring new places and experiencing different cultures continues to attract millions of travelers each year.\nb. This surge in tourism has also encouraged local businesses, from restaurants to souvenir shops, to flourish, thereby boosting the local economy.\nc. However, with increased foot traffic comes challenges, such as overcrowding and strain on infrastructure.\nd. Tourism has become a vital part of many economies around the world, offering countless opportunities for growth and development.\ne. In recent years, popular destinations have seen a significant increase in visitors, leading to a vibrant atmosphere filled with cultural exchanges.",
+          "options": {
+            "A": "d-e-b-c-a",
+            "B": "d-c-a-b-e",
+            "C": "d-a-e-b-c",
+            "D": "d-b-c-e-a"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thứ tự đúng: d-e-b-c-a\nDịch bài:\nd: Du lịch đã trở thành một phần thiết yếu của nhiều nền kinh tế trên thế giới, mang đến vô số cơ hội tăng trưởng và phát triển.\ne: Trong những năm gần đây, các điểm đến phổ biến đã chứng kiến sự gia tăng đáng kể về lượng du khách.\nb: Sự gia tăng du lịch này cũng khuyến khích các doanh nghiệp địa phương, từ nhà hàng đến cửa hàng lưu niệm, phát triển mạnh mẽ.\nc: Tuy nhiên, cùng với lưu lượng người đi bộ tăng lên cũng nảy sinh những thách thức.\na: Bất chấp những vấn đề này, sức hấp dẫn của việc khám phá những địa điểm mới vẫn tiếp tục thu hút hàng triệu du khách mỗi năm."
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "",
+          "context": "a. Mr Willis: It was announced on TV that a new wildlife park will open to the public next week. Would you like to visit it?\nb. Mr Willis: Lisa, Simon, I've just heard some good news.\nc. Simon: What's it about, Dad?",
+          "options": {
+            "A": "c-b-a",
+            "B": "a-c-b",
+            "C": "b-c-a",
+            "D": "a-b-c"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thứ tự đúng: b-c-a\nDịch bài:\nb: Ông Willis: Lisa, Simon, bố vừa nghe được một tin tốt.\nc: Simon: Chuyện gì thế bố?\na: Ông Willis: Trên TV có thông báo rằng một công viên động vật hoang dã mới sẽ mở cửa cho công chúng vào tuần tới. Các con có muốn đến tham quan không?"
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 33 to 40.",
+      "passageTitle": "The Importance of Learning a Second Language",
+      "passage": "In an increasingly interconnected world, learning a second language has become more than just a useful skill—it is a necessity. With globalization facilitating greater interaction between countries and cultures, the ability to communicate in more than one language offers significant advantages in both personal and professional contexts.\n\nIn many industries, such as international business, diplomacy, and tourism, being bilingual or multilingual is considered an essential asset. Furthermore, learning another language fosters cross-cultural understanding, enabling individuals to appreciate diverse perspectives and engage more meaningfully with people from different backgrounds.\n\nOn a cognitive level, learning a second language has been proven to enhance brain function. Bilingualism not only improves memory and concentration but also increases cognitive flexibility, allowing individuals to switch between tasks more efficiently. In fact, studies have shown that people who speak more than one language are better at multitasking and problem-solving compared to monolinguals. Moreover, learning a second language can delay the onset of age-related cognitive decline, such as dementia and Alzheimer's disease. The mental exercises involved in acquiring and maintaining language skills keep the brain sharp and active, providing long-term cognitive health benefits.\n\nIn addition to cognitive and social benefits, mastering a second language can open up a wealth of professional opportunities. In today's competitive job market, employers increasingly value candidates who can communicate with clients and colleagues across language barriers. Many global companies prefer to hire bilingual or multilingual employees who can help them expand into new markets and build stronger relationships with international partners. While learning a new language can be challenging, especially for adults, the rewards are substantial. With dedication, patience, and the right learning strategies, anyone can successfully acquire a second language and enjoy the many advantages that come with it.",
+      "questions": [
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"challenging\" in paragraph 4 is OPPOSITE in meaning to _______.",
+          "context": "",
+          "options": {
+            "A": "enjoyable",
+            "B": "overwhelming",
+            "C": "frustrating",
+            "D": "effortless"
+          },
+          "correctAnswer": "D",
+          "explanation": "challenging /ˈtʃæl.m.dʒɪŋ/ (adj): có tính thách thức >< effortless\n- enjoyable /ɪnˈdʒɔɪ.ə.bəl/ (adj): thú vị\n- overwhelming /ˌəʊ.vəˈwel.mɪŋ/ (adj): áp đảo\n- frustrating /frʌsˈtreɪ.tɪŋ/ (adj): gây bực bội, khó chịu\n- effortless /ˈef.ət.ləs/ (adj): dễ dàng, không cần nỗ lực\nThông tin: While learning a new language can be challenging, especially for adults, the rewards are substantial."
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Learning a second language only benefits professional life.",
+            "B": "Mastering a new language guarantees career success.",
+            "C": "Bilingualism improves memory but has no effect on problem-solving.",
+            "D": "Speaking more than one language can delay cognitive decline."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin:\n+ With globalization... the ability to communicate in more than one language offers significant advantages in both personal and professional contexts → A sai\n+ mastering a second language can open up a wealth of professional opportunities (không đảm bảo thành công) → B sai\n+ people who speak more than one language are better at multitasking and problem-solving → C sai\n+ learning a second language can delay the onset of age-related cognitive decline → D đúng"
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 2? \"Bilingualism not only improves memory and concentration but also increases cognitive flexibility, allowing individuals to switch between tasks more efficiently.\"",
+          "context": "",
+          "options": {
+            "A": "Learning multiple languages enhances memory much more but has no effect on cognitive flexibility.",
+            "B": "Learning two languages has no measurable effect on people's memory or concentration.",
+            "C": "Bilingual individuals are better at focusing but do not benefit in terms of multitasking.",
+            "D": "Bilingualism helps people improve their focus and memory, as well as their ability to adapt mentally."
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: Bilingualism not only improves memory and concentration but also increases cognitive flexibility, allowing individuals to switch between tasks more efficiently.\n(Song ngữ không chỉ cải thiện trí nhớ và khả năng tập trung mà còn tăng tính linh hoạt về nhận thức, cho phép các cá nhân chuyển đổi giữa các nhiệm vụ hiệu quả hơn.)\nD đúng: Song ngữ giúp mọi người cải thiện khả năng tập trung và trí nhớ, cũng như khả năng thích ứng về mặt tinh thần."
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "In which paragraph does the writer mention the cognitive benefits of bilingualism?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 4",
+            "B": "Paragraph 1",
+            "C": "Paragraph 2",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "C",
+          "explanation": "Thông tin: On a cognitive level, learning a second language has been proven to enhance brain function. Bilingualism not only improves memory and concentration but also increases cognitive flexibility...\n(Ở cấp độ nhận thức, việc học một ngôn ngữ thứ hai đã được chứng minh là có thể tăng cường chức năng não.)\n→ Đoạn văn thứ 3 trong bài (đoạn bắt đầu bằng 'On a cognitive level...')\nLưu ý: Trong đề bài, đoạn 'On a cognitive level...' là đoạn 3, nhưng theo đáp án là Paragraph 2 (cách đánh số đoạn trong đề thi có thể khác). Đáp án theo đề: C. Paragraph 2."
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "The word \"benefits\" in paragraph 4 could be best replaced by _______.",
+          "context": "",
+          "options": {
+            "A": "problems",
+            "B": "challenges",
+            "C": "issues",
+            "D": "advantages"
+          },
+          "correctAnswer": "D",
+          "explanation": "benefit /ˈben.ɪ.fɪt/ (n): lợi ích = advantage\n- problem /ˈprɒb.ləm/ (n): vấn đề\n- challenge /ˈtʃæl.mndʒ/ (n): thử thách\n- issue /ˈɪʃ.uː/ (n): vấn đề\n- advantage /ədˈvɑːn.tɪdʒ/ (n): lợi thế\nThông tin: In addition to cognitive and social benefits, mastering a second language can open up a wealth of professional opportunities."
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "In which paragraph does the writer discuss the professional benefits of learning a second language?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 2",
+            "B": "Paragraph 1",
+            "C": "Paragraph 3",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": "Thông tin: In today's competitive job market, employers increasingly value candidates who can communicate with clients and colleagues across language barriers. Many global companies prefer to hire bilingual or multilingual employees...\n(Trong thị trường việc làm cạnh tranh ngày nay, các nhà tuyển dụng ngày càng coi trọng những ứng viên có thể giao tiếp với khách hàng và đồng nghiệp vượt qua rào cản ngôn ngữ.)\n→ Đoạn 4 (đoạn bắt đầu bằng 'In addition to cognitive and social benefits...')"
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "The word \"it\" in paragraph 4 refers to _______.",
+          "context": "",
+          "options": {
+            "A": "language",
+            "B": "success",
+            "C": "learning",
+            "D": "patience"
+          },
+          "correctAnswer": "A",
+          "explanation": "Thông tin: With dedication, patience, and the right learning strategies, anyone can successfully acquire a second language and enjoy the many advantages that come with it.\n(Với sự tận tâm, kiên nhẫn và các chiến lược học tập đúng đắn, bất kỳ ai cũng có thể học thành công một ngôn ngữ thứ hai và tận hưởng nhiều lợi ích đi kèm với nó.)\n→ 'it' đề cập đến 'language' (a second language)"
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following is NOT mentioned as an advantage of learning a second language?",
+          "context": "",
+          "options": {
+            "A": "Improving cognitive flexibility",
+            "B": "Helping to acquire new job skills",
+            "C": "Building cross-cultural relationships",
+            "D": "Enhancing multitasking abilities"
+          },
+          "correctAnswer": "B",
+          "explanation": "Thông tin:\n+ Bilingualism not only improves memory and concentration but also increases cognitive flexibility → A được đề cập\n+ Furthermore, learning another language fosters cross-cultural understanding → C được đề cập\n+ people who speak more than one language are better at multitasking and problem-solving → D được đề cập\nB. Helping to acquire new job skills (Giúp có được các kỹ năng công việc mới) → KHÔNG được đề cập. Bài nói về cơ hội nghề nghiệp, không phải kỹ năng công việc mới."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.626751+00:00",
+  "updatedAt": "2026-06-08T10:41:58.626751+00:00",
+  "originalFileName": "THPT_Thuan_Thanh_Bac_Ninh_2025.json"
+}

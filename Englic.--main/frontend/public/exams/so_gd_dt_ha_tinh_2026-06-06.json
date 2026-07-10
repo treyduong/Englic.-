@@ -1,0 +1,626 @@
+{
+  "examId": "so_gd_dt_ha_tinh_2026-06-06",
+  "title": "De_thi_thu_tot_nghiep_THPT_nam_2025_mon_Tieng_Anh_Ha_Tinh",
+  "category": "Tiếng Anh",
+  "source": "Đề tiếng anh Englic free",
+  "description": "Đề được import từ file so ha tinh 1.json.",
+  "timeLimit": 3000,
+  "tags": [
+    "#THPT2025",
+    "#HàTĩnh",
+    "#TốtNghiệp"
+  ],
+  "sections": [
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following advertisement and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 1 to 6.",
+      "passageTitle": "ENGLISH WINDOW - SEASON 3",
+      "passage": "Do you think learning English can be more than just grammar rules and test scores? Are you ready for something more (1)_______?\n\nEnglish Window - Season 3 is back, and this time, it's not just a show - it's a nationwide English Speaking Contest for high school students! This season focuses on public speaking, where participants explore global issues, daily life topics, and (2)_______ in English. Contestants will join themed challenges, real-life interviews, and group presentations. The program also features a friendly mentor (3)_______ \"Ellie\", who gives tips on pronunciation and vocabulary. Participants can submit videos and get feedback from language experts. They'll also be able to track progress and interact (4)_______ other learners via our online platform.\n\nIt's the perfect way to grow, shine, and (5)_______ your voice in English whether you care about the environment, education, or youth culture.\n\nSo what are you waiting for? Take part now and get ready (6)_______ your ideas heard!",
+      "questions": [
+        {
+          "id": "q1",
+          "questionNumber": 1,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "exciting",
+            "B": "excite",
+            "C": "excitement",
+            "D": "excited"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "questionNumber": 2,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "analytical highly skills",
+            "B": "skills highly analytical",
+            "C": "highly analytical skills",
+            "D": "highly skills analytical"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "questionNumber": 3,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "who calls",
+            "B": "was called",
+            "C": "called",
+            "D": "which is calling"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "questionNumber": 4,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "with",
+            "B": "to",
+            "C": "in",
+            "D": "by"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "questionNumber": 5,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "raise",
+            "B": "say",
+            "C": "speak",
+            "D": "tell"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "questionNumber": 6,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "having",
+            "B": "to having",
+            "C": "have",
+            "D": "to have"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following leaflet and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 7 to 12.",
+      "passageTitle": "Let's Go Greener - Small Acts, Big Impact!",
+      "passage": "Whether you're at home or at school, it's easy to take part in protecting the environment. This guide gives you simple tips that can make a real difference.\n\n☑ Start with what you use.\nToo (7)_______ people keep their devices plugged in all night, even when they're not being used, wasting energy for no reason. Remember to turn off or unplug devices when you're not using them - it's a small step that makes a big difference.\n\n☑ Cut down on single-use plastics.\nBring reusable containers, avoid plastic straws, and choose (8)_______ recyclable materials.\n\n☑ Think before you throw.\nMake sure you (9)_______ waste carefully so that it ends up in the right place recycle, compost, or landfill.\n\n☑ Think before you buy.\n(10)_______ buying new supplies every term, check if you can reuse items you already have.\n\n☑ Raise awareness.\nJoin school projects or clubs that promote environmental action. Even a short video or poster can spread an important (11)_______ and eco-friendly habits.\n\nThese simple efforts can lead to more (12)_______ students about sustainability",
+      "questions": [
+        {
+          "id": "q7",
+          "questionNumber": 7,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "many",
+            "B": "each",
+            "C": "much",
+            "D": "little"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "questionNumber": 8,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "the others",
+            "B": "others",
+            "C": "another",
+            "D": "other"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "questionNumber": 9,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "carry on",
+            "B": "take after",
+            "C": "sort out",
+            "D": "call out"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "questionNumber": 10,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Instead of",
+            "B": "Because of",
+            "C": "In case",
+            "D": "Although"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "questionNumber": 11,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "message",
+            "B": "invention",
+            "C": "material",
+            "D": "solution"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "questionNumber": 12,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "education",
+            "B": "educational",
+            "C": "educated",
+            "D": "educator"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "sectionType": "sentence_arrangement",
+      "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of utterances or sentences to make a meaningful exchange or text in each of the following questions from 13 to 17.",
+      "passageTitle": "",
+      "passage": "",
+      "questions": [
+        {
+          "id": "q13",
+          "questionNumber": 13,
+          "questionText": "",
+          "context": "Hi Lucas,\na. I finally managed to fix the bug in my app after struggling for days.\nb. I'm writing to share some exciting progress on my coding project.\nc. Let me know if you're free to test it this weekend.\nd. It now runs much faster and doesn't crash anymore.\ne. Your suggestions about the interface were really helpful, by the way.\nCheers,\nAnna",
+          "options": {
+            "A": "b-a-d-e-c",
+            "B": "a-d-b-c-e",
+            "C": "c-a-d-b-e",
+            "D": "b-d-a-c-e"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "questionNumber": 14,
+          "questionText": "",
+          "context": "a. While smartphones undoubtedly enhance communication and convenience, their overuse may contribute to reduced face-to-face interaction and decreased attention spans.\nb. With the rapid advancement of mobile technology, smartphones have become deeply integrated into every aspect of modern life, particularly among younger generations.\nc. In conclusion, smartphones, like any powerful tool, must be used wisely and in moderation to avoid unintended consequences.\nd. Whether smartphones are helpful or harmful depends greatly on the way individuals manage their time and digital habits.\ne. In contrast, studies have also shown that when used purposefully, smartphones can improve productivity, provide access to education, and foster global connections.",
+          "options": {
+            "A": "a-b-c-e-d",
+            "B": "b-a-e-d-c",
+            "C": "b-c-a-d-e",
+            "D": "b-e-a-d-c"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "questionNumber": 15,
+          "questionText": "",
+          "context": "a. Sarah: I've heard about it, but I'm not sure yet.\nb. Brian: It's a great way to gain experience and help the community.\nc. Sarah: That sounds interesting. What kind of work do they do?\nd. Brian: Mostly teaching kids and organizing weekend activities.\ne. Brian: Are you going to join the volunteering project this summer?",
+          "options": {
+            "A": "e-a-b-c-d",
+            "B": "c-e-d-b-a",
+            "C": "d-b-a-e-c",
+            "D": "e-b-a-d-c"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "questionNumber": 16,
+          "questionText": "",
+          "context": "a. Alex: I've just finished a long group presentation. It took all morning.\nb. Mai: Oh wow, I hope it went well!\nc. Mai: Hey Alex, you look exhausted. Everything alright?",
+          "options": {
+            "A": "c-a-b",
+            "B": "c-b-a",
+            "C": "b-c-a",
+            "D": "a-c-b"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "questionNumber": 17,
+          "questionText": "",
+          "context": "a. I still remember the feeling of standing in front of hundreds of students with trembling hands.\nb. A year ago, I took part in my first public speaking competition.\nc. But as I started talking, something shifted - I found my voice and rhythm.\nd. That experience taught me that fear fades when we take action.\ne. Preparing for it was stressful, and I kept doubting whether I could do it.",
+          "options": {
+            "A": "b-e-a-c-d",
+            "B": "c-a-d-b-e",
+            "C": "d-c-b-a-e",
+            "D": "b-e-a-d-c"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_fill_in_the_blanks",
+      "instruction": "Read the following passage about humanoid robots and mark the letter A, B, C or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 18 to 22.",
+      "passageTitle": "",
+      "passage": "TikTok is a popular app for sharing short videos. It is used by millions of people, especially teenagers. The app, (18)_______ lets users create clips using music, filters, and special effects.\n\nTikTok brings many benefits. It (19)_______ Many also use it as a platform to raise awareness about social issues or share useful information in fun and engaging ways. In addition, it gives young people a space to show their talents and explore trends.\n\nHowever, the app is not without its problems. Some young people spend too much time on the app. Spending hours creating and editing content every day (20)_______ This can lead to anxiety or low self-esteem, especially if their videos don't get many views or likes. Some users may also become overly focused on online validation rather than real-life relationships.\n\n(21)_______ parents and teachers can help them enjoy TikTok while staying focused on their studies and mental health. (22)_______ TikTok is likely to remain a big part of youth culture in the years ahead.",
+      "questions": [
+        {
+          "id": "q18",
+          "questionNumber": 18,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "that is commonly used for online shopping in many countries",
+            "B": "who usually posts content about music and dancing on the platform",
+            "C": "which is known for creative short clips made by young users",
+            "D": "where people post long stories and articles"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "questionNumber": 19,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "allows users expressing themselves and learn about new cultures",
+            "B": "allows that users express themselves freely in creative ways",
+            "C": "allows users to express their creativity, learn trends, and connect with others",
+            "D": "allows expressing creativity and connection among people around the world"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "questionNumber": 20,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "had helped them become more productive in school",
+            "B": "made them feel proud and accepted by their peers",
+            "C": "has improved their confidence in real-life situations",
+            "D": "increases their screen time and can affect their mental well-being"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "questionNumber": 21,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "While being supported by their families during online learning",
+            "B": "By talking openly with teenagers about using social media",
+            "C": "Because teenagers having too much screen time",
+            "D": "Unless being guided carefully by adults"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "questionNumber": 22,
+          "questionText": "",
+          "context": "",
+          "options": {
+            "A": "Although people using it only to follow trends without thinking critically about the content",
+            "B": "If being used mainly for entertainment without any educational purpose",
+            "C": "If teenagers use the platform responsibly, with limited screen time and a focus on positive content",
+            "D": "If it used frequently and without proper control from parents or educators"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about endangered languages and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 23 to 30.",
+      "passageTitle": "",
+      "passage": "In 1944, the UK government created a new system of education. Education was divided into three parts. Children who passed an exam at 11 went to grammar schools. Pupils who didn't do well in the exam went to 'secondary modern' schools or technical schools. At technical schools they studied work-based subjects. In practice, however, only 0.5% of pupils went to technical schools, and this system divided students at a very young age into academic and non-academic. The system did not produce good results, and changed to a more equal system in the 1970s.\n\nIn the 1980s the British government introduced NVQs or National Vocational Qualifications so that young people could get certificates to show their practical skills. It helps employers understand what workers can do. In 1994, the government started a programme which aimed to provide 'quality training on a work-based (educational) route'. These 'modern apprenticeships' are available at three different levels.\n\nAt the higher levels of education, too, there has been more emphasis on work-based learning, which links academic study closely to practical experience. At degree level, companies have linked with universities to create specialised qualifications, such as the BA in Distribution run between Middlesex University and Asda Supermarket. Such partnerships also exist at Masters and even doctorate level.\n\nTechnological advances have supported the growth of work-based learning. With blended learning, part of the course is online, allowing people to study without missing work. Older or retired employees can now act as tutors, mentors, or coaches in these programs. This training was common in fields such as nursing and teaching, but has now spread to careers which were traditionally not closely linked to education.",
+      "questions": [
+        {
+          "id": "q23",
+          "questionNumber": 23,
+          "questionText": "Which of the following is NOT mentioned as one of the school types in the passage?",
+          "context": "",
+          "options": {
+            "A": "Grammar schools",
+            "B": "Technical schools",
+            "C": "International schools",
+            "D": "Secondary modern schools"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "questionNumber": 24,
+          "questionText": "The word \"equal\" in paragraph 1 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "unfair",
+            "B": "shared",
+            "C": "balanced",
+            "D": "simple"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "questionNumber": 25,
+          "questionText": "The word \"It\" in paragraph 2 refers to",
+          "context": "",
+          "options": {
+            "A": "the NVQ system",
+            "B": "an exam",
+            "C": "training",
+            "D": "a certificate"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q26",
+          "questionNumber": 26,
+          "questionText": "The word \"emphasis\" in paragraph 3 is closest in meaning to",
+          "context": "",
+          "options": {
+            "A": "improvement",
+            "B": "connection",
+            "C": "focus",
+            "D": "instruction"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "questionNumber": 27,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "Students study business and university life together.",
+            "B": "Some businesses work with universities to offer specific degrees.",
+            "C": "Businesses prefer traditional university qualifications.",
+            "D": "Universities help companies advertise their courses."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "questionNumber": 28,
+          "questionText": "Which of the following is NOT TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "Some university degrees are designed with help from companies.",
+            "B": "Very few students went to technical schools in 1944.",
+            "C": "Modern apprenticeships offer different levels of training.",
+            "D": "Work-based learning is only for young students."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "questionNumber": 29,
+          "questionText": "In which paragraph does the writer mention modern apprenticeships?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 1",
+            "B": "Paragraph 4",
+            "C": "Paragraph 2",
+            "D": "Paragraph 3"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "questionNumber": 30,
+          "questionText": "In which paragraph does the writer explain how technology helps learning?",
+          "context": "",
+          "options": {
+            "A": "Paragraph 3",
+            "B": "Paragraph 1",
+            "C": "Paragraph 2",
+            "D": "Paragraph 4"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "sectionType": "reading_comprehension",
+      "instruction": "Read the following passage about the urban shift and mark the letter A, B, C or D on your answer sheet to indicate the best answer to each of the following questions from 31 to 40.",
+      "passageTitle": "",
+      "passage": "[I] Many critics of the 2015 film Star Wars: The Force Awakens described it as predictable and too similar to the first Star Wars movie from 1977. [II] However, the similarity between these stories is not a coincidence. [III] In fact, both films follow an ancient structure known as the \"hero myth.\" [IV]\n\nThis structure is based on the ideas of Joseph Campbell, an American professor who studied myths worldwide. In his famous 1949 book, The Hero with a Thousand Faces, Campbell described a pattern called the \"monomyth\" a common path that many heroes take in stories across cultures. According to this pattern, a hero leaves his normal life, faces challenges, and eventually returns home, changed by the journey. Stories like Homer's Odyssey and the Harry Potter series also follow this format.\n\nDirector George Lucas used Campbell's theory to shape Luke Skywalker's story around the 17 stages of the hero's journey. At first, Luke lives an ordinary life with his aunt and uncle. When he discovers a message in the robot R2D2 from Princess Leia, he receives his \"call to adventure.\"\n\nCampbell explained that heroes often resist this call at first. Soon, a mentor appears to guide them- for Luke, it's Obi-Wan Kenobi. With new allies like Han Solo and the droids, Luke enters the \"special world\" - the Death Star - where the main adventure unfolds.\n\nAlong the way, the hero must face many obstacles. A major turning point happens when the hero experiences a deep loss. For Luke, this is the death of Obi-Wan at the hands of Darth Vader. This moment gives him the strength to carry on and eventually destroy the Death Star. Luke returns home transformed, having taken his first steps toward becoming a Jedi. Later films, like The Return of the Jedi, continue his journey, with new mentors such as Yoda.\n\nThis classic structure helps explain why Star Wars resonates with so many it's a modern retelling of an ancient tale, not just science fiction.",
+      "questions": [
+        {
+          "id": "q31",
+          "questionNumber": 31,
+          "questionText": "Where in paragraph 1 does the following sentence best fit?\n\"This similarity reflects a timeless pattern found in many classic stories across cultures.\"",
+          "context": "",
+          "options": {
+            "A": "[II]",
+            "B": "[III]",
+            "C": "[IV]",
+            "D": "[I]"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "questionNumber": 32,
+          "questionText": "The word \"pattern\" in paragraph 2 could be best replaced by",
+          "context": "",
+          "options": {
+            "A": "style",
+            "B": "path",
+            "C": "structure",
+            "D": "rule"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "questionNumber": 33,
+          "questionText": "The word \"he\" in paragraph 3 refers to",
+          "context": "",
+          "options": {
+            "A": "Luke Skywalker",
+            "B": "Campbell",
+            "C": "George Lucas",
+            "D": "Obi-Wan"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "questionNumber": 34,
+          "questionText": "Which of the following is NOT mentioned in the passage?",
+          "context": "",
+          "options": {
+            "A": "George Lucas was born 1977.",
+            "B": "Joseph Campbell studied myths across different cultures.",
+            "C": "Obi-Wan Kenobi acts as Luke's mentor.",
+            "D": "The \"hero myth\" has been used in many famous stories."
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "questionNumber": 35,
+          "questionText": "Which of the following best summarises paragraph 3?",
+          "context": "",
+          "options": {
+            "A": "George Lucas invented a new storytelling structure that modernized myths for cinema.",
+            "B": "Luke Skywalker's story in Star Wars was carefully designed to reflect the stages of the hero's journey.",
+            "C": "The robot R2D2 was the most important element in Star Wars storytelling.",
+            "D": "Luke Skywalker's story was inspired by the experiences of Joseph Campbell."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": "q36",
+          "questionNumber": 36,
+          "questionText": "The word \"resist\" in paragraph 4 is OPPOSITE in meaning to",
+          "context": "",
+          "options": {
+            "A": "accept",
+            "B": "refuse",
+            "C": "avoid",
+            "D": "challenge"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "questionNumber": 37,
+          "questionText": "Which of the following is TRUE according to the passage?",
+          "context": "",
+          "options": {
+            "A": "All heroes enjoy their call to adventure.",
+            "B": "Star Wars does not follow the hero myth.",
+            "C": "Luke refuses his journey even after meeting his mentor.",
+            "D": "Luke's journey follows many classic stages of a hero."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "questionNumber": 38,
+          "questionText": "Which of the following best paraphrases the underlined sentence in paragraph 5?",
+          "context": "",
+          "options": {
+            "A": "Luke comes back stronger after beginning his Jedi path.",
+            "B": "Luke remains the same after his adventure.",
+            "C": "Luke becomes a Jedi knight immediately.",
+            "D": "Luke decides to quit his mission."
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "questionNumber": 39,
+          "questionText": "Which of the following can be inferred from the passage?",
+          "context": "",
+          "options": {
+            "A": "Star Wars focuses more on action than character development.",
+            "B": "The success of Star Wars is mostly due to its release in the 1970s.",
+            "C": "Star Wars is popular mainly because of its science fiction elements.",
+            "D": "Star Wars resonates with audiences because it follows a familiar storytelling structure."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "questionNumber": 40,
+          "questionText": "Which of the following best summarises the passage?",
+          "context": "",
+          "options": {
+            "A": "The enduring popularity of Star Wars lies primarily in its imaginative world-building, with robots, galactic battles, and advanced technology capturing the attention of science fiction fans.",
+            "B": "Drawing inspiration from ancient mythology. Campbell's direct collaboration with George Lucas led to the creation of Star Wars, establishing a new cinematic formula for heroic storytelling.",
+            "C": "Although Star Wars: The Force Awakens was initially criticized for lacking originality, its adherence to a time-honored storytelling framework explains its strong emotional impact on global audiences.",
+            "D": "By consciously applying Joseph Campbell's theory of the monomyth, Star Wars reflects a universal narrative structure that resonates with viewers across generations."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-06-08T10:41:58.649706+00:00",
+  "updatedAt": "2026-06-08T10:41:58.649706+00:00",
+  "originalFileName": "so ha tinh 1.json"
+}
